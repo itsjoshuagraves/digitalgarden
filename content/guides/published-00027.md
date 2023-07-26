@@ -11,7 +11,6 @@ originalURL: https://medium.com/thisisartium/we-need-a-code-of-ethics-eaaba6f939
 
 [Original post](https://medium.com/thisisartium/we-need-a-code-of-ethics-eaaba6f9394b)
 
-Top highlight
 
 ![We%20Need%20a%20Code%20of%20Ethics%2084d3196804e948ab866b828b712e55f2/1L0VD7oa1ABT3ys34Psaitw.jpeg](/img/1L0VD7oa1ABT3ys34Psaitw.jpeg)
 

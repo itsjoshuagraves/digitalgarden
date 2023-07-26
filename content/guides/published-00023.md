@@ -10,7 +10,7 @@ originalURL: https://medium.com/@joshuamauldin/requiem-for-a-side-project-quitti
 
 [Original post](https://medium.com/@joshuamauldin/requiem-for-a-side-project-quitting-awesomegifs-fc08a0e879df)
 
-![Requiem%20for%20a%20side%20project%20quitting%20AwesomeGIFs%20091129a609c041dca88bc07514f09375/1hF3nRuaaxtfWSCoLTWOdYA.jpeg](/img/1hF3nRuaaxtfWSCoLTWOdYA.jpeg)
+![Requiem%20for%20a%20side%20project%20quitting%20AwesomeGIFs%20091129a609c041dca88bc07514f09375/1hF3nRuaaxtfWSCoLTWOdYA.jpeg](../../img/1hF3nRuaaxtfWSCoLTWOdYA.jpeg)
 
 A feeling came over me in 2009 when GeoCities was shutting down: ‘I don’t want all those GIFs to somehow disappear! They’re magic.’ So I made a home for them, and in the span of a few short weeks, AwesomeGIFs was born.
 

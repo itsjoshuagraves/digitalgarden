@@ -12,7 +12,7 @@ originalURL: https://medium.com/cardinal-solutions/3d78486d961f
 
 Not pictured: the amazing idea Spock and Kirk come up with together.
 
-![Spock,%20Kirk,%20and%20the%20ideal%20designer%20engineer%20relat%204868780e94b143fab95c33961fa64884/1ybwt6wA1TBVi5pC73yibZQ.jpeg](/img/1ybwt6wA1TBVi5pC73yibZQ.jpeg)
+![Spock,%20Kirk,%20and%20the%20ideal%20designer%20engineer%20relat%204868780e94b143fab95c33961fa64884/1ybwt6wA1TBVi5pC73yibZQ.jpeg](../../img/1ybwt6wA1TBVi5pC73yibZQ.jpeg)
 
 I tend to think about Star Trek when considering how designers and engineers should work together. After all, it wouldn’t be Star Trek if you only had Kirk — you need Spock to balance him out (and it’d be kind of boring if it were just Spock, right?).
 

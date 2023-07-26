@@ -10,7 +10,7 @@ originalURL: https://www.cbc.ca/radio/spark/377-notification-fatigue-seasonal-gh
 
 [Original post](https://www.cbc.ca/radio/spark/377-notification-fatigue-seasonal-ghost-stories-and-more-1.4450632/notifications-stress-me-out-how-i-cut-them-down-to-improve-my-well-being-1.4450646)
 
-![Notifications%20stress%20me%20out%20How%20I%20cut%20them%20down%20to%200a07044bab81413681566c02924efc8d/notifications.jpg](/img/notifications.jpg)
+![Notifications%20stress%20me%20out%20How%20I%20cut%20them%20down%20to%200a07044bab81413681566c02924efc8d/notifications.jpg](../../img/notifications.jpg)
 
 (Jason Vermes)
 

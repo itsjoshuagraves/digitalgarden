@@ -3,7 +3,7 @@ title: About
 type: docs
 ---
 
-{{< figure src="/img/DSC00162.jpeg" title="Basquiat" >}}
+{{< figure src="../../img/DSC00162.jpeg" title="Basquiat" >}}
 
 ## This wiki is the wellspring of my digital life and a catalog of my analog one.
 

@@ -10,7 +10,7 @@ originalURL: https://medium.com/user-experience-design-1/push-notifications-the-
 
 [Original post](https://medium.com/user-experience-design-1/push-notifications-the-good-the-bad-and-the-wtf-could-u-not-b73d6b2c4f90)
 
-![Push%20Notifications%20the%20good,%20the%20bad,%20and%20the%20wtf%20%205f046cafe3f64fb3a80777c4ea57940f/10ySO7AEVWn4r_xYMItlsfw.png](/img/10ySO7AEVWn4r_xYMItlsfw.png)
+![Push%20Notifications%20the%20good,%20the%20bad,%20and%20the%20wtf%20%205f046cafe3f64fb3a80777c4ea57940f/10ySO7AEVWn4r_xYMItlsfw.png](../../img/10ySO7AEVWn4r_xYMItlsfw.png)
 
 Push notifications are incredibly handy for giving you important information. Your flight being delayed? Really helpful to know. Getting a notification for [everything one of the Avengers is posting about](http://www.vulture.com/2017/04/jeremy-renners-app-is-bad-but-the-notifications-are-good.html)? Probably not.
 

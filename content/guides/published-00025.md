@@ -10,7 +10,7 @@ originalURL: https://medium.com/conflict-resolution-for-people-who-hate-conflict
 
 [Original post](https://medium.com/conflict-resolution-for-people-who-hate-conflict/the-prime-directive-and-the-limits-of-assuming-positive-intent-59b7b2d735f1)
 
-![Untitled](/img/Untitled.png)
+![Untitled](../../img/Untitled.png)
 
 Here’s the most helpful thing I’ve ever learned by far about conflict: **before you have a conversation with someone, make sure you assume positive intent.** Read on to discover a technique you can use to apply that idea — if you’re like me, you’ll find it will resolve most conflict before it starts. And, in a fun plot twist, we’ll also cover how this idea shouldn’t be applied at all times because it can harm underrepresented folks if we aren’t careful.
 

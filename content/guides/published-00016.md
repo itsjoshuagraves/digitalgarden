@@ -10,7 +10,7 @@ originalURL: https://www.smashingmagazine.com/2013/05/ios-grid-system-free-exten
 
 [Original post](https://www.smashingmagazine.com/2013/05/ios-grid-system-free-extension-adobe-fireworks/)
 
-![iOS%20Grid%20System,%20A%20Free%20Extension%20For%20Adobe%20Firewo%202be8a23aacb845589de3f3ee8a63045e/joshua-mauldin200x200.jpg](/img/joshua-mauldin200x200.jpg)
+![iOS%20Grid%20System,%20A%20Free%20Extension%20For%20Adobe%20Firewo%202be8a23aacb845589de3f3ee8a63045e/joshua-mauldin200x200.jpg](../../img/joshua-mauldin200x200.jpg)
 
 ### About The Author
 

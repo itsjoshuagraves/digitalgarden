@@ -10,7 +10,7 @@ originalURL: https://medium.com/@joshuamauldin/my-real-problem-with-in-app-ratin
 
 [Original post](https://medium.com/@joshuamauldin/my-real-problem-with-in-app-rating-modules-b2c0df494783)
 
-![My%20real%20problem%20with%20in-app%20rating%20modules%20b6643e8967734de1a0e02dd2b0222e3a/1Gygkz7MUtV0HY6UMz5cI-w.jpeg](/img/1Gygkz7MUtV0HY6UMz5cI-w.jpeg)
+![My%20real%20problem%20with%20in-app%20rating%20modules%20b6643e8967734de1a0e02dd2b0222e3a/1Gygkz7MUtV0HY6UMz5cI-w.jpeg](../../img/1Gygkz7MUtV0HY6UMz5cI-w.jpeg)
 
 ## “Like this app? Give us 5 stars! UGH STOP PLZ.”
 
