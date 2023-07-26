@@ -4,7 +4,7 @@ type: docs
 ---
 
 # Welcome to The Garden
-{{< figure src="./img/jdm.png" title="Ambigram of my initials " >}}
+{{< figure src="./img/jdm.png" title="Ambigram of my initials test" >}}
 
 ## What is this?
 
