@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on The Garden</title>
+    <link>https://example.com/tags/</link>
+    <description>Recent content in Tags on The Garden</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 23 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exercise</title>
+      <link>https://example.com/tags/Exercise/</link>
+      <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guides</title>
+      <link>https://example.com/tags/Guides/</link>
+      <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Guides/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Product</title>
+      <link>https://example.com/tags/Product/</link>
+      <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Product/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Safety</title>
+      <link>https://example.com/tags/Safety/</link>
+      <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Safety/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Script</title>
+      <link>https://example.com/tags/Script/</link>
+      <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Script/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Collaboration</title>
+      <link>https://example.com/tags/Collaboration/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Collaboration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feedback</title>
+      <link>https://example.com/tags/Feedback/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Feedback/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Advice</title>
+      <link>https://example.com/tags/Advice/</link>
+      <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Advice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thoughtful Design</title>
+      <link>https://example.com/tags/Thoughtful-Design/</link>
+      <pubDate>Tue, 23 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Thoughtful-Design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Focus</title>
+      <link>https://example.com/tags/Focus/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Focus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reflection</title>
+      <link>https://example.com/tags/Reflection/</link>
+      <pubDate>Tue, 08 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/Reflection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>General</title>
+      <link>https://example.com/tags/General/</link>
+      <pubDate>Mon, 06 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/General/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

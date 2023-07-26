@@ -1,0 +1,377 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Success criteria for apps and websites # As of writing, the goal is to follow WCAG 2.1, but falling back to WCAG 2.0 is acceptable. The following success criteria are below. This has been helpfully adapted by Kris Rivenburgh.
+WCAG 2.0 AA # Section 1: Alternatives
+Alt text (1.1.1): All images and non-text content needs alt text (there are exceptions) Video &amp; Audio alternatives (1.2.1): All video-only and audio-only content has a text transcript.">
+<meta name="theme-color" content="#FFFFFF">
+<meta name="color-scheme" content="light dark"><meta property="og:title" content="Accessibility Audit Guide" />
+<meta property="og:description" content="Success criteria for apps and websites # As of writing, the goal is to follow WCAG 2.1, but falling back to WCAG 2.0 is acceptable. The following success criteria are below. This has been helpfully adapted by Kris Rivenburgh.
+WCAG 2.0 AA # Section 1: Alternatives
+Alt text (1.1.1): All images and non-text content needs alt text (there are exceptions) Video &amp; Audio alternatives (1.2.1): All video-only and audio-only content has a text transcript." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://example.com/guides/guides-00001/" /><meta property="article:section" content="guides" />
+<meta property="article:published_time" content="2023-07-23T00:00:00+00:00" />
+<meta property="article:modified_time" content="2023-07-23T00:00:00+00:00" />
+<title>Accessibility Audit Guide | The Garden</title>
+<link rel="manifest" href="/manifest.json">
+<link rel="icon" href="/favicon.png" type="image/x-icon">
+<link rel="stylesheet" href="/book.min.907e75788ab29813e9c25dfc81d5a1929ab845ce7b59bbe60e5afe338a3be1d4.css" integrity="sha256-kH51eIqymBPpwl38gdWhkpq4Rc57WbvmDlr&#43;M4o74dQ=" crossorigin="anonymous">
+  <script defer src="/flexsearch.min.js"></script>
+  <script defer src="/en.search.min.d4171a4718b91c452307dc6c75787c276ab4d05ad652771fe3040e04b05e643f.js" integrity="sha256-1BcaRxi5HEUjB9xsdXh8J2q00FrWUncf4wQOBLBeZD8=" crossorigin="anonymous"></script>
+
+  <script defer src="/sw.min.6f6f90fcb8eb1c49ec389838e6b801d0de19430b8e516902f8d75c3c8bd98739.js" integrity="sha256-b2&#43;Q/LjrHEnsOJg45rgB0N4ZQwuOUWkC&#43;NdcPIvZhzk=" crossorigin="anonymous"></script>
+<!--
+Made with Book Theme
+https://github.com/alex-shpak/hugo-book
+-->
+  
+</head>
+<body dir="ltr">
+  <input type="checkbox" class="hidden toggle" id="menu-control" />
+  <input type="checkbox" class="hidden toggle" id="toc-control" />
+  <main class="container flex">
+    <aside class="book-menu">
+      <div class="book-menu-content">
+        
+  <nav>
+<h2 class="book-brand">
+  <a class="flex align-center" href="/"><span>The Garden</span>
+  </a>
+</h2>
+
+
+<div class="book-search">
+  <input type="text" id="book-search-input" placeholder="Search" aria-label="Search" maxlength="64" data-hotkeys="s/" />
+  <div class="book-search-spinner hidden"></div>
+  <ul id="book-search-results"></ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+  <ul>
+<li><a href="/personal/"><strong>Personal Sphere</strong></a>
+<ul>
+<li><del><a href="">Visual Artistry</a></del></li>
+<li><del>Process &amp; Inspiration</del></li>
+<li><a href="/posts/">Journal</a></li>
+<li><del>Read and Watch List</del></li>
+</ul>
+</li>
+<li><a href="/professional/"><strong>Professional Sphere</strong></a>
+<ul>
+<li><a href="/categories/published/">Writing &amp; Guides</a></li>
+<li><a href="/research/">Research</a></li>
+<li><del>Product Design &amp; Development</del></li>
+<li><a href="/tags/Guides/">Guides</a></li>
+<li><del>Workshops &amp; Speaking</del></li>
+<li><del>Coaching &amp; Consulting</del></li>
+</ul>
+</li>
+<li><a href="/about/"><strong>About</strong></a>
+<ul>
+<li><a href="/me/">Me</a></li>
+</ul>
+</li>
+</ul>
+<!-- - [Table of Contents](/docs/example/table-of-contents/)
+  - [With ToC](/docs/example/table-of-contents/with-toc/)
+  - [Without ToC](/docs/example/table-of-contents/without-toc/)
+- [Collapsed](/docs/example/collapsed/)
+  - [3rd](/docs/example/collapsed/3rd-level/)
+    - [4th](/docs/example/collapsed/3rd-level/4th-level/) -->
+
+
+
+
+
+
+
+
+
+</nav>
+
+
+
+
+  <script>(function(){var e=document.querySelector("aside .book-menu-content");addEventListener("beforeunload",function(){localStorage.setItem("menu.scrollTop",e.scrollTop)}),e.scrollTop=localStorage.getItem("menu.scrollTop")})()</script>
+
+
+ 
+      </div>
+    </aside>
+
+    <div class="book-page">
+      <header class="book-header">
+        
+  <div class="flex align-center justify-between">
+  <label for="menu-control">
+    <img src="/svg/menu.svg" class="book-icon" alt="Menu" />
+  </label>
+
+  <strong>Accessibility Audit Guide</strong>
+
+  <label for="toc-control">
+    
+    <img src="/svg/toc.svg" class="book-icon" alt="Table of Contents" />
+    
+  </label>
+</div>
+
+
+  
+  <aside class="hidden clearfix">
+    
+  
+<nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#wcag-20-aa">WCAG 2.0 AA</a></li>
+        <li><a href="#wcag-21-aa">WCAG 2.1 AA</a></li>
+      </ul>
+    </li>
+  </ul>
+
+  <ul>
+    <li><a href="#semantic-html">Semantic HTML</a></li>
+    <li><a href="#text-size">Text size</a></li>
+    <li><a href="#apps">Apps</a></li>
+  </ul>
+</nav>
+
+
+
+  </aside>
+  
+ 
+      </header>
+
+      
+      
+<article class="markdown">
+  <h1>
+    <a href="/guides/guides-00001/">Accessibility Audit Guide</a>
+  </h1>
+  
+  
+
+  
+  <div>
+    
+      <a href="/tags/Guides/">Guides</a>, 
+      <a href="/tags/Product/">Product</a>
+  </div>
+  
+
+
+
+<h1 id="success-criteria-for-apps-and-websites">
+  Success criteria for apps and websites
+  <a class="anchor" href="#success-criteria-for-apps-and-websites">#</a>
+</h1>
+<p>As of writing, the goal is to follow <a href="https://www.w3.org/TR/WCAG21/">WCAG 2.1</a>, but falling back to WCAG 2.0 is acceptable. The following success criteria are below. This has been helpfully adapted by <a href="https://medium.com/@krisrivenburgh">Kris Rivenburgh</a>.</p>
+<h3 id="wcag-20-aa">
+  WCAG 2.0 AA
+  <a class="anchor" href="#wcag-20-aa">#</a>
+</h3>
+<p><strong>Section 1: Alternatives</strong></p>
+<ul>
+<li>Alt text (1.1.1): All images and non-text content needs alt text (there are exceptions)</li>
+<li>Video &amp; Audio alternatives (1.2.1): All video-only and audio-only content has a text transcript. Transcripts are clearly labeled and linked below the media.</li>
+<li>Closed captioning (1.2.2): All video with sound contains accurate closed captioning.</li>
+<li>Audio description (1.2.3): For any video, add an alternative video that includes an audio description of information not presented in the original video’s soundtrack (exceptions) or include a text .</li>
+<li>Live captions (1.2.4): Any live video presentations must have closed captions.</li>
+<li>Audio description (1.2.5): An audio description is optional under 1.2.3 level A but not in 1.2.5 AA.</li>
+</ul>
+<p><strong>Section 2: Presentation</strong></p>
+<ul>
+<li>Website structure (1.3.1): Use proper markup techniques to structure your website’s content (e.g. use correct heading tags and HTML for ordered and unordered lists)</li>
+<li>Meaningful order (1.3.2): Present content in a meaningful order and sequence so that it reads properly.</li>
+<li>Sensory characteristics (1.3.3): When providing detailed instructions, make it so they aren’t reliant on a single sensory ability.</li>
+<li>Use of color (1.4.1): Do not rely on color alone to convey information.</li>
+<li>Audio control (1.4.2): Any audio must be able to be paused, stopped, or muted.</li>
+<li>Color contrast (1.4.3): There must be a color contrast ratio of at least 4.5:1 between all text and background.</li>
+<li>Text resize (1.4.4): Text must be able to be resized up to 200% without negatively affecting the ability to read content or use functions.</li>
+<li>Images of text (1.4.5): Do not use images of text unless necessary (e.g. logo).</li>
+</ul>
+<p><strong>Section 3: User Control</strong></p>
+<ul>
+<li>Keyboard only (2.1.1): All content and functions on a website must be accessible by keyboard only (i.e. no mouse).</li>
+<li>No keyboard trap (2.1.2): Keyboard-only users must never get stuck on any part of the website; they must be able to navigate forwards and backwards.</li>
+<li>Adjustable time (2.2.1): If there any time limits on a website, users have the ability to turn it off, adjust it, extend it.</li>
+<li>Pause, stop, hide (2.2.2): If there is content that blinks, scrolls, moves, users must have the ability to pause, stop, or hide it.</li>
+<li>Three flashes or below (2.3.1): Web pages do not contain anything that flashes more than three times in any one second period.</li>
+<li>Skip navigation link (2.4.1): A “Skip to Content” or “Skip Navigation” link allows users to bypass the heading and go straight to the main content.</li>
+</ul>
+<p><strong>Section 4: Understandable</strong></p>
+<ul>
+<li>Page titles (2.4.2): Each page of a website needs to have a unique and descriptive page title.</li>
+<li>Focus order (2.4.3): Users must be able to navigate through a website in a logical sequential order that preserves meaning.</li>
+<li>Link anchor text (2.4.4): The purpose of each link should be clear based on its anchor text (e.g. don’t use “click here”)</li>
+<li>Multiple ways (2.4.5): There are multiple ways to access different pages/information on a website (e.g. search bar, nav menus, sitemap, breadcrumbs, helpful links after content).</li>
+<li>Descriptive headings and labels (2.4.6): Headings and programmatic labels must be clear and descriptive. They do not need to be lengthy.</li>
+<li>Focus indicator (2.4.7): Any “user interface control” that receives focus from a keyboard user should indicate that focus on the current selected element (e.g. add a visible border around a text link).</li>
+<li>Website language (3.1.1): Set the language for your website (e.g. <code>html lang=en</code>)</li>
+<li>Language changes (3.1.2): Indicate any language changes for an entire page or within the content.</li>
+</ul>
+<p><strong>Section 5: Predictability</strong></p>
+<ul>
+<li>No focus change (3.2.1): Nothing changes merely because an item receives focus; a user must actively choose to activate an item (e.g. hit enter to submit) before a change takes place.</li>
+<li>No input change (3.2.2): Nothing changes just because information is inputted into a field (e.g. form doesn’t auto submit once all fields are filled out).</li>
+<li>Consistent navigation (3.2.3): Keep navigation layout consistent throughout all pages of the website (e.g. same links in the same order).</li>
+<li>Consistent identification (3.2.4): Components that have the same function within a website are identified consistently (but not necessarily identically) (e.g. two check marks can indicate two different things as long as their function is different — one indicates “approved” on one page but “included” on another).</li>
+<li>Error identification (3.3.1): Make any form errors easy to identify, understand, and correct.</li>
+<li>Form labels and instructions (3.3.2): Programmatically label all form or input fields so that a user knows what input and what format is expected.</li>
+<li>Error suggestions (3.3.3): If an input error is automatically detected, then suggestions for correcting the error should be provided.</li>
+<li>Error prevention on important forms (3.3.4): For pages that create legal commitments or financial transactions or any other important data submissions, one of the following is true: 1) submissions are reversible, 2) the user has an opportunity to correct errors, and 3) confirmation is available that allows an opportunity to review and correct before submission.</li>
+<li>Parsing (4.1.1): Make sure HTML code is clean and free of errors, particularly missing bracket closes. Also, make sure all HTML elements are properly nested.</li>
+<li>Name, role, value (4.1.2): For all user interface components (including forms, links, components generated by scripts), the name, role, and value should all be able to be programmatically determined; make sure components are compatible with assistive technology.</li>
+</ul>
+<h3 id="wcag-21-aa">
+  WCAG 2.1 AA
+  <a class="anchor" href="#wcag-21-aa">#</a>
+</h3>
+<ul>
+<li>Orientation** **(<strong>1.3.4</strong>): Style your website so that it does not lock on or require a single display mode</li>
+<li>Input (<strong>1.3.5</strong>): Make it so forms can autocomplete information for users.</li>
+<li>Reflow (<strong>1.4.10</strong>): Ensure someone can zoom in on your website without requiring scrolling or without causing poor experience.</li>
+<li>Non-text contrast (<strong>1.4.11</strong>): All meaningful non-text content on your website should have sufficient contrast with the background.</li>
+<li>Text spacing (<strong>1.4.12</strong>): Make sure your text spacing is able to be adjusted without causing a poor experience.</li>
+<li>Content on hover or focus (<strong>1.4.13</strong>): Make it so any additional content (e.g. pop-ups, submenus) can be dismissed or remain visible if the user desires</li>
+<li>Keyboard shortcuts (<strong>2.1.4</strong>): If you have a keyboard shortcut, make sure a user can either 1) turn it off, 2) there’s a way to add another key in the shortcut, and/or 3) have the shortcut only active while focusing on a specific component</li>
+<li>Pointer gestures (<strong>2.5.1</strong>): Provide simple alternatives (e.g. single tap vs. swipe) to potentially complex finger motions on touch screens</li>
+<li>Pointer cancellation (<strong>2.5.2</strong>): Provide a way to cancel the trigger when you click down on a mouse or press down/touch with your finger</li>
+<li>Label in Name (<strong>2.5.3</strong>): Make sure any programmatic labels you make are aligned with the corresponding visual text</li>
+<li>Motion Actuation (<strong>2.5.4</strong>): For any functions that are activated by motion, provide a simpler, alternative means of action. Also, give users the option to turn off motion activation.</li>
+<li>Status Messages (<strong>4.1.3</strong>): When a status message appears, it should be coded with role or properties so that people using assistive technologies (e.g. screen readers) are alerted without losing focus</li>
+</ul>
+<h1 id="other-considerations">
+  Other considerations
+  <a class="anchor" href="#other-considerations">#</a>
+</h1>
+<h2 id="semantic-html">
+  Semantic HTML
+  <a class="anchor" href="#semantic-html">#</a>
+</h2>
+<p>It’s important To use the correct type of HTML element, as they tell search engines and accessibility devices what they’re looking at. If you see a layout done entirely with <code>div</code> or <code>span</code> , this should be a clue that work is needed. Sections should be organized with the <code>section</code> tag, blog posts contained within an <code>article</code> tag, and so on.</p>
+<p>Jeremy Keith wrote a great book on HTML5 elements and how to use them.</p>
+<h2 id="text-size">
+  Text size
+  <a class="anchor" href="#text-size">#</a>
+</h2>
+<p>While this is general design consideration, it’s worth mentioning here that our text shouldn’t be too small. Shoot for your body copy to be around 16pt, and the smallest text (e.g. legal text in a footer) should be around 9pt.</p>
+<h2 id="apps">
+  Apps
+  <a class="anchor" href="#apps">#</a>
+</h2>
+<p>Each mobile platform has its own accessibility tools built in. I recommend navigating through the app with VoiceOver (or the Android equivalent) enabled. You should be able to hear each part meaningfully identified as you navigate.</p>
+<p>Having a proper touch target size is critical. Apple&rsquo;s Human Interface Guidelines recommend 44x44pt as the minimum size for a touch area. It is possible to have smaller buttons, but ensure there is still enough invisible space around the button that makes it tappable.</p>
+<h1 id="how-to-share-out">
+  How to share out
+  <a class="anchor" href="#how-to-share-out">#</a>
+</h1>
+<p>If possible, make changes yourself or pair with an engineer. This will depend on the size of the site as well as the amount of issues.</p>
+<p>It&rsquo;s important to show a list of what to address. This can take several forms:</p>
+<ul>
+<li>A Pivotal Tracker/Trello instance</li>
+<li>PDF</li>
+</ul>
+<h1 id="tools--templates">
+  Tools &amp; Templates
+  <a class="anchor" href="#tools--templates">#</a>
+</h1>
+<p>You should prefer to use automated tools to assist us, not to perform the entire audit. You use these tools to identify problem areas, then apply expertise to solving them.</p>
+<ul>
+<li><a href="https://chrome.google.com/webstore/detail/ibm-equal-access-accessib/lkcagbfjnkomcinoddgooolagloogehp?hl=en-US">IBM Equal Access</a> (requires Chrome)</li>
+<li><a href="https://www.getstark.co/">Stark</a></li>
+</ul>
+</article>
+ 
+      
+
+      <footer class="book-footer">
+        
+  <div class="flex flex-wrap justify-between">
+
+
+
+
+
+</div>
+
+
+
+  <script>(function(){function e(e){const t=window.getSelection(),n=document.createRange();n.selectNodeContents(e),t.removeAllRanges(),t.addRange(n)}document.querySelectorAll("pre code").forEach(t=>{t.addEventListener("click",function(){if(window.getSelection().toString())return;e(t.parentElement),navigator.clipboard&&navigator.clipboard.writeText(t.parentElement.textContent)})})})()</script>
+
+
+ 
+        
+      </footer>
+
+      
+  
+  <div class="book-comments">
+
+</div>
+  
+ 
+
+      <label for="menu-control" class="hidden book-menu-overlay"></label>
+    </div>
+
+    
+    <aside class="book-toc">
+      <div class="book-toc-content">
+        
+  
+<nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#wcag-20-aa">WCAG 2.0 AA</a></li>
+        <li><a href="#wcag-21-aa">WCAG 2.1 AA</a></li>
+      </ul>
+    </li>
+  </ul>
+
+  <ul>
+    <li><a href="#semantic-html">Semantic HTML</a></li>
+    <li><a href="#text-size">Text size</a></li>
+    <li><a href="#apps">Apps</a></li>
+  </ul>
+</nav>
+
+
+ 
+      </div>
+    </aside>
+    
+  </main>
+
+  
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Script on The Garden</title>
+    <link>https://example.com/tags/Script/</link>
+    <description>Recent content in Script on The Garden</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 23 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/Script/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>User Test</title>
+      <link>https://example.com/guides/guides-00022/</link>
+      <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/guides/guides-00022/</guid>
+      <description>User Test # 💡 Before we test anything, we generate hypotheses. It can be as simple as &#34;people can successfully sign up&#34; or as complex as &#34;people will understand that [this button] will alter their search results.&#34; Hypothesis # We hope to: e.g. desired learning So that: e.g. users can reduce time with support We&amp;rsquo;ll know we&amp;rsquo;re right when: e.g. users call in less frequently to the call center Script # Overview # Hi, my name is name.</description>
+    </item>
+    
+    <item>
+      <title>User Test</title>
+      <link>https://example.com/guides/guides-00023/</link>
+      <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/guides/guides-00023/</guid>
+      <description>💡 Before we test anything, we generate hypotheses. It can be as simple as &#34;people can successfully sign up&#34; or as complex as &#34;people will understand that [this button] will alter their search results.&#34; Hypothesis # We hope to: e.g. desired learning So that: e.g. users can reduce time with support We&amp;rsquo;ll know we&amp;rsquo;re right when: e.g. users call in less frequently to the call center Script # Overview # Hi, my name is name.</description>
+    </item>
+    
+  </channel>
+</rss>

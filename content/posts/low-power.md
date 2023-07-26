@@ -1,0 +1,28 @@
+---
+date: 2021-02-01
+linktitle: Low Power Mode for Humans
+title: Low Power Mode for Humans
+weight: 10
+categories: personal
+---
+We deal with burnout, too, and need to recharge our batteries. We can't all take vacations or mental health days, but we can leverage an idea from phones: low power mode. We can't go full speed all the time, much though we'd like. Here's what my essentials were, and I found it helpful to define what things weren't, too.
+
+Have to:
+- Going to work
+- Cleaning yourself
+- Sleep
+- Water
+- Being there for your people
+- Meet deadlines
+
+Nice to do:
+- Stretching
+- Meditation
+- Healthy food
+- Take a walk over lunch
+
+It isn't:
+- Doing extra on things that don't directly relate to your requirements
+
+It definitely isn't:
+- Checking your email or work comms after hours

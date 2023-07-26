@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>General on The Garden</title>
+    <link>https://example.com/tags/General/</link>
+    <description>Recent content in General on The Garden</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 06 Jun 2016 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/General/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why I pulled a HULK SMASH on my social media presence</title>
+      <link>https://example.com/guides/published-00030/</link>
+      <pubDate>Mon, 06 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/guides/published-00030/</guid>
+      <description>Original post
+I’ve had this feeling that the amount of brainspace that social media occupied was out of balance for me.
+I found myself in a problematic situation more often that I’d like: checking social media during every bit of downtime, or when I was trying to solve a particularly difficult design problem. It made getting things done and being present harder than it should. I needed to be more focused.</description>
+    </item>
+    
+    <item>
+      <title>My week with Soylent 1.4, or “Oh god I want a burger”</title>
+      <link>https://example.com/guides/published-00018/</link>
+      <pubDate>Sat, 16 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/guides/published-00018/</guid>
+      <description>Original post
+💡 I wrote this article in 2015. While I like that I was curious, I want to be clear in that I absolutely do not recommend this kind of stuff. Also, it’s fun to note that everything from this era is basically a clickbait style headline. Ugh. I’m always curious about how changing a habit will affect me and have little aversion to change. My main apps for email, search, and anything else get regularly switched, and so do my mobile OSes.</description>
+    </item>
+    
+  </channel>
+</rss>
