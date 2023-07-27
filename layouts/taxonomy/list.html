@@ -1,6 +1,9 @@
 {{ define "main" }}
 <article class="markdown">
-  <h1>{{ .Title | title }}</h1>
+{{ with .Date }}
+  <h5 class="post-date">{{ partial "docs/date" (dict "Date" . "Format" $.Site.Params.BookDateFormat) }}</h5>
+{{ end }}
+  <h1-post-title>{{ .Title | title }}</h1>
   {{ $taxonomies := index .Site.Taxonomies .Page.Type }}
   {{ range $taxonomies }}
     <div><a href="{{ .Page.Permalink }}">{{ .Page.Title }} <sup>{{ .Count }}</sup></a></div>
