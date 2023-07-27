@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Safety on The Garden</title>
-    <link>https://example.com/tags/Safety/</link>
+    <link>https://joshuamauldin.com/tags/Safety/</link>
     <description>Recent content in Safety on The Garden</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 23 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/Safety/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 23 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://joshuamauldin.com/tags/Safety/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Online safety</title>
-      <link>https://example.com/guides/guides-00015/</link>
+      <link>https://joshuamauldin.com/guides/guides-00015/</link>
       <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/guides/guides-00015/</guid>
+      <guid>https://joshuamauldin.com/guides/guides-00015/</guid>
       <description>This is how to take yours and others’ privacy/safety into account.
 Get a VPN to encrypt your browsing and data. I use Private Internet Access, it’s like $3/mo and covers all my devices Use Signal or other fully end to end encrypted calls, texts, and videos. Do not use regular SMS or phone calls, they can be tracked. FaceTime audio will do if no other option is available. Do not share whereabouts online, don’t send sensitive info via twitter and Instagram.</description>
     </item>

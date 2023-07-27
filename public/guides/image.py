@@ -20,7 +20,7 @@ for filename in os.listdir(directory_path):
 
         for match in img_matches:
             # format the new image link
-            new_img_link = f"![Photo Caption Coming](./img/{match[1]})"
+            new_img_link = f"![Photo Caption Coming](../../img/{match[1]})"
             
             # replace the old image link with the new one
             text = text.replace(f"![{match[0]}]", new_img_link)

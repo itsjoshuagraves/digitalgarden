@@ -3,10 +3,11 @@ title: About
 type: docs
 ---
 
-{{< figure src="../../img/DSC00162.jpeg" title="Basquiat" >}}
+{{< figure src="/img/DSC00162.jpeg" title="Basquiat" >}}
 
 ## This wiki is the wellspring of my digital life and a catalog of my analog one.
 
+Based on the digital garden idea, inspired by [Helvetica Blanc](https://helveticablanc.com)
 The following is adapted from [https://wiki.xxiivv.com/site/home.html](https://wiki.xxiivv.com/site/home.html)
 
 It is built to adapt to my needs as they change, and to [technology as it evolves](https://wiki.xxiivv.com/site/lasting.html). The databases are in human-readable plaintext formats. There is no JavaScript, trackers, or complicated nonsense. 

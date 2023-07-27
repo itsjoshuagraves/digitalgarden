@@ -9,7 +9,7 @@ headless: true
   - ~~Read and Watch List~~
 - [**Professional Sphere**]({{< relref "/professional" >}})
   - [Writing & Guides]({{< relref "/categories/published" >}})
-  - [Research]({{< relref "/research">}})
+  - ~~Research~~
   - ~~Product Design & Development~~
   - [Guides]({{< relref "/tags/guides ">}})
   - ~~Workshops & Speaking~~
