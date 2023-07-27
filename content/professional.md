@@ -3,9 +3,6 @@ title: Professional Sphere
 type: docs
 ---
 
-<aside>
-💡 Here you’ll find all things related to work. Guides, research, thoughts, PDFs, etc.
-</aside>
 ## Biography
 I’m not like other design leaders.
 
@@ -41,11 +38,9 @@ Talk to me if you want to discuss:
 
 
 
----
-[Writing & Guides](/categories/published)
+## See also
 
-[Workshops & Speaking](/workshops)
-
-[Tools and Items for Sale](/tools)
-
-[Coaching & Consulting](/consulting)
+- [Writing & Guides](/categories/published)
+- [Workshops & Speaking](/workshops)
+- [Tools and Items for Sale](/tools)
+- [Coaching & Consulting](/consulting)
