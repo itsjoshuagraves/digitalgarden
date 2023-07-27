@@ -20,7 +20,7 @@ If you'd like to see that right now, head over to [my portfolio](https://persona
 
 ## Why do this? 
 
-I don't want to limit myself to just "Joshua is a designer. We are all multifaceted and I believe embracing this in ourselves and others is the key to richer, more rewarding lives and relationships.
+I don't want to limit myself to just "Joshua is a designer." We are all multifaceted and I believe embracing this in ourselves and others is the key to richer, more rewarding lives and relationships.
 
 When we constrain ourselves to just one aspect or role, everyone suffers. It's like [Procrustes' bed](https://en.wikipedia.org/wiki/Procrustes)—in contorting or stretching to fit an arbitrary space or role, we do great harm. This garden is an attempt to reclaim the fullness of my online identity. Some aspects of me will be stronger depending on what need arises. 
 
