@@ -6,7 +6,7 @@ weight: 10
 tags: [Guides, Product]
 ---
 
-# Success criteria for apps and websites
+## Success criteria for apps and websites
 
 As of writing, the goal is to follow [WCAG 2.1](https://www.w3.org/TR/WCAG21/), but falling back to WCAG 2.0 is acceptable. The following success criteria are below. This has been helpfully adapted by [Kris Rivenburgh](https://medium.com/@krisrivenburgh).
 
@@ -80,34 +80,23 @@ As of writing, the goal is to follow [WCAG 2.1](https://www.w3.org/TR/WCAG21/), 
 - Motion Actuation (**2.5.4**): For any functions that are activated by motion, provide a simpler, alternative means of action. Also, give users the option to turn off motion activation.
 - Status Messages (**4.1.3**): When a status message appears, it should be coded with role or properties so that people using assistive technologies (e.g. screen readers) are alerted without losing focus
 
-# Other considerations
+## Other considerations
 
-## Semantic HTML
+### Semantic HTML
 
 It’s important To use the correct type of HTML element, as they tell search engines and accessibility devices what they’re looking at. If you see a layout done entirely with `div` or `span` , this should be a clue that work is needed. Sections should be organized with the `section` tag, blog posts contained within an `article` tag, and so on.
 
-Jeremy Keith wrote a great book on HTML5 elements and how to use them.
-
-## Text size
+### Text size
 
 While this is general design consideration, it’s worth mentioning here that our text shouldn’t be too small. Shoot for your body copy to be around 16pt, and the smallest text (e.g. legal text in a footer) should be around 9pt.
 
-## Apps
+### Apps
 
 Each mobile platform has its own accessibility tools built in. I recommend navigating through the app with VoiceOver (or the Android equivalent) enabled. You should be able to hear each part meaningfully identified as you navigate.
 
 Having a proper touch target size is critical. Apple's Human Interface Guidelines recommend 44x44pt as the minimum size for a touch area. It is possible to have smaller buttons, but ensure there is still enough invisible space around the button that makes it tappable.
 
-# How to share out
-
-If possible, make changes yourself or pair with an engineer. This will depend on the size of the site as well as the amount of issues.
-
-It's important to show a list of what to address. This can take several forms:
-
-- A Pivotal Tracker/Trello instance
-- PDF
-
-# Tools & Templates
+## Tools & Templates
 
 You should prefer to use automated tools to assist us, not to perform the entire audit. You use these tools to identify problem areas, then apply expertise to solving them.
 

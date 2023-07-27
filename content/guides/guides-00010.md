@@ -28,4 +28,4 @@ tags: [Guides, Product]
 
 Duplicate this to get started.
 
-![Screenshot 2023-07-22 at 4.18.16 PM.png](Journey%20Map%201add6754078b42a9a49ee5c720bb271c/Screenshot_2023-07-22_at_4.18.16_PM.png)
+![Screenshot 2023-07-22 at 4.18.16 PM.png](/img/Screenshot_2023-07-22_at_4.18.16_PM.png)

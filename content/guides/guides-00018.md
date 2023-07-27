@@ -10,7 +10,7 @@ We observe users in their environment so that we fully understand the problem an
 
 We want everything we design to be to the direct benefit of everyone involved. There’s no better way to see how you can help someone than hearing them say it in their own words.
 
-# Desired mindset
+## Desired mindset
 
 Stay curious and have a genuine commitment to learning. Increase our understanding of users and challenge our assumptions.
 
@@ -22,11 +22,11 @@ Stay curious and have a genuine commitment to learning. Increase our understandi
 - By guessing less we can reduce the potential for wasted time and resources.
 - Does not have to feel stale, monolithic or like an academic exercise.
 
-# Interviews
+## Interviews
 
 Above all, be genuine, engaged and positive**. **Listen significantly more than you speak. While conducting an interview (user or stakeholder)  it’s important to be genuinely interested and non-judgmental. People will notice this and be more willing to reveal themselves, particularly their anxieties, prejudices and insecurities.
 
-# Removing bias
+## Removing bias
 
 We are burdened with biases and it is tough to sense one’s own. We can combat this by referring to an external standard and work to check each other in an environment that fosters psychological safety and mutual respect. Having a knowledge of common biases also helps to recognize when they appear.
 
