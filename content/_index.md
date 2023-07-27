@@ -4,7 +4,7 @@ type: docs
 ---
 
 # Welcome to Joshua Mauldin's Digital Garden
-{{< figure src="./img/jdm.png" title="Ambigram of my initials test" >}}
+{{< figure src="./img/jdm.png" title="Ambigram of my initials" >}}
 
 ## What is this?
 
