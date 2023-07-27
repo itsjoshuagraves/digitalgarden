@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Joshua Mauldin, Designer and Author
 type: docs
 ---
 
