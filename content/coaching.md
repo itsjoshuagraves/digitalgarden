@@ -2,11 +2,10 @@
 title: Coaching & Consulting
 type: docs
 ---
-
-<aside>
-💡 I offer coaching engagements through my company, Nice Weather, and consulting engagements.
-
-</aside>
+# Coaching and Consulting
+{{< hint info >}}
+I offer coaching engagements through my company, Nice Weather, and consulting engagements.
+{{< /hint >}}
 
 [Nice Weather](/niceweather)
 

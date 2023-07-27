@@ -3,8 +3,10 @@ title: Home
 type: docs
 ---
 
-# Welcome to Joshua Mauldin's Digital Garden
+# Welcome
 {{< figure src="./img/jdm.png" title="Ambigram of my initials" >}}
+
+Hi, it's Joshua. I'm a player-coach designer who puts humans first. I'm also writing a book on having hard conversations at work. Great to meet you. 
 
 ## What is this?
 

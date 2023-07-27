@@ -2,6 +2,12 @@
 title: Professional Sphere
 type: docs
 ---
+# Professional Sphere
+{{< hint info >}}
+Here you’ll find all things related to work. Guides, research, thoughts, PDFs, etc.
+{{< /hint >}}
+
+
 
 ## Biography
 I’m not like other design leaders.

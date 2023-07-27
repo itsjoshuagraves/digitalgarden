@@ -7,7 +7,7 @@ type: docs
 
 Cosmata is geometric sans serif family of 10 fonts suitable for both display and reading use. Inspired by Futura, Cosmata developed its own complex, unique life.
 
-[Buy it at MyFonts](https://www.myfonts.com/collections/cosmata-font-mauldintype)
+{{< button relref="https://www.myfonts.com/collections/cosmata-font-mauldintype" >}}Buy it at MyFonts{{< /button >}}
 
 To that end, I've included alternate letterforms for a finely-tailored typographic experience. The rhythm, kerning, and spacing have been lovingly crafted for an elegant reading experience.
 

@@ -2,11 +2,11 @@
 title: Tools and Items for Sale
 type: docs
 ---
+# Tools and Items for Sale
+{{< hint info >}}
+Here are products that I offer. They range from books to typefaces to design supplies.
+{{< /hint >}}
 
-<aside>
-💡 Here are products that I offer. They range from books to typefaces to design supplies.
-
-</aside>
 
 - [Uptown Sans](/uptownsans)
 - [Cosmata](/cosmata)

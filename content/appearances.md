@@ -2,9 +2,10 @@
 title: Appearances and Mentions
 type: docs
 ---
-
 # Speaking
+{{< hint info >}}
 Places I’ve spoken at or were mentioned by.
+{{< /hint >}}
 
 - [Design @ Scale](https://rosenfeldmedia.com/design-at-scale-2022/workshops/)
 - [Agile 2022](https://events.agilealliance.org/Agile2022/speaker/437397/josh-mauldin)

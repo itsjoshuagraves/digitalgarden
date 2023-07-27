@@ -9,7 +9,7 @@ type: docs
 
 What if Jim Flora (a record cover designer from the 50s), Saul Bass, and Eric Carle got together for tacos and made a typeface? That’s the vibe of Uptown Sans. It’s a little weird, a little loud, and full of energy. It’s sure to help you express yourself in just the right way.
 
-[Buy it at Fontspring](https://www.fontspring.com/fonts/joshua-mauldin/uptown-sans)
+{{< button relref="https://www.fontspring.com/fonts/joshua-mauldin/uptown-sans" >}}Buy it at Fontspring{{< /button >}}
 
 **Cool, so what’s it good for?**
 
