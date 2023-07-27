@@ -5,9 +5,65 @@ article aside { background: #fff000; padding: 10px; color: #033233}
 
 figcaption h4 {margin:0 !important;}
 
-.post-date {margin-bottom: 0 !important;}
+.post-date {
+	margin-bottom: 0 !important;
+	font-family: 'pt_monoregular';
+	font-size: 12px;
+	font-weight: normal !important;
+	letter-spacing: 0 !important;
+}
 .post-title {
-margin-top: 8px !important;
-margin-bottom: 4px !important;
+	margin-top: 8px !important;
+	margin-bottom: 4px !important;
 }
 
+
+
+h1 {
+  font-family: "Okkult-Black";
+  font-weight: 900;
+}
+
+.page-title {
+	font-size: 64px;
+	margin-top: 0 !important;
+}
+
+h2, h3, h4, h5, h6 {
+	font-family: "pt_serif_captionregular";
+}
+
+body {
+	background-color: #151515;
+  	font-family: "pt_sansregular";
+  	font-weight: 500;
+  	font-style: normal;
+  	p {
+  		line-height: 130%;
+  	}
+}
+
+code {
+  font-family: 'Roboto Mono', monospace;
+}
+
+.book-post p{
+	line-height: 130%;
+}
+
+.book-menu-content {
+	border-right: 1px solid #3f3f3f;
+	background: #151515 !important;
+	a{
+		letter-spacing: 0;
+	}
+}
+
+blockquote {
+	font-family: "pt_serif_captionitalic";
+	font-size: 18px;
+}
+
+article h1 {
+	font-size: 64px;
+}
