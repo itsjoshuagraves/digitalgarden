@@ -30,10 +30,112 @@
        url('fonts/roboto-mono-v13-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 
+
+@font-face {
+  font-family: 'Okkult';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local(''),
+       url('fonts/Okkult-Black.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('fonts/Okkult-Black.woff2') format('woff2'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+
+
+@font-face {
+    font-family: 'pt_monoregular';
+    src: url('fonts/ptmono-regular-webfont.woff2') format('woff2'),
+         url('fonts/ptmono-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'pt_sansbold';
+    src: url('fonts/ptsans-bold-webfont.woff2') format('woff2'),
+         url('fonts/ptsans-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'pt_sansbold_italic';
+    src: url('fonts/ptsans-bolditalic-webfont.woff2') format('woff2'),
+         url('fonts/ptsans-bolditalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'pt_sansitalic';
+    src: url('fonts/ptsans-italic-webfont.woff2') format('woff2'),
+         url('fonts/ptsans-italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'pt_sansregular';
+    src: url('fonts/ptsans-regular-webfont.woff2') format('woff2'),
+         url('fonts/ptsans-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'pt_serif_captionitalic';
+    src: url('fonts/ptserifcaption-italic-webfont.woff2') format('woff2'),
+         url('fonts/ptserifcaption-italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'pt_serif_captionregular';
+    src: url('fonts/ptserifcaption-regular-webfont.woff2') format('woff2'),
+         url('fonts/ptserifcaption-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+h1 {
+  font-family: "Okkult-Black";
+  font-weight: 900;
+}
+
 body {
-  font-family: 'Roboto', sans-serif;
+  font-family: "pt_monoregular";
+  font-weight: 500;
+  font-style: normal;
 }
 
 code {
   font-family: 'Roboto Mono', monospace;
 }
+

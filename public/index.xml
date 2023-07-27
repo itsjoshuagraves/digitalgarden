@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on The Garden</title>
+    <title>Joshua Mauldin, Designer and Author on The Garden</title>
     <link>https://joshuamauldin.com/</link>
-    <description>Recent content in Home on The Garden</description>
+    <description>Recent content in Joshua Mauldin, Designer and Author on The Garden</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://joshuamauldin.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -35,6 +35,15 @@ Quam iugulum regia simulacra, plus meruit humo pecorumque haesit, ab discedunt d
       <description>Success criteria for apps and websites # As of writing, the goal is to follow WCAG 2.1, but falling back to WCAG 2.0 is acceptable. The following success criteria are below. This has been helpfully adapted by Kris Rivenburgh.
 WCAG 2.0 AA # Section 1: Alternatives
 Alt text (1.1.1): All images and non-text content needs alt text (there are exceptions) Video &amp;amp; Audio alternatives (1.2.1): All video-only and audio-only content has a text transcript.</description>
+    </item>
+    
+    <item>
+      <title>Accessibility Audit Guide</title>
+      <link>https://joshuamauldin.com/visual-art/00001/</link>
+      <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://joshuamauldin.com/visual-art/00001/</guid>
+      <description> Art Test # </description>
     </item>
     
     <item>
@@ -703,7 +712,7 @@ Lorem markdownum insigne. Olympo signis Delphis!</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://joshuamauldin.com/research/</guid>
-      <description>research</description>
+      <description>Coming soon :)</description>
     </item>
     
     <item>
@@ -712,9 +721,9 @@ Lorem markdownum insigne. Olympo signis Delphis!</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://joshuamauldin.com/about/</guid>
-      <description>Basquiat This wiki is the wellspring of my digital life and a catalog of my analog one. # Based on the digital garden idea, inspired by Helvetica Blanc The following is adapted from https://wiki.xxiivv.com/site/home.html
-It is built to adapt to my needs as they change, and to technology as it evolves. The databases are in human-readable plaintext formats. There is no JavaScript, trackers, or complicated nonsense.
-Using this tool should be calming, its formats and subsequent products versionable, re-purposable, interpretable and text-editable.</description>
+      <description>About # Basquiat How&amp;rsquo;s this built? # I use Hugo, a static site generator. It&amp;rsquo;s working with Go, markdown, and powered by GitHub pages. There&amp;rsquo;s no fancy CMS, no loads of animations.
+In the future, I&amp;rsquo;ll be focusing on making it even easier and greener to load, adding image dithering and hopefully attempting to most entirely to green, solar-powered hosting.
+What&amp;rsquo;s the idea? # This site is inspired by the concept of digital gardening.</description>
     </item>
     
     <item>
@@ -723,8 +732,7 @@ Using this tool should be calming, its formats and subsequent products versiona
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://joshuamauldin.com/appearances/</guid>
-      <description> Speaking # Places I’ve spoken at or were mentioned by.
-Design @ Scale Agile 2022 FiTC O&amp;rsquo;Reilly Media Online 2019 Rad Summit 2019 Meetups Selected Media # </description>
+      <description> Speaking # Places I’ve spoken at or were mentioned by. Design @ Scale Agile 2022 FiTC O&amp;rsquo;Reilly Media Online 2019 Rad Summit 2019 Meetups Selected Media # </description>
     </item>
     
     <item>
@@ -733,7 +741,7 @@ Design @ Scale Agile 2022 FiTC O&amp;rsquo;Reilly Media Online 2019 Rad Summit 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://joshuamauldin.com/coaching/</guid>
-      <description>💡 I offer coaching engagements through my company, Nice Weather, and consulting engagements. Nice Weather
+      <description>Coaching and Consulting # I offer coaching engagements through my company, Nice Weather, and consulting engagements. Nice Weather
 Consulting
 See also # We Need to Talk</description>
     </item>
@@ -744,7 +752,7 @@ See also # We Need to Talk</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://joshuamauldin.com/consulting/</guid>
-      <description>I help my clients build new capabilities, products, and teams. I also help them do it in a way that’s unique to their culture, not just giving them a process to follow and taking their money.
+      <description>Consulting # I help my clients build new capabilities, products, and teams. I also help them do it in a way that’s unique to their culture, not just giving them a process to follow and taking their money.
 If you’d like to work together, visit my portfolio to see some recent examples of my work.</description>
     </item>
     
@@ -754,7 +762,7 @@ If you’d like to work together, visit my portfolio to see some recent examples
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://joshuamauldin.com/cosmata/</guid>
-      <description>Cosmata is geometric sans serif family of 10 fonts suitable for both display and reading use. Inspired by Futura, Cosmata developed its own complex, unique life.
+      <description>Cosmata # Cosmata is geometric sans serif family of 10 fonts suitable for both display and reading use. Inspired by Futura, Cosmata developed its own complex, unique life.
 Buy it at MyFonts
 To that end, I&amp;rsquo;ve included alternate letterforms for a finely-tailored typographic experience. The rhythm, kerning, and spacing have been lovingly crafted for an elegant reading experience.
 I&amp;rsquo;m excited to share this release with you and hope you enjoy using it as much as I did creating it.</description>
@@ -766,7 +774,7 @@ I&amp;rsquo;m excited to share this release with you and hope you enjoy using it
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://joshuamauldin.com/interstellar/</guid>
-      <description>Buy it at Creative Market
+      <description>Interstellar Spray Paint Textures # Buy it at Creative Market
 Add a little cosmic action to your next design project with these 10 hand-made spray paint textures.
 They&amp;rsquo;re huge, grayscale PNGs that you can drop into any project, mask, and color in no time. This also includes smaller versions of these should you need a smaller file.
 Whether you want to add an ethereal feel to your project or some grit, these textures can handle both.</description>
@@ -778,10 +786,39 @@ Whether you want to add an ethereal feel to your project or some grit, these tex
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://joshuamauldin.com/me/</guid>
-      <description>Photo by Sarah DeShields Multidisciplinary artist, designer, human who cares about kindness and animals.
+      <description>Joshua Mauldin # Photo by Sarah DeShields Multidisciplinary artist, designer, human who cares about kindness and animals.
 Biography # I’m not like other design leaders.
 My ideal day isn’t sitting in strategy meetings all day, managing managers. Instead, I find joy in working at both the strategic tactical level. Some call it a player-coach, I call it my happy place.
 Since starting my career, I&amp;rsquo;ve built high-performing, deeply collaborative design teams from scratch and designed 5-star mobile apps.</description>
+    </item>
+    
+    <item>
+      <title>Media</title>
+      <link>https://joshuamauldin.com/media/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://joshuamauldin.com/media/</guid>
+      <description>Media # I watch and read a lot. Here&amp;rsquo;s some of it.
+Film &amp;amp; TV Film &amp;amp; TV # Incoming # Return to Seoul (2022) 2023 # The Conjuring 2 Zombieland: Double Tap Crimson Peak The Autopsy of Jane Doe Annabelle Resident Evil: Retribution Lords of Chaos Cargo Black Christmas The Lords of Salem The Silence Smile Candyman The Conjuring: The Devil Made Me Do It Halloween Kills The Menu Evil Dead Rise Scream VI 2022 # Texas Chainsaw Massacre In the Earth Fresh The Power of the Dog The Night House Censor Happy Death Day Saint Maud Mandy Relic Ready or Not The Invitation His House Can You Ever Forgive Me?</description>
+    </item>
+    
+    <item>
+      <title>My Design Philosophy</title>
+      <link>https://joshuamauldin.com/design-philosophy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://joshuamauldin.com/design-philosophy/</guid>
+      <description>My Design Philosophy # The most effective process is one that&amp;rsquo;s resilient and adaptable. That means being principle-driven and not process-driven. Here’s why: each project, problem, and team are unique. Each person’s insight and experience are, too. Following principles instead of a rigorous process lets us honor that uniqueness to deliver truly wonderful results. Not only that, we can move quickly and with intention to deliver great software. You can read how it looks in practice, too.</description>
+    </item>
+    
+    <item>
+      <title>My Design Process</title>
+      <link>https://joshuamauldin.com/design-process/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://joshuamauldin.com/design-process/</guid>
+      <description>My Design Process # &amp;ldquo;Wait a minute,&amp;rdquo; you say to yourself, &amp;ldquo;Why do you, a design leader, need to spell out a design process? Doesn&amp;rsquo;t your team do that work?&amp;rdquo; Sure, the team might do it, but it&amp;rsquo;s important to spell out out for two reasons:
+I wouldn&amp;rsquo;t ask my team to do anything I wouldn&amp;rsquo;t do myself. And depending on the situation, I may actually do it myself. Practice, after all, is how you stay sharp and relevant.</description>
     </item>
     
     <item>
@@ -790,7 +827,7 @@ Since starting my career, I&amp;rsquo;ve built high-performing, deeply collabora
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://joshuamauldin.com/niceweather/</guid>
-      <description>I created a coaching company in 2022 because I really wanted to focus on putting more kindness and thoughtfulness into the leadership process. The key idea being that leadership’s future is human-centered. The link below will tell you more.
+      <description>Nice Weather # I created a coaching company in 2022 because I really wanted to focus on putting more kindness and thoughtfulness into the leadership process. The key idea being that leadership’s future is human-centered. The link below will tell you more.
 Nice Weather - Developing Human-Centered Leaders</description>
     </item>
     
@@ -800,7 +837,7 @@ Nice Weather - Developing Human-Centered Leaders</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://joshuamauldin.com/personal/</guid>
-      <description> Lyrics: Bloc Party 💡 Here you’ll find a catalog of my artwork and creative endeavors, my personal blog, and other miscellaneous things I’ve enjoyed. </description>
+      <description> Personal Sphere # Here you’ll find a catalog of my artwork and creative endeavors, my personal blog, and other miscellaneous things I’ve enjoyed. Lyrics: Bloc Party </description>
     </item>
     
     <item>
@@ -809,7 +846,7 @@ Nice Weather - Developing Human-Centered Leaders</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://joshuamauldin.com/product-design/</guid>
-      <description>💡 Examples of work, guides and resources for leaders and those who aspire to be. Work Portfolio
+      <description>Product Design &amp;amp; Development # Examples of work, guides and resources for leaders and those who aspire to be. Work Portfolio
 Guides &amp;amp; Resources
 See also # Docs
 We Need to Talk
@@ -822,10 +859,9 @@ Workshops &amp;amp; Speaking</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://joshuamauldin.com/professional/</guid>
-      <description>💡 Here you’ll find all things related to work. Guides, research, thoughts, PDFs, etc. Writing &amp;amp; Guides
-Workshops &amp;amp; Speaking
-Tools and Items for Sale
-Coaching &amp;amp; Consulting</description>
+      <description>Professional Sphere # Here you’ll find all things related to work. Guides, research, thoughts, PDFs, etc. Design Process # Here&amp;rsquo;s how I do what I do.
+Design Philosophy # Here&amp;rsquo;s the why behind how i do it.
+We Need to Talk, a book # I&amp;rsquo;m currently writing a book called “We Need to Talk: How to Have Hard Conversations with Anyone” for Rosenfeld Media. It’s due out in 2023.</description>
     </item>
     
     <item>
@@ -834,10 +870,10 @@ Coaching &amp;amp; Consulting</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://joshuamauldin.com/shirt/</guid>
-      <description>Purchase link (sold out)
+      <description>Research&amp;amp; Prototypes&amp;amp; Pixels&amp;amp;Code Shirt # Purchase link (sold out)
 This is a modern take on the classic Beatles shirt, focused on the design process. I originally designed this for BlendConf, a lovely conference in Charlotte (RIP).
 Each shirt will be unique, as the gradients have to be made by hand.
-This shirt is printed on an ultra-soft, vintage black cotton shirt. There are also neat printing processes at work, notably something called split fountain gradients. This means the colors are going to be bold, beautiful, and…well, super gradient-ey.</description>
+This shirt is printed on an ultra-soft, vintage black cotton shirt. There are also neat printing processes at work, notably something called split fountain gradients.</description>
     </item>
     
     <item>
@@ -846,11 +882,7 @@ This shirt is printed on an ultra-soft, vintage black cotton shirt. There are al
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://joshuamauldin.com/tools/</guid>
-      <description>💡 Here are products that I offer. They range from books to typefaces to design supplies. Uptown Sans
-Cosmata
-Research&amp;amp; Prototypes&amp;amp; Pixels&amp;amp;Code Shirt
-Interstellar Spray Paint Textures
-See also # We Need to Talk</description>
+      <description>Tools and Items for Sale # Here are products that I offer. They range from books to typefaces to design supplies. Uptown Sans Cosmata Research&amp;amp; Prototypes&amp;amp; Pixels&amp;amp;Code Shirt Interstellar Spray Paint Textures See also # We Need to Talk</description>
     </item>
     
     <item>
@@ -867,12 +899,22 @@ Uptown Sans is best used large.</description>
     </item>
     
     <item>
+      <title>We Need to Talk</title>
+      <link>https://joshuamauldin.com/we-need-to-talk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://joshuamauldin.com/we-need-to-talk/</guid>
+      <description>We Need to Talk # My forthcoming book for Rosenfeld Media, due out in 2023. It&amp;rsquo;s about how to have hard conversations with anyone at work. Too few teams truly embrace healthy conflict—the secret to building great products—so I conduct workshops that teach you how to leverage it with practical, equitable, non-prescriptive methods to craft the best possible version of your product, your team, and even yourself.
+My workshops give you tools you can use immediately in your next tough conversation.</description>
+    </item>
+    
+    <item>
       <title>Workshops &amp; Speaking</title>
       <link>https://joshuamauldin.com/workshops/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://joshuamauldin.com/workshops/</guid>
-      <description>💡 I offer half and full-day workshops that help teams unlock the secret to building great products: embracing healthy conflict and building psychological safety. We&#39;ll work together to craft plans tailored to your team&#39;s needs. Since beginning my speaking career, I&amp;rsquo;ve:
+      <description>Workshops &amp;amp; Speaking # I offer half and full-day workshops that help teams unlock the secret to building great products: embracing healthy conflict and building psychological safety. We&amp;rsquo;ll work together to craft plans tailored to your team&amp;rsquo;s needs. Since beginning my speaking career, I&amp;rsquo;ve:
 Talked with web3 engineers at ETHDenver on why they should care about design Given a masterclass at Rosenfeld’s Design at Scale Conference to product managers and designers on how and why to have hard conversations Showed fintech startups on how to unlock their creative thinking with a little more mindfulness and deep focus I care deeply about bringing more mindfulness to your craft and more humanity to your relationships at every level—I’m prepared to show you how that directly benefits your company, too.</description>
     </item>
     

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Visual Art on The Garden</title>
+    <link>https://joshuamauldin.com/visual-art/</link>
+    <description>Recent content in Visual Art on The Garden</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://joshuamauldin.com/visual-art/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Accessibility Audit Guide</title>
+      <link>https://joshuamauldin.com/visual-art/00001/</link>
+      <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://joshuamauldin.com/visual-art/00001/</guid>
+      <description> Art Test # </description>
+    </item>
+    
+  </channel>
+</rss>
