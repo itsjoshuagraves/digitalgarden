@@ -9,7 +9,7 @@ headless: true
   - [Guides]({{< relref "/tags/guides ">}})
   - [Workshops & Speaking](/workshops)
   - [Appearances](/appearances)
-  - [Coaching](/coaching)
+  - [Coaching](/niceweather)
   - [Consulting](/consulting)
 - [**About**]({{< relref "/about" >}})
   - [Me]({{< relref "/me" >}})

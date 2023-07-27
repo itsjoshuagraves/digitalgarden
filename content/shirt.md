@@ -3,6 +3,8 @@ title: Research& Prototypes& Pixels&Code Shirt
 type: docs
 ---
 
+# Research& Prototypes& Pixels&Code Shirt
+
 ![Untitled](/img/Untitled%202.png)
 
 
@@ -14,9 +16,7 @@ Each shirt will be unique, as the gradients have to be made by hand.
 
 This shirt is printed on an ultra-soft, vintage black cotton shirt. There are also neat printing processes at work, notably something called split fountain gradients. This means the colors are going to be bold, beautiful, and…well, super gradient-ey.
 
-# Process Photos
-
----
+## Process Photos
 
 ![IMG_2282.jpg](/img/IMG_2282.jpg)
 

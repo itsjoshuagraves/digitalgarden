@@ -9,7 +9,7 @@ I offer coaching engagements through my company, Nice Weather, and consulting en
 
 [Nice Weather](/niceweather)
 
-[Consulting](/coaching)
+[Consulting](/consulting)
 
 ## See also
 
