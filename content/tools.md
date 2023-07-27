@@ -13,6 +13,6 @@ Here are products that I offer. They range from books to typefaces to design sup
 - [Research& Prototypes& Pixels&Code Shirt](/shirt)
 - [Interstellar Spray Paint Textures](/interstellar)
 
-<!-- ## See also
+## See also
 
-[We Need to Talk](Writing%20&%20Guides%20fa321c87366a4d1e980bc71c644019f2/We%20Need%20to%20Talk%207151fc16be0a4401adf773fd8fe173e1.md) -->
+[We Need to Talk](/we-need-to-talk)

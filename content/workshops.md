@@ -3,10 +3,12 @@ title: Workshops & Speaking
 type: docs
 ---
 
-<aside>
-💡 I offer half and full-day workshops that help teams unlock the secret to building great products: embracing healthy conflict and building psychological safety. We'll work together to craft plans tailored to your team's needs.
+# Workshops & Speaking
 
-</aside>
+{{< hint info >}}
+I offer half and full-day workshops that help teams unlock the secret to building great products: embracing healthy conflict and building psychological safety. We'll work together to craft plans tailored to your team's needs.
+{{< /hint >}}
+
 
 Since beginning my speaking career, I've:
 
@@ -44,7 +46,7 @@ I'm focused on teaching teams how and why to embrace healthy conflict.
 
 I offer customized workshops, both in-person or remote, and talks for your teams, too! Just [get in touch](https://www.joshuamauldin.com/contact) and we can discuss what you need.
 
-## **We Need to Talk**
+## We Need to Talk
 
 For most of us, conflict is often something we try to avoid. Yet, truly embracing “healthy” conflict is your team’s secret to building great products.
 
@@ -55,7 +57,7 @@ Available as:
 - 4 hour workshop with one-on-one office hours available afterwards (4+ people required)
 - 8 hour workshop with one-on-one office hours available afterwards (8+ people required)
 
-## **Magical Cross-Functional Collaboration**
+## Magical Cross-Functional Collaboration
 
 To build the best products and teams, it’s critical that you collaborate deeply with people both inside and outside your discipline to build a shared sense of ownership. This workshop focuses on building working agreements.
 
@@ -66,6 +68,7 @@ It identifies areas for you and your team to unlock the collaboration required t
 
 ---
 
-[Appearances and Mentions](Workshops%20&%20Speaking%2036120c3c5ad142a88fe549913f2e06be/Appearances%20and%20Mentions%20ed6d68ed9d694e2ebea84283a26417ac.md)
+## See also
+[Appearances and Mentions](/appearances)
 
-[We Need to Talk](Writing%20&%20Guides%20fa321c87366a4d1e980bc71c644019f2/We%20Need%20to%20Talk%207151fc16be0a4401adf773fd8fe173e1.md)
+[We Need to Talk](/we-need-to-talk)
