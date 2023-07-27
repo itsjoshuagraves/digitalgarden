@@ -17,15 +17,23 @@ figcaption h4 {margin:0 !important;}
 	margin-bottom: 4px !important;
 }
 
-
-
 h1 {
   font-family: "Okkult-Black";
   font-weight: 900;
 }
 
+@media (min-width: 500px) {
 .page-title {
 	font-size: 64px;
+	margin-top: 0 !important;
+	}
+	article h1 {
+	font-size: 64px;
+}
+
+}
+
+.page-title {
 	margin-top: 0 !important;
 }
 
@@ -64,6 +72,8 @@ blockquote {
 	font-size: 18px;
 }
 
-article h1 {
-	font-size: 64px;
-}
+
+
+
+
+
