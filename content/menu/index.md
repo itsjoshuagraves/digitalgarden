@@ -1,9 +1,9 @@
 ---
 headless: true
 ---
-
+- [**Home**](/)
 - [**Personal Sphere**]({{< relref "/personal" >}})
-  - ~~[Visual Artistry]()~~
+  - ~~Visual Artistry~~
   - ~~Process & Inspiration~~
   - [Journal]({{< relref "/posts" >}})
   - ~~Read and Watch List~~
@@ -12,8 +12,10 @@ headless: true
   - ~~Research~~
   - ~~Product Design & Development~~
   - [Guides]({{< relref "/tags/guides ">}})
-  - ~~Workshops & Speaking~~
-  - ~~Coaching & Consulting~~
+  - [Workshops & Speaking](/workshops)
+   - [Appearances](/appearances)
+  - [Coaching](/coaching)
+  - [Consulting](/consulting)
 - [**About**]({{< relref "/about" >}})
   - [Me]({{< relref "/me" >}})
 
