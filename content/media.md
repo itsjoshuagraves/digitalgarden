@@ -6,13 +6,6 @@ type: docs
 # Media
 I watch and read a lot. Here's some of it.
 
-{{</* tabs "media" */>}}
-{{</* tab "Film & TV" */>}} # Film & TV {{</* /tab */>}}
-{{</* tab "Books" */>}} # Books {{</* /tab */>}}
-{{</* tab "Games" */>}} # Games {{</* /tab */>}}
-{{</* /tabs */>}}
-
-
 {{< tabs "media" >}}
 {{< tab "Film & TV" >}}
 
@@ -74,7 +67,7 @@ I watch and read a lot. Here's some of it.
 
 {{< /tab >}}
 
-{{< tab "Linux" >}}
+{{< tab "Books" >}}
 
 # Books 
 
@@ -97,7 +90,7 @@ I watch and read a lot. Here's some of it.
 - How minds are changed
 - Chaos machine
 - Mind gut connection
-- [Brain energy
+- Brain energy
 
 {{< /tab >}}
 
