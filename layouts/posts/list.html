@@ -1,6 +1,9 @@
 {{ define "main" }}
   {{ range sort .Paginator.Pages }}
   <article class="markdown book-post">
+{{ with .Date }}
+  <h5>{{ partial "docs/date" (dict "Date" . "Format" $.Site.Params.BookDateFormat) }}</h5>
+{{ end }}
     <h2>
       <a href="{{ .RelPermalink }}">{{ partial "docs/title.html" . }}</a>
     </h2>
