@@ -3,7 +3,7 @@ title: Home
 type: docs
 ---
 
-# Welcome to The Garden
+# Welcome to Joshua Mauldin's Digital Garden
 {{< figure src="./img/jdm.png" title="Ambigram of my initials test" >}}
 
 ## What is this?
@@ -13,7 +13,7 @@ This is a wiki of sorts that catalogs my professional and personal life. It's co
 As it grows, you'll see more of the work you've come to expect from me. 
 
 ## Where's your work?
-If you'd like to see that right now, head over to [Webflow](https://personal-site-95b339.webflow.io).
+If you'd like to see that right now, head over to [my portfolio](https://personal-site-95b339.webflow.io).
 
 ## Why do this? 
 
