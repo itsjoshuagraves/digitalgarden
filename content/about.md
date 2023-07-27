@@ -6,16 +6,19 @@ type: docs
 
 {{< figure src="/img/DSC00162.jpeg" title="Basquiat" >}}
 
-## This wiki is the wellspring of my digital life and a catalog of my analog one.
+## How's this built?
+I use Hugo, a static site generator. It's working with Go, markdown, and powered by GitHub pages. There's no fancy CMS, no loads of animations. 
 
-Based on the digital garden idea, inspired by [Helvetica Blanc](https://helveticablanc.com)
-The following is adapted from [https://wiki.xxiivv.com/site/home.html](https://wiki.xxiivv.com/site/home.html)
+In the future, I'll be focusing on making it even easier and greener to load, adding image dithering and hopefully attempting to most entirely to green, solar-powered hosting.
 
-It is built to adapt to my needs as they change, and to [technology as it evolves](https://wiki.xxiivv.com/site/lasting.html). The databases are in human-readable plaintext formats. There is no JavaScript, trackers, or complicated nonsense. 
+## What's the idea?
 
-Using this tool should be **calming**, its formats and subsequent products versionable, re-purposable, interpretable and text-editable. Only through **open sources, open standards, human-readable formats** and their independencies, might they survive this fleeting age of self-destructing informatics. These attributes should not only be perceptible in its design, but deeply rooted in its code.
+This site is inspired by the concept of [digital gardening](https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/). [Helvetica Blanc](https://helveticablanc.com) got me interested in the idea after feeling some tension related to what a site should be.
 
-This type of website is a often referred to as a "memex", a kind of archive and mirror of everything that one has done, that one has learnt. It's a living document that outlines where one has been, and a tool that advises where one could go. 
+I also took inspiration from [Devine Lu Linvega](https://wiki.xxiivv.com/site/home.html), who says the following about sites sucj as this:
+
+> This type of website is a often referred to as a "memex", a kind of archive and mirror of everything that one has done, that one has learnt. It's a living document that outlines where one has been, and a tool that advises where one could go. 
+
 
 ---
 
