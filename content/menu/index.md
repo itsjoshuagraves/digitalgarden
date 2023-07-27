@@ -4,6 +4,7 @@ headless: true
 - [**Home**](/)
 - [**Personal Sphere**]({{< relref "/personal" >}})
   - [Journal]({{< relref "/posts" >}})
+  - [Read & Watch List](/media)
 - [**Professional Sphere**]({{< relref "/professional" >}})
   - [Writing]({{< relref "/categories/published" >}})
   - [Guides]({{< relref "/tags/guides ">}})
