@@ -18,35 +18,33 @@ Since beginning my speaking career, I've:
 
 I care deeply about bringing more mindfulness to your craft and more humanity to your relationships at every level—I’m prepared to show you how that directly benefits your company, too.
 
-# What People Say
+## What People Say
 
 From executive leadership to junior-level practitioner, here's what people said about my talks and workshops.
 
 > Joshua's workshop really took some potentially painful situations and made them smooth and easy!
-*Rad Summit Attendee*
-> 
+> *Rad Summit Attendee*
+
 
 > This should be required for every person at any company.
-*OnDeck 2022 Cohort Attendee*
-> 
+> *OnDeck 2022 Cohort Attendee*
+
 
 > Your workshop is the main reason I came to this conference.
-*Rad Summit Attendee*
+> *Rad Summit Attendee*
 > 
 
-> Josh's workshop was really helpful for my new leadership role in my company!
-> 
-> 
+>Josh's workshop was really helpful for my new leadership role in my company!
 > *Productized Masterclass Attendee*
-> 
 
-# Current Offerings
+
+## Current Offerings
 
 I'm focused on teaching teams how and why to embrace healthy conflict.
 
 I offer customized workshops, both in-person or remote, and talks for your teams, too! Just [get in touch](https://www.joshuamauldin.com/contact) and we can discuss what you need.
 
-## We Need to Talk
+### We Need to Talk
 
 For most of us, conflict is often something we try to avoid. Yet, truly embracing “healthy” conflict is your team’s secret to building great products.
 
@@ -57,7 +55,7 @@ Available as:
 - 4 hour workshop with one-on-one office hours available afterwards (4+ people required)
 - 8 hour workshop with one-on-one office hours available afterwards (8+ people required)
 
-## Magical Cross-Functional Collaboration
+### Magical Cross-Functional Collaboration
 
 To build the best products and teams, it’s critical that you collaborate deeply with people both inside and outside your discipline to build a shared sense of ownership. This workshop focuses on building working agreements.
 
