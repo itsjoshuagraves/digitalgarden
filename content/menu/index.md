@@ -3,17 +3,12 @@ headless: true
 ---
 - [**Home**](/)
 - [**Personal Sphere**]({{< relref "/personal" >}})
-  - ~~Visual Artistry~~
-  - ~~Process & Inspiration~~
   - [Journal]({{< relref "/posts" >}})
-  - ~~Read and Watch List~~
 - [**Professional Sphere**]({{< relref "/professional" >}})
-  - [Writing & Guides]({{< relref "/categories/published" >}})
-  - ~~Research~~
-  - ~~Product Design & Development~~
+  - [Writing]({{< relref "/categories/published" >}})
   - [Guides]({{< relref "/tags/guides ">}})
   - [Workshops & Speaking](/workshops)
-   - [Appearances](/appearances)
+  - [Appearances](/appearances)
   - [Coaching](/coaching)
   - [Consulting](/consulting)
 - [**About**]({{< relref "/about" >}})
