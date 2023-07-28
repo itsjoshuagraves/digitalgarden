@@ -1,4 +1,4 @@
 ---
 title: Visual Art
-type: docs
+type: art
 ---
