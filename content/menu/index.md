@@ -6,10 +6,13 @@ headless: true
   - [Journal]({{< relref "/posts" >}})
   - [Read & Watch List](/media)
 - [**Professional Sphere**]({{< relref "/professional" >}})
-  - [Writing]({{< relref "/categories/published" >}})
-  - [Guides]({{< relref "/tags/guides ">}})
-  - [Workshops & Speaking](/workshops)
-  - [Coaching](/niceweather)
-  - [Consulting](/consulting)
+- [Philosophy](/philosophy)
+- [Process](/process)
+- [Writing]({{< relref "/categories/published" >}})
+- [Guides]({{< relref "/tags/guides ">}})
+- [Coaching & Consulting](/coaching)
+- [Workshops & Speaking](/workshops)
 - [**About**]({{< relref "/about" >}})
   - [Me]({{< relref "/me" >}})
+
+
