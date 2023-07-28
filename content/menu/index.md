@@ -4,7 +4,7 @@ headless: true
 - [**Home**](/)
 - [**Personal Sphere**]({{< relref "/personal" >}})
   - [Journal](/journal)
-  - [Art](/art)
+  <!-- - [Art](/art) -->
   - [Read & Watch List](/media)
 - [**Professional Sphere**](/professional)
   - [Docs](/docs)

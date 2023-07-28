@@ -77,3 +77,16 @@ enableGitInfo = true
   # /!\ This is an experimental feature, might be removed or changed at any time
   # (Optional, experimental, default false) Enables a drop-down menu for translations only if a translation is present.
   BookTranslatedOnly = false
+
+
+  [imaging]
+  anchor = 'Smart'
+  bgColor = '#ffffff'
+  hint = 'photo'
+  quality = 60
+  resampleFilter = 'Box'
+  [imaging.exif]
+    disableDate = true
+    disableLatLong = true
+    excludeFields = ''
+    includeFields = ''

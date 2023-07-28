@@ -1,5 +1,5 @@
 ---
-title: My Design Process
+title: Design Process
 type: docs
 ---
 

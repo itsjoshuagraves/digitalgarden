@@ -1,5 +1,5 @@
 ---
-title: My Design Philosophy
+title: Philosophy of Design
 type: docs
 ---
 <!-- # My Design Philosophy -->
