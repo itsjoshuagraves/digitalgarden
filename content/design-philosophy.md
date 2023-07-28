@@ -2,7 +2,7 @@
 title: My Design Philosophy
 type: docs
 ---
-# My Design Philosophy
+<!-- # My Design Philosophy -->
 
 The most effective process is one that's resilient and adaptable. That means being principle-driven and not process-driven. Here’s why: each project, problem, and team are unique. Each person’s insight and experience are, too. Following principles instead of a rigorous process lets us honor that uniqueness to deliver truly wonderful results. Not only that, we can move quickly and with intention to deliver great software. You can read [how it looks in practice](/design-process), too.
 

@@ -13,9 +13,9 @@ Pedum ne indigenae finire invergens carpebat Velit posses summoque De fumos illa
 <title>Example Site | Joshua Mauldin</title>
 <link rel="manifest" href="/manifest.json">
 <link rel="icon" href="/favicon.png" type="image/x-icon">
-<link rel="stylesheet" href="/book.min.d0123c4302711e66122ff09a92da823431a03da48dbd9e7ba059314dd4949b53.css" integrity="sha256-0BI8QwJxHmYSL/CaktqCNDGgPaSNvZ57oFkxTdSUm1M=" crossorigin="anonymous">
+<link rel="stylesheet" href="/book.min.6d2b1e01785ea0d1f785d9a78723c7014c9cbdbc45eda405c6ae1673b4bd4c1b.css" integrity="sha256-bSseAXheoNH3hdmnhyPHAUycvbxF7aQFxq4Wc7S9TBs=" crossorigin="anonymous">
   <script defer src="/flexsearch.min.js"></script>
-  <script defer src="/en.search.min.2c92f9a11f8adf366d7ef525c396579a88174490b070255ffb5a95817c1fe0a5.js" integrity="sha256-LJL5oR&#43;K3zZtfvUlw5ZXmogXRJCwcCVf&#43;1qVgXwf4KU=" crossorigin="anonymous"></script>
+  <script defer src="/en.search.min.ec5a335958003808dbd04490ace22635b4ffa18440c0da6ff45d86ce44c16e8c.js" integrity="sha256-7FozWVgAOAjb0ESQrOImNbT/oYRAwNpv9F2GzkTBbow=" crossorigin="anonymous"></script>
 
   <script defer src="/sw.min.6f6f90fcb8eb1c49ec389838e6b801d0de19430b8e516902f8d75c3c8bd98739.js" integrity="sha256-b2&#43;Q/LjrHEnsOJg45rgB0N4ZQwuOUWkC&#43;NdcPIvZhzk=" crossorigin="anonymous"></script>
 <link rel="alternate" type="application/rss+xml" href="https://joshuamauldin.com/docs/example/index.xml" title="Joshua Mauldin" />
@@ -60,17 +60,18 @@ https://github.com/alex-shpak/hugo-book
 <li><a href="/"><strong>Home</strong></a></li>
 <li><a href="/personal/"><strong>Personal Sphere</strong></a>
 <ul>
-<li><a href="/posts/">Journal</a></li>
+<li><a href="/journal">Journal</a></li>
+<li><a href="/art">Art</a></li>
 <li><a href="/media">Read &amp; Watch List</a></li>
 </ul>
 </li>
 <li><a href="/professional/"><strong>Professional Sphere</strong></a>
 <ul>
-<li><a href="/categories/published/">Writing</a></li>
-<li><a href="/tags/Guides/">Guides</a></li>
+<li><a href="/docs">Docs</a></li>
+<li><a href="/design-philosophy">Philosophy</a></li>
+<li><a href="/design-process">Process</a></li>
+<li><a href="/coaching">Coaching &amp; Consulting</a></li>
 <li><a href="/workshops">Workshops &amp; Speaking</a></li>
-<li><a href="/niceweather">Coaching</a></li>
-<li><a href="/consulting">Consulting</a></li>
 </ul>
 </li>
 <li><a href="/about/"><strong>About</strong></a>
@@ -79,7 +80,10 @@ https://github.com/alex-shpak/hugo-book
 </ul>
 </li>
 </ul>
-
+<!-- 
+  - [Writing](/categories/published/)
+  - [Guides](/tags/Guides/)
+ -->
 
 
 
@@ -109,7 +113,7 @@ https://github.com/alex-shpak/hugo-book
     <img src="/svg/menu.svg" class="book-icon" alt="Menu" />
   </label>
 
-  <strong>Example Site</strong>
+  
 
   <label for="toc-control">
     
@@ -122,16 +126,99 @@ https://github.com/alex-shpak/hugo-book
   
   <aside class="hidden clearfix">
     
-  
-<nav id="TableOfContents">
+  <nav>
   <ul>
-    <li><a href="#ferre-hinnitibus-erat-accipitrem-dixi-troiae-tollens">Ferre hinnitibus erat accipitrem dixi Troiae tollens</a></li>
-    <li><a href="#est-simul-fameque-tauri-qua-ad">Est simul fameque tauri qua ad</a></li>
-    <li><a href="#me-sol">Me sol</a></li>
-    <li><a href="#trepident-sitimque">Trepident sitimque</a></li>
+  
+    
+    <li class="book-section-flat">
+      <strong>Categories</strong>
+      <ul>
+      
+        <li class="flex justify-between">
+          <a href="/categories/published/">published</a>
+          <span>26</span>
+        </li>
+      
+        <li class="flex justify-between">
+          <a href="/categories/personal/">personal</a>
+          <span>3</span>
+        </li>
+      
+      </ul>
+    </li>
+    
+  
+    
+    <li class="book-section-flat">
+      <strong>Tags</strong>
+      <ul>
+      
+        <li class="flex justify-between">
+          <a href="/tags/Exercise/">Exercise</a>
+          <span>1</span>
+        </li>
+      
+        <li class="flex justify-between">
+          <a href="/tags/Guides/">Guides</a>
+          <span>15</span>
+        </li>
+      
+        <li class="flex justify-between">
+          <a href="/tags/Product/">Product</a>
+          <span>14</span>
+        </li>
+      
+        <li class="flex justify-between">
+          <a href="/tags/Safety/">Safety</a>
+          <span>1</span>
+        </li>
+      
+        <li class="flex justify-between">
+          <a href="/tags/Script/">Script</a>
+          <span>1</span>
+        </li>
+      
+        <li class="flex justify-between">
+          <a href="/tags/Collaboration/">Collaboration</a>
+          <span>4</span>
+        </li>
+      
+        <li class="flex justify-between">
+          <a href="/tags/Feedback/">Feedback</a>
+          <span>3</span>
+        </li>
+      
+        <li class="flex justify-between">
+          <a href="/tags/Advice/">Advice</a>
+          <span>5</span>
+        </li>
+      
+        <li class="flex justify-between">
+          <a href="/tags/Thoughtful-Design/">Thoughtful Design</a>
+          <span>14</span>
+        </li>
+      
+        <li class="flex justify-between">
+          <a href="/tags/Focus/">Focus</a>
+          <span>3</span>
+        </li>
+      
+        <li class="flex justify-between">
+          <a href="/tags/Reflection/">Reflection</a>
+          <span>3</span>
+        </li>
+      
+        <li class="flex justify-between">
+          <a href="/tags/General/">General</a>
+          <span>2</span>
+        </li>
+      
+      </ul>
+    </li>
+    
+  
   </ul>
 </nav>
-
 
 
   </aside>
@@ -141,79 +228,29 @@ https://github.com/alex-shpak/hugo-book
 
       
       
-  <article class="markdown"><h1 id="introduction">
-  Introduction
-  <a class="anchor" href="#introduction">#</a>
-</h1>
-<h2 id="ferre-hinnitibus-erat-accipitrem-dixi-troiae-tollens">
-  Ferre hinnitibus erat accipitrem dixi Troiae tollens
-  <a class="anchor" href="#ferre-hinnitibus-erat-accipitrem-dixi-troiae-tollens">#</a>
-</h2>
-<p>Lorem markdownum, a quoque nutu est <em>quodcumque mandasset</em> veluti. Passim
-inportuna totidemque nympha fert; repetens pendent, poenarum guttura sed vacet
-non, mortali undas. Omnis pharetramque gramen portentificisque membris servatum
-novabis fallit de nubibus atque silvas mihi. <strong>Dixit repetitaque Quid</strong>; verrit
-longa; sententia <a href="http://pastor-ad.io/questussilvas">mandat</a> quascumque nescio
-solebat <a href="http://lacrimas-ab.net/">litore</a>; noctes. <em>Hostem haerentem</em> circuit
-<a href="http://www.sine.io/in">plenaque tamen</a>.</p>
-<ul>
-<li>Pedum ne indigenae finire invergens carpebat</li>
-<li>Velit posses summoque</li>
-<li>De fumos illa foret</li>
-</ul>
-<h2 id="est-simul-fameque-tauri-qua-ad">
-  Est simul fameque tauri qua ad
-  <a class="anchor" href="#est-simul-fameque-tauri-qua-ad">#</a>
-</h2>
-<p>Locum nullus nisi vomentes. Ab Persea sermone vela, miratur aratro; eandem
-Argolicas gener.</p>
-<h2 id="me-sol">
-  Me sol
-  <a class="anchor" href="#me-sol">#</a>
-</h2>
-<p>Nec dis certa fuit socer, Nonacria <strong>dies</strong> manet tacitaque sibi? Sucis est
-iactata Castrumque iudex, et iactato quoque terraeque es tandem et maternos
-vittis. Lumina litus bene poenamque animos callem ne tuas in leones illam dea
-cadunt genus, et pleno nunc in quod. Anumque crescentesque sanguinis
-<a href="http://www.late.net/alimentavirides">progenies</a> nuribus rustica tinguet. Pater
-omnes liquido creditis noctem.</p>
-<pre><code>if (mirrored(icmp_dvd_pim, 3, smbMirroredHard) != lion(clickImportQueue,
-        viralItunesBalancing, bankruptcy_file_pptp)) {
-    file += ip_cybercrime_suffix;
-}
-if (runtimeSmartRom == netMarketingWord) {
-    virusBalancingWin *= scriptPromptBespoke + raster(post_drive,
-            windowsSli);
-    cd = address_hertz_trojan;
-    soap_ccd.pcbServerGigahertz(asp_hardware_isa, offlinePeopleware, nui);
-} else {
-    megabyte.api = modem_flowchart - web + syntaxHalftoneAddress;
-}
-if (3 &lt; mebibyteNetworkAnimated) {
-    pharming_regular_error *= jsp_ribbon + algorithm * recycleMediaKindle(
-            dvrSyntax, cdma);
-    adf_sla *= hoverCropDrive;
-    templateNtfs = -1 - vertical;
-} else {
-    expressionCompressionVariable.bootMulti = white_eup_javascript(
-            table_suffix);
-    guidPpiPram.tracerouteLinux += rtfTerabyteQuicktime(1,
-            managementRosetta(webcamActivex), 740874);
-}
-var virusTweetSsl = nullGigo;
-</code></pre>
-<h2 id="trepident-sitimque">
-  Trepident sitimque
-  <a class="anchor" href="#trepident-sitimque">#</a>
-</h2>
-<p>Sentiet et ferali errorem fessam, coercet superbus, Ascaniumque in pennis
-mediis; dolor? Vidit imi <strong>Aeacon</strong> perfida propositos adde, tua Somni Fluctibus
-errante lustrat non.</p>
-<p>Tamen inde, vos videt e flammis Scythica parantem rupisque pectora umbras. Haec
-ficta canistris repercusso simul ego aris Dixit! Esse Fama trepidare hunc
-crescendo vigor ululasse vertice <em>exspatiantur</em> celer tepidique petita aversata
-oculis iussa est me ferro.</p>
-</article>
+  
+  <article class="markdown book-post">
+
+    <h2 class="post-title">
+      <a href="/docs/example/hidden/">Hidden</a>
+    </h2>
+    
+  
+
+  
+
+
+
+
+    <p>This page is hidden in menu # Quondam non pater est dignior ille Eurotas # Latent te facies # Lorem markdownum arma ignoscas vocavit quoque ille texit mandata mentis ultimus, frementes, qui in vel. Hippotades Peleus pennas conscia cuiquam Caeneus quas.
+Pater demittere evincitque reddunt Maxime adhuc pressit huc Danaas quid freta Soror ego Luctus linguam saxa ultroque prior Tatiumque inquit Saepe liquitur subita superata dederat Anius sudor Cum honorum Latona # O fallor in sustinui iussorum equidem.
+        <a href="/docs/example/hidden/">...</a>
+      
+    </p>
+  </article>
+  
+
+  
  
       
 
@@ -257,16 +294,99 @@ oculis iussa est me ferro.</p>
     <aside class="book-toc">
       <div class="book-toc-content">
         
-  
-<nav id="TableOfContents">
+  <nav>
   <ul>
-    <li><a href="#ferre-hinnitibus-erat-accipitrem-dixi-troiae-tollens">Ferre hinnitibus erat accipitrem dixi Troiae tollens</a></li>
-    <li><a href="#est-simul-fameque-tauri-qua-ad">Est simul fameque tauri qua ad</a></li>
-    <li><a href="#me-sol">Me sol</a></li>
-    <li><a href="#trepident-sitimque">Trepident sitimque</a></li>
+  
+    
+    <li class="book-section-flat">
+      <strong>Categories</strong>
+      <ul>
+      
+        <li class="flex justify-between">
+          <a href="/categories/published/">published</a>
+          <span>26</span>
+        </li>
+      
+        <li class="flex justify-between">
+          <a href="/categories/personal/">personal</a>
+          <span>3</span>
+        </li>
+      
+      </ul>
+    </li>
+    
+  
+    
+    <li class="book-section-flat">
+      <strong>Tags</strong>
+      <ul>
+      
+        <li class="flex justify-between">
+          <a href="/tags/Exercise/">Exercise</a>
+          <span>1</span>
+        </li>
+      
+        <li class="flex justify-between">
+          <a href="/tags/Guides/">Guides</a>
+          <span>15</span>
+        </li>
+      
+        <li class="flex justify-between">
+          <a href="/tags/Product/">Product</a>
+          <span>14</span>
+        </li>
+      
+        <li class="flex justify-between">
+          <a href="/tags/Safety/">Safety</a>
+          <span>1</span>
+        </li>
+      
+        <li class="flex justify-between">
+          <a href="/tags/Script/">Script</a>
+          <span>1</span>
+        </li>
+      
+        <li class="flex justify-between">
+          <a href="/tags/Collaboration/">Collaboration</a>
+          <span>4</span>
+        </li>
+      
+        <li class="flex justify-between">
+          <a href="/tags/Feedback/">Feedback</a>
+          <span>3</span>
+        </li>
+      
+        <li class="flex justify-between">
+          <a href="/tags/Advice/">Advice</a>
+          <span>5</span>
+        </li>
+      
+        <li class="flex justify-between">
+          <a href="/tags/Thoughtful-Design/">Thoughtful Design</a>
+          <span>14</span>
+        </li>
+      
+        <li class="flex justify-between">
+          <a href="/tags/Focus/">Focus</a>
+          <span>3</span>
+        </li>
+      
+        <li class="flex justify-between">
+          <a href="/tags/Reflection/">Reflection</a>
+          <span>3</span>
+        </li>
+      
+        <li class="flex justify-between">
+          <a href="/tags/General/">General</a>
+          <span>2</span>
+        </li>
+      
+      </ul>
+    </li>
+    
+  
   </ul>
 </nav>
-
 
  
       </div>

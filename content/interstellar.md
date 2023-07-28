@@ -3,8 +3,6 @@ title: Interstellar Spray Paint Textures
 type: docs
 ---
 
-# Interstellar Spray Paint Textures	
-
 ![https://images.creativemarket.com/0.1.0/ps/10180473/600/400/m1/fpnw/wm0/interstellar-texturesartboard-1-copy-2-.jpg?1618170290&s=18a468e81993f545991cee33fb935746&fmt=webp](https://images.creativemarket.com/0.1.0/ps/10180473/600/400/m1/fpnw/wm0/interstellar-texturesartboard-1-copy-2-.jpg?1618170290&s=18a468e81993f545991cee33fb935746&fmt=webp)
 
 [Buy it at Creative Market](https://creativemarket.com/joshua.mauldin/6063689-Interstellar-Spray-Paint-Textures)

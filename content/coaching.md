@@ -2,7 +2,6 @@
 title: Coaching & Consulting
 type: docs
 ---
-# Coaching & Consulting
 
 {{< hint info >}}
 I offer coaching engagements through my company, Nice Weather, and consulting engagements.

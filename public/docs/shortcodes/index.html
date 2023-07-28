@@ -12,9 +12,9 @@
 <title>Shortcodes | Joshua Mauldin</title>
 <link rel="manifest" href="/manifest.json">
 <link rel="icon" href="/favicon.png" type="image/x-icon">
-<link rel="stylesheet" href="/book.min.d0123c4302711e66122ff09a92da823431a03da48dbd9e7ba059314dd4949b53.css" integrity="sha256-0BI8QwJxHmYSL/CaktqCNDGgPaSNvZ57oFkxTdSUm1M=" crossorigin="anonymous">
+<link rel="stylesheet" href="/book.min.6d2b1e01785ea0d1f785d9a78723c7014c9cbdbc45eda405c6ae1673b4bd4c1b.css" integrity="sha256-bSseAXheoNH3hdmnhyPHAUycvbxF7aQFxq4Wc7S9TBs=" crossorigin="anonymous">
   <script defer src="/flexsearch.min.js"></script>
-  <script defer src="/en.search.min.2c92f9a11f8adf366d7ef525c396579a88174490b070255ffb5a95817c1fe0a5.js" integrity="sha256-LJL5oR&#43;K3zZtfvUlw5ZXmogXRJCwcCVf&#43;1qVgXwf4KU=" crossorigin="anonymous"></script>
+  <script defer src="/en.search.min.ec5a335958003808dbd04490ace22635b4ffa18440c0da6ff45d86ce44c16e8c.js" integrity="sha256-7FozWVgAOAjb0ESQrOImNbT/oYRAwNpv9F2GzkTBbow=" crossorigin="anonymous"></script>
 
   <script defer src="/sw.min.6f6f90fcb8eb1c49ec389838e6b801d0de19430b8e516902f8d75c3c8bd98739.js" integrity="sha256-b2&#43;Q/LjrHEnsOJg45rgB0N4ZQwuOUWkC&#43;NdcPIvZhzk=" crossorigin="anonymous"></script>
 <link rel="alternate" type="application/rss+xml" href="https://joshuamauldin.com/docs/shortcodes/index.xml" title="Joshua Mauldin" />
@@ -59,17 +59,18 @@ https://github.com/alex-shpak/hugo-book
 <li><a href="/"><strong>Home</strong></a></li>
 <li><a href="/personal/"><strong>Personal Sphere</strong></a>
 <ul>
-<li><a href="/posts/">Journal</a></li>
+<li><a href="/journal">Journal</a></li>
+<li><a href="/art">Art</a></li>
 <li><a href="/media">Read &amp; Watch List</a></li>
 </ul>
 </li>
 <li><a href="/professional/"><strong>Professional Sphere</strong></a>
 <ul>
-<li><a href="/categories/published/">Writing</a></li>
-<li><a href="/tags/Guides/">Guides</a></li>
+<li><a href="/docs">Docs</a></li>
+<li><a href="/design-philosophy">Philosophy</a></li>
+<li><a href="/design-process">Process</a></li>
+<li><a href="/coaching">Coaching &amp; Consulting</a></li>
 <li><a href="/workshops">Workshops &amp; Speaking</a></li>
-<li><a href="/niceweather">Coaching</a></li>
-<li><a href="/consulting">Consulting</a></li>
 </ul>
 </li>
 <li><a href="/about/"><strong>About</strong></a>
@@ -78,7 +79,10 @@ https://github.com/alex-shpak/hugo-book
 </ul>
 </li>
 </ul>
-
+<!-- 
+  - [Writing](/categories/published/)
+  - [Guides](/tags/Guides/)
+ -->
 
 
 
@@ -108,7 +112,7 @@ https://github.com/alex-shpak/hugo-book
     <img src="/svg/menu.svg" class="book-icon" alt="Menu" />
   </label>
 
-  <strong>Shortcodes</strong>
+  
 
   <label for="toc-control">
     
@@ -121,9 +125,99 @@ https://github.com/alex-shpak/hugo-book
   
   <aside class="hidden clearfix">
     
+  <nav>
+  <ul>
   
-<nav id="TableOfContents"></nav>
-
+    
+    <li class="book-section-flat">
+      <strong>Categories</strong>
+      <ul>
+      
+        <li class="flex justify-between">
+          <a href="/categories/published/">published</a>
+          <span>26</span>
+        </li>
+      
+        <li class="flex justify-between">
+          <a href="/categories/personal/">personal</a>
+          <span>3</span>
+        </li>
+      
+      </ul>
+    </li>
+    
+  
+    
+    <li class="book-section-flat">
+      <strong>Tags</strong>
+      <ul>
+      
+        <li class="flex justify-between">
+          <a href="/tags/Exercise/">Exercise</a>
+          <span>1</span>
+        </li>
+      
+        <li class="flex justify-between">
+          <a href="/tags/Guides/">Guides</a>
+          <span>15</span>
+        </li>
+      
+        <li class="flex justify-between">
+          <a href="/tags/Product/">Product</a>
+          <span>14</span>
+        </li>
+      
+        <li class="flex justify-between">
+          <a href="/tags/Safety/">Safety</a>
+          <span>1</span>
+        </li>
+      
+        <li class="flex justify-between">
+          <a href="/tags/Script/">Script</a>
+          <span>1</span>
+        </li>
+      
+        <li class="flex justify-between">
+          <a href="/tags/Collaboration/">Collaboration</a>
+          <span>4</span>
+        </li>
+      
+        <li class="flex justify-between">
+          <a href="/tags/Feedback/">Feedback</a>
+          <span>3</span>
+        </li>
+      
+        <li class="flex justify-between">
+          <a href="/tags/Advice/">Advice</a>
+          <span>5</span>
+        </li>
+      
+        <li class="flex justify-between">
+          <a href="/tags/Thoughtful-Design/">Thoughtful Design</a>
+          <span>14</span>
+        </li>
+      
+        <li class="flex justify-between">
+          <a href="/tags/Focus/">Focus</a>
+          <span>3</span>
+        </li>
+      
+        <li class="flex justify-between">
+          <a href="/tags/Reflection/">Reflection</a>
+          <span>3</span>
+        </li>
+      
+        <li class="flex justify-between">
+          <a href="/tags/General/">General</a>
+          <span>2</span>
+        </li>
+      
+      </ul>
+    </li>
+    
+  
+  </ul>
+</nav>
 
 
   </aside>
@@ -133,7 +227,170 @@ https://github.com/alex-shpak/hugo-book
 
       
       
-  <article class="markdown"></article>
+  
+  <article class="markdown book-post">
+
+    <h2 class="post-title">
+      <a href="/docs/shortcodes/buttons/">Buttons</a>
+    </h2>
+    
+  
+
+  
+
+
+
+
+    <p> Buttons # Buttons are styled links that can lead to local page or external link.
+Example # {{&lt; button relref=&#34;/&#34; [class=&#34;...&#34;] &gt;}}Get Home{{&lt; /button &gt;}} {{&lt; button href=&#34;https://github.com/alex-shpak/hugo-book&#34; &gt;}}Contribute{{&lt; /button &gt;}} Get Home Contribute 
+    </p>
+  </article>
+  
+  <article class="markdown book-post">
+
+    <h2 class="post-title">
+      <a href="/docs/shortcodes/columns/">Columns</a>
+    </h2>
+    
+  
+
+  
+
+
+
+
+    <p>Columns # Columns help organize shorter pieces of content horizontally for readability.
+{{&lt; columns &gt;}} &lt;!-- begin columns block --&gt; # Left Content Lorem markdownum insigne... &lt;---&gt; &lt;!-- magic separator, between columns --&gt; # Mid Content Lorem markdownum insigne... &lt;---&gt; &lt;!-- magic separator, between columns --&gt; # Right Content Lorem markdownum insigne... {{&lt; /columns &gt;}} Example # Left Content # Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat stringit, frustra Saturnius uteroque inter!
+        <a href="/docs/shortcodes/columns/">...</a>
+      
+    </p>
+  </article>
+  
+  <article class="markdown book-post">
+
+    <h2 class="post-title">
+      <a href="/docs/shortcodes/details/">Details</a>
+    </h2>
+    
+  
+
+  
+
+
+
+
+    <p> Details # Details shortcode is a helper for details html5 element. It is going to replace expand shortcode.
+Example # {{&lt; details &#34;Title&#34; [open] &gt;}} ## Markdown content Lorem markdownum insigne... {{&lt; /details &gt;}} {{&lt; details title=&#34;Title&#34; open=true &gt;}} ## Markdown content Lorem markdownum insigne... {{&lt; /details &gt;}} Title Markdown content # Lorem markdownum insigne&hellip; 
+    </p>
+  </article>
+  
+  <article class="markdown book-post">
+
+    <h2 class="post-title">
+      <a href="/docs/shortcodes/expand/">Expand</a>
+    </h2>
+    
+  
+
+  
+
+
+
+
+    <p>Expand # Expand shortcode can help to decrease clutter on screen by hiding part of text. Expand content by clicking on it.
+Example # Default # {{&lt; expand &gt;}} ## Markdown content Lorem markdownum insigne... {{&lt; /expand &gt;}} Expand ↕ Markdown content # Lorem markdownum insigne&hellip; With Custom Label # {{&lt; expand &#34;Custom Label&#34; &#34;...&#34; &gt;}} ## Markdown content Lorem markdownum insigne... {{&lt; /expand &gt;}} Custom Label ... Markdown content # Lorem markdownum insigne.
+        <a href="/docs/shortcodes/expand/">...</a>
+      
+    </p>
+  </article>
+  
+  <article class="markdown book-post">
+
+    <h2 class="post-title">
+      <a href="/docs/shortcodes/hints/">Hints</a>
+    </h2>
+    
+  
+
+  
+
+
+
+
+    <p>Hints # Hint shortcode can be used as hint/alerts/notification block.
+There are 3 colors to choose: info, warning and danger.
+{{&lt; hint [info|warning|danger] &gt;}} **Markdown content** Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa {{&lt; /hint &gt;}} Example # Markdown content
+Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa Markdown content
+        <a href="/docs/shortcodes/hints/">...</a>
+      
+    </p>
+  </article>
+  
+  <article class="markdown book-post">
+
+    <h2 class="post-title">
+      <a href="/docs/shortcodes/katex/">Katex</a>
+    </h2>
+    
+  
+
+  
+
+
+
+
+    <p>KaTeX # KaTeX shortcode let you render math typesetting in markdown document. See KaTeX
+Example # {{&lt;/* katex [display] [class=&#34;text-center&#34;] */&gt;}} f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi {{&lt;/* /katex */&gt;}} \[f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi\] Display Mode Example # Here is some inline example: \(\pi(x)\) , rendered in the same line. And below is display example, having display: block \[f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi\] Text continues here.
+        <a href="/docs/shortcodes/katex/">...</a>
+      
+    </p>
+  </article>
+  
+  <article class="markdown book-post">
+
+    <h2 class="post-title">
+      <a href="/docs/shortcodes/mermaid/">Mermaid</a>
+    </h2>
+    
+  
+
+  
+
+
+
+
+    <p>Mermaid Chart # MermaidJS is library for generating svg charts and diagrams from text.
+Override Mermaid Initialization Config
+To override the initialization config for Mermaid, create a mermaid.json file in your assets folder!
+Example # {{&lt;/* mermaid [class=&#34;text-center&#34;]*/&gt;}} stateDiagram-v2 State1: The state with a note note right of State1 Important information! You can write notes. end note State1 --&gt; State2 note left of State2 : This is the note to the left.
+        <a href="/docs/shortcodes/mermaid/">...</a>
+      
+    </p>
+  </article>
+  
+  <article class="markdown book-post">
+
+    <h2 class="post-title">
+      <a href="/docs/shortcodes/tabs/">Tabs</a>
+    </h2>
+    
+  
+
+  
+
+
+
+
+    <p>Tabs # Tabs let you organize content by context, for example installation instructions for each supported platform.
+{{&lt; tabs &#34;uniqueid&#34; &gt;}} {{&lt; tab &#34;MacOS&#34; &gt;}} # MacOS Content {{&lt; /tab &gt;}} {{&lt; tab &#34;Linux&#34; &gt;}} # Linux Content {{&lt; /tab &gt;}} {{&lt; tab &#34;Windows&#34; &gt;}} # Windows Content {{&lt; /tab &gt;}} {{&lt; /tabs &gt;}} Example # MacOS MacOS # This is tab MacOS content.
+Lorem markdownum insigne. Olympo signis Delphis!
+        <a href="/docs/shortcodes/tabs/">...</a>
+      
+    </p>
+  </article>
+  
+
+  
  
       
 
@@ -173,9 +430,99 @@ https://github.com/alex-shpak/hugo-book
     <aside class="book-toc">
       <div class="book-toc-content">
         
+  <nav>
+  <ul>
   
-<nav id="TableOfContents"></nav>
-
+    
+    <li class="book-section-flat">
+      <strong>Categories</strong>
+      <ul>
+      
+        <li class="flex justify-between">
+          <a href="/categories/published/">published</a>
+          <span>26</span>
+        </li>
+      
+        <li class="flex justify-between">
+          <a href="/categories/personal/">personal</a>
+          <span>3</span>
+        </li>
+      
+      </ul>
+    </li>
+    
+  
+    
+    <li class="book-section-flat">
+      <strong>Tags</strong>
+      <ul>
+      
+        <li class="flex justify-between">
+          <a href="/tags/Exercise/">Exercise</a>
+          <span>1</span>
+        </li>
+      
+        <li class="flex justify-between">
+          <a href="/tags/Guides/">Guides</a>
+          <span>15</span>
+        </li>
+      
+        <li class="flex justify-between">
+          <a href="/tags/Product/">Product</a>
+          <span>14</span>
+        </li>
+      
+        <li class="flex justify-between">
+          <a href="/tags/Safety/">Safety</a>
+          <span>1</span>
+        </li>
+      
+        <li class="flex justify-between">
+          <a href="/tags/Script/">Script</a>
+          <span>1</span>
+        </li>
+      
+        <li class="flex justify-between">
+          <a href="/tags/Collaboration/">Collaboration</a>
+          <span>4</span>
+        </li>
+      
+        <li class="flex justify-between">
+          <a href="/tags/Feedback/">Feedback</a>
+          <span>3</span>
+        </li>
+      
+        <li class="flex justify-between">
+          <a href="/tags/Advice/">Advice</a>
+          <span>5</span>
+        </li>
+      
+        <li class="flex justify-between">
+          <a href="/tags/Thoughtful-Design/">Thoughtful Design</a>
+          <span>14</span>
+        </li>
+      
+        <li class="flex justify-between">
+          <a href="/tags/Focus/">Focus</a>
+          <span>3</span>
+        </li>
+      
+        <li class="flex justify-between">
+          <a href="/tags/Reflection/">Reflection</a>
+          <span>3</span>
+        </li>
+      
+        <li class="flex justify-between">
+          <a href="/tags/General/">General</a>
+          <span>2</span>
+        </li>
+      
+      </ul>
+    </li>
+    
+  
+  </ul>
+</nav>
 
  
       </div>

@@ -3,8 +3,6 @@ title: Research& Prototypes& Pixels&Code Shirt
 type: docs
 ---
 
-# Research& Prototypes& Pixels&Code Shirt
-
 ![Untitled](/img/Untitled%202.png)
 
 

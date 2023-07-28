@@ -2,7 +2,6 @@
 title: Consulting
 type: docs
 ---
-# Consulting
 
 I help my clients build new capabilities, products, and teams. I also help them do it in a way that’s unique to their culture, not just giving them a process to follow and taking their money.
 

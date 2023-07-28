@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Original post
+As of May 24, 2014, the main 4 carriers in the US will allow texting with 911. That’s great, but I wondered what it would look like if smartphones could build on top of that idea.
+I want design to do good and feel like a moment of crisis is an ideal spot to employ thoughtful design to ease a difficult situation. Plus, it’s fun to weave different technologies together.">
+<meta name="theme-color" content="#FFFFFF">
+<meta name="color-scheme" content="light dark"><meta property="og:title" content="How smartphones could improve texting emergency services" />
+<meta property="og:description" content="Original post
+As of May 24, 2014, the main 4 carriers in the US will allow texting with 911. That’s great, but I wondered what it would look like if smartphones could build on top of that idea.
+I want design to do good and feel like a moment of crisis is an ideal spot to employ thoughtful design to ease a difficult situation. Plus, it’s fun to weave different technologies together." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://joshuamauldin.com/docs/published-00010/" /><meta property="article:section" content="docs" />
+<meta property="article:published_time" content="2013-04-03T00:00:00+00:00" />
+<meta property="article:modified_time" content="2013-04-03T00:00:00+00:00" />
+<title>How smartphones could improve texting emergency services | Joshua Mauldin</title>
+<link rel="manifest" href="/manifest.json">
+<link rel="icon" href="/favicon.png" type="image/x-icon">
+<link rel="stylesheet" href="/book.min.6d2b1e01785ea0d1f785d9a78723c7014c9cbdbc45eda405c6ae1673b4bd4c1b.css" integrity="sha256-bSseAXheoNH3hdmnhyPHAUycvbxF7aQFxq4Wc7S9TBs=" crossorigin="anonymous">
+  <script defer src="/flexsearch.min.js"></script>
+  <script defer src="/en.search.min.ec5a335958003808dbd04490ace22635b4ffa18440c0da6ff45d86ce44c16e8c.js" integrity="sha256-7FozWVgAOAjb0ESQrOImNbT/oYRAwNpv9F2GzkTBbow=" crossorigin="anonymous"></script>
+
+  <script defer src="/sw.min.6f6f90fcb8eb1c49ec389838e6b801d0de19430b8e516902f8d75c3c8bd98739.js" integrity="sha256-b2&#43;Q/LjrHEnsOJg45rgB0N4ZQwuOUWkC&#43;NdcPIvZhzk=" crossorigin="anonymous"></script>
+<!--
+Made with Book Theme
+https://github.com/alex-shpak/hugo-book
+-->
+  
+</head>
+<body dir="ltr">
+  <input type="checkbox" class="hidden toggle" id="menu-control" />
+  <input type="checkbox" class="hidden toggle" id="toc-control" />
+  <main class="container flex">
+    <aside class="book-menu">
+      <div class="book-menu-content">
+        
+  <nav>
+<h2 class="book-brand">
+  <a class="flex align-center" href="/"><span>Joshua Mauldin</span>
+  </a>
+</h2>
+
+
+<div class="book-search">
+  <input type="text" id="book-search-input" placeholder="Search" aria-label="Search" maxlength="64" data-hotkeys="s/" />
+  <div class="book-search-spinner hidden"></div>
+  <ul id="book-search-results"></ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+  <ul>
+<li><a href="/"><strong>Home</strong></a></li>
+<li><a href="/personal/"><strong>Personal Sphere</strong></a>
+<ul>
+<li><a href="/journal">Journal</a></li>
+<li><a href="/art">Art</a></li>
+<li><a href="/media">Read &amp; Watch List</a></li>
+</ul>
+</li>
+<li><a href="/professional/"><strong>Professional Sphere</strong></a>
+<ul>
+<li><a href="/docs">Docs</a></li>
+<li><a href="/design-philosophy">Philosophy</a></li>
+<li><a href="/design-process">Process</a></li>
+<li><a href="/coaching">Coaching &amp; Consulting</a></li>
+<li><a href="/workshops">Workshops &amp; Speaking</a></li>
+</ul>
+</li>
+<li><a href="/about/"><strong>About</strong></a>
+<ul>
+<li><a href="/me/">Me</a></li>
+</ul>
+</li>
+</ul>
+<!-- 
+  - [Writing](/categories/published/)
+  - [Guides](/tags/Guides/)
+ -->
+
+
+
+
+
+
+
+
+
+</nav>
+
+
+
+
+  <script>(function(){var e=document.querySelector("aside .book-menu-content");addEventListener("beforeunload",function(){localStorage.setItem("menu.scrollTop",e.scrollTop)}),e.scrollTop=localStorage.getItem("menu.scrollTop")})()</script>
+
+
+ 
+      </div>
+    </aside>
+
+    <div class="book-page">
+      <header class="book-header">
+        
+  <div class="flex align-center justify-between">
+  <label for="menu-control">
+    <img src="/svg/menu.svg" class="book-icon" alt="Menu" />
+  </label>
+
+  
+
+  <label for="toc-control">
+    
+    <img src="/svg/toc.svg" class="book-icon" alt="Table of Contents" />
+    
+  </label>
+</div>
+
+
+  
+  <aside class="hidden clearfix">
+    
+  
+<nav id="TableOfContents">
+  <ul>
+    <li><a href="#1-lock-screen"><strong>1) Lock Screen</strong></a></li>
+    <li><a href="#2-messages">2) Messages</a></li>
+    <li><a href="#3-siri"><strong>3) Siri</strong></a></li>
+  </ul>
+
+  <ul>
+    <li><a href="#further-reading--data">Further Reading &amp; Data</a></li>
+  </ul>
+</nav>
+
+
+
+  </aside>
+  
+ 
+      </header>
+
+      
+      
+<article class="markdown">
+  <h1>
+    <a href="/docs/published-00010/">How smartphones could improve texting emergency services</a>
+  </h1>
+  
+  
+  <div>
+    <span>tags</span>
+      <a href="/categories/published/">published</a>
+  </div>
+  
+
+  
+  <div>
+    <span>tags</span>
+      <a href="/tags/Thoughtful-Design/">Thoughtful Design</a>
+  </div>
+  
+
+
+
+<p><a href="https://medium.com/@joshuamauldin/how-smartphones-could-improve-texting-emergency-services-876216fd8a5e">Original post</a></p>
+<p><img src="../../img/1x4bhld6IJ2CtkpC5QQc8EA.jpeg" alt="How%20smartphones%20could%20improve%20texting%20emergency%20se%202502298a58d24c579dc830a4e82c4fac/1x4bhld6IJ2CtkpC5QQc8EA.jpeg" /></p>
+<p>As of May 24, 2014, the main 4 carriers in the US will allow texting with 911. That’s great, but I wondered what it would look like if smartphones could build on top of that idea.</p>
+<p>I want design to do good and feel like a moment of crisis is an ideal spot to employ thoughtful design to ease a difficult situation. Plus, it’s fun to weave different technologies together. What follows are some initial thoughts and a prototype. I’d love to hear feedback on both.</p>
+<h1 id="overview-and-goals">
+  Overview and Goals
+  <a class="anchor" href="#overview-and-goals">#</a>
+</h1>
+<p>I wanted to allow users to have an efficient way of engaging with emergency services when certain situations arise. Composing a text message could be time-consuming in a moment where every second counts; good design can make this easier.</p>
+<p>It’s also worth considering various use cases. Someone may not be able (or in a place to) speak—the operating system should assist them in the best way possible. Think about a person who may have a physical impairment or may be in a situation where speaking could further endanger them.</p>
+<p>Smartphones possess the ability to access user data, such as GPS-assisted location and contact information. Employing them along with the main types of emergency calls (fire, medical/accidents, crime) could speed the experience along greatly.</p>
+<p>A portion of the device’s battery could be reserved for emergency use. During an emergency, this could suspend other applications or non-critical systems to maximize battery life.</p>
+<p>This experience should fit within the standard experience and not create a new visual language or groundbreaking new user interface. It is worth noting that this experience would exist on multiple platforms (Android, Windows Phone, and Blackberry). Given the tools available (<a href="http://flinto.com/">Flinto</a> and <a href="http://www.bohemiancoding.com/sketch/">Sketch</a>!), it was easier to make it happen on iOS.</p>
+<p>A person should be able to interact with emergency services in every way the operating system can create a text. This includes on the Lock Screen, the Messages app, and Siri. You’ll find more on that below.</p>
+<p>It could also take advantage of the microphone during a text session if a user desires. They could initiate a one-way call without going into a call screen. This would be possible by working with a service like <a href="http://www.twilio.com/">Twilio</a> to send and store this data. Collecting it could also be beneficial in a domestic violence situation. (Thanks to Ben Vandgrift for that idea.)</p>
+<p>If a phone’s been connected to a vehicle’s collision sensors via Bluetooth, it could detect a crash and send a notice to emergency services in the event of an accident.</p>
+<p>In the event that a message couldn’t be delivered, this application would continuously attempt delivery, rather than fail and ask the user to send it again.</p>
+<h1 id="prototyped-options-for-sending-emergency-service-messages">
+  Prototyped options for sending emergency service messages
+  <a class="anchor" href="#prototyped-options-for-sending-emergency-service-messages">#</a>
+</h1>
+<p>Interaction via the Lock Screen. <a href="https://www.flinto.com/p/a624bb9c">Play with the prototype on Flinto</a>.</p>
+<p><img src="How%20smartphones%20could%20improve%20texting%20emergency%20se%202502298a58d24c579dc830a4e82c4fac/11yhXebq17Hhn8IKuWN_9pw.gif" alt="How%20smartphones%20could%20improve%20texting%20emergency%20se%202502298a58d24c579dc830a4e82c4fac/11yhXebq17Hhn8IKuWN_9pw.gif" /></p>
+<h2 id="1-lock-screen">
+  <strong>1) Lock Screen</strong>
+  <a class="anchor" href="#1-lock-screen">#</a>
+</h2>
+<p>A user will tap the Emergency option on the Lock Screen, bringing up the dial pad, where the user now has the option to select Text. If a user selects Text, they can select their type of emergency, which reduces the time it takes to compose a text. They may select from any and all of the options presented, including not selecting any at all. (This is one situation where we may not want to force a choice.)</p>
+<p>Most types of 911 calls fall into the categories of needing firefighters, medics, police, and sometimes all 3. I’ve accounted for this in this experience.</p>
+<p>The user’s information will be pre-filled in a text message, and it will include their name, phone number, and GPS-assisted current location. The user is sent to a customized SMS screen.</p>
+<p><strong>Update:</strong> It’s important that we protect a person’s privacy. In light of that, texting through the lock screen keeps all other message threads hidden. (Thanks to @sulgi for the reminder)</p>
+<h2 id="2-messages">
+  2) Messages
+  <a class="anchor" href="#2-messages">#</a>
+</h2>
+<p>A user initiates a text to emergency services (in the US, it’s 911). The interface adapts slightly to highlight calling 911 and adds a toolbar to include various information such as the user’s GPS-assisted current location and contact information.</p>
+<h2 id="3-siri">
+  <strong>3) Siri</strong>
+  <a class="anchor" href="#3-siri">#</a>
+</h2>
+<p>When a user engages Siri, perhaps by saying “Tell 911 that there’s been an accident here,” Siri will create the text, pre-fill it with the user’s name, phone number, and GPS-assisted current location. Then the user is sent to a customized SMS screen, the same as in Option 1.</p>
+<h1 id="closing-thoughts">
+  Closing thoughts
+  <a class="anchor" href="#closing-thoughts">#</a>
+</h1>
+<p>I did this as an exercise to see how good design could make a tough situation easier and more efficient. Even if this goes nowhere (I hope it doesn’t!), it feels important for designers to consider applying their knowledge to other areas.</p>
+<p>I’d appreciate feedback on how to improve this concept. It would be wonderful to see a smartphone experience implemented—I’d love to know how, or if, that could happen.</p>
+<h2 id="further-reading--data">
+  Further Reading &amp; Data
+  <a class="anchor" href="#further-reading--data">#</a>
+</h2>
+<p><a href="http://www.911.gov/pdf/Current911DataCollection-072613.pdf">http://www.911.gov/pdf/Current911DataCollection-072613.pdf</a></p>
+<p><a href="http://www.911.gov/whencall.html">http://www.911.gov/whencall.html</a></p>
+<p><a href="http://www.fcc.gov/guides/text-911-quick-facts-faqs">http://www.fcc.gov/guides/text-911-quick-facts-faqs</a></p>
+</article>
+ 
+      
+
+      <footer class="book-footer">
+        
+  <div class="flex flex-wrap justify-between">
+
+
+
+
+
+</div>
+
+
+
+  <script>(function(){function e(e){const t=window.getSelection(),n=document.createRange();n.selectNodeContents(e),t.removeAllRanges(),t.addRange(n)}document.querySelectorAll("pre code").forEach(t=>{t.addEventListener("click",function(){if(window.getSelection().toString())return;e(t.parentElement),navigator.clipboard&&navigator.clipboard.writeText(t.parentElement.textContent)})})})()</script>
+
+
+ 
+        
+      </footer>
+
+      
+  
+  <div class="book-comments">
+
+</div>
+  
+ 
+
+      <label for="menu-control" class="hidden book-menu-overlay"></label>
+    </div>
+
+    
+    <aside class="book-toc">
+      <div class="book-toc-content">
+        
+  
+<nav id="TableOfContents">
+  <ul>
+    <li><a href="#1-lock-screen"><strong>1) Lock Screen</strong></a></li>
+    <li><a href="#2-messages">2) Messages</a></li>
+    <li><a href="#3-siri"><strong>3) Siri</strong></a></li>
+  </ul>
+
+  <ul>
+    <li><a href="#further-reading--data">Further Reading &amp; Data</a></li>
+  </ul>
+</nav>
+
+
+ 
+      </div>
+    </aside>
+    
+  </main>
+
+  
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+

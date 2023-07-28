@@ -2,7 +2,6 @@
 title: Product Design & Development
 type: docs
 ---
-# Product Design & Development
 
 {{< hint info >}}
 Examples of work, guides and resources for leaders and those who aspire to be.

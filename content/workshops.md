@@ -3,8 +3,6 @@ title: Workshops & Speaking
 type: docs
 ---
 
-# Workshops & Speaking
-
 {{< hint info >}}
 I offer half and full-day workshops that help teams unlock the secret to building great products: embracing healthy conflict and building psychological safety. We'll work together to craft plans tailored to your team's needs.
 {{< /hint >}}

@@ -2,7 +2,6 @@
 title: We Need to Talk
 type: docs
 ---
-# We Need to Talk
 {{< hint info >}}
 My forthcoming book for Rosenfeld Media, due out in 2023. It's about how to have hard conversations with anyone at work.
 {{< /hint >}}

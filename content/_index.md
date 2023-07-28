@@ -1,6 +1,5 @@
 ---
 title: Joshua Mauldin, Designer and Author
-type: docs
 ---
 
 # Hi, it's Joshua. 

@@ -10,6 +10,7 @@ I watch and read a lot. Here's some of it.
 {{< tab "Film & TV" >}}
 
 # Film & TV
+---
 
 ## Incoming
 - Return to Seoul (2022)
@@ -70,6 +71,7 @@ I watch and read a lot. Here's some of it.
 {{< tab "Books" >}}
 
 # Books 
+---
 
 ## Incoming
 - Salem's Lot
@@ -97,6 +99,7 @@ I watch and read a lot. Here's some of it.
 {{< tab "Games" >}}
 
 # Games
+---
 
 ## 2023
 

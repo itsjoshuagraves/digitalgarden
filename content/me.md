@@ -2,7 +2,6 @@
 title: Joshua Mauldin
 type: docs
 ---
-# Joshua Mauldin
 
 {{< figure src="/img/IMG_0159.jpeg" title="Photo by Sarah DeShields" >}}
 

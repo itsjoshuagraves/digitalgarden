@@ -2,8 +2,6 @@
 title: About
 type: docs
 ---
-# About
-
 {{< figure src="/img/DSC00162.jpeg" title="Basquiat" >}}
 
 ## How's this built?
