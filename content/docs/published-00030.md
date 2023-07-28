@@ -4,7 +4,6 @@ link title: Why I pulled a HULK SMASH on my social media presence
 title: Why I pulled a HULK SMASH on my social media presence
 weight: 10
 tags: General
-categories: published
 originalURL: https://medium.com/@joshuamauldin/why-i-pulled-a-hulk-smash-on-my-social-media-presence-c23a30b08e8
 ---
 

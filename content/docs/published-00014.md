@@ -3,7 +3,6 @@ date: 2018-01-15
 link title: I turned off my push notifications and I’ve never been happier
 title: I turned off my push notifications and I’ve never been happier
 weight: 10
-categories: published
 
 tags: [Focus, Thoughtful Design]
 originalURL: https://medium.com/@joshuamauldin/i-turned-off-my-push-notifications-and-ive-never-been-happier-582ecae25708

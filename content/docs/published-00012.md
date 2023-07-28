@@ -3,7 +3,6 @@ date: 2019-07-16
 link title: How using Cranky Conclusions makes tough conversations easier
 title: How using Cranky Conclusions makes tough conversations easier
 weight: 10
-categories: published
 
 tags: Collaboration
 originalURL: https://medium.com/conflict-resolution-for-people-who-hate-conflict/how-using-cranky-conclusions-makes-tough-conversations-easier-4af9789dfa1e

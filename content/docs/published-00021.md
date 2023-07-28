@@ -3,7 +3,6 @@ date: 2015-01-01
 link title: Prototyping iOS And Android Apps With Sketch (Smashing Magazine)
 title: Prototyping iOS And Android Apps With Sketch (Smashing Magazine)
 weight: 10
-categories: published
 tags: Advice
 originalURL: https://www.smashingmagazine.com/2015/01/prototyping-ios-android-apps-sketch-freebie/
 ---

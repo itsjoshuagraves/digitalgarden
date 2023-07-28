@@ -2,20 +2,18 @@
 title: Media
 type: docs
 ---
-
-# Media
 I watch and read a lot. Here's some of it.
 
 {{< tabs "media" >}}
 {{< tab "Film & TV" >}}
 
-# Film & TV
+## Film & TV
 ---
 
-## Incoming
+### Incoming
 - Return to Seoul (2022)
 
-## 2023
+### 2023
 - [The Conjuring 2](https://boxd.it/7GJg)
 - [Zombieland: Double Tap](https://boxd.it/bgb6)
 - [Crimson Peak](https://boxd.it/62Ty)
@@ -35,7 +33,7 @@ I watch and read a lot. Here's some of it.
 - [Evil Dead Rise](https://boxd.it/qIvo)
 - [Scream VI](https://boxd.it/zdfW)
 
-## 2022
+### 2022
 - [Texas Chainsaw Massacre](https://boxd.it/ns6c)
 - [In the Earth](https://boxd.it/s652)
 - [Fresh](https://boxd.it/tCNi)
@@ -58,7 +56,7 @@ I watch and read a lot. Here's some of it.
 - [Bad Santa](https://boxd.it/1WYk)
 - [The People vs. Larry Flynt](https://boxd.it/28rs)
 
-## 2021
+### 2021
 - [The Stylist](https://boxd.it/rPHy)
 - [Sinister](https://boxd.it/2TnW)
 - [Animal House](https://boxd.it/2062)
@@ -70,16 +68,16 @@ I watch and read a lot. Here's some of it.
 
 {{< tab "Books" >}}
 
-# Books 
+## Books 
 ---
 
-## Incoming
+### Incoming
 - Salem's Lot
 - Dark Delicacies Vol 1
 - Notes on Complexity
 
 
-## 2023
+### 2023
 
 - Listening to the music machines make
 - Little Heaven
@@ -98,10 +96,10 @@ I watch and read a lot. Here's some of it.
 
 {{< tab "Games" >}}
 
-# Games
+## Games
 ---
 
-## 2023
+### 2023
 
 - Zelda: Tears of the Kingdom
 - Metroid Prime Remastered

@@ -1,5 +1,4 @@
 ---
 title: Visual Art
-layout: docs
+type: art
 ---
-![wolf](/img/IMG_2334.jpeg)

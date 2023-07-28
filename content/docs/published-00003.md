@@ -3,7 +3,6 @@ date: 2018-11-26
 linktitle: Black Mirror brainstorms — a product design exercise (UX Collective)
 title: Black Mirror brainstorms — a product design exercise (UX Collective)
 weight: 10
-categories: published
 tags: ["Thoughtful Design"]
 originalURL: https://uxdesign.cc/black-mirror-brainstorms-f919ccf5938c
 ---

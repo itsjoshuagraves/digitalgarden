@@ -1,0 +1,17 @@
+{{ define "main" }}
+<article class="markdown">
+{{ with .Date }}
+  <h5 class="post-date">{{ partial "docs/date" (dict "Date" . "Format" $.Site.Params.BookDateFormat) }}</h5>
+{{ end }}
+  <h1 class="post-title">
+    {{ partial "docs/title.html" . }}
+    <!-- <a href="{{ .RelPermalink }}">{{ partial "docs/title.html" . }}</a> -->
+  </h1>
+  {{ partial "docs/post-meta" . }}
+  {{- .Content -}}
+</article>
+{{ end }}
+
+{{ define "toc" }}
+  {{ partial "docs/toc" . }}
+{{ end }}

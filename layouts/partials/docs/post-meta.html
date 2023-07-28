@@ -1,8 +1,10 @@
 {{ range $taxonomy, $_ := .Site.Taxonomies }}
   {{ with $terms := $.GetTerms $taxonomy }}
   <div>
-    <span>tags</span>{{ range $n, $term := $terms }}{{ if $n }}, {{ end }}
-      <a href="{{ $term.RelPermalink }}">{{ $term.Title }}</a>
+    <span>topics</span>
+    <!-- <span>tags</span> -->
+    {{ range $n, $term := $terms }}{{ if $n }}, {{ end }}
+      <a href="{{ $term.RelPermalink }}">#{{ $term.Title }}</a>
     {{- end }}
   </div>
   {{ end }}

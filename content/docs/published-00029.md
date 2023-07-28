@@ -4,7 +4,6 @@ link title: What we look for in a product designer’s portfolio
 title: What we look for in a product designer’s portfolio
 weight: 10
 tags: Advice
-categories: published
 originalURL: https://medium.com/thisisartium/what-we-look-for-in-a-product-designers-portfolio-d7ae90056a3b
 ---
 

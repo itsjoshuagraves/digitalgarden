@@ -3,7 +3,6 @@ date: 2017-05-09
 linktitle: Effective Animation
 title: Effective Animation
 weight: 10
-categories: published
 tags: Advice
 originalURL: https://medium.com/@joshuamauldin/effective-animation-86caade87215
 ---

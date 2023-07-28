@@ -1,6 +1,6 @@
 ---
 title: Journal
-type: docs
+type: journal
 ---
 <!-- ---
 menu:
@@ -10,5 +10,3 @@ menu:
 title: Blog
 ---
  -->
-
- 

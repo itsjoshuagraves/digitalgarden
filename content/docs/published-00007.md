@@ -3,7 +3,6 @@ date: 2022-05-01
 linktitle: How To Give Effective Feedback Remotely (Smashing Magazine)
 title: How To Give Effective Feedback Remotely (Smashing Magazine)
 weight: 10
-categories: published
 tags: [Collaboration, Feedback]
 originalURL: https://www.smashingmagazine.com/2022/05/give-effective-feedback-remotely/#top
 ---

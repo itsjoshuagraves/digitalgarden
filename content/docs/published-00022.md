@@ -3,7 +3,6 @@ date: 2017-04-21
 link title: Push Notifications, the good, the bad, and the wtf could u not (UX Collective)
 title: Push Notifications, the good, the bad, and the wtf could u not (UX Collective)
 weight: 10
-categories: published
 tags: Thoughtful Design
 originalURL: https://medium.com/user-experience-design-1/push-notifications-the-good-the-bad-and-the-wtf-could-u-not-b73d6b2c4f90
 ---

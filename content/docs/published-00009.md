@@ -3,7 +3,6 @@ date: 2016-10-01
 linktitle: Giving Your Product A Soul (Smashing Magazine)
 title: Giving Your Product A Soul (Smashing Magazine)
 weight: 10
-categories: published
 tags: [Thoughtful Design]
 originalURL: https://www.smashingmagazine.com/2016/10/giving-your-product-a-soul/
 ---

@@ -3,7 +3,6 @@ date: 2015-05-16
 link title: My week with Soylent 1.4, or “Oh god I want a burger”
 title: My week with Soylent 1.4, or “Oh god I want a burger”
 weight: 10
-categories: published
 tags: General
 originalURL: https://medium.com/@joshuamauldin/my-week-with-soylent-1-4-or-oh-god-i-want-a-burger-7df2ac6690f2
 ---

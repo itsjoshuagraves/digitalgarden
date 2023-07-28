@@ -1,5 +1,7 @@
 {{ define "main" }}
+  <h1 class="page-title">Docs</h1>
   {{ range sort .Paginator.Pages }}
+
   <article class="markdown book-post">
 {{ with .Date }}
   <h5 class="post-date">{{ partial "docs/date" (dict "Date" . "Format" $.Site.Params.BookDateFormat) }}</h5>

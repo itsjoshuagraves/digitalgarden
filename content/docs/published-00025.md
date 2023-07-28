@@ -3,7 +3,6 @@ date: 2019-07-02
 link title: The Prime Directive and the limits of assuming positive intent
 title: The Prime Directive and the limits of assuming positive intent
 weight: 10
-categories: published
 tags: [Collaboration, Feedback, Thoughtful Design]
 originalURL: https://medium.com/conflict-resolution-for-people-who-hate-conflict/the-prime-directive-and-the-limits-of-assuming-positive-intent-59b7b2d735f1
 ---

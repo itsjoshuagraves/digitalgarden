@@ -3,7 +3,6 @@ date: 2015-01-11
 link title: Requiem for a side project, quitting AwesomeGIFs
 title: Requiem for a side project, quitting AwesomeGIFs
 weight: 10
-categories: published
 tags: Reflection
 originalURL: https://medium.com/@joshuamauldin/requiem-for-a-side-project-quitting-awesomegifs-fc08a0e879df
 ---

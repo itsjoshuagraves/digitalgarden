@@ -3,7 +3,6 @@ date: 2014-08-17
 link title: Spock, Kirk, and the ideal designer/engineer relationship
 title: Spock, Kirk, and the ideal designer/engineer relationship
 weight: 10
-categories: published
 tags: Collaboration
 originalURL: https://medium.com/cardinal-solutions/3d78486d961f
 ---
