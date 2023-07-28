@@ -8,6 +8,7 @@ type: docs
 Here you’ll find a catalog of my artwork and creative endeavors, my personal blog, and other miscellaneous things I’ve enjoyed.
 {{< /hint >}}
 
+
 - [Journal](/posts)
 - [Read & Watch List](/media)
 
