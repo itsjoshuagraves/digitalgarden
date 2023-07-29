@@ -68,7 +68,11 @@
   .book-columns {
     margin-left: -$padding-16;
     margin-right: -$padding-16;
-
+    @media screen and (max-width:500px){
+      > div {
+        min-width: $body-min-width !important;
+      }
+      }
     > div {
       margin: $padding-16 0;
       min-width: $body-min-width / 2;

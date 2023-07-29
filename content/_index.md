@@ -4,7 +4,9 @@ title: Joshua Mauldin, Designer and Author
 
 # Hi, it's Joshua. 
 
-I'm a player-coach designer who puts humans first. I'm also writing a book on having hard conversations at work. Great to meet you. 
+I'm a player-coach designer who puts humans first. I'm also writing a book on having hard conversations at work. Great to meet you.
+
+You can email me at [hello@joshuamauldin.com](mailto:hello@joshuamauldin.com)
 
 ## What is this?
 

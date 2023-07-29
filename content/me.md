@@ -23,7 +23,7 @@ My values are important, and they’ll enrich both your product and company:
 - Being responsible for what we put into the world
 - Being principle-driven, not process-shackled
 - Kindness, fairness, and equity
-- Talking it out (I'm writing a book on that one)
+- Talking it out
 
 ## More About Me
 

@@ -75,11 +75,13 @@ I watch and read a lot. Here's some of it.
 - Salem's Lot
 - Dark Delicacies Vol 1
 - Notes on Complexity
+- Listening to the music machines make
+- Outrage Machine
+- Pet Semetary
 
 
 ### 2023
-
-- Listening to the music machines make
+- The Destroyer of Worlds (A Return Lovecraft Country)
 - Little Heaven
 - The Deep
 - The Troop
@@ -91,6 +93,24 @@ I watch and read a lot. Here's some of it.
 - Chaos machine
 - Mind gut connection
 - Brain energy
+- Pretty Marys All in a Row
+- Boneset & Feathers
+- The Rust Maidens
+- Reluctant Immprtals
+- Old Souls: The Sages and Mystics of Our World
+- Sundial
+- The Paris Apartment
+- Come As You Are
+- Even The Worm Will Turn
+- No Gods for Drowning
+- The Worm and His Kings
+- Your Mind Is a Terrible Thing
+- Echo
+- Hex
+- Malorie: A Bird Box Novel
+- The Living Dead
+- How Minds Change
+- The Chaos Machine
 
 {{< /tab >}}
 
@@ -99,8 +119,14 @@ I watch and read a lot. Here's some of it.
 ## Games
 ---
 
+### Incoming
+- Horizon Forbidden West
+
+
 ### 2023
 
+- Mario Kart 8
+- Gran Turismo 7
 - Zelda: Tears of the Kingdom
 - Metroid Prime Remastered
 - Cyberpunk 2077
