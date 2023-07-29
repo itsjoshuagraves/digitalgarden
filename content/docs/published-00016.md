@@ -7,7 +7,6 @@ tags: Thoughtful Design
 originalURL: https://www.smashingmagazine.com/2013/05/ios-grid-system-free-extension-adobe-fireworks/
 ---
 
-[Original post](https://www.smashingmagazine.com/2013/05/ios-grid-system-free-extension-adobe-fireworks/)
 
 ![iOS%20Grid%20System,%20A%20Free%20Extension%20For%20Adobe%20Firewo%202be8a23aacb845589de3f3ee8a63045e/joshua-mauldin200x200.jpg](../../img/joshua-mauldin200x200.jpg)
 
@@ -181,4 +180,5 @@ Of course, any questions about how to use this extension are welcome, too. Just 
 - [The Semantic Grid System: Page Layout For Tomorrow](https://www.smashingmagazine.com/2011/08/23/the-semantic-grid-system-page-layout-for-tomorrow/)
 - [Design Cutting Edge iOS Apps With Adobe Fireworks](https://www.smashingmagazine.com/2012/12/03/design-ios-apps-with-adobe-fireworks/)
 
-### Further Reading
+
+[Original post](https://www.smashingmagazine.com/2013/05/ios-grid-system-free-extension-adobe-fireworks/)

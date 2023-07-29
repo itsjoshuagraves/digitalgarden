@@ -7,7 +7,6 @@ tags: [Collaboration, Feedback, Thoughtful Design]
 originalURL: https://medium.com/conflict-resolution-for-people-who-hate-conflict/the-prime-directive-and-the-limits-of-assuming-positive-intent-59b7b2d735f1
 ---
 
-[Original post](https://medium.com/conflict-resolution-for-people-who-hate-conflict/the-prime-directive-and-the-limits-of-assuming-positive-intent-59b7b2d735f1)
 
 ![Untitled](../../img/Untitled.png)
 
@@ -60,3 +59,6 @@ Assuming positive intent is a game-changer and tools like The Prime Directive he
 
 - Before starting a conversation, remind everyone (including yourself) about The Prime Directive. Do you believe it applies in this situation?
 - Remember the limits of assuming positive intent and don’t ignore the impact
+
+
+[Original post](https://medium.com/conflict-resolution-for-people-who-hate-conflict/the-prime-directive-and-the-limits-of-assuming-positive-intent-59b7b2d735f1)

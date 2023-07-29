@@ -5,20 +5,21 @@ title: Ethnographic Interview
 weight: 10
 tags: [Guides, Product]
 ---
+{{< hint info >}}
+The big idea here is to **stay quiet and listen** to the person. It's okay to add in clarifying questions (e.g. "could you say more" or "what led you to that?"), but otherwise let them take the lead.
+{{< /hint >}}
 
-<aside>
-💡 The big idea here is to **stay quiet and listen** to the person. It's okay to add in clarifying questions (e.g. "could you say more" or "what led you to that?"), but otherwise let them take the lead.
-
-</aside>
-
-> Date**:** Try typing /today
-Name**:** Person's name
-Department: Department name
-> 
+```
+- Date
+- Name
+- Department
+```
 
 # Takeways & observations
 
-- List learnings and outputs
+```
+List learnings and outputs
+```
 
 # Questions
 
@@ -28,11 +29,15 @@ Department: Department name
 
 # Answers
 
+```
 Write interviewee's answers
+```
 
 # Resources
 
-Useful screenshots, screencasts, website references... exchanged during the meeting.
+```
+Useful screenshots, screencasts, website references.
+```
 
 ---
 

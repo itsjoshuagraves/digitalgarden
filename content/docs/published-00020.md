@@ -7,7 +7,6 @@ tags: Thoughtful Design
 originalURL: https://medium.com/@joshuamauldin/one-idea-that-could-curb-harassment-on-social-media-ae253aa37555
 ---
 
-[Original post](https://medium.com/@joshuamauldin/one-idea-that-could-curb-harassment-on-social-media-ae253aa37555)
 
 ![One%20idea%20that%20could%20curb%20harassment%20on%20social%20medi%202ef8ea392834472893198b7090fe674b/1oznHhVPcIUgKnOcrjPuG_g.png](../../img/1oznHhVPcIUgKnOcrjPuG_g.png)
 
@@ -84,3 +83,6 @@ Harassment is a tricky one to solve, particularly if your network is built in su
 I don’t know what that solution looks like exactly, but I do know we need to build safeguards and a community of people that don’t tolerate harassment. Whatever that solution is, I’d love to be a part of it.
 
 *Surprise by Danil Polshin, Speech Bubble by Anna Stem from the Noun Project*
+
+
+[Original post](https://medium.com/@joshuamauldin/one-idea-that-could-curb-harassment-on-social-media-ae253aa37555)

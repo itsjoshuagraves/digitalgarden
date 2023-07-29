@@ -7,7 +7,6 @@ tags: Advice
 originalURL: https://medium.com/thisisartium/what-we-look-for-in-a-product-designers-portfolio-d7ae90056a3b
 ---
 
-[Original post](https://medium.com/thisisartium/what-we-look-for-in-a-product-designers-portfolio-d7ae90056a3b)
 
 ![https://miro.medium.com/v2/resize:fit:2000/1*1qqwz-4xMMYB_mD2jCz7jQ.png](https://miro.medium.com/v2/resize:fit:2000/1*1qqwz-4xMMYB_mD2jCz7jQ.png)
 
@@ -101,3 +100,6 @@ I’ll speak for my company here: we’re hiring a whole person to join the team
 In this article, we discussed the most critical parts of a good portfolio by underscoring the need to show meaningful process work and how it relates to your decision. We discussed why we need to include examples of our collaboration so we don’t look like the lonely hero. Lastly, we discussed holistic thinking and how important it is.
 
 Thanks for reading.
+
+
+[Original post](https://medium.com/thisisartium/what-we-look-for-in-a-product-designers-portfolio-d7ae90056a3b)

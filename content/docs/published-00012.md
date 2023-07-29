@@ -8,7 +8,6 @@ tags: Collaboration
 originalURL: https://medium.com/conflict-resolution-for-people-who-hate-conflict/how-using-cranky-conclusions-makes-tough-conversations-easier-4af9789dfa1e
 ---
 
-[Original post](https://medium.com/conflict-resolution-for-people-who-hate-conflict/how-using-cranky-conclusions-makes-tough-conversations-easier-4af9789dfa1e)
 
 # Ever needed to tell a teammate something tough but fear they’ll get too defensive? Here’s one way that’s proven to work.
 
@@ -84,3 +83,6 @@ If you want to go deeper, you can ask yourself how you might’ve contributed. I
 - Ask yourself “what’s the worst thing they can say about me?”
 - If you think it’s going to be a hard conversation, use something from your Cranky Conclusions to start the conversation
 - Take a moment and look at how you might’ve played a role in things being like they are
+
+
+[Original post](https://medium.com/conflict-resolution-for-people-who-hate-conflict/how-using-cranky-conclusions-makes-tough-conversations-easier-4af9789dfa1e)

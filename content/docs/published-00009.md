@@ -7,7 +7,6 @@ tags: [Thoughtful Design]
 originalURL: https://www.smashingmagazine.com/2016/10/giving-your-product-a-soul/
 ---
 
-[Original post](https://www.smashingmagazine.com/2016/10/giving-your-product-a-soul/)
 
 After a few years of designing products for clients, I began to feel fatigued. I wondered why. Turns out, I’d been chasing metric after metric. “Increase those page views!” “Help people spend more time in the app!” And it kept coming. Still, something was missing. I knew that meeting goals was part of what a designer does, but I could see how my work could easily become commoditized and less fulfilling unless something changed.
 
@@ -144,3 +143,5 @@ It’s not enough to simply design something and meet a goal. This is a surefire
 Giving our products a soul will make them better, more engaging products. The next time you’re designing, ask yourself what would make someone find your product useful, and what would make them care about it more than another product? Once you do that, you’ll be well on your way to cultivating a healthy relationship with your products and building things that people really love.
 
 Also, it’s not enough for us to have these ideas; convincing our team members and bosses to come along with us is important. Once we test and articulate the value of what we do, we’ll have a much easier and more rewarding time.
+
+[Original post](https://www.smashingmagazine.com/2016/10/giving-your-product-a-soul/)

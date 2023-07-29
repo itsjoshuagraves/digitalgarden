@@ -6,13 +6,10 @@ weight: 10
 tags: General
 originalURL: https://medium.com/@joshuamauldin/my-week-with-soylent-1-4-or-oh-god-i-want-a-burger-7df2ac6690f2
 ---
+{{< hint info >}}
+I wrote this article in 2015. While I like that I was curious, I want to be clear in that I absolutely do not recommend this kind of stuff. Also, it’s fun to note that everything from this era is basically a clickbait style headline. Ugh.
+{{< /hint >}}
 
-[Original post](https://medium.com/@joshuamauldin/my-week-with-soylent-1-4-or-oh-god-i-want-a-burger-7df2ac6690f2)
-
-<aside>
-💡 I wrote this article in 2015. While I like that I was curious, I want to be clear in that I absolutely do not recommend this kind of stuff. Also, it’s fun to note that everything from this era is basically a clickbait style headline. Ugh.
-
-</aside>
 
 ![My%20week%20with%20Soylent%201%204,%20or%20%E2%80%9COh%20god%20I%20want%20a%20burg%20e902c13b8bd34252ab808f4f57ff6257/1btqIoKLmHIU96vBrOKctcg.jpeg](../../img/1btqIoKLmHIU96vBrOKctcg.jpeg)
 
@@ -75,3 +72,6 @@ Also, I could not get enough water. Drinking 8–10 glasses a day wasn’t enoug
 Soylent, overall, is a concept I like in small quantities. It won’t be replacing 3 meals a day for me, though. I think it’s likely I’ll keep it for breakfast and maybe a lunch during the week. It makes me feel pretty great, and I look at it as a tool to help me be a better thinker and problem solver. I’m so glad I tried it.
 
 Just writing this makes me want a burger. So, thanks for reading, I’m out to get one.
+
+
+[Original post](https://medium.com/@joshuamauldin/my-week-with-soylent-1-4-or-oh-god-i-want-a-burger-7df2ac6690f2)

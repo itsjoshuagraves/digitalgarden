@@ -7,7 +7,6 @@ tags: Thoughtful Design
 originalURL: https://medium.com/user-experience-design-1/push-notifications-the-good-the-bad-and-the-wtf-could-u-not-b73d6b2c4f90
 ---
 
-[Original post](https://medium.com/user-experience-design-1/push-notifications-the-good-the-bad-and-the-wtf-could-u-not-b73d6b2c4f90)
 
 ![Push%20Notifications%20the%20good,%20the%20bad,%20and%20the%20wtf%20%205f046cafe3f64fb3a80777c4ea57940f/10ySO7AEVWn4r_xYMItlsfw.png](../../img/10ySO7AEVWn4r_xYMItlsfw.png)
 
@@ -91,3 +90,6 @@ People who overstate the importance or urgency of what they’re saying are goin
 If you’d like to read more, you can head over to the [iOS Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/features/notifications/) or [Material Design](https://material.io/guidelines/patterns/notifications.html#notifications-templates) to read more. I recommend starting with Material’s guidelines there since they’re more descriptive.
 
 Overall, treat notifications like the interruptions they are. Be respectful and only send them when necessary.
+
+
+[Original post](https://medium.com/user-experience-design-1/push-notifications-the-good-the-bad-and-the-wtf-could-u-not-b73d6b2c4f90)

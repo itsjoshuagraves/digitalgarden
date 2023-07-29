@@ -7,7 +7,6 @@ tags: [Thoughtful Design]
 originalURL: https://medium.com/@joshuamauldin/typographic-strategies-for-great-readability-also-a-lot-of-quotes-from-the-big-lebowski-7b8e31dafbda
 ---
 
-[Original post](https://medium.com/@joshuamauldin/typographic-strategies-for-great-readability-also-a-lot-of-quotes-from-the-big-lebowski-7b8e31dafbda)
 
 I’ve had lots of conversations about typography over the last few years. Which is cool, because I love it so much (so much that I decided to make [my own typeface](http://uptownsans.com/)). It’s exciting to see so many designers caring about making a beautiful group of letters that people want to read.
 
@@ -89,3 +88,6 @@ This is by no means an exhaustive discussion of how to get the best readability 
 Also: if you’re looking to learn more about typography, get Ellen Lupton’s excellent [Thinking with Type](https://www.amazon.com/Thinking-Type-2nd-revised-expanded/dp/1568989695/ref=sr_1_1?ie=UTF8&qid=1469045558&sr=8-1&keywords=thinking+with+type). Or Jason Santa Maria’s [On Web Typography](https://abookapart.com/products/on-web-typography). I have a bookshelf full of nerdy reading material on this subject, but those are two of my favorites.
 
 Happy typing!
+
+
+[Original post](https://medium.com/@joshuamauldin/typographic-strategies-for-great-readability-also-a-lot-of-quotes-from-the-big-lebowski-7b8e31dafbda)

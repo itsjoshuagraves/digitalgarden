@@ -7,7 +7,6 @@ tags: Reflection
 originalURL: https://medium.com/@joshuamauldin/requiem-for-a-side-project-quitting-awesomegifs-fc08a0e879df
 ---
 
-[Original post](https://medium.com/@joshuamauldin/requiem-for-a-side-project-quitting-awesomegifs-fc08a0e879df)
 
 ![Requiem%20for%20a%20side%20project%20quitting%20AwesomeGIFs%20091129a609c041dca88bc07514f09375/1hF3nRuaaxtfWSCoLTWOdYA.jpeg](../../img/1hF3nRuaaxtfWSCoLTWOdYA.jpeg)
 
@@ -37,3 +36,6 @@ So, I’m officially letting AwesomeGIFs go. It’ll live on for a while so folk
 I’ve learned that my future projects should start with an end in mind, or at least a time to reevaluate if I want to continue going. It feels so freeing to not commit to something in perpetuity.
 
 We had a great run together, AwesomeGIFs, and I hope all my side projects can be as wonderful as you were. Thanks.
+
+
+[Original post](https://medium.com/@joshuamauldin/requiem-for-a-side-project-quitting-awesomegifs-fc08a0e879df)

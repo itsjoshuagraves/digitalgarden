@@ -8,7 +8,6 @@ tags: [Focus, Thoughtful Design]
 originalURL: https://medium.com/@joshuamauldin/i-turned-off-my-push-notifications-and-ive-never-been-happier-582ecae25708
 ---
 
-[Original post](https://medium.com/@joshuamauldin/i-turned-off-my-push-notifications-and-ive-never-been-happier-582ecae25708)
 
 ![I%20turned%20off%20my%20push%20notifications%20and%20I%E2%80%99ve%20never%20%20ab9e0f8aade6429eaa71b88013be1162/1dKC6AzFrukIpK0xJoEGXsw.png](img/1dKC6AzFrukIpK0xJoEGXsw.png)
 
@@ -52,3 +51,6 @@ Notifications, while sometimes helpful, can be a huge time and attention eater. 
 If you’re feeling burdened by notifications like I was, use the framework I shared to cut out the things that don’t meaningfully make your life better.
 
 Ultimately, the technology we create should work for us and not the other way around.
+
+
+[Original post](https://medium.com/@joshuamauldin/i-turned-off-my-push-notifications-and-ive-never-been-happier-582ecae25708)

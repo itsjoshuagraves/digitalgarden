@@ -8,7 +8,6 @@ tags: Thoughtful Design
 originalURL: https://medium.com/@joshuamauldin/how-smartphones-could-improve-texting-emergency-services-876216fd8a5e
 ---
 
-[Original post](https://medium.com/@joshuamauldin/how-smartphones-could-improve-texting-emergency-services-876216fd8a5e)
 
 ![How%20smartphones%20could%20improve%20texting%20emergency%20se%202502298a58d24c579dc830a4e82c4fac/1x4bhld6IJ2CtkpC5QQc8EA.jpeg](../../img/1x4bhld6IJ2CtkpC5QQc8EA.jpeg)
 
@@ -73,3 +72,6 @@ I’d appreciate feedback on how to improve this concept. It would be wonderful 
 [http://www.911.gov/whencall.html](http://www.911.gov/whencall.html)
 
 [http://www.fcc.gov/guides/text-911-quick-facts-faqs](http://www.fcc.gov/guides/text-911-quick-facts-faqs)
+
+
+[Original post](https://medium.com/@joshuamauldin/how-smartphones-could-improve-texting-emergency-services-876216fd8a5e)

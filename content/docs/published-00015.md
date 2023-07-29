@@ -8,7 +8,6 @@ tags: [Advice, Reflection]
 originalURL: https://medium.com/@joshuamauldin/in-which-a-nerd-changes-almost-every-part-of-his-life-to-be-better-designer-f4f2b5749088
 ---
 
-[Original post](https://medium.com/@joshuamauldin/in-which-a-nerd-changes-almost-every-part-of-his-life-to-be-better-designer-f4f2b5749088)
 
 <aside>
 💡 I wrote this article in 2014, and my views have evolved since this. Focus is still important, but please do not change every part of your life to be a better designer. Instead, change it to be a more thoughtful and kind human. The design, or whatever you do, will naturally follow.
@@ -113,3 +112,6 @@ Basically, go get your heart rate up. You’ll be better equipped to deal with t
 # **Finishing up**
 
 I’ve gone though most aspects of my life to allow me the most time and focus to solve problems. It may not be what you need, but it was a tremendous help for me. I’m hopeful this will help make your life better as a designer, too.
+
+
+[Original post](https://medium.com/@joshuamauldin/in-which-a-nerd-changes-almost-every-part-of-his-life-to-be-better-designer-f4f2b5749088)

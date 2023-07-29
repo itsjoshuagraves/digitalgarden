@@ -7,7 +7,6 @@ tags: General
 originalURL: https://medium.com/@joshuamauldin/why-i-pulled-a-hulk-smash-on-my-social-media-presence-c23a30b08e8
 ---
 
-[Original post](https://medium.com/@joshuamauldin/why-i-pulled-a-hulk-smash-on-my-social-media-presence-c23a30b08e8)
 
 I’ve had this feeling that the amount of brainspace that social media occupied was out of balance for me.
 
@@ -64,3 +63,5 @@ One of the biggest surprises was how it helped my relationship with my wife. Sin
 # In closing
 
 I got here after lots of (over)thinking, but it seems like this is going to work for me. I’m still working out my goals, which feel like the key to how I interact online. But overall, I think I’m moving in the right direction. It’s my hope that sharing this can give you some insights on moving forward yourself. If you find any new strategies, I’d love to hear them.
+
+[Original post](https://medium.com/@joshuamauldin/why-i-pulled-a-hulk-smash-on-my-social-media-presence-c23a30b08e8)

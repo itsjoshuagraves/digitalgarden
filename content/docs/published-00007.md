@@ -7,8 +7,6 @@ tags: [Collaboration, Feedback]
 originalURL: https://www.smashingmagazine.com/2022/05/give-effective-feedback-remotely/#top
 ---
 
-[Original post](https://www.smashingmagazine.com/2022/05/give-effective-feedback-remotely/#top)
-
 We need more good feedback in our world, and I don’t just mean the type of feedback that celebrates your good work. I’m talking about feedback that is actionable, specific, and kind; feedback that does not set us on edge or make us fall into an anxious spiral; feedback that helps us collaborate more effectively. The kind of feedback that is actually *really hard* to do when working remotely.
 
 In this article, I’ll discuss a few ways to get around that difficulty. We’ll start by learning what causes feedback sessions to get off track, how to prevent this from happening, and what to do when this happens.
@@ -196,3 +194,5 @@ In closing, let’s briefly recap some of the key points that I made in the arti
 - Ask for (and give) feedback that’s actionable and specific. Use Asana’s methods to bucket the feedback into three separate “buckets”: **do**, **try**, and **consider**.
 - **Be kind**. How you frame the feedback has a direct influence on how it’s received.
 - When it goes sideways, try using a **refocusing statement** — a statement which *addresses the misinterpretation*, *reestablishes focus on your goal*, and *asks open-ended questions* to ensure clarity.
+
+[Original post](https://www.smashingmagazine.com/2022/05/give-effective-feedback-remotely/#top)

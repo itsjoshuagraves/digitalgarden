@@ -7,7 +7,6 @@ tags: Focus
 originalURL: https://medium.com/thisisartium/end-of-day-ceremonies-the-key-to-sleeping-better-and-staying-focused-during-quarantine-7902b8e01339
 ---
 
-[Original post](https://medium.com/thisisartium/end-of-day-ceremonies-the-key-to-sleeping-better-and-staying-focused-during-quarantine-7902b8e01339)
 
 ![https://miro.medium.com/v2/resize:fit:2000/1*82azlWt6tkCFj877oF44oQ.png](https://miro.medium.com/v2/resize:fit:2000/1*82azlWt6tkCFj877oF44oQ.png)
 
@@ -59,3 +58,6 @@ After two weeks of this End of Day ceremony, my experiment in self-care did exac
 —
 
 *Photo by Alejandro Escamilla on [Unsplash](https://unsplash.com/s/photos/journaling?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
+
+
+[Original post](https://medium.com/thisisartium/end-of-day-ceremonies-the-key-to-sleeping-better-and-staying-focused-during-quarantine-7902b8e01339)

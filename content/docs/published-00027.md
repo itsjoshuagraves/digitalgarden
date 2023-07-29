@@ -3,12 +3,10 @@ date: 2020-06-23
 link title: We Need a Code of Ethics.
 title: We Need a Code of Ethics.
 weight: 10
-
 tags: Thoughtful Design
 originalURL: https://medium.com/thisisartium/we-need-a-code-of-ethics-eaaba6f9394b
 ---
 
-[Original post](https://medium.com/thisisartium/we-need-a-code-of-ethics-eaaba6f9394b)
 
 
 ![We%20Need%20a%20Code%20of%20Ethics%2084d3196804e948ab866b828b712e55f2/1L0VD7oa1ABT3ys34Psaitw.jpeg](/img/1L0VD7oa1ABT3ys34Psaitw.jpeg)
@@ -63,3 +61,6 @@ In this post, we discussed why we need a code of ethics in our world. I shared o
 I’m curious about one thing: What’s one thing you’d include if you made a Hippocratic Oath for tech?
 
 Thanks for reading.
+
+
+[Original post](https://medium.com/thisisartium/we-need-a-code-of-ethics-eaaba6f9394b)

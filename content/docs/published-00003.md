@@ -7,8 +7,6 @@ tags: ["Thoughtful Design"]
 originalURL: https://uxdesign.cc/black-mirror-brainstorms-f919ccf5938c
 ---
 
-[Original post](https://uxdesign.cc/black-mirror-brainstorms-f919ccf5938c)
-
 [Black Mirror on Twitter](http://twitter.com/blackmirror)
 
 ![Black%20Mirror%20brainstorms%20%E2%80%94%20a%20product%20design%20exerci%2068fdb8609e044dea8eaa6decc18a1e9c/1JMSxb1MjvJFDYrjWN4-Krg.jpeg](../../img/1JMSxb1MjvJFDYrjWN4-Krg.jpeg)
@@ -89,3 +87,6 @@ Black Mirror Brainstorms are intended to help us consider the negative impacts o
 # Credit and thanks
 
 Adapted from [Aaron Lewis](https://twitter.com/aaronzlewis/status/1063544871472914432) and Gamestorming’s [Cover Story](https://gamestorming.com/cover-story/) activity. Thanks to Andrew Zusman, Christine Luc and Weiman Kow at Pivotal for the feedback.
+
+
+[Original post](https://uxdesign.cc/black-mirror-brainstorms-f919ccf5938c)

@@ -6,14 +6,13 @@ weight: 10
 tags: [Guides, Product, Script]
 ---
 
-# User Test
+---
+{{< hint info >}}
+Before we test anything, we generate hypotheses. It can be as simple as "people can successfully sign up" or as complex as "people will understand that [this button] will alter their search results."
+{{< /hint >}}
 
-<aside>
-💡 Before we test anything, we generate hypotheses. It can be as simple as "people can successfully sign up" or as complex as "people will understand that [this button] will alter their search results."
 
-</aside>
-
-# Hypothesis
+## Hypothesis
 
 - We hope to: e.g. desired learning
 - So that: e.g. users can reduce time with support
@@ -21,9 +20,9 @@ tags: [Guides, Product, Script]
 
 ---
 
-# Script
+## Script
 
-## Overview
+### Overview
 
 Hi, my name is name. I work with company. I am doing some research to improve our work by better understanding real people like you. This should take no more than 15 minutes.
 
@@ -42,7 +41,7 @@ With your permission, we’d like to record this conversation. This will only be
 
 ---
 
-## Pre-test Interview
+### Pre-test Interview
 
 !! These are questions designed to build rapport. This is also a good spot to fit in any questions that give greater context to you or the team about the users' behavior.
 
@@ -53,7 +52,7 @@ Before we get to the fun part, I have a few quick questions for you:
 
 ---
 
-## The Scenario
+### The Scenario
 
 !! Lay out the scenario for them, give them clear, attainable goals and don't lead them. You can write a complex scenario below or you can keep it to just a few bullet points. The main goal here is **consistency**.
 
@@ -64,7 +63,7 @@ Here's the scenario:
 
 ---
 
-## Post-test follow up
+### Post-test follow up
 
 !! If you've offered an incentive to do this interview, get their email or mailing address so that you can send it out. Tell them when they can expect it.
 

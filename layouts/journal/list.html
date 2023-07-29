@@ -1,5 +1,12 @@
 {{ define "main" }}
-<h1 class="page-title">Journal</h1>
+<h1 class="page-title journal-title">Journal</h1>
+
+<article class="markdown book-post">
+  <blockquote class="book-hint info">
+    I'm intentionally not calling this a blog, as that comes with expectations of constant updates. Instead, this is a place to store thoughts on topics that matter to me.
+  </blockquote>
+</article>
+
   {{ range sort .Paginator.Pages }}
   <article class="markdown book-post">
     <h2 class="post-title">
@@ -18,6 +25,3 @@
   {{ template "_internal/pagination.html" . }}
 {{ end }}
 
-{{ define "toc" }}
-  {{ partial "docs/taxonomy-journal" . }}
-{{ end }}

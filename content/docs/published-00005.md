@@ -7,8 +7,6 @@ tags: Advice
 originalURL: https://medium.com/@joshuamauldin/effective-animation-86caade87215
 ---
 
-[Original post](https://medium.com/@joshuamauldin/effective-animation-86caade87215)
-
 ![https://miro.medium.com/v2/resize:fit:2000/1*wFB80FBxmxR9PO2M_H2n7Q.png](https://miro.medium.com/v2/resize:fit:2000/1*wFB80FBxmxR9PO2M_H2n7Q.png)
 
 Over the years, animation evolved from a nice-to-have concept to a core feature. Now, the best companies use animation to inform, delight, and reward the people using their products. Let’s talk about how animation helps and how to use it in our work.
@@ -132,3 +130,6 @@ If you’re looking to read more, I highly recommend peeking at these links.
 - [Designing Interface Animation](http://rosenfeldmedia.com/books/designing-interface-animation/) (Val Head)
 - [The Illusion of Life](https://vimeo.com/93206523) (Cento Lodigiani)
 - [12 Basic Principles of Animation](https://en.wikipedia.org/wiki/12_basic_principles_of_animation) (Wikipedia)
+
+
+[Original post](https://medium.com/@joshuamauldin/effective-animation-86caade87215)

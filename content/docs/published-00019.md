@@ -7,7 +7,6 @@ tags: [Focus, Thoughtful Design]
 originalURL: https://www.cbc.ca/radio/spark/377-notification-fatigue-seasonal-ghost-stories-and-more-1.4450632/notifications-stress-me-out-how-i-cut-them-down-to-improve-my-well-being-1.4450646
 ---
 
-[Original post](https://www.cbc.ca/radio/spark/377-notification-fatigue-seasonal-ghost-stories-and-more-1.4450632/notifications-stress-me-out-how-i-cut-them-down-to-improve-my-well-being-1.4450646)
 
 ![Notifications%20stress%20me%20out%20How%20I%20cut%20them%20down%20to%200a07044bab81413681566c02924efc8d/notifications.jpg](../../img/notifications.jpg)
 
@@ -92,3 +91,6 @@ Alerts that people liked my photo on Instagram? Gone. The little bubble that tel
 So here's some homework: in 2018, think about what you really need to know from you phone and curb the rest.
 
 Those seconds spent diverting your attention to your phone are much better spent doing anything else.
+
+
+[Original post](https://www.cbc.ca/radio/spark/377-notification-fatigue-seasonal-ghost-stories-and-more-1.4450632/notifications-stress-me-out-how-i-cut-them-down-to-improve-my-well-being-1.4450646)

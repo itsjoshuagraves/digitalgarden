@@ -8,7 +8,6 @@ tags: Feedback
 originalURL: https://medium.com/conflict-resolution-for-people-who-hate-conflict/how-video-games-taught-me-to-be-better-at-conflict-69cdb52e670f
 ---
 
-[Original post](https://medium.com/conflict-resolution-for-people-who-hate-conflict/how-video-games-taught-me-to-be-better-at-conflict-69cdb52e670f)
 
 The Legend of Zelda
 
@@ -49,3 +48,6 @@ It’s worth revisiting what patterns do well:
 - Check your motives: be fair and don’t cherry-pick to make someone feel bad
 
 So the next time you think about conflict, think about all the patterns present in those old video games — it could give you the clarity you need before talking to someone.
+
+
+[Original post](https://medium.com/conflict-resolution-for-people-who-hate-conflict/how-video-games-taught-me-to-be-better-at-conflict-69cdb52e670f)

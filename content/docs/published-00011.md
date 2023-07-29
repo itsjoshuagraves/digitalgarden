@@ -7,7 +7,6 @@ tags: Thoughtful Design
 originalURL: https://www.smashingmagazine.com/2014/02/effective-style-guides-with-adobe-fireworks/
 ---
 
-[Original post](https://www.smashingmagazine.com/2014/02/effective-style-guides-with-adobe-fireworks/)
 
 I started with style guides like any other obsessive-compulsive designer: with the desire to make it simple to maintain and grow a design. Plus, knowing which component to use in a given situation is nice, too, right? Since making this a regular practice, I’ve found it’s been like having a nice combination of a CSS class and a pattern library all in one.
 
@@ -376,3 +375,6 @@ If you’d like to dig a little deeper into style guides and other neat things t
 - “[Icon Design Handbook](https://hicksdesign.co.uk/journal/the-icon-handbook),” Jon Hicks
 - “[Design Cutting-Edge iOS Apps With Adobe Fireworks](https://www.smashingmagazine.com/2012/12/03/design-ios-apps-with-adobe-fireworks/),” Ivo Mynttinen, Smashing Magazine
 - “[The Present and Future of Adobe Fireworks](https://www.smashingmagazine.com/2013/12/19/present-future-adobe-fireworks/),” Michel Bozgounov, Smashing Magazine
+
+
+[Original post](https://www.smashingmagazine.com/2014/02/effective-style-guides-with-adobe-fireworks/)

@@ -7,7 +7,7 @@ tags: Advice
 originalURL: https://www.smashingmagazine.com/2015/01/prototyping-ios-android-apps-sketch-freebie/
 ---
 
-[Original post](https://www.smashingmagazine.com/2015/01/prototyping-ios-android-apps-sketch-freebie/)
+
 
 After the untimely (and still kind of sad) [demise of Fireworks](https://www.smashingmagazine.com/2013/12/19/present-future-adobe-fireworks/), I found myself looking for other ways to design apps and websites. I also had the desire to produce something more interactive for when I talk about my work with stakeholders. It turned out that [Sketch](https://bohemiancoding.com/sketch/), when paired with some other neat tools, would be a big part of this workflow.
 
@@ -184,3 +184,6 @@ If you have questions, let me know in the comments!
 - “[11 Tips for Prototyping With Sketch](https://blog.invisionapp.com/11-tips-for-prototyping-with-sketch/),” Andy Orsow A list of excellent tips on how to optimally use Sketch for prototyping.
 - “[Interactive Prototypes and Time-Savers With Adobe Fireworks](https://www.smashingmagazine.com/2012/07/03/interactive-prototypes-timesavers-adobe-fireworks/),” Trevor Kay, Smashing Magazine This tutorial explains how to easily set up Fireworks to create live prototypes. (And if you need it for iOS prototyping, [I’ve got you covered](https://www.smashingmagazine.com/2013/01/11/ios-prototyping-with-tap-and-adobe-fireworks-part-1/)!)
 - [Creating Interactive Prototypes With Keynote](https://keynotopia.com/guides/), Keynotopia A pretty detailed guide about how to use Keynote for iOS prototyping.
+
+
+[Original post](https://www.smashingmagazine.com/2015/01/prototyping-ios-android-apps-sketch-freebie/)

@@ -14,7 +14,7 @@ figcaption h4 {margin:0 !important;}
 }
 .post-title {
 	margin-top: 8px !important;
-	margin-bottom: 4px !important;
+/*	margin-bottom: 4px !important;*/
 }
 
 h1 {
@@ -81,3 +81,15 @@ blockquote {
 .post-summary {
 	margin-top: 0 !important;
 }
+
+.journal-title {
+	margin-bottom: 18px;
+}
+
+blockquote.page-summary {
+	margin-left: 0;
+	margin-bottom: 24px;
+	font-size: 24px;
+
+}
+

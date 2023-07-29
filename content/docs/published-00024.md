@@ -7,7 +7,6 @@ tags: Collaboration
 originalURL: https://medium.com/cardinal-solutions/3d78486d961f
 ---
 
-[Original post](https://medium.com/cardinal-solutions/3d78486d961f)
 
 Not pictured: the amazing idea Spock and Kirk come up with together.
 
@@ -44,3 +43,6 @@ The more you show your engineer, the better your product will be. Prototypes are
 # Getting to warp speed.
 
 It feels like all of this comes down to talking about and collaborating on your work. Don’t let each of you sit alone waiting for something to be thrown over. If you and your engineer collaborate like Spock and Kirk, you’ll build amazing things together faster than you’ve ever thought.
+
+
+[Original post](https://medium.com/cardinal-solutions/3d78486d961f)
