@@ -2,9 +2,61 @@
 title: Media
 type: docs
 ---
+{{< hint info >}}
 I watch and read a lot. Here's some of it.
+{{< /hint >}}
+
 
 {{< tabs "media" >}}
+
+{{< tab "Books" >}}
+
+## Books 
+---
+
+### Incoming
+- Salem's Lot
+- Dark Delicacies Vol 1
+- Notes on Complexity
+- Listening to the music machines make
+- Outrage Machine
+- Pet Semetary
+
+
+### 2023
+- The Destroyer of Worlds (A Return Lovecraft Country)
+- Little Heaven
+- The Deep
+- The Troop
+- Unbury Carol
+- Dead of Night: A Zombie Novel (Dead of Night Series Book 1)
+- Queen of Teeth
+- The Butcher
+- How minds are changed
+- Chaos machine
+- Mind gut connection
+- Brain energy
+- Pretty Marys All in a Row
+- Boneset & Feathers
+- The Rust Maidens
+- Reluctant Immprtals
+- Old Souls: The Sages and Mystics of Our World
+- Sundial
+- The Paris Apartment
+- Come As You Are
+- Even The Worm Will Turn
+- No Gods for Drowning
+- The Worm and His Kings
+- Your Mind Is a Terrible Thing
+- Echo
+- Hex
+- Malorie: A Bird Box Novel
+- The Living Dead
+- How Minds Change
+- The Chaos Machine
+
+{{< /tab >}}
+
 {{< tab "Film & TV" >}}
 
 ## Film & TV
@@ -63,54 +115,6 @@ I watch and read a lot. Here's some of it.
 - [The Host](https://boxd.it/28ZY)
 - [Jennifer's Body](https://boxd.it/1Efw)
 
-
-{{< /tab >}}
-
-{{< tab "Books" >}}
-
-## Books 
----
-
-### Incoming
-- Salem's Lot
-- Dark Delicacies Vol 1
-- Notes on Complexity
-- Listening to the music machines make
-- Outrage Machine
-- Pet Semetary
-
-
-### 2023
-- The Destroyer of Worlds (A Return Lovecraft Country)
-- Little Heaven
-- The Deep
-- The Troop
-- Unbury Carol
-- Dead of Night: A Zombie Novel (Dead of Night Series Book 1)
-- Queen of Teeth
-- The Butcher
-- How minds are changed
-- Chaos machine
-- Mind gut connection
-- Brain energy
-- Pretty Marys All in a Row
-- Boneset & Feathers
-- The Rust Maidens
-- Reluctant Immprtals
-- Old Souls: The Sages and Mystics of Our World
-- Sundial
-- The Paris Apartment
-- Come As You Are
-- Even The Worm Will Turn
-- No Gods for Drowning
-- The Worm and His Kings
-- Your Mind Is a Terrible Thing
-- Echo
-- Hex
-- Malorie: A Bird Box Novel
-- The Living Dead
-- How Minds Change
-- The Chaos Machine
 
 {{< /tab >}}
 

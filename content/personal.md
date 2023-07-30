@@ -8,8 +8,13 @@ Here you’ll find a catalog of my artwork and creative endeavors, my personal b
 {{< /hint >}}
 
 
-- [Journal](/journal)
-- [Read & Watch List](/media)
+## [Journal](/journal)
+I'm intentionally not calling this a blog, as that comes with expectations of constant updates. Instead, this is a place to store thoughts on topics that matter to me.
+
+## [Read & Watch List](/media)
+I watch and read a lot. Here’s some of it.
+
+
 
 <!-- {{< figure src="/img/IMG_2334.jpeg" title="Lyrics: Bloc Party" >}} -->
 

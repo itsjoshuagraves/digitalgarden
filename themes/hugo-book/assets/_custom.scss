@@ -38,7 +38,7 @@ h1 {
 }
 
 h2, h3, h4, h5, h6 {
-	font-family: "pt_serif_captionregular";
+	font-family: "pt_sansbold";
 }
 
 body {
@@ -73,8 +73,11 @@ blockquote {
 }
 
 .book-menu ul * {
-	font-family: "pt_serif_captionregular";
 	letter-spacing: 0 !important;
+/*	color: rgb(47, 214, 181);*/
+	& a:hover{
+		color: rgb(232, 71, 116) !important;
+	}
 }
 
 
@@ -96,4 +99,11 @@ blockquote.page-summary {
 
 .book-brand {
 	font-family: "Okkult-Black";
+}
+
+.book-btn {
+	background: #8F00FF;
+	&:hover {
+		background: #2F00FF;
+	}
 }
