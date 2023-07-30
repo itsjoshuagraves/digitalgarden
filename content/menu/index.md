@@ -9,8 +9,11 @@ headless: true
 - [**Professional Sphere**](/professional)
   - [Docs](/docs)
   - [Philosophy](/design-philosophy)
-  - [Process](/design-process)
-  - [Coaching & Consulting](/coaching)
+  - [We Need to Talk](/we-need-to-talk)
   - [Workshops & Speaking](/workshops)
+  - [For Sale](/tools)
+  - [Coaching & Consulting](/consulting)
 - [**About**](/about)
   - [Me](/me)
+
+

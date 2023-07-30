@@ -6,18 +6,23 @@ type: docs
 Here you’ll find all things related to work. Guides, research, thoughts, PDFs, etc.
 {{< /hint >}}
 
+## [Docs](/docs)
+A collection of things I've written, plus guides for leaders, workshop facilitators, and other curious people.
+
 ## [Design Philosophy](/design-philosophy)
-Here's the why behind how I do it.
+The why behind how I do it.
 
 ## [Design Process](/design-process)
-Here's how I do what I do.
+How I do what I do.
 
-## [We Need to Talk, a book](/we-need-to-talk)
-I'm currently writing a book called [“We Need to Talk: How to Have Hard Conversations with Anyone”](https://rosenfeldmedia.com/books/we-need-to-talk-a-survival-guide-for-tough-conversations/) for Rosenfeld Media. It’s due out in 2023.
+## [We Need to Talk, a Book](/we-need-to-talk)
+I'm writing a book for Rosenfeld Media. It’s due out in 2023.
 
-## See also
+## [Workshops & Speaking](/workshops)
+Places I've spoken at and workshops I offer.
 
-- [Writing & Guides](/categories/published)
-- [Workshops & Speaking](/workshops)
-- [Tools and Items for Sale](/tools)
-- [Coaching & Consulting](/consulting)
+## [Tools and Items for Sale](/tools)
+Products that I offer. They range from books to typefaces to design supplies.
+
+## [Coaching & Consulting](/consulting)
+Services I offer to clients and aspiring leaders.

@@ -8,7 +8,7 @@ Here you’ll find a catalog of my artwork and creative endeavors, my personal b
 {{< /hint >}}
 
 
-- [Journal](/posts)
+- [Journal](/journal)
 - [Read & Watch List](/media)
 
 <!-- {{< figure src="/img/IMG_2334.jpeg" title="Lyrics: Bloc Party" >}} -->
