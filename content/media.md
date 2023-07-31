@@ -66,6 +66,7 @@ I watch and read a lot. Here's some of it.
 - Return to Seoul (2022)
 
 ### 2023
+- Openheimer
 - [The Conjuring 2](https://boxd.it/7GJg)
 - [Zombieland: Double Tap](https://boxd.it/bgb6)
 - [Crimson Peak](https://boxd.it/62Ty)
