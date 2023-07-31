@@ -5,8 +5,8 @@ title: Giving Your Product A Soul (Smashing Magazine)
 weight: 10
 tags: [Thoughtful Design]
 originalURL: https://www.smashingmagazine.com/2016/10/giving-your-product-a-soul/
+summary: "I wrote about why it's important that the products we make have a little personality. Not delight, but soul."
 ---
-
 
 After a few years of designing products for clients, I began to feel fatigued. I wondered why. Turns out, I’d been chasing metric after metric. “Increase those page views!” “Help people spend more time in the app!” And it kept coming. Still, something was missing. I knew that meeting goals was part of what a designer does, but I could see how my work could easily become commoditized and less fulfilling unless something changed.
 

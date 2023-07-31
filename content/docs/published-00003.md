@@ -5,6 +5,7 @@ title: Black Mirror brainstorms — a product design exercise (UX Collective)
 weight: 10
 tags: ["Thoughtful Design"]
 originalURL: https://uxdesign.cc/black-mirror-brainstorms-f919ccf5938c
+summary: "I want to have more ethical products. I feel like we all do. Sometimes, though, we don’t consider how this amazing thing we’re working on might have some unintended and negative consequences."
 ---
 
 [Black Mirror on Twitter](http://twitter.com/blackmirror)

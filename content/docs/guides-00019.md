@@ -4,6 +4,7 @@ link title: User Recruiting Script
 title: User Recruiting Script
 weight: 10
 tags: [Guides, Product]
+summary: "A script that you can send to people you want to interview for your research."
 ---
 
 Our team/company name is kicking off a focused effort to make a better experience for this type of person.

@@ -5,6 +5,7 @@ title: We Need a Code of Ethics.
 weight: 10
 tags: Thoughtful Design
 originalURL: https://medium.com/thisisartium/we-need-a-code-of-ethics-eaaba6f9394b
+summary: "Tech has got to get a code of ethics, ffs."
 ---
 
 

@@ -5,6 +5,7 @@ title: Push Notifications, the good, the bad, and the wtf could u not (UX Collec
 weight: 10
 tags: Thoughtful Design
 originalURL: https://medium.com/user-experience-design-1/push-notifications-the-good-the-bad-and-the-wtf-could-u-not-b73d6b2c4f90
+summary: "Why you should give people more control over the notifications they receive from you."
 ---
 
 
@@ -16,7 +17,7 @@ Just like you’re going to ignore or shut down the person who continuously inte
 
 Push notifications are interruptive and we must be careful in our use of them if we are to retain our customers’ happiness and trust. A push notification’s frequency, type, and priority can make or break someone’s faith in your app.
 
-# **What you should do**
+# What you should do
 
 Push notifications are at their best when they are timely and helpful. Consider these tips when you’re figuring out what kinds of notifications to send.
 
@@ -53,7 +54,7 @@ People also may not want notifications for certain apps when they’re at work, 
 
 People may also want quiet hours. I haven’t seen an app that quiets itself when I’m at home or work, but it’s certainly on my wish list.
 
-# **What you should avoid**
+# What you should avoid
 
 While iOS requires users to grant permission to send push notifications, Android doesn’t. This poses some interesting challenges in which we could be bugging someone without them really wanting to be bothered.
 

@@ -5,6 +5,7 @@ title: How To Make An Effective Style Guide With Adobe Fireworks (Smashing Magaz
 weight: 10
 tags: Thoughtful Design
 originalURL: https://www.smashingmagazine.com/2014/02/effective-style-guides-with-adobe-fireworks/
+summary: "Style guides and Adobe Fireworks. This article is old, but one of my first ever published."
 ---
 
 

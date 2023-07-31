@@ -5,8 +5,8 @@ title: End of Day ceremonies, the key to sleeping better and staying focused dur
 weight: 10
 tags: Focus
 originalURL: https://medium.com/thisisartium/end-of-day-ceremonies-the-key-to-sleeping-better-and-staying-focused-during-quarantine-7902b8e01339
+summary: "How to empty your brain at the end of the day so you're able to be present in your non-work life."
 ---
-
 
 ![https://miro.medium.com/v2/resize:fit:2000/1*82azlWt6tkCFj877oF44oQ.png](https://miro.medium.com/v2/resize:fit:2000/1*82azlWt6tkCFj877oF44oQ.png)
 

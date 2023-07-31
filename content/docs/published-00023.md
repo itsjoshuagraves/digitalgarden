@@ -5,6 +5,7 @@ title: Requiem for a side project, quitting AwesomeGIFs
 weight: 10
 tags: Reflection
 originalURL: https://medium.com/@joshuamauldin/requiem-for-a-side-project-quitting-awesomegifs-fc08a0e879df
+summary: "I ran a site called AwesomeGIFs, and eventually left it. RIP."
 ---
 
 

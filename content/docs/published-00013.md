@@ -3,13 +3,10 @@ date: 2019-06-26
 link title: How video games taught me to be better at conflict
 title: How video games taught me to be better at conflict
 weight: 10
-
 tags: Feedback
 originalURL: https://medium.com/conflict-resolution-for-people-who-hate-conflict/how-video-games-taught-me-to-be-better-at-conflict-69cdb52e670f
+summary: "An exploration of pattern-based video games and and the correlation to conflict at work."
 ---
-
-
-The Legend of Zelda
 
 ![How%20video%20games%20taught%20me%20to%20be%20better%20at%20conflict%20072e0aaeea1e439795a572476a6e44ca/19cj6jhvJr4O2wb_jWmAAtA.jpeg](../../img/19cj6jhvJr4O2wb_jWmAAtA.jpeg)
 

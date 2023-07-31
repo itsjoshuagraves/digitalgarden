@@ -3,9 +3,9 @@ date: 2013-04-03
 link title: How smartphones could improve texting emergency services
 title: How smartphones could improve texting emergency services
 weight: 10
-
 tags: Thoughtful Design
 originalURL: https://medium.com/@joshuamauldin/how-smartphones-could-improve-texting-emergency-services-876216fd8a5e
+summary: "Early writing on how someone texting with emergency services would be beneficial with ideas on how it might work."
 ---
 
 

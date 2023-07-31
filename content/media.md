@@ -11,9 +11,6 @@ I watch and read a lot. Here's some of it.
 
 {{< tab "Books" >}}
 
-## Books 
----
-
 ### Incoming
 - Salem's Lot
 - Dark Delicacies Vol 1
@@ -59,14 +56,11 @@ I watch and read a lot. Here's some of it.
 
 {{< tab "Film & TV" >}}
 
-## Film & TV
----
-
 ### Incoming
 - Return to Seoul (2022)
 
 ### 2023
-- Openheimer
+- Oppenheimer
 - [The Conjuring 2](https://boxd.it/7GJg)
 - [Zombieland: Double Tap](https://boxd.it/bgb6)
 - [Crimson Peak](https://boxd.it/62Ty)
@@ -120,9 +114,6 @@ I watch and read a lot. Here's some of it.
 {{< /tab >}}
 
 {{< tab "Games" >}}
-
-## Games
----
 
 ### Incoming
 - Horizon Forbidden West

@@ -76,7 +76,8 @@ blockquote {
 	letter-spacing: 0 !important;
 /*	color: rgb(47, 214, 181);*/
 	& a:hover{
-		color: rgb(232, 71, 116) !important;
+		color: #6DDE00 !important;
+		text-decoration: underline;
 	}
 }
 
@@ -104,6 +105,45 @@ blockquote.page-summary {
 .book-btn {
 	background: #8F00FF;
 	&:hover {
-		background: #2F00FF;
+		background: #6DDE00;
 	}
+}
+
+.main-header {
+	display: flex;
+	align-items: center;
+	gap: 12px;
+	margin-bottom: 24px;
+		@media (max-width: 500px) {
+			font-size: 72px;
+			flex-direction: column;
+		}
+	align-items: flex-start;
+		.content {
+			display: flex;
+			flex-direction: column;
+			gap: 4px;
+				h1 {
+					margin-bottom: 4px;
+					border-bottom: 4px solid #6DDE00;
+					font-size: 48px;
+						@media (min-width: 500px) {
+							font-size: 72px;
+						}
+
+				}
+				p {
+					margin-top: 0;
+					font-family: "Okkult-Black";
+					font-size: 24px;
+						@media (min-width: 500px) {
+							font-size: 24px;
+						}
+
+				}
+		}
+/*		.highlight {
+				color: #6DDE00;
+
+		}*/
 }

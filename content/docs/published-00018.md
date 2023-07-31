@@ -5,6 +5,8 @@ title: My week with Soylent 1.4, or “Oh god I want a burger”
 weight: 10
 tags: General
 originalURL: https://medium.com/@joshuamauldin/my-week-with-soylent-1-4-or-oh-god-i-want-a-burger-7df2ac6690f2
+summary: "I tried Soylent. I did not love it."
+
 ---
 {{< hint info >}}
 I wrote this article in 2015. While I like that I was curious, I want to be clear in that I absolutely do not recommend this kind of stuff. Also, it’s fun to note that everything from this era is basically a clickbait style headline. Ugh.

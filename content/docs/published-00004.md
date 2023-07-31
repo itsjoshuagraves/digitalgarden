@@ -5,6 +5,8 @@ title: Deep Work, Quarantine Edition
 weight: 10
 tags: Advice
 originalURL: https://medium.com/thisisartium/deep-work-quarantine-edition-b963541ebd5f
+summary: "Something I deeply believe is that if you’re able to have focused time to work, you’re going to be able to go further, faster, and deeper than those who don’t.
+"
 ---
 
 ![A craftsman hard at work on an anvil.](../../img/1AFsjQezyHdq7T26lc9J-Jg.jpeg)

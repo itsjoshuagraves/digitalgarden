@@ -3,16 +3,13 @@ date: 2014-05-16
 link title: In which a nerd changes almost every part of his life to be better designer
 title: In which a nerd changes almost every part of his life to be better designer
 weight: 10
-
 tags: [Advice, Reflection]
 originalURL: https://medium.com/@joshuamauldin/in-which-a-nerd-changes-almost-every-part-of-his-life-to-be-better-designer-f4f2b5749088
+summary: "Early writing on becoming a better designer."
 ---
-
-
-<aside>
-💡 I wrote this article in 2014, and my views have evolved since this. Focus is still important, but please do not change every part of your life to be a better designer. Instead, change it to be a more thoughtful and kind human. The design, or whatever you do, will naturally follow.
-
-</aside>
+{{< hint info >}}
+I wrote this article in 2014, and my views have evolved since this. Focus is still important, but please do not change every part of your life to be a better designer. Instead, change it to be a more thoughtful and kind human. The design, or whatever you do, will naturally follow.
+{{< /hint >}}
 
 ![https://miro.medium.com/v2/resize:fit:12800/1*nVmjro6BVLjEewIJXxt9Cw.jpeg](https://miro.medium.com/v2/resize:fit:12800/1*nVmjro6BVLjEewIJXxt9Cw.jpeg)
 

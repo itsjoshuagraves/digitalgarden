@@ -5,6 +5,7 @@ title: Why I pulled a HULK SMASH on my social media presence
 weight: 10
 tags: General
 originalURL: https://medium.com/@joshuamauldin/why-i-pulled-a-hulk-smash-on-my-social-media-presence-c23a30b08e8
+summary: "I’ve had this feeling that the amount of brainspace that social media occupied was out of balance for me."
 ---
 
 

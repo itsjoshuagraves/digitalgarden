@@ -5,6 +5,7 @@ title: Prototyping iOS And Android Apps With Sketch (Smashing Magazine)
 weight: 10
 tags: Advice
 originalURL: https://www.smashingmagazine.com/2015/01/prototyping-ios-android-apps-sketch-freebie/
+summary: "I designed a lot of mobile apps in the 2010s, here's how I did it with Sketch."
 ---
 
 

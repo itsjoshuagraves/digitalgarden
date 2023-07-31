@@ -6,10 +6,8 @@ weight: 10
 
 tags: Collaboration
 originalURL: https://medium.com/conflict-resolution-for-people-who-hate-conflict/how-using-cranky-conclusions-makes-tough-conversations-easier-4af9789dfa1e
+summary: "Ever needed to tell a teammate something tough but fear they’ll get too defensive? Here’s one way that’s proven to work."
 ---
-
-
-# Ever needed to tell a teammate something tough but fear they’ll get too defensive? Here’s one way that’s proven to work.
 
 [https://miro.medium.com/v2/resize:fit:10184/0*kOKfC0fS6aLcRDxb](https://miro.medium.com/v2/resize:fit:10184/0*kOKfC0fS6aLcRDxb)
 

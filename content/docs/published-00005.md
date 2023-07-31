@@ -5,6 +5,7 @@ title: Effective Animation
 weight: 10
 tags: Advice
 originalURL: https://medium.com/@joshuamauldin/effective-animation-86caade87215
+summary: "Over the years, animation evolved from a nice-to-have concept to a core feature. Now, the best companies use animation to inform, delight, and reward the people using their products. Let’s talk about how animation helps and how to use it in our work."
 ---
 
 ![https://miro.medium.com/v2/resize:fit:2000/1*wFB80FBxmxR9PO2M_H2n7Q.png](https://miro.medium.com/v2/resize:fit:2000/1*wFB80FBxmxR9PO2M_H2n7Q.png)

@@ -5,6 +5,7 @@ title: The Prime Directive and the limits of assuming positive intent
 weight: 10
 tags: [Collaboration, Feedback, Thoughtful Design]
 originalURL: https://medium.com/conflict-resolution-for-people-who-hate-conflict/the-prime-directive-and-the-limits-of-assuming-positive-intent-59b7b2d735f1
+summary: "I tackled the notion of assuming positive intent when it comes to conflict. It isn't as good an idea as you might think."
 ---
 
 

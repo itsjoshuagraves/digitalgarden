@@ -5,21 +5,8 @@ title: iOS Grid System, A Free Extension For Adobe Fireworks (Smashing Magazine)
 weight: 10
 tags: Thoughtful Design
 originalURL: https://www.smashingmagazine.com/2013/05/ios-grid-system-free-extension-adobe-fireworks/
+summary: "One of my first ever published articles, extolling my love for grids."
 ---
-
-
-![iOS%20Grid%20System,%20A%20Free%20Extension%20For%20Adobe%20Firewo%202be8a23aacb845589de3f3ee8a63045e/joshua-mauldin200x200.jpg](../../img/joshua-mauldin200x200.jpg)
-
-### About The Author
-
-Joshua Mauldin is a design leader and visual artist who got his start creating websites for bands. Since then, he’s designed 5-star mobile apps and built … [More about Joshua ↬](https://www.smashingmagazine.com/author/joshua-mauldin/)
-
-### Email Newsletter
-
-Your (smashing) email
-
-*[Weekly tips on front-end & UX](https://www.smashingmagazine.com/the-smashing-newsletter/).
-Trusted by 200,000+ folks.*
 
 I’ll come right out and say it. I think the grid is the unsung hero of a good design. It gives structure and lets the design fall perfectly into place on the canvas. With a grid, adapting and building something new into your design is easy. **Think of it like a house’s foundation.** With a solid foundation, the house is stable, and building on it is easy. With a solid grid, your design can easily be adapted to accommodate whatever changes come along.
 

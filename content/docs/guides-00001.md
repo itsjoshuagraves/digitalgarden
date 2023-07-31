@@ -3,6 +3,7 @@ date: 2023-07-23
 title: Accessibility Audit Guide
 weight: 10
 tags: [Guides, Product]
+summary: "What to look for when auditing a site or app for accessibility issues."
 ---
 
 ## Success criteria for apps and websites

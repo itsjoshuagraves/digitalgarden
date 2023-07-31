@@ -5,6 +5,7 @@ title: How To Give Effective Feedback Remotely (Smashing Magazine)
 weight: 10
 tags: [Collaboration, Feedback]
 originalURL: https://www.smashingmagazine.com/2022/05/give-effective-feedback-remotely/#top
+summary: "I wrote about how to give good feedback to other designers and why it's worth the effort."
 ---
 
 We need more good feedback in our world, and I don’t just mean the type of feedback that celebrates your good work. I’m talking about feedback that is actionable, specific, and kind; feedback that does not set us on edge or make us fall into an anxious spiral; feedback that helps us collaborate more effectively. The kind of feedback that is actually *really hard* to do when working remotely.

@@ -5,6 +5,7 @@ title: Spock, Kirk, and the ideal designer/engineer relationship
 weight: 10
 tags: Collaboration
 originalURL: https://medium.com/cardinal-solutions/3d78486d961f
+summary: "I've long been a fan of collaboration between design and engineering."
 ---
 
 

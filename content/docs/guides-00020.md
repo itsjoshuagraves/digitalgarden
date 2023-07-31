@@ -4,6 +4,7 @@ link title: User Research Plan
 title: User Research Plan
 weight: 10
 tags: [Guides, Product]
+summary: "A guide for planning your research that will convince your stakeholders that the time investment is worth it."
 ---
 
 ## Business Objectives

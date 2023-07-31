@@ -4,6 +4,8 @@ linktitle: Collaborating
 title: Collaborating
 weight: 10
 tags: [Guides, Product]
+summary: "What does good collaboration look like from each discipline's perspective?"
+
 ---
 
 What does good collaboration look like? Some thoughts:
