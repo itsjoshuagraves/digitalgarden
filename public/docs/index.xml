@@ -12,9 +12,7 @@
       <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>https://joshuamauldin.com/docs/guides-00001/</guid>
-      <description>Success criteria for apps and websites # As of writing, the goal is to follow WCAG 2.1, but falling back to WCAG 2.0 is acceptable. The following success criteria are below. This has been helpfully adapted by Kris Rivenburgh.
-WCAG 2.0 AA # Section 1: Alternatives
-Alt text (1.1.1): All images and non-text content needs alt text (there are exceptions) Video &amp;amp; Audio alternatives (1.2.1): All video-only and audio-only content has a text transcript.</description>
+      <description>What to look for when auditing a site or app for accessibility issues.</description>
     </item>
     
     <item>
@@ -23,8 +21,7 @@ Alt text (1.1.1): All images and non-text content needs alt text (there are exce
       <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>https://joshuamauldin.com/docs/guides-00003/</guid>
-      <description>What does good collaboration look like? Some thoughts:
-To Designers # Attend ceremonies with engineers Treat this like a user interview, you&amp;rsquo;re listening for where they may be getting confused Cross pair with Engineering and PM Get into their backlog or development environment how should cross pairing work? when and how often? what does each do? Bring them into your design file Ensure Engineers have validated and modular designs (with users, stakeholders, and Engineers) to build Do what you can to shorten the understanding gap, with examples: Engineering: learn HTML/CSS/JS, learn basic git PM: plan design work with your PM, co-create stories in your backlog Pair with other designers Designers get better at their craft when we learn by doing work with someone else.</description>
+      <description>What does good collaboration look like from each discipline&amp;rsquo;s perspective?</description>
     </item>
     
     <item>
@@ -33,7 +30,7 @@ To Designers # Attend ceremonies with engineers Treat this like a user interview
       <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>https://joshuamauldin.com/docs/guides-00004/</guid>
-      <description>Key points # Generate interface ideas, as many as possible Get on the same page Involve the right people. Consider: Stakeholders Support/frontline staff Engineers Product managers How to do it # Distribute supplies *In person: **Paper and sharpies Sharpies are important, as they force you to be less detailed Remote: have clients use printer paper folded in half vertically and horizontally OR use the template below to have them draw on it Give clients eight, one minute rounds to individually sketch out a part of the interface Make sure they know they don&amp;rsquo;t have to be an artist.</description>
+      <description>An exercise in idea generation.</description>
     </item>
     
     <item>
@@ -42,31 +39,16 @@ To Designers # Attend ceremonies with engineers Treat this like a user interview
       <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>https://joshuamauldin.com/docs/guides-00005/</guid>
-      <description>How we communicate about our work is just as important as the effort that went into making it. Read the following carefully.
-General guidance # Show in context # It’s always best to show something in context, and at the right fidelity. To that end:
-Prefer to show something interactive over something static Prefer to show something in context (e.g. if it’s an app, show it on a phone. A site should be demoed in a browser.</description>
-    </item>
-    
-    <item>
-      <title>Ethnographic Interview</title>
-      <link>https://joshuamauldin.com/docs/guides-00007/</link>
-      <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://joshuamauldin.com/docs/guides-00007/</guid>
-      <description>💡 The big idea here is to **stay quiet and listen** to the person. It&#39;s okay to add in clarifying questions (e.g. &#34;could you say more&#34; or &#34;what led you to that?&#34;), but otherwise let them take the lead. Date**:** Try typing /today Name**:** Person&amp;rsquo;s name Department: Department name
-Takeways &amp;amp; observations # List learnings and outputs Questions # E.g. could you walk me through your day yesterday? E.g. what part of your job do you find makes you grumpiest?</description>
+      <description>On presenting design work and soliciting feedback.</description>
     </item>
     
     <item>
       <title>Ethnographic Interviews</title>
-      <link>https://joshuamauldin.com/docs/guides-00008/</link>
+      <link>https://joshuamauldin.com/docs/guides-00007/</link>
       <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://joshuamauldin.com/docs/guides-00008/</guid>
-      <description>Ethnographic interviews help us understand users in their own environment, the problems they face, and how they face them.
-The main goal here is to listen and avoid injecting your own bias into the project. Let the person you&amp;rsquo;re interviewing speak much more than yourself.
-Once you&amp;rsquo;re done, synthesize your insights and share them out with your client. Some good talking points:
-What lined up What diverged What patterns emerged Template # Ethnographic Interview User Recruiting Script </description>
+      <guid>https://joshuamauldin.com/docs/guides-00007/</guid>
+      <description>Why interviewing people in their environment is crucial. Includes a guide for conducting them.</description>
     </item>
     
     <item>
@@ -75,28 +57,7 @@ What lined up What diverged What patterns emerged Template # Ethnographic Interv
       <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>https://joshuamauldin.com/docs/guides-00010/</guid>
-      <description>Key points # Define the map&amp;rsquo;s scope Limit to one persona&amp;rsquo;s journey so that we aren&amp;rsquo;t too generic Define the intended outcome or endpoint in the journey Involve the right people. Consider: Stakeholders Support/frontline staff Engineers Product managers How to do it # Give clients 10 minutes to individually map out individual steps, then come together with the rest of the team to synthesize Instruct our clients to avoid getting mired in details at this point (e.</description>
-    </item>
-    
-    <item>
-      <title>Journey Maps &amp; Service Blueprints</title>
-      <link>https://joshuamauldin.com/docs/guides-00011/</link>
-      <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://joshuamauldin.com/docs/guides-00011/</guid>
-      <description>User Journey # Use these when you&amp;rsquo;d like to understand a Personas journey and ways to alleviate pain or otherwise improve their experience.
-These are generally focused on a specific persona, and we&amp;rsquo;re mapping out their journey from start to finish.
-Service Blueprints # If you&amp;rsquo;d like to go deeper to see what types of things are necessary to give users the best possible experience, use a service blueprint. These typically cover layers like:</description>
-    </item>
-    
-    <item>
-      <title>Online safety</title>
-      <link>https://joshuamauldin.com/docs/guides-00015/</link>
-      <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://joshuamauldin.com/docs/guides-00015/</guid>
-      <description>This is how to take yours and others’ privacy/safety into account.
-Get a VPN to encrypt your browsing and data. I use Private Internet Access, it’s like $3/mo and covers all my devices Use Signal or other fully end to end encrypted calls, texts, and videos. Do not use regular SMS or phone calls, they can be tracked. FaceTime audio will do if no other option is available. Do not share whereabouts online, don’t send sensitive info via twitter and Instagram.</description>
+      <description>An exercise to understand the person&amp;rsquo;s journey through a service.</description>
     </item>
     
     <item>
@@ -105,7 +66,7 @@ Get a VPN to encrypt your browsing and data. I use Private Internet Access, it�
       <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>https://joshuamauldin.com/docs/guides-00016/</guid>
-      <description> Assets Designers Commonly Need # Brand assets Logos (in .eps, .ai, or .svg preferred) Typefaces Brand colors Photography Other miscellaneous items Account creation (e.g. Webflow) Content We won’t need it all initially, we’ll give you space to fill in what you need </description>
+      <description>A quick checklist to make sure designers have what they need to get going at the start of a project.</description>
     </item>
     
     <item>
@@ -114,9 +75,7 @@ Get a VPN to encrypt your browsing and data. I use Private Internet Access, it�
       <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>https://joshuamauldin.com/docs/guides-00018/</guid>
-      <description>We observe users in their environment so that we fully understand the problem and the context in which they work.
-We want everything we design to be to the direct benefit of everyone involved. There’s no better way to see how you can help someone than hearing them say it in their own words.
-Desired mindset # Stay curious and have a genuine commitment to learning. Increase our understanding of users and challenge our assumptions.</description>
+      <description>Why we observe users in their environment, the benefits, and a script for getting started.</description>
     </item>
     
     <item>
@@ -125,9 +84,7 @@ Desired mindset # Stay curious and have a genuine commitment to learning. Increa
       <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>https://joshuamauldin.com/docs/guides-00019/</guid>
-      <description>Our team/company name is kicking off a focused effort to make a better experience for this type of person.
-We would like to interview you or anyone who is this user type/performs these types of tasks. We&amp;rsquo;re focusing on these specific points in the experience.
-The interviews will be e.g. 45 minutes via e.g. Zoom. We may ask you to share your screen. You don’t have to prepare anything for this.</description>
+      <description>A script that you can send to people you want to interview for your research.</description>
     </item>
     
     <item>
@@ -136,11 +93,7 @@ The interviews will be e.g. 45 minutes via e.g. Zoom. We may ask you to share yo
       <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>https://joshuamauldin.com/docs/guides-00020/</guid>
-      <description>Business Objectives # The business&amp;rsquo; main goal here is: e.g. beat last year&amp;rsquo;s signup numbers
-We&amp;rsquo;re trying to understand: e.g. why signup numbers don&amp;rsquo;t match our projections
-We need to keep in mind: e.g. an OKR or KPI
-Users will get: e.g. an easier signup experience
-Timeline # Time needed: e.g. 3 weeks until share-out Hypotheses &amp;amp; goals # Hypothesis # We hope to: e.g. desired learning So that: e.</description>
+      <description>A guide for planning your research that will convince your stakeholders that the time investment is worth it.</description>
     </item>
     
     <item>
@@ -149,16 +102,7 @@ Timeline # Time needed: e.g. 3 weeks until share-out Hypotheses &amp;amp; goals
       <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>https://joshuamauldin.com/docs/guides-00021/</guid>
-      <description> Automation: https://zapier.com/ Research &amp;amp; mirco surveys: https://ethn.io/ NPS surveys: https://delighted.com Saas insights: https://qualaroo.com/ DVR for your product: https://www.fullstory.com/ Targeted messaging: https://www.intercom.com Resources # [10 Common Cognitive Biases](https://uxdesign.cc- 10-cognitive-biases-to-avoid-in-user-research-and-how-to-avoid-them-993aa397c8c6) List of Cognitive Biases [20 UX Research Methods](https://docs.google.com/document/d- 1Ij8QV0k2BjeZ_7MdKeRwuOyq2dBLviwJ1YgjXtwT_K4/edit#heading=h.emggo56ca2h2) [Google Ventures Survey Guide](https://library.gv.com- improve-your-startup-s-surveys-and-get-even-better-data-7b0272f74c23#.uxkcogqna) [Design Better Co: Guess Less](https://www.designbetter.co/principles-of-product-design- guess-less) Avoid Response Bias [Minimum Viable Ethnography](https://medium.com/mule-design- minimum-viable-ethnography-a047e9358df0) [Changing Landscape of UX Research](https://medium.com/@johnpcutler- 10-ways-ux-research-is-changing-62fde944672) </description>
-    </item>
-    
-    <item>
-      <title>User Test</title>
-      <link>https://joshuamauldin.com/docs/guides-00022/</link>
-      <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://joshuamauldin.com/docs/guides-00022/</guid>
-      <description>User Test # 💡 Before we test anything, we generate hypotheses. It can be as simple as &#34;people can successfully sign up&#34; or as complex as &#34;people will understand that [this button] will alter their search results.&#34; Hypothesis # We hope to: e.g. desired learning So that: e.g. users can reduce time with support We&amp;rsquo;ll know we&amp;rsquo;re right when: e.g. users call in less frequently to the call center Script # Overview # Hi, my name is name.</description>
+      <description>A collection of tools that&amp;rsquo;ll help you along your way in user research.</description>
     </item>
     
     <item>
@@ -167,8 +111,7 @@ Timeline # Time needed: e.g. 3 weeks until share-out Hypotheses &amp;amp; goals
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
       
       <guid>https://joshuamauldin.com/docs/published-00007/</guid>
-      <description>Original post
-We need more good feedback in our world, and I don’t just mean the type of feedback that celebrates your good work. I’m talking about feedback that is actionable, specific, and kind; feedback that does not set us on edge or make us fall into an anxious spiral; feedback that helps us collaborate more effectively. The kind of feedback that is actually really hard to do when working remotely.</description>
+      <description>I wrote about how to give good feedback to other designers and why it&amp;rsquo;s worth the effort.</description>
     </item>
     
     <item>
@@ -177,9 +120,7 @@ We need more good feedback in our world, and I don’t just mean the type of fee
       <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://joshuamauldin.com/docs/published-00029/</guid>
-      <description>Original post
-I had a lot of good responses to a question I put out on LinkedIn about advice for product design portfolios so I thought I’d expound on that here in hopes of helping you get called in for an interview.
-While the principles here are applicable to almost all types of design roles, I’m going to narrow the focus of this to folks who are seeking a product design role.</description>
+      <description>When I ran design at a consultancy, here&amp;rsquo;s what I looked for in a designer&amp;rsquo;s portfolio.</description>
     </item>
     
     <item>
@@ -188,8 +129,7 @@ While the principles here are applicable to almost all types of design roles, I�
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://joshuamauldin.com/docs/published-00004/</guid>
-      <description>Something I deeply believe is that if you’re able to have focused time to work, you’re going to be able to go further, faster, and deeper than those who don’t.
-That’s been especially true for me in this time of quarantine. When this began, I was hyper-available to people, answering emails and chats much quicker than I would usually. That, paired with the uncertainty of this pandemic made for a huge drag on my focus and craft.</description>
+      <description>Something I deeply believe is that if you’re able to have focused time to work, you’re going to be able to go further, faster, and deeper than those who don’t.</description>
     </item>
     
     <item>
@@ -198,9 +138,7 @@ That’s been especially true for me in this time of quarantine. When this began
       <pubDate>Tue, 23 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://joshuamauldin.com/docs/published-00027/</guid>
-      <description>Original post
-I keep wondering what we can do to ensure we’re building a better world with the products we make and if we need a code of ethics. So often I see people fall through the cracks because they’re “edge cases” or “not the target audience.” But at the end of the day, we’re still talking about humans.
-Other professions that can deeply alter someone’s life have a code of ethics and conduct they must adhere to.</description>
+      <description>Tech has got to get a code of ethics, ffs.</description>
     </item>
     
     <item>
@@ -209,8 +147,7 @@ Other professions that can deeply alter someone’s life have a code of ethics a
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://joshuamauldin.com/docs/published-00006/</guid>
-      <description>Original post
-Remember the last time you couldn’t get something out of your head and you woke up thinking about it in the middle of the night? The last few weeks of quarantine have been one continuous stretch of undifferentiated time and it’s become hard to turn things off. So I’ll share what I did about it in hopes of it helping you too. After putting this self-care routine into practice, I’ve been much more effective and focused during the day.</description>
+      <description>How to empty your brain at the end of the day so you&amp;rsquo;re able to be present in your non-work life.</description>
     </item>
     
     <item>
@@ -219,11 +156,7 @@ Remember the last time you couldn’t get something out of your head and you wok
       <pubDate>Tue, 16 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://joshuamauldin.com/docs/published-00012/</guid>
-      <description>Original post
-Ever needed to tell a teammate something tough but fear they’ll get too defensive? Here’s one way that’s proven to work. # https://miro.medium.com/v2/resize:fit:10184/0*kOKfC0fS6aLcRDxb
-Photo by Matthew Henry on Unsplash
-You’re going to say the technique I’m about to share is just a glorified way of manipulating someone. Hear me out though.
-Not all conflict is easy to address. We’re by no means perfect. We put so much of ourselves into our work that it’s hard to not take some feedback personally.</description>
+      <description>Ever needed to tell a teammate something tough but fear they’ll get too defensive? Here’s one way that’s proven to work.</description>
     </item>
     
     <item>
@@ -232,8 +165,7 @@ Not all conflict is easy to address. We’re by no means perfect. We put so muc
       <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://joshuamauldin.com/docs/published-00025/</guid>
-      <description>Original post
-Here’s the most helpful thing I’ve ever learned by far about conflict: before you have a conversation with someone, make sure you assume positive intent. Read on to discover a technique you can use to apply that idea — if you’re like me, you’ll find it will resolve most conflict before it starts. And, in a fun plot twist, we’ll also cover how this idea shouldn’t be applied at all times because it can harm underrepresented folks if we aren’t careful.</description>
+      <description>I tackled the notion of assuming positive intent when it comes to conflict. It isn&amp;rsquo;t as good an idea as you might think.</description>
     </item>
     
     <item>
@@ -242,9 +174,7 @@ Here’s the most helpful thing I’ve ever learned by far about conflict: befo
       <pubDate>Wed, 26 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>https://joshuamauldin.com/docs/published-00013/</guid>
-      <description>Original post
-The Legend of Zelda
-I played a lot of video games growing up. It all started with The Legend of Zelda. I had such bad allergies that most of my adventuring had to be more pixel-based than anything. I didn’t expect to learn all that time spent playing video games would amount to anything, especially when it came to conflict resolution. Turns out there’s a lot more in common with old school video games and modern day human behavior than you’d think.</description>
+      <description>An exploration of pattern-based video games and and the correlation to conflict at work.</description>
     </item>
     
     <item>
@@ -253,10 +183,7 @@ I played a lot of video games growing up. It all started with The Legend of Zeld
       <pubDate>Mon, 26 Nov 2018 00:00:00 +0000</pubDate>
       
       <guid>https://joshuamauldin.com/docs/published-00003/</guid>
-      <description>Original post
-Black Mirror on Twitter
-I want to have more ethical products. I feel like we all do. Sometimes, though, we don’t consider how this amazing thing we’re working on might have some unintended and negative consequences.
-In my job, I help clients build products. Part of the process is framing the project and defining our goals. We also talk about anti-goals, which are things we absolutely don’t want to happen and run counter to our intentions.</description>
+      <description>I want to have more ethical products. I feel like we all do. Sometimes, though, we don’t consider how this amazing thing we’re working on might have some unintended and negative consequences.</description>
     </item>
     
     <item>
@@ -265,10 +192,7 @@ In my job, I help clients build products. Part of the process is framing the pro
       <pubDate>Tue, 08 May 2018 00:00:00 +0000</pubDate>
       
       <guid>https://joshuamauldin.com/docs/published-00028/</guid>
-      <description>Original post
-Virtual Reality Experience by Mooms from the Noun Project
-I recently made my first VR app for a client who commissioned an app to celebrate their 100th anniversary. In it, you walk through a 3D art gallery complete with with audio and imagery to understand their history.
-Having primarily designed for mobile over the last few years, this was a fun new medium to explore. The new constraints and considerations were interesting, too.</description>
+      <description>I got to learn about designing for VR, and boy are the principles different there.</description>
     </item>
     
     <item>
@@ -277,9 +201,7 @@ Having primarily designed for mobile over the last few years, this was a fun new
       <pubDate>Mon, 15 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>https://joshuamauldin.com/docs/published-00014/</guid>
-      <description>Original post
-Over the holiday, I did the unthinkable: turned off push notifications from Messages. Up to that point, I’d received a steadily-increasing stream of messages from co-workers and friends—my head was buzzing as much as my phone. It was hard to get any quiet time in my own head and I was tired of my tiny illuminated rectangle commanding my attention.
-When I put a stop to it, I became more at peace.</description>
+      <description>One of many things I tried to reclaim my sanity from push notification hell.</description>
     </item>
     
     <item>
@@ -288,12 +210,7 @@ When I put a stop to it, I became more at peace.</description>
       <pubDate>Fri, 22 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>https://joshuamauldin.com/docs/published-00019/</guid>
-      <description>Original post
-(Jason Vermes)
-I&amp;rsquo;m really fed up with notifications.
-When it&amp;rsquo;s not the group chat blowing up, it&amp;rsquo;s a breaking news alert. When it&amp;rsquo;s not a reminder to meet your step goal, your budget app is letting you know you&amp;rsquo;ve spent too much at Starbucks this week.
-Now, before you say anything, I know. I can just turn them off.
-But I want certain notifications to get through. Texts from my Mom, for example.</description>
+      <description>I was interviewed by CBC to discuss push notificaitons and the stress they cause.</description>
     </item>
     
     <item>
@@ -302,10 +219,7 @@ But I want certain notifications to get through. Texts from my Mom, for example.
       <pubDate>Tue, 09 May 2017 00:00:00 +0000</pubDate>
       
       <guid>https://joshuamauldin.com/docs/published-00005/</guid>
-      <description>Original post
-Over the years, animation evolved from a nice-to-have concept to a core feature. Now, the best companies use animation to inform, delight, and reward the people using their products. Let’s talk about how animation helps and how to use it in our work.
-Animation Provides Guidance # I think a lot about this quote from Steve Krug in Don’t Make Me Think:
-“We don’t read pages. We scan them.</description>
+      <description>Over the years, animation evolved from a nice-to-have concept to a core feature. Now, the best companies use animation to inform, delight, and reward the people using their products. Let’s talk about how animation helps and how to use it in our work.</description>
     </item>
     
     <item>
@@ -314,10 +228,7 @@ Animation Provides Guidance # I think a lot about this quote from Steve Krug in�
       <pubDate>Fri, 21 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://joshuamauldin.com/docs/published-00022/</guid>
-      <description>Original post
-Push notifications are incredibly handy for giving you important information. Your flight being delayed? Really helpful to know. Getting a notification for everything one of the Avengers is posting about? Probably not.
-Just like you’re going to ignore or shut down the person who continuously interrupts you, you’re more likely to do the same to an app that bothers you with trivial information.
-Push notifications are interruptive and we must be careful in our use of them if we are to retain our customers’ happiness and trust.</description>
+      <description>Why you should give people more control over the notifications they receive from you.</description>
     </item>
     
     <item>
@@ -326,18 +237,7 @@ Push notifications are interruptive and we must be careful in our use of them if
       <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
       
       <guid>https://joshuamauldin.com/docs/published-00008/</guid>
-      <description>Original post
-After a few years of designing products for clients, I began to feel fatigued. I wondered why. Turns out, I’d been chasing metric after metric. “Increase those page views!” “Help people spend more time in the app!” And it kept coming. Still, something was missing. I knew that meeting goals was part of what a designer does, but I could see how my work could easily become commoditized and less fulfilling unless something changed.</description>
-    </item>
-    
-    <item>
-      <title>Giving Your Product A Soul (Smashing Magazine)</title>
-      <link>https://joshuamauldin.com/docs/published-00009/</link>
-      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://joshuamauldin.com/docs/published-00009/</guid>
-      <description>Original post
-After a few years of designing products for clients, I began to feel fatigued. I wondered why. Turns out, I’d been chasing metric after metric. “Increase those page views!” “Help people spend more time in the app!” And it kept coming. Still, something was missing. I knew that meeting goals was part of what a designer does, but I could see how my work could easily become commoditized and less fulfilling unless something changed.</description>
+      <description>I wrote about why it&amp;rsquo;s important that the products we make have a little personality. Not delight, but soul.</description>
     </item>
     
     <item>
@@ -346,10 +246,7 @@ After a few years of designing products for clients, I began to feel fatigued. I
       <pubDate>Thu, 04 Aug 2016 00:00:00 +0000</pubDate>
       
       <guid>https://joshuamauldin.com/docs/published-00020/</guid>
-      <description>Original post
-I have an idea about how to help people being harassed, and it’s about how people get and manage their replies.
-This idea is more of an umbrella in a shitstorm. It’s a short-term solution that helps us stay dry while we try to get indoors to safety.
-How we can filter replies # The core of this idea is that anyone could mention you, share or like your updates, but you don’t see every reply.</description>
+      <description>I&amp;rsquo;ve always been thinking about how to reduce harassment and annoyance on the web, here are some early thoughts.</description>
     </item>
     
     <item>
@@ -358,9 +255,7 @@ How we can filter replies # The core of this idea is that anyone could mention y
       <pubDate>Mon, 20 Jun 2016 00:00:00 +0000</pubDate>
       
       <guid>https://joshuamauldin.com/docs/published-00026/</guid>
-      <description>Original post
-I’ve had lots of conversations about typography over the last few years. Which is cool, because I love it so much (so much that I decided to make my own typeface). It’s exciting to see so many designers caring about making a beautiful group of letters that people want to read.
-One common theme I see in these conversations is how to get the best readability with text. We usually end up talking about serif vs sans serif, line height, line spacing, and other tricks.</description>
+      <description>Written shortly after the release of my first typeface, Uptown Sans. I ended up giving a talk on this at GIANTConf in Charleston, SC.</description>
     </item>
     
     <item>
@@ -369,9 +264,7 @@ One common theme I see in these conversations is how to get the best readability
       <pubDate>Mon, 06 Jun 2016 00:00:00 +0000</pubDate>
       
       <guid>https://joshuamauldin.com/docs/published-00030/</guid>
-      <description>Original post
-I’ve had this feeling that the amount of brainspace that social media occupied was out of balance for me.
-I found myself in a problematic situation more often that I’d like: checking social media during every bit of downtime, or when I was trying to solve a particularly difficult design problem. It made getting things done and being present harder than it should. I needed to be more focused.</description>
+      <description>I’ve had this feeling that the amount of brainspace that social media occupied was out of balance for me.</description>
     </item>
     
     <item>
@@ -380,8 +273,7 @@ I found myself in a problematic situation more often that I’d like: checking s
       <pubDate>Sat, 16 May 2015 00:00:00 +0000</pubDate>
       
       <guid>https://joshuamauldin.com/docs/published-00018/</guid>
-      <description>Original post
-💡 I wrote this article in 2015. While I like that I was curious, I want to be clear in that I absolutely do not recommend this kind of stuff. Also, it’s fun to note that everything from this era is basically a clickbait style headline. Ugh. I’m always curious about how changing a habit will affect me and have little aversion to change. My main apps for email, search, and anything else get regularly switched, and so do my mobile OSes.</description>
+      <description>I tried Soylent. I did not love it.</description>
     </item>
     
     <item>
@@ -390,9 +282,7 @@ I found myself in a problematic situation more often that I’d like: checking s
       <pubDate>Sun, 11 Jan 2015 00:00:00 +0000</pubDate>
       
       <guid>https://joshuamauldin.com/docs/published-00023/</guid>
-      <description>Original post
-A feeling came over me in 2009 when GeoCities was shutting down: ‘I don’t want all those GIFs to somehow disappear! They’re magic.’ So I made a home for them, and in the span of a few short weeks, AwesomeGIFs was born.
-Powered by the humble WordPress, it operated like so many blogs of its time, publishing new GIFs each day. I loved those misfit GIFs so much — they turned out to be so much more fun than I’d ever imagine, and it warmed me to see so many people take to them like they did.</description>
+      <description>I ran a site called AwesomeGIFs, and eventually left it. RIP.</description>
     </item>
     
     <item>
@@ -401,9 +291,7 @@ Powered by the humble WordPress, it operated like so many blogs of its time, pub
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
       <guid>https://joshuamauldin.com/docs/published-00021/</guid>
-      <description>Original post
-After the untimely (and still kind of sad) demise of Fireworks, I found myself looking for other ways to design apps and websites. I also had the desire to produce something more interactive for when I talk about my work with stakeholders. It turned out that Sketch, when paired with some other neat tools, would be a big part of this workflow.
-In this article, I’ll talk you through why you should prototype and how you can do it with Sketch and prototyping tools such as Flinto and InVision.</description>
+      <description>I designed a lot of mobile apps in the 2010s, here&amp;rsquo;s how I did it with Sketch.</description>
     </item>
     
     <item>
@@ -412,10 +300,7 @@ In this article, I’ll talk you through why you should prototype and how you ca
       <pubDate>Sun, 17 Aug 2014 00:00:00 +0000</pubDate>
       
       <guid>https://joshuamauldin.com/docs/published-00024/</guid>
-      <description>Original post
-Not pictured: the amazing idea Spock and Kirk come up with together.
-I tend to think about Star Trek when considering how designers and engineers should work together. After all, it wouldn’t be Star Trek if you only had Kirk — you need Spock to balance him out (and it’d be kind of boring if it were just Spock, right?).
-Spock and Kirk work together and solve difficult problems.</description>
+      <description>I&amp;rsquo;ve long been a fan of collaboration between design and engineering.</description>
     </item>
     
     <item>
@@ -424,8 +309,7 @@ Spock and Kirk work together and solve difficult problems.</description>
       <pubDate>Fri, 16 May 2014 00:00:00 +0000</pubDate>
       
       <guid>https://joshuamauldin.com/docs/published-00015/</guid>
-      <description>Original post
-💡 I wrote this article in 2014, and my views have evolved since this. Focus is still important, but please do not change every part of your life to be a better designer. Instead, change it to be a more thoughtful and kind human. The design, or whatever you do, will naturally follow. A guide for designers young (and not so young) # As a young designer, I found myself unable to focus on my work.</description>
+      <description>Early writing on becoming a better designer.</description>
     </item>
     
     <item>
@@ -434,9 +318,7 @@ Spock and Kirk work together and solve difficult problems.</description>
       <pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
       
       <guid>https://joshuamauldin.com/docs/published-00011/</guid>
-      <description>Original post
-I started with style guides like any other obsessive-compulsive designer: with the desire to make it simple to maintain and grow a design. Plus, knowing which component to use in a given situation is nice, too, right? Since making this a regular practice, I’ve found it’s been like having a nice combination of a CSS class and a pattern library all in one.
-One of the first questions, understandably, is why use Fireworks for a style guide?</description>
+      <description>Style guides and Adobe Fireworks. This article is old, but one of my first ever published.</description>
     </item>
     
     <item>
@@ -445,11 +327,7 @@ One of the first questions, understandably, is why use Fireworks for a style gui
       <pubDate>Sun, 05 May 2013 00:00:00 +0000</pubDate>
       
       <guid>https://joshuamauldin.com/docs/published-00016/</guid>
-      <description>Original post
-About The Author # Joshua Mauldin is a design leader and visual artist who got his start creating websites for bands. Since then, he’s designed 5-star mobile apps and built … More about Joshua ↬
-Email Newsletter # Your (smashing) email
-Weekly tips on front-end &amp;amp; UX. Trusted by 200,000+ folks.
-I’ll come right out and say it. I think the grid is the unsung hero of a good design.</description>
+      <description>One of my first ever published articles, extolling my love for grids.</description>
     </item>
     
     <item>
@@ -458,9 +336,7 @@ I’ll come right out and say it. I think the grid is the unsung hero of a good 
       <pubDate>Fri, 12 Apr 2013 00:00:00 +0000</pubDate>
       
       <guid>https://joshuamauldin.com/docs/published-00017/</guid>
-      <description>Original post
-“Like this app? Give us 5 stars! UGH STOP PLZ.” # The conversation where folks are growing collectively tired of being asked to rate apps has been interesting to watch.
-Some tech folks want to encourage users to rate an app 1 star because they asked for a rating. I think that’s unfair, because that doesn’t seem like a real review at all to me. It doesn’t tell me that the app is buggy, that it steals my data, or doesn’t alert me to a tornado.</description>
+      <description>Early work on in-app rating modules and how I made them better. This was before Apple launched their own in-app rating system.</description>
     </item>
     
     <item>
@@ -469,27 +345,7 @@ Some tech folks want to encourage users to rate an app 1 star because they asked
       <pubDate>Wed, 03 Apr 2013 00:00:00 +0000</pubDate>
       
       <guid>https://joshuamauldin.com/docs/published-00010/</guid>
-      <description>Original post
-As of May 24, 2014, the main 4 carriers in the US will allow texting with 911. That’s great, but I wondered what it would look like if smartphones could build on top of that idea.
-I want design to do good and feel like a moment of crisis is an ideal spot to employ thoughtful design to ease a difficult situation. Plus, it’s fun to weave different technologies together.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://joshuamauldin.com/docs/published-00001/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://joshuamauldin.com/docs/published-00001/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://joshuamauldin.com/docs/published-00002/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://joshuamauldin.com/docs/published-00002/</guid>
-      <description></description>
+      <description>Early writing on how someone texting with emergency services would be beneficial with ideas on how it might work.</description>
     </item>
     
   </channel>

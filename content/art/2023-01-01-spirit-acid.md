@@ -1,7 +1,7 @@
 ---
 title: Spirit Acid
 tags: [Analog]
-date: 2023-01-01
+date: 2023-07-01
 image: /img/spirit_acid.jpg
 ---
 

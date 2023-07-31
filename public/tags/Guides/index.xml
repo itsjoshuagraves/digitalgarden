@@ -13,9 +13,7 @@
       <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>https://joshuamauldin.com/docs/guides-00001/</guid>
-      <description>Success criteria for apps and websites # As of writing, the goal is to follow WCAG 2.1, but falling back to WCAG 2.0 is acceptable. The following success criteria are below. This has been helpfully adapted by Kris Rivenburgh.
-WCAG 2.0 AA # Section 1: Alternatives
-Alt text (1.1.1): All images and non-text content needs alt text (there are exceptions) Video &amp;amp; Audio alternatives (1.2.1): All video-only and audio-only content has a text transcript.</description>
+      <description>What to look for when auditing a site or app for accessibility issues.</description>
     </item>
     
     <item>
@@ -24,8 +22,7 @@ Alt text (1.1.1): All images and non-text content needs alt text (there are exce
       <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>https://joshuamauldin.com/docs/guides-00003/</guid>
-      <description>What does good collaboration look like? Some thoughts:
-To Designers # Attend ceremonies with engineers Treat this like a user interview, you&amp;rsquo;re listening for where they may be getting confused Cross pair with Engineering and PM Get into their backlog or development environment how should cross pairing work? when and how often? what does each do? Bring them into your design file Ensure Engineers have validated and modular designs (with users, stakeholders, and Engineers) to build Do what you can to shorten the understanding gap, with examples: Engineering: learn HTML/CSS/JS, learn basic git PM: plan design work with your PM, co-create stories in your backlog Pair with other designers Designers get better at their craft when we learn by doing work with someone else.</description>
+      <description>What does good collaboration look like from each discipline&amp;rsquo;s perspective?</description>
     </item>
     
     <item>
@@ -34,7 +31,7 @@ To Designers # Attend ceremonies with engineers Treat this like a user interview
       <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>https://joshuamauldin.com/docs/guides-00004/</guid>
-      <description>Key points # Generate interface ideas, as many as possible Get on the same page Involve the right people. Consider: Stakeholders Support/frontline staff Engineers Product managers How to do it # Distribute supplies *In person: **Paper and sharpies Sharpies are important, as they force you to be less detailed Remote: have clients use printer paper folded in half vertically and horizontally OR use the template below to have them draw on it Give clients eight, one minute rounds to individually sketch out a part of the interface Make sure they know they don&amp;rsquo;t have to be an artist.</description>
+      <description>An exercise in idea generation.</description>
     </item>
     
     <item>
@@ -43,31 +40,16 @@ To Designers # Attend ceremonies with engineers Treat this like a user interview
       <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>https://joshuamauldin.com/docs/guides-00005/</guid>
-      <description>How we communicate about our work is just as important as the effort that went into making it. Read the following carefully.
-General guidance # Show in context # It’s always best to show something in context, and at the right fidelity. To that end:
-Prefer to show something interactive over something static Prefer to show something in context (e.g. if it’s an app, show it on a phone. A site should be demoed in a browser.</description>
-    </item>
-    
-    <item>
-      <title>Ethnographic Interview</title>
-      <link>https://joshuamauldin.com/docs/guides-00007/</link>
-      <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://joshuamauldin.com/docs/guides-00007/</guid>
-      <description>💡 The big idea here is to **stay quiet and listen** to the person. It&#39;s okay to add in clarifying questions (e.g. &#34;could you say more&#34; or &#34;what led you to that?&#34;), but otherwise let them take the lead. Date**:** Try typing /today Name**:** Person&amp;rsquo;s name Department: Department name
-Takeways &amp;amp; observations # List learnings and outputs Questions # E.g. could you walk me through your day yesterday? E.g. what part of your job do you find makes you grumpiest?</description>
+      <description>On presenting design work and soliciting feedback.</description>
     </item>
     
     <item>
       <title>Ethnographic Interviews</title>
-      <link>https://joshuamauldin.com/docs/guides-00008/</link>
+      <link>https://joshuamauldin.com/docs/guides-00007/</link>
       <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://joshuamauldin.com/docs/guides-00008/</guid>
-      <description>Ethnographic interviews help us understand users in their own environment, the problems they face, and how they face them.
-The main goal here is to listen and avoid injecting your own bias into the project. Let the person you&amp;rsquo;re interviewing speak much more than yourself.
-Once you&amp;rsquo;re done, synthesize your insights and share them out with your client. Some good talking points:
-What lined up What diverged What patterns emerged Template # Ethnographic Interview User Recruiting Script </description>
+      <guid>https://joshuamauldin.com/docs/guides-00007/</guid>
+      <description>Why interviewing people in their environment is crucial. Includes a guide for conducting them.</description>
     </item>
     
     <item>
@@ -76,28 +58,7 @@ What lined up What diverged What patterns emerged Template # Ethnographic Interv
       <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>https://joshuamauldin.com/docs/guides-00010/</guid>
-      <description>Key points # Define the map&amp;rsquo;s scope Limit to one persona&amp;rsquo;s journey so that we aren&amp;rsquo;t too generic Define the intended outcome or endpoint in the journey Involve the right people. Consider: Stakeholders Support/frontline staff Engineers Product managers How to do it # Give clients 10 minutes to individually map out individual steps, then come together with the rest of the team to synthesize Instruct our clients to avoid getting mired in details at this point (e.</description>
-    </item>
-    
-    <item>
-      <title>Journey Maps &amp; Service Blueprints</title>
-      <link>https://joshuamauldin.com/docs/guides-00011/</link>
-      <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://joshuamauldin.com/docs/guides-00011/</guid>
-      <description>User Journey # Use these when you&amp;rsquo;d like to understand a Personas journey and ways to alleviate pain or otherwise improve their experience.
-These are generally focused on a specific persona, and we&amp;rsquo;re mapping out their journey from start to finish.
-Service Blueprints # If you&amp;rsquo;d like to go deeper to see what types of things are necessary to give users the best possible experience, use a service blueprint. These typically cover layers like:</description>
-    </item>
-    
-    <item>
-      <title>Online safety</title>
-      <link>https://joshuamauldin.com/docs/guides-00015/</link>
-      <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://joshuamauldin.com/docs/guides-00015/</guid>
-      <description>This is how to take yours and others’ privacy/safety into account.
-Get a VPN to encrypt your browsing and data. I use Private Internet Access, it’s like $3/mo and covers all my devices Use Signal or other fully end to end encrypted calls, texts, and videos. Do not use regular SMS or phone calls, they can be tracked. FaceTime audio will do if no other option is available. Do not share whereabouts online, don’t send sensitive info via twitter and Instagram.</description>
+      <description>An exercise to understand the person&amp;rsquo;s journey through a service.</description>
     </item>
     
     <item>
@@ -106,7 +67,7 @@ Get a VPN to encrypt your browsing and data. I use Private Internet Access, it�
       <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>https://joshuamauldin.com/docs/guides-00016/</guid>
-      <description> Assets Designers Commonly Need # Brand assets Logos (in .eps, .ai, or .svg preferred) Typefaces Brand colors Photography Other miscellaneous items Account creation (e.g. Webflow) Content We won’t need it all initially, we’ll give you space to fill in what you need </description>
+      <description>A quick checklist to make sure designers have what they need to get going at the start of a project.</description>
     </item>
     
     <item>
@@ -115,9 +76,7 @@ Get a VPN to encrypt your browsing and data. I use Private Internet Access, it�
       <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>https://joshuamauldin.com/docs/guides-00018/</guid>
-      <description>We observe users in their environment so that we fully understand the problem and the context in which they work.
-We want everything we design to be to the direct benefit of everyone involved. There’s no better way to see how you can help someone than hearing them say it in their own words.
-Desired mindset # Stay curious and have a genuine commitment to learning. Increase our understanding of users and challenge our assumptions.</description>
+      <description>Why we observe users in their environment, the benefits, and a script for getting started.</description>
     </item>
     
     <item>
@@ -126,9 +85,7 @@ Desired mindset # Stay curious and have a genuine commitment to learning. Increa
       <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>https://joshuamauldin.com/docs/guides-00019/</guid>
-      <description>Our team/company name is kicking off a focused effort to make a better experience for this type of person.
-We would like to interview you or anyone who is this user type/performs these types of tasks. We&amp;rsquo;re focusing on these specific points in the experience.
-The interviews will be e.g. 45 minutes via e.g. Zoom. We may ask you to share your screen. You don’t have to prepare anything for this.</description>
+      <description>A script that you can send to people you want to interview for your research.</description>
     </item>
     
     <item>
@@ -137,11 +94,7 @@ The interviews will be e.g. 45 minutes via e.g. Zoom. We may ask you to share yo
       <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>https://joshuamauldin.com/docs/guides-00020/</guid>
-      <description>Business Objectives # The business&amp;rsquo; main goal here is: e.g. beat last year&amp;rsquo;s signup numbers
-We&amp;rsquo;re trying to understand: e.g. why signup numbers don&amp;rsquo;t match our projections
-We need to keep in mind: e.g. an OKR or KPI
-Users will get: e.g. an easier signup experience
-Timeline # Time needed: e.g. 3 weeks until share-out Hypotheses &amp;amp; goals # Hypothesis # We hope to: e.g. desired learning So that: e.</description>
+      <description>A guide for planning your research that will convince your stakeholders that the time investment is worth it.</description>
     </item>
     
     <item>
@@ -150,16 +103,7 @@ Timeline # Time needed: e.g. 3 weeks until share-out Hypotheses &amp;amp; goals
       <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>https://joshuamauldin.com/docs/guides-00021/</guid>
-      <description> Automation: https://zapier.com/ Research &amp;amp; mirco surveys: https://ethn.io/ NPS surveys: https://delighted.com Saas insights: https://qualaroo.com/ DVR for your product: https://www.fullstory.com/ Targeted messaging: https://www.intercom.com Resources # [10 Common Cognitive Biases](https://uxdesign.cc- 10-cognitive-biases-to-avoid-in-user-research-and-how-to-avoid-them-993aa397c8c6) List of Cognitive Biases [20 UX Research Methods](https://docs.google.com/document/d- 1Ij8QV0k2BjeZ_7MdKeRwuOyq2dBLviwJ1YgjXtwT_K4/edit#heading=h.emggo56ca2h2) [Google Ventures Survey Guide](https://library.gv.com- improve-your-startup-s-surveys-and-get-even-better-data-7b0272f74c23#.uxkcogqna) [Design Better Co: Guess Less](https://www.designbetter.co/principles-of-product-design- guess-less) Avoid Response Bias [Minimum Viable Ethnography](https://medium.com/mule-design- minimum-viable-ethnography-a047e9358df0) [Changing Landscape of UX Research](https://medium.com/@johnpcutler- 10-ways-ux-research-is-changing-62fde944672) </description>
-    </item>
-    
-    <item>
-      <title>User Test</title>
-      <link>https://joshuamauldin.com/docs/guides-00022/</link>
-      <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://joshuamauldin.com/docs/guides-00022/</guid>
-      <description>User Test # 💡 Before we test anything, we generate hypotheses. It can be as simple as &#34;people can successfully sign up&#34; or as complex as &#34;people will understand that [this button] will alter their search results.&#34; Hypothesis # We hope to: e.g. desired learning So that: e.g. users can reduce time with support We&amp;rsquo;ll know we&amp;rsquo;re right when: e.g. users call in less frequently to the call center Script # Overview # Hi, my name is name.</description>
+      <description>A collection of tools that&amp;rsquo;ll help you along your way in user research.</description>
     </item>
     
   </channel>

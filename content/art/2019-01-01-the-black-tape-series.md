@@ -3,38 +3,22 @@ title: The Black Tape Series
 tags: [Digital]
 date: 2019-01-01
 image: /img/type-experiments_-_1.jpeg
+summary: "Transparency paper, cutouts, tape, ruined scans. A whole lotta fun."
 ---
 
-Transparency paper, cutouts, tape, ruined scans. A whole lotta fun.
 
-![](/img/type-experiments_-_2.jpeg)
+![Lyrics: Run the Jewels](/img/type-experiments_-_2.jpeg)*Lyrics: Run the Jewels*
 
-Lyrics: Run the Jewels
+![Lyrics: Brand New](/img/type-experiments_-_3.jpeg)*Lyrics: Brand New*
 
-![](/img/type-experiments_-_3.jpeg)
+![Lyrics: Radiohead](/img/type-experiments_-_4.jpeg)*Lyrics: Radiohead*
 
-Lyrics: Brand New
+![Lyrics: Brand New](/img/type-experiments_-_5.jpeg)*Lyrics: Brand New*
 
-![](/img/type-experiments_-_4.jpeg)
+![Lyrics: He is Legend, “China White II”](/img/type-experiments_-_6.jpeg)*Lyrics: He is Legend, “China White II”*
 
-Lyrics: Radiohead
+![Lyrics: Powerman5000](/img/type-experiment_-_2.jpeg)*Lyrics: Powerman5000*
 
-![](/img/type-experiments_-_5.jpeg)
+![Lyrics: The Dead Weather](/img/type-experiment_-_3.jpeg)*Lyrics: The Dead Weather*
 
-Lyrics: Brand New
-
-![](/img/type-experiments_-_6.jpeg)
-
-Lyrics: He is Legend, “China White II”
-
-![](/img/type-experiment_-_2.jpeg)
-
-Lyrics: Powerman5000
-
-![](/img/type-experiment_-_3.jpeg)
-
-Lyrics: The Dead Weather
-
-![](/img/type-experiment_-_4.jpeg)
-
-Lyrics: Nine Inch Nails
+![Lyrics: Nine Inch Nails](/img/type-experiment_-_4.jpeg)*Lyrics: Nine Inch Nails*

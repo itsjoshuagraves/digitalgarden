@@ -5,7 +5,7 @@ date: 2008-01-01
 image: /img/coverditch.jpg
 ---
 
-![](/img/back.jpg)
+![](/img/back-2.jpg)
 
 ![](/img/disc.jpg)
 

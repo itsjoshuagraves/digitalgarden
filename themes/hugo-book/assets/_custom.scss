@@ -68,7 +68,7 @@ code {
 }
 
 blockquote {
-	font-family: "pt_serif_captionitalic";
+
 	font-size: 18px;
 }
 
@@ -102,11 +102,9 @@ blockquote.page-summary {
 	font-family: "Okkult-Black";
 }
 
-.book-btn {
-	background: #8F00FF;
-	&:hover {
-		background: #6DDE00;
-	}
+.book-btn:hover {
+	background: #6DDE00;
+	color: #030303 !important;
 }
 
 .main-header {
@@ -146,4 +144,15 @@ blockquote.page-summary {
 				color: #6DDE00;
 
 		}*/
+}
+
+.art-summary {
+	margin-top: 4px !important;
+}
+
+.art-title{
+	margin-bottom: 8px !important;
+	p{
+	margin-bottom: 8px;
+	}
 }

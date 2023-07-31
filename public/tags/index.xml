@@ -6,13 +6,22 @@
     <description>Recent content in Tags on Joshua Mauldin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 28 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://joshuamauldin.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://joshuamauldin.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>discernment</title>
-      <link>https://joshuamauldin.com/tags/discernment/</link>
-      <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
+      <title>Evaluation</title>
+      <link>https://joshuamauldin.com/tags/Evaluation/</link>
+      <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://joshuamauldin.com/tags/discernment/</guid>
+      <guid>https://joshuamauldin.com/tags/Evaluation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tech</title>
+      <link>https://joshuamauldin.com/tags/tech/</link>
+      <pubDate>Sat, 29 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://joshuamauldin.com/tags/tech/</guid>
       <description></description>
     </item>
     
@@ -62,27 +71,9 @@
     </item>
     
     <item>
-      <title>Safety</title>
-      <link>https://joshuamauldin.com/tags/Safety/</link>
-      <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://joshuamauldin.com/tags/Safety/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Script</title>
-      <link>https://joshuamauldin.com/tags/Script/</link>
-      <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://joshuamauldin.com/tags/Script/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Analog</title>
       <link>https://joshuamauldin.com/tags/Analog/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>https://joshuamauldin.com/tags/Analog/</guid>
       <description></description>
@@ -125,15 +116,6 @@
     </item>
     
     <item>
-      <title>Focus</title>
-      <link>https://joshuamauldin.com/tags/Focus/</link>
-      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://joshuamauldin.com/tags/Focus/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Advice</title>
       <link>https://joshuamauldin.com/tags/Advice/</link>
       <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
@@ -152,11 +134,11 @@
     </item>
     
     <item>
-      <title>future</title>
-      <link>https://joshuamauldin.com/tags/future/</link>
-      <pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate>
+      <title>Focus</title>
+      <link>https://joshuamauldin.com/tags/Focus/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://joshuamauldin.com/tags/future/</guid>
+      <guid>https://joshuamauldin.com/tags/Focus/</guid>
       <description></description>
     </item>
     

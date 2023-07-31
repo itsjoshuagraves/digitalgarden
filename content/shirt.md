@@ -3,7 +3,7 @@ title: Research& Prototypes& Pixels&Code Shirt
 type: docs
 ---
 
-![Untitled](/img/Untitled-2.png)
+![The shirt](/img/Untitled-2.png)
 {{< button href="https://joshmauldin.gumroad.com/l/yjBUj" >}}Purchase link (sold out){{< /button >}}
 
 This is a modern take on the classic Beatles shirt, focused on the design process. I originally designed this for BlendConf, a lovely conference in Charlotte (RIP).

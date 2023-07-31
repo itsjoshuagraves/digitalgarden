@@ -6,7 +6,16 @@
     <description>Recent content in Analog on Joshua Mauldin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://joshuamauldin.com/tags/Analog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://joshuamauldin.com/tags/Analog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Spirit Acid</title>
+      <link>https://joshuamauldin.com/art/2023-01-01-spirit-acid/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://joshuamauldin.com/art/2023-01-01-spirit-acid/</guid>
+      <description>Collage with hand cut type.</description>
+    </item>
+    
     <item>
       <title>Skull004</title>
       <link>https://joshuamauldin.com/art/2023-01-01-skull004/</link>
@@ -14,15 +23,6 @@
       
       <guid>https://joshuamauldin.com/art/2023-01-01-skull004/</guid>
       <description>Experiment in integrating a blackout skull with a vintage 1900s typewriter and its articulating keys. My cat wanted in on the photo, who am I to say no?</description>
-    </item>
-    
-    <item>
-      <title>Spirit Acid</title>
-      <link>https://joshuamauldin.com/art/2023-01-01-spirit-acid/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://joshuamauldin.com/art/2023-01-01-spirit-acid/</guid>
-      <description>Collage with hand cut type.</description>
     </item>
     
     <item>
@@ -71,22 +71,12 @@
     </item>
     
     <item>
-      <title>Skull005</title>
-      <link>https://joshuamauldin.com/art/2021-01-01-skull005/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://joshuamauldin.com/art/2021-01-01-skull005/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Skull006</title>
       <link>https://joshuamauldin.com/art/2021-01-01-skull006/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://joshuamauldin.com/art/2021-01-01-skull006/</guid>
-      <description>Experiment with unicorn skeleton and color-sensitive paint.
-timelapse.mov</description>
+      <description>Experiment with unicorn skeleton and color-sensitive paint.</description>
     </item>
     
   </channel>

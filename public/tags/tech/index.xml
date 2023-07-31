@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tech on Joshua Mauldin</title>
+    <link>https://joshuamauldin.com/tags/tech/</link>
+    <description>Recent content in tech on Joshua Mauldin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 29 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://joshuamauldin.com/tags/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Self-Reliant Tech</title>
+      <link>https://joshuamauldin.com/journal/2023-07-29/</link>
+      <pubDate>Sat, 29 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://joshuamauldin.com/journal/2023-07-29/</guid>
+      <description>On craftsmanship, curiosity, and the love of know-how.</description>
+    </item>
+    
+  </channel>
+</rss>

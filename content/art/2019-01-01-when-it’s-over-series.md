@@ -6,12 +6,16 @@ image: /img/type-experiment_-_23.jpeg
 ---
 Made with processing.js, Photoshop, and other pixel ruiners.
 
+{{< columns >}}
 ![](/img/type-experiment_-_21.jpeg)
-
+<--->
 ![](/img/type-experiment_-_24.jpeg)
-
+{{< /columns >}}
+{{< columns >}}
 ![](/img/type-experiment_-_33.jpeg)
-
+<--->
 ![](/img/type-experiment_-_34.jpeg)
-
+{{< /columns >}}
+{{< columns >}}
 ![](/img/type-experiment_-_35.jpeg)
+{{< /columns >}}

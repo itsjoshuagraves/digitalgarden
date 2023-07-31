@@ -1,9 +1,7 @@
 {{ define "main" }}
 <article class="markdown">
-{{ with .Date }}
-  <h5 class="post-date">{{ partial "docs/date" (dict "Date" . "Format" $.Site.Params.BookDateFormat) }}</h5>
-{{ end }}
   <h1 class="post-title">
+    <a href="/art/">Art</a> /
     {{ partial "docs/title.html" . }}
     <!-- <a href="{{ .RelPermalink }}">{{ partial "docs/title.html" . }}</a> -->
   </h1>

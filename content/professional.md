@@ -8,6 +8,7 @@ Here you’ll find all things related to work. Guides, research, thoughts, PDFs,
 
 ## [Docs](/docs)
 A collection of things I've written, plus guides for leaders, workshop facilitators, and other curious people.
+ 
 
 ## [Design Philosophy](/design-philosophy)
 The why behind how I do it.
