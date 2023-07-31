@@ -7,6 +7,7 @@ headless: true
   <!-- - [Art](/art) -->
   - [Read & Watch List](/media)
 - [**Professional Sphere**](/professional)
+  - [Portfolio](/portfolio)
   - [Docs](/docs)
   - [Philosophy](/design-philosophy)
   - [We Need to Talk](/we-need-to-talk)
