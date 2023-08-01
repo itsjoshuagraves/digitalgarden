@@ -13,8 +13,19 @@ enableGitInfo = true
 [markup.goldmark.renderer]
   unsafe = true
 
+# Image processing
+[imaging]
+  anchor = 'Smart'
+  bgColor = '#333333'
+  hint = 'photo'
+  quality = 60
+  resampleFilter = 'Box'
 
-
+[imaging.exif]
+  disableDate = true
+  disableLatLong = true
+  excludeFields = ''
+  includeFields = ''
 
 [params]
   # (Optional, default light) Sets color theme: light, dark or auto.
@@ -84,15 +95,3 @@ enableGitInfo = true
   # (Optional, experimental, default false) Enables a drop-down menu for translations only if a translation is present.
   BookTranslatedOnly = false
 
-
-  [imaging]
-  anchor = 'Smart'
-  bgColor = '#ffffff'
-  hint = 'photo'
-  quality = 60
-  resampleFilter = 'Box'
-  [imaging.exif]
-    disableDate = true
-    disableLatLong = true
-    excludeFields = ''
-    includeFields = ''
