@@ -27,5 +27,5 @@ Places I've spoken at and workshops I offer.
 ## [Tools and Items for Sale](/tools)
 Products that I offer. They range from books to typefaces to design supplies.
 
-## [Coaching & Consulting](/consulting)
+## [Coaching & Consulting](/coaching)
 Services I offer to clients and aspiring leaders.

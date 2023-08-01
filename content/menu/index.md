@@ -8,12 +8,12 @@ headless: true
   - [Read & Watch List](/media)
 - [**Professional Sphere**](/professional)
   - [Portfolio](/portfolio)
-  - [Docs](/docs)
-  - [Philosophy](/design-philosophy)
+  - [Guides](/docs)
+  <!-- - [Philosophy](/design-philosophy) -->
   - [We Need to Talk](/we-need-to-talk)
   - [Workshops & Speaking](/workshops)
-  - [For Sale](/tools)
-  - [Coaching & Consulting](/consulting)
+  <!-- - [For Sale](/tools) -->
+  - [Coaching & Consulting](/coaching)
 - [**About**](/about)
   - [Me](/me)
 

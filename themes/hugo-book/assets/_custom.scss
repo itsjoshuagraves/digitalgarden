@@ -6,15 +6,16 @@ article aside { background: #fff000; padding: 10px; color: #033233}
 figcaption h4 {margin:0 !important;}
 
 .post-date {
-	margin-bottom: 0 !important;
+	margin: 8px 0 16px 0 !important;
 	font-family: 'pt_monoregular';
 	font-size: 12px;
 	font-weight: normal !important;
 	letter-spacing: 0 !important;
 }
-.post-title {
-	margin-top: 8px !important;
-/*	margin-bottom: 4px !important;*/
+.post-title, .page-title {
+	margin-top: 0 !important;
+	line-height: 1.0;
+	padding-bottom: 8px;
 }
 
 h1 {
@@ -33,9 +34,6 @@ h1 {
 
 }
 
-.page-title {
-	margin-top: 0 !important;
-}
 
 h2, h3, h4, h5, h6 {
 	font-family: "pt_sansbold";
