@@ -2,7 +2,7 @@
 title: Little Weirdos
 tags: [Digital]
 date: 2019-01-01
-image: /img/Screenshot_2023-07-24_at_4.08.21_PM.png
+image: /img/Screenshot_2023-07-24_at_4.08.21_PM.webp
 summary: "I have no justification for any of this, except that it was weird and fun.
 "
 ---

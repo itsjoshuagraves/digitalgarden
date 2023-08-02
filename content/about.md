@@ -2,7 +2,7 @@
 title: About
 type: docs
 ---
-{{< figure src="/img/DSC00162.jpeg" title="Basquiat" >}}
+{{< figure src="/img/DSC00162.webp" title="Basquiat" >}}
 
 ## How's this built?
 I use Hugo, a static site generator. It's working with Go, markdown, and powered by GitHub pages. There's no fancy CMS, no loads of animations. 

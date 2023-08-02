@@ -51,7 +51,7 @@ Naturally that distraction keeps us from being fully present in what we're doing
 
 I admit, over the past six months, my relationship to notifications has changed. Often, I ignore them, deleting them from my home screen sometime late at night without reading them. Other times, I'll feel the buzz or hear the chirp of a message and choose to ignore it.
 
-![Notifications%20stress%20me%20out%20How%20I%20cut%20them%20down%20to%200a07044bab81413681566c02924efc8d/joshua-mauldin.png](Notifications%20stress%20me%20out%20How%20I%20cut%20them%20down%20to%200a07044bab81413681566c02924efc8d/joshua-mauldin.png)
+![Notifications%20stress%20me%20out%20How%20I%20cut%20them%20down%20to%200a07044bab81413681566c02924efc8d/joshua-mauldin.webp](Notifications%20stress%20me%20out%20How%20I%20cut%20them%20down%20to%200a07044bab81413681566c02924efc8d/joshua-mauldin.webp)
 
 Joshua Mauldin is a designer based in Charlotte, North Carolina. (Enowen Photography)
 

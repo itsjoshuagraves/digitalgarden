@@ -115,7 +115,7 @@ Sketch, on the other hand, doesn’t have the concept of *states* inside a symbo
 
 For this example, I’ll use [Flinto](https://www.flinto.com/). It isn’t the only option out there (I’ll review a few other prototyping solutions later in the article), but it sure is simple. And super-speedy, too.
 
-Using [slices](https://bohemiancoding.com/sketch/support/documentation/11-exporting/2-slices.html) in Sketch is easy, and you can export everything as a PNG or JPG to the desktop and drag those files right into Flinto. (Alternatively, you can click on your artboard’s name on the canvas and choose “Make Exportable,” define the export optimization settings and export the images.)
+Using [slices](https://bohemiancoding.com/sketch/support/documentation/11-exporting/2-slices.html) in Sketch is easy, and you can export everything as a webp or JPG to the desktop and drag those files right into Flinto. (Alternatively, you can click on your artboard’s name on the canvas and choose “Make Exportable,” define the export optimization settings and export the images.)
 
 Linking the exported images together in Flinto is easy, as is keeping parts fixed to the top or bottom of the window; for example, you can place a fixed menu bar at the top and a toolbar at the bottom. More on that in a moment.
 

@@ -16,7 +16,7 @@ I watch and read a lot. Here’s some of it.
 
 
 
-<!-- {{< figure src="/img/IMG_2334.jpeg" title="Lyrics: Bloc Party" >}} -->
+<!-- {{< figure src="/img/IMG_2334.webp" title="Lyrics: Bloc Party" >}} -->
 
 
 <!-- ## See also

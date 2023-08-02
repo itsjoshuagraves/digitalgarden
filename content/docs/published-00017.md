@@ -9,7 +9,7 @@ summary: "Early work on in-app rating modules and how I made them better. This w
 ---
 
 
-![My%20real%20problem%20with%20in-app%20rating%20modules%20b6643e8967734de1a0e02dd2b0222e3a/1Gygkz7MUtV0HY6UMz5cI-w.jpeg](../../img/1Gygkz7MUtV0HY6UMz5cI-w.jpeg)
+![My%20real%20problem%20with%20in-app%20rating%20modules%20b6643e8967734de1a0e02dd2b0222e3a/1Gygkz7MUtV0HY6UMz5cI-w.webp](../../img/1Gygkz7MUtV0HY6UMz5cI-w.webp)
 
 ## “Like this app? Give us 5 stars! UGH STOP PLZ.”
 

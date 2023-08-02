@@ -13,7 +13,7 @@ I wrote this article in 2015. While I like that I was curious, I want to be clea
 {{< /hint >}}
 
 
-![My%20week%20with%20Soylent%201%204,%20or%20%E2%80%9COh%20god%20I%20want%20a%20burg%20e902c13b8bd34252ab808f4f57ff6257/1btqIoKLmHIU96vBrOKctcg.jpeg](../../img/1btqIoKLmHIU96vBrOKctcg.jpeg)
+![My%20week%20with%20Soylent%201%204,%20or%20%E2%80%9COh%20god%20I%20want%20a%20burg%20e902c13b8bd34252ab808f4f57ff6257/1btqIoKLmHIU96vBrOKctcg.webp](../../img/1btqIoKLmHIU96vBrOKctcg.webp)
 
 I’m always curious about how changing a habit will affect me and have little aversion to change. My main apps for email, search, and anything else get regularly switched, and so do my mobile OSes. I quit (or double!) caffeine intake. I think that in doing so, I’m cultivating a personality that thrives on learning and change. So when Soylent hit my radar, I was excited to see what it’d do for me.
 

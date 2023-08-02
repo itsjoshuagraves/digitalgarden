@@ -9,7 +9,7 @@ summary: "Early writing on how someone texting with emergency services would be 
 ---
 
 
-![How%20smartphones%20could%20improve%20texting%20emergency%20se%202502298a58d24c579dc830a4e82c4fac/1x4bhld6IJ2CtkpC5QQc8EA.jpeg](../../img/1x4bhld6IJ2CtkpC5QQc8EA.jpeg)
+![How%20smartphones%20could%20improve%20texting%20emergency%20se%202502298a58d24c579dc830a4e82c4fac/1x4bhld6IJ2CtkpC5QQc8EA.webp](../../img/1x4bhld6IJ2CtkpC5QQc8EA.webp)
 
 As of May 24, 2014, the main 4 carriers in the US will allow texting with 911. That’s great, but I wondered what it would look like if smartphones could build on top of that idea.
 

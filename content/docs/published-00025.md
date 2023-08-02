@@ -9,7 +9,7 @@ summary: "I tackled the notion of assuming positive intent when it comes to conf
 ---
 
 
-![Untitled](../../img/Untitled.png)
+![Untitled](../../img/Untitled.webp)
 
 Here’s the most helpful thing I’ve ever learned by far about conflict: **before you have a conversation with someone, make sure you assume positive intent.** Read on to discover a technique you can use to apply that idea — if you’re like me, you’ll find it will resolve most conflict before it starts. And, in a fun plot twist, we’ll also cover how this idea shouldn’t be applied at all times because it can harm underrepresented folks if we aren’t careful.
 

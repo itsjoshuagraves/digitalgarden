@@ -3,7 +3,7 @@ title: Joshua Mauldin
 type: docs
 ---
 
-{{< figure src="/img/IMG_0159.jpeg" title="Photo by Sarah DeShields" >}}
+{{< figure src="/img/IMG_0159.webp" title="Photo by Sarah DeShields" >}}
 
 Multidisciplinary artist, designer, human who cares about kindness and animals. 
 

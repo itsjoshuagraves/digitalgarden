@@ -34,7 +34,7 @@ iamdudum maius?
             commerce_add_ppc);
     if (lun_ipv) {
         verticalExtranet(1, thumbnail_ttl, 3);
-        bar_graphics_jpeg(chipset - sector_xmp_beta);
+        bar_graphics_webp(chipset - sector_xmp_beta);
     }
 
 ## Fronde cetera dextrae sequens pennis voce muneris

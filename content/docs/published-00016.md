@@ -98,7 +98,7 @@ You can lock them (in the menu, `View → Guides → Lock Guides`); you can acti
 
 The shapes (which will serve as columns) will be placed on their own locked layer in the page, named “Grid,” and combined into one symbol. Because the shapes are added as a symbol, reusing them anywhere else in the document is easy, if that’s your thing.
 
-![iOS%20Grid%20System,%20A%20Free%20Extension%20For%20Adobe%20Firewo%202be8a23aacb845589de3f3ee8a63045e/layers-pallete-grids.png](iOS%20Grid%20System,%20A%20Free%20Extension%20For%20Adobe%20Firewo%202be8a23aacb845589de3f3ee8a63045e/layers-pallete-grids.png)
+![iOS%20Grid%20System,%20A%20Free%20Extension%20For%20Adobe%20Firewo%202be8a23aacb845589de3f3ee8a63045e/layers-pallete-grids.webp](iOS%20Grid%20System,%20A%20Free%20Extension%20For%20Adobe%20Firewo%202be8a23aacb845589de3f3ee8a63045e/layers-pallete-grids.webp)
 
 *After you run a command from iOS Grid System, in the Layers panel you’ll notice that a new layer with the grid on it (contained within a single symbol) has been added. The “Grid” layer is initially locked, to prevent you from accidentally making changes to it.*
 

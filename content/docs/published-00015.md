@@ -11,7 +11,7 @@ summary: "Early writing on becoming a better designer."
 I wrote this article in 2014, and my views have evolved since this. Focus is still important, but please do not change every part of your life to be a better designer. Instead, change it to be a more thoughtful and kind human. The design, or whatever you do, will naturally follow.
 {{< /hint >}}
 
-![https://miro.medium.com/v2/resize:fit:12800/1*nVmjro6BVLjEewIJXxt9Cw.jpeg](https://miro.medium.com/v2/resize:fit:12800/1*nVmjro6BVLjEewIJXxt9Cw.jpeg)
+![https://miro.medium.com/v2/resize:fit:12800/1*nVmjro6BVLjEewIJXxt9Cw.webp](https://miro.medium.com/v2/resize:fit:12800/1*nVmjro6BVLjEewIJXxt9Cw.webp)
 
 ## A guide for designers young (and not so young)
 

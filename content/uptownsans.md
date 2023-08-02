@@ -3,7 +3,7 @@ title: Uptown Sans
 type: docs
 ---
 
-![](/img/uptown-sans-1.jpeg)
+![](/img/uptown-sans-1.webp)
 
 **About Uptown Sans**
 
@@ -26,9 +26,9 @@ Some suggested uses:
 
 Uptown Sans gets its name from the city of Charlotte, a beautiful place that’s got some of the absolute best people. It may also funk you up, to borrow a turn of phrase from a pretty fun song.
 
-![](/img/uptown-sans-2.jpeg)
-![](/img/uptown-sans-3.jpeg)
-![](/img/uptown-sans-4.jpeg)
-![](/img/uptown-sans-5.jpeg)
-![](/img/uptown-sans-6.jpeg)
-![](/img/uptown-sans-7.jpeg)
+![](/img/uptown-sans-2.webp)
+![](/img/uptown-sans-3.webp)
+![](/img/uptown-sans-4.webp)
+![](/img/uptown-sans-5.webp)
+![](/img/uptown-sans-6.webp)
+![](/img/uptown-sans-7.webp)

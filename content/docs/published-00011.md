@@ -40,7 +40,7 @@ What is exactly a “style guide”, and why would you want to create one? Let�
 
 The biggest reason to create a style guide? The sheer amount of time you’ll save. Depending on the size of the project, reproducing your changes could take minutes or hours. Imagine designing a game, a complex website, a mobile app or a large corporate intranet: having to update one element that appears on dozens or hundreds of pages would be a tedious, madness-inducing task. You have better things to do, like look at cute cat pictures — why waste your time doing the same thing over and over again?
 
-![How%20To%20Make%20An%20Effective%20Style%20Guide%20With%20Adobe%20Fi%20d05c19c9200141b2bcc44fe423c0120b/style-guide-intro-500px.png](How%20To%20Make%20An%20Effective%20Style%20Guide%20With%20Adobe%20Fi%20d05c19c9200141b2bcc44fe423c0120b/style-guide-intro-500px.png)
+![How%20To%20Make%20An%20Effective%20Style%20Guide%20With%20Adobe%20Fi%20d05c19c9200141b2bcc44fe423c0120b/style-guide-intro-500px.webp](How%20To%20Make%20An%20Effective%20Style%20Guide%20With%20Adobe%20Fi%20d05c19c9200141b2bcc44fe423c0120b/style-guide-intro-500px.webp)
 
 *A style guide helps you to maintain a consistent look over time, and Fireworks can save a lot of time.*
 
@@ -103,9 +103,9 @@ Use **symbols** and **styles** as often as possible. With them, you can easily c
 
 Use a symbol when a UI element repeats throughout the website or application. The usual candidates are buttons, icons, images and logos. A symbol has states, too, giving you the flexibility to display various states of an element (for example selected and unselected) or just to test various iterations of an item.
 
-![How%20To%20Make%20An%20Effective%20Style%20Guide%20With%20Adobe%20Fi%20d05c19c9200141b2bcc44fe423c0120b/symbols-example-500px.png](How%20To%20Make%20An%20Effective%20Style%20Guide%20With%20Adobe%20Fi%20d05c19c9200141b2bcc44fe423c0120b/symbols-example-500px.png)
+![How%20To%20Make%20An%20Effective%20Style%20Guide%20With%20Adobe%20Fi%20d05c19c9200141b2bcc44fe423c0120b/symbols-example-500px.webp](How%20To%20Make%20An%20Effective%20Style%20Guide%20With%20Adobe%20Fi%20d05c19c9200141b2bcc44fe423c0120b/symbols-example-500px.webp)
 
-*Symbols are helpful and even have states! ([View large version](https://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/93d91967-48b2-4d3a-94c2-608e2f60d1d5/symbols-example-large.png))*
+*Symbols are helpful and even have states! ([View large version](https://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/93d91967-48b2-4d3a-94c2-608e2f60d1d5/symbols-example-large.webp))*
 
 To convert an element to a symbol, simply select it and go to `Modify → Symbol → Convert to Symbol…` (or press `F8`).
 
@@ -113,13 +113,13 @@ To convert an element to a symbol, simply select it and go to `Modify → Symbol
 
 In the “Convert to Symbol” dialog, you can define the type of symbol (`graphic`, `animation`, `button`), whether to enable 9-slice guides, and whether to save the symbol to the common library:
 
-*The “Convert to Symbol” dialog. ([View large version](https://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c77dcec8-24c8-4889-a5e1-fba7b134ad4f/convert-to-symbol-large.png))*
+*The “Convert to Symbol” dialog. ([View large version](https://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c77dcec8-24c8-4889-a5e1-fba7b134ad4f/convert-to-symbol-large.webp))*
 
 ### Styles
 
 I generally reserve styles for text (font family, size, color, drop-shadow live filters, etc.) and buttons (color, appearance, etc.).
 
-*A style may define font size, color, font family, live filters and more. ([View large version](https://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/58b82a2f-ef1c-437f-aa6e-4129877fe022/styles-example-large.png))*
+*A style may define font size, color, font family, live filters and more. ([View large version](https://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/58b82a2f-ef1c-437f-aa6e-4129877fe022/styles-example-large.webp))*
 
 For example, if you add borders or live filters (for example, drop-shadows) to an image or button and want them to be easily reusable, make them styles. Also, symbols may contain elements with styles.
 
@@ -127,11 +127,11 @@ For example, if you add borders or live filters (for example, drop-shadows) to a
 
 Once your symbols are set, create a slice for each element. Fireworks’ naming convention is not human-friendly (it comes from old Web layout practice: `[Document Name]*[Row Number]*[Column Number]`). So, look to the all-powerful Properties panel to create your own names for slices.
 
-*Insert a rectangular slice an an object. ([View large version](https://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7a4e1a6a-332c-4ff1-83ad-b81c30e26b17/insert-slice-large.png))*
+*Insert a rectangular slice an an object. ([View large version](https://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7a4e1a6a-332c-4ff1-83ad-b81c30e26b17/insert-slice-large.webp))*
 
 **Useful tip:** You can highlight multiple elements and create individual slices for each one. Simply select all of the elements on the canvas, and go to `Insert Rectangular Slice → Multiple slices`! It’s a real time-saver.
 
-*To create multiple slices, select multiple objects on the canvas, select “Insert Rectangular Slice,” and then the “Multiple” option. ([View large version](https://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ed066b0d-1702-4b91-b308-50c4e0026c0d/slices-single-multiple-large.png))*
+*To create multiple slices, select multiple objects on the canvas, select “Insert Rectangular Slice,” and then the “Multiple” option. ([View large version](https://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ed066b0d-1702-4b91-b308-50c4e0026c0d/slices-single-multiple-large.webp))*
 
 ### Resolution-Independence
 
@@ -143,7 +143,7 @@ So, how do we achieve this in Fireworks? Sure, we could drop in regular and `@2x
 
 **Useful tip:** Another article on Smashing Magazine gets a little nerdy talking about “[Resolution Independence With SVG](https://www.smashingmagazine.com/2012/01/16/resolution-independence-with-svg/).”
 
-Usually when designing for the Web, an icon font is most helpful. I have nothing but love for [IcoMoon](https://icomoon.io/), which creates an icon font from SVG graphics that you upload, for free. Icon fonts currently have some limitations, such as individual elements being confined to one color. So, if you need multiple colors, gradients and so on for your icons, then exporting an SVG or a `@2x` PNG might be best. (**Note:** SVG is supported in Internet Explorer 8+ and in recent versions of all other major browsers.)
+Usually when designing for the Web, an icon font is most helpful. I have nothing but love for [IcoMoon](https://icomoon.io/), which creates an icon font from SVG graphics that you upload, for free. Icon fonts currently have some limitations, such as individual elements being confined to one color. So, if you need multiple colors, gradients and so on for your icons, then exporting an SVG or a `@2x` webp might be best. (**Note:** SVG is supported in Internet Explorer 8+ and in recent versions of all other major browsers.)
 
 ### When To Start Preparing the Guide?
 
@@ -174,7 +174,7 @@ Then, I’ll lay out a few common elements. If we were making an iPhone app, the
 
 ### A Starter Style Guide
 
-Good friends help by telling; best friends help by sharing. Because we’re basically besties at this point, I’ll [share a style guide that I made for a simple app](https://www.dropbox.com/s/xw6tvfh4bjnj4na/Style%20Guide.fw.png). Inside, you’ll find the following:
+Good friends help by telling; best friends help by sharing. Because we’re basically besties at this point, I’ll [share a style guide that I made for a simple app](https://www.dropbox.com/s/xw6tvfh4bjnj4na/Style%20Guide.fw.webp). Inside, you’ll find the following:
 
 - elements page, with icons, images and font examples;
 - home screen;
@@ -184,7 +184,7 @@ Teehan + Lax has made [its own UI PSD for iOS 7](https://www.teehanlax.com/tools
 
 OK! We’ve got our interface elements. Now, create a document that is 2000 × 2000 pixels.
 
-*Create a new 2000 × 2000-pixel canvas for our style guide. ([View large version](https://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2468151a-8d30-4404-bfb7-fcf0db151686/new-document-large.png))*
+*Create a new 2000 × 2000-pixel canvas for our style guide. ([View large version](https://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2468151a-8d30-4404-bfb7-fcf0db151686/new-document-large.webp))*
 
 You might not want to give the style guide the shape of an app or website, or else a client or team member might think that they’re viewing an actual app.
 
@@ -206,25 +206,25 @@ Here’s where it gets more fun. Now that your buttons, logos and other elements
 
 Select all of the elements to be sliced, and then go to `Edit → Insert → Rectangular Slice`. (Remember what I said earlier about human-unfriendly slice names?)
 
-*Create rectangular slices. [(View large version)](https://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/05d2365e-54f4-4e64-87e0-5a8188c95897/fw-insert-rectangular-slice-large.png)*
+*Create rectangular slices. [(View large version)](https://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/05d2365e-54f4-4e64-87e0-5a8188c95897/fw-insert-rectangular-slice-large.webp)*
 
 **Note:** When Fireworks asks, choose “Multiple,” or else it will create a single large slice.
 
-Slices are ready to be exported whenever you’re ready! You can even give slices their own export settings (PNG32, PNG24, PNG8, GIF or any custom format — for example, PNG8 with a limited number of colors, JPEG Progressive with a set quality, etc.). The settings will be saved in the Fireworks PNG file, so exporting and re-exporting assets is very easy.
+Slices are ready to be exported whenever you’re ready! You can even give slices their own export settings (webp32, webp24, webp8, GIF or any custom format — for example, webp8 with a limited number of colors, webp Progressive with a set quality, etc.). The settings will be saved in the Fireworks webp file, so exporting and re-exporting assets is very easy.
 
-*Each slice may have its own export settings, which are remembered by Fireworks. ([View large version](https://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d28b86c9-493c-42b5-8298-9bf665a8cf46/export-settings-large.png))*
+*Each slice may have its own export settings, which are remembered by Fireworks. ([View large version](https://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d28b86c9-493c-42b5-8298-9bf665a8cf46/export-settings-large.webp))*
 
 ### Sample Style Guide
 
 After some experimentation, et voilà! A shiny new style guide! The following three screenshots show mine:
 
-*The “article” page of my style guide. ([View large version](https://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/66877bb4-713b-48ba-b919-00c48a30d9d9/styleguide-article-large.png))*
+*The “article” page of my style guide. ([View large version](https://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/66877bb4-713b-48ba-b919-00c48a30d9d9/styleguide-article-large.webp))*
 
-*The “article list” page. ([View large version](https://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/dfad3faa-1192-4fe7-83a5-beb15d1a285f/styleguide-list-large.png))*
+*The “article list” page. ([View large version](https://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/dfad3faa-1192-4fe7-83a5-beb15d1a285f/styleguide-list-large.webp))*
 
-*The elements page. ([View large version](https://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fcee8c1f-14cd-4885-b864-d7951500aee8/style-guide-large.png))*
+*The elements page. ([View large version](https://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fcee8c1f-14cd-4885-b864-d7951500aee8/style-guide-large.webp))*
 
-In case you missed it, you can [download my starter style guide](https://www.dropbox.com/s/xw6tvfh4bjnj4na/Style%20Guide.fw.png) via Dropbox.
+In case you missed it, you can [download my starter style guide](https://www.dropbox.com/s/xw6tvfh4bjnj4na/Style%20Guide.fw.webp) via Dropbox.
 
 ### Helpful Tips For Working With Fireworks Style Guides
 
@@ -237,7 +237,7 @@ I usually have a few panels open in Fireworks:
 - Document Library,
 - Properties.
 
-The Pages, Layers and States panels help you to navigate quickly through the Fw PNG file. I use states to prototype designs for a particular view or page, and each view or page will have its own page in the document. I’ll generally make a master page (containing the chrome and unchanging elements in the design, such as the menu or tab bar) so that I have one less thing to paste in the page.
+The Pages, Layers and States panels help you to navigate quickly through the Fw webp file. I use states to prototype designs for a particular view or page, and each view or page will have its own page in the document. I’ll generally make a master page (containing the chrome and unchanging elements in the design, such as the menu or tab bar) so that I have one less thing to paste in the page.
 
 Styles are helpful because you can select an element and immediately apply a style to it.
 
@@ -249,7 +249,7 @@ Finally, the Properties panel gives you complete control of the properties of al
 
 **Useful tip:** Another article on Smashing Magazine gets a little nerdy talking about “[Resolution Independence With SVG](https://www.smashingmagazine.com/2012/01/16/resolution-independence-with-svg/).”
 
-Usually when designing for the Web, an icon font is most helpful. I have nothing but love for [IcoMoon](https://icomoon.io/), which creates an icon font from SVG graphics that you upload, for free. Icon fonts currently have some limitations, such as individual elements being confined to one color. So, if you need multiple colors, gradients and so on for your icons, then exporting an SVG or a `@2x` PNG might be best. (**Note:** SVG is supported in Internet Explorer 8+ and in recent versions of all other major browsers.)
+Usually when designing for the Web, an icon font is most helpful. I have nothing but love for [IcoMoon](https://icomoon.io/), which creates an icon font from SVG graphics that you upload, for free. Icon fonts currently have some limitations, such as individual elements being confined to one color. So, if you need multiple colors, gradients and so on for your icons, then exporting an SVG or a `@2x` webp might be best. (**Note:** SVG is supported in Internet Explorer 8+ and in recent versions of all other major browsers.)
 
 ### When To Start Preparing the Guide?
 
@@ -280,7 +280,7 @@ Then, I’ll lay out a few common elements. If we were making an iPhone app, the
 
 ### A Starter Style Guide
 
-Good friends help by telling; best friends help by sharing. Because we’re basically besties at this point, I’ll [share a style guide that I made for a simple app](https://www.dropbox.com/s/xw6tvfh4bjnj4na/Style%20Guide.fw.png). Inside, you’ll find the following:
+Good friends help by telling; best friends help by sharing. Because we’re basically besties at this point, I’ll [share a style guide that I made for a simple app](https://www.dropbox.com/s/xw6tvfh4bjnj4na/Style%20Guide.fw.webp). Inside, you’ll find the following:
 
 - elements page, with icons, images and font examples;
 - home screen;
@@ -290,7 +290,7 @@ Teehan + Lax has made [its own UI PSD for iOS 7](https://www.teehanlax.com/tools
 
 OK! We’ve got our interface elements. Now, create a document that is 2000 × 2000 pixels.
 
-*Create a new 2000 × 2000-pixel canvas for our style guide. ([View large version](https://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2468151a-8d30-4404-bfb7-fcf0db151686/new-document-large.png))*
+*Create a new 2000 × 2000-pixel canvas for our style guide. ([View large version](https://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2468151a-8d30-4404-bfb7-fcf0db151686/new-document-large.webp))*
 
 You might not want to give the style guide the shape of an app or website, or else a client or team member might think that they’re viewing an actual app.
 
@@ -312,25 +312,25 @@ Here’s where it gets more fun. Now that your buttons, logos and other elements
 
 Select all of the elements to be sliced, and then go to `Edit → Insert → Rectangular Slice`. (Remember what I said earlier about human-unfriendly slice names?)
 
-*Create rectangular slices. [(View large version)](https://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/05d2365e-54f4-4e64-87e0-5a8188c95897/fw-insert-rectangular-slice-large.png)*
+*Create rectangular slices. [(View large version)](https://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/05d2365e-54f4-4e64-87e0-5a8188c95897/fw-insert-rectangular-slice-large.webp)*
 
 **Note:** When Fireworks asks, choose “Multiple,” or else it will create a single large slice.
 
-Slices are ready to be exported whenever you’re ready! You can even give slices their own export settings (PNG32, PNG24, PNG8, GIF or any custom format — for example, PNG8 with a limited number of colors, JPEG Progressive with a set quality, etc.). The settings will be saved in the Fireworks PNG file, so exporting and re-exporting assets is very easy.
+Slices are ready to be exported whenever you’re ready! You can even give slices their own export settings (webp32, webp24, webp8, GIF or any custom format — for example, webp8 with a limited number of colors, webp Progressive with a set quality, etc.). The settings will be saved in the Fireworks webp file, so exporting and re-exporting assets is very easy.
 
-*Each slice may have its own export settings, which are remembered by Fireworks. ([View large version](https://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d28b86c9-493c-42b5-8298-9bf665a8cf46/export-settings-large.png))*
+*Each slice may have its own export settings, which are remembered by Fireworks. ([View large version](https://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d28b86c9-493c-42b5-8298-9bf665a8cf46/export-settings-large.webp))*
 
 ### Sample Style Guide
 
 After some experimentation, et voilà! A shiny new style guide! The following three screenshots show mine:
 
-*The “article” page of my style guide. ([View large version](https://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/66877bb4-713b-48ba-b919-00c48a30d9d9/styleguide-article-large.png))*
+*The “article” page of my style guide. ([View large version](https://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/66877bb4-713b-48ba-b919-00c48a30d9d9/styleguide-article-large.webp))*
 
-*The “article list” page. ([View large version](https://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/dfad3faa-1192-4fe7-83a5-beb15d1a285f/styleguide-list-large.png))*
+*The “article list” page. ([View large version](https://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/dfad3faa-1192-4fe7-83a5-beb15d1a285f/styleguide-list-large.webp))*
 
-*The elements page. ([View large version](https://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fcee8c1f-14cd-4885-b864-d7951500aee8/style-guide-large.png))*
+*The elements page. ([View large version](https://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fcee8c1f-14cd-4885-b864-d7951500aee8/style-guide-large.webp))*
 
-In case you missed it, you can [download my starter style guide](https://www.dropbox.com/s/xw6tvfh4bjnj4na/Style%20Guide.fw.png) via Dropbox.
+In case you missed it, you can [download my starter style guide](https://www.dropbox.com/s/xw6tvfh4bjnj4na/Style%20Guide.fw.webp) via Dropbox.
 
 ### Helpful Tips For Working With Fireworks Style Guides
 
@@ -343,7 +343,7 @@ I usually have a few panels open in Fireworks:
 - Document Library,
 - Properties.
 
-The Pages, Layers and States panels help you to navigate quickly through the Fw PNG file. I use states to prototype designs for a particular view or page, and each view or page will have its own page in the document. I’ll generally make a master page (containing the chrome and unchanging elements in the design, such as the menu or tab bar) so that I have one less thing to paste in the page.
+The Pages, Layers and States panels help you to navigate quickly through the Fw webp file. I use states to prototype designs for a particular view or page, and each view or page will have its own page in the document. I’ll generally make a master page (containing the chrome and unchanging elements in the design, such as the menu or tab bar) so that I have one less thing to paste in the page.
 
 Styles are helpful because you can select an element and immediately apply a style to it.
 

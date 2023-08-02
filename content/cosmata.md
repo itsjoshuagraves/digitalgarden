@@ -3,7 +3,7 @@ title: Cosmata
 type: docs
 ---
 
-![](/img/cosmata.jpeg)
+![](/img/cosmata.webp)
 
 Cosmata is geometric sans serif family of 10 fonts suitable for both display and reading use. Inspired by Futura, Cosmata developed its own complex, unique life.
 
@@ -13,11 +13,11 @@ To that end, I've included alternate letterforms for a finely-tailored typograph
 
 I'm excited to share this release with you and hope you enjoy using it as much as I did creating it.
 
-![](/img/cosmata-2.jpeg)
-![](/img/cosmata-3.jpeg)
-![](/img/cosmata-4.jpeg)
-![](/img/cosmata-5.jpeg)
-![](/img/cosmata-6.jpeg)
-![](/img/cosmata-7.jpeg)
-![](/img/cosmata-8.jpeg)
-![](/img/cosmata-9.jpeg)
+![](/img/cosmata-2.webp)
+![](/img/cosmata-3.webp)
+![](/img/cosmata-4.webp)
+![](/img/cosmata-5.webp)
+![](/img/cosmata-6.webp)
+![](/img/cosmata-7.webp)
+![](/img/cosmata-8.webp)
+![](/img/cosmata-9.webp)

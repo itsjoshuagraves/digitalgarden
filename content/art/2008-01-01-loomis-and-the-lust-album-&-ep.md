@@ -18,11 +18,11 @@ image: /img/cover-04.jpg
 
 ![](/img/loomis-disc.jpg)
 
-![](/img/Picture_1.png)
+![](/img/Picture_1.webp)
 
 ![](/img/loomis-outside.jpg)
 
-![](/img/Picture_2.png)
+![](/img/Picture_2.webp)
 
 ![](/img/cover-01.jpg)
 

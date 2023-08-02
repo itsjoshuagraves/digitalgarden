@@ -29,4 +29,4 @@ summary: "An exercise to understand the person's journey through a service."
 
 Duplicate this to get started.
 
-![Screenshot 2023-07-22 at 4.18.16 PM.png](/img/Screenshot_2023-07-22_at_4.18.16_PM.png)
+![Screenshot 2023-07-22 at 4.18.16 PM.webp](/img/Screenshot_2023-07-22_at_4.18.16_PM.webp)

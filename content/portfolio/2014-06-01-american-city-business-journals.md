@@ -25,4 +25,4 @@ I was also challenged to increase signups and app usage, so I presented a concep
 - Turned a 1-star app into a 4.5-star app.
 - Updated our design process to move away from static images and towards working prototypes and a more iterative approach.A pattern library and early design system.
 
-![](/img/acbj-redesign.png)
+![](/img/acbj-redesign.webp)

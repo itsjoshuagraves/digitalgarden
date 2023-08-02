@@ -10,7 +10,7 @@ summary: "I want to have more ethical products. I feel like we all do. Sometimes
 
 [Black Mirror on Twitter](http://twitter.com/blackmirror)
 
-![Black%20Mirror%20brainstorms%20%E2%80%94%20a%20product%20design%20exerci%2068fdb8609e044dea8eaa6decc18a1e9c/1JMSxb1MjvJFDYrjWN4-Krg.jpeg](../../img/1JMSxb1MjvJFDYrjWN4-Krg.jpeg)
+![Black%20Mirror%20brainstorms%20%E2%80%94%20a%20product%20design%20exerci%2068fdb8609e044dea8eaa6decc18a1e9c/1JMSxb1MjvJFDYrjWN4-Krg.webp](../../img/1JMSxb1MjvJFDYrjWN4-Krg.webp)
 
 I want to have more ethical products. I feel like we all do. Sometimes, though, we don’t consider how this amazing thing we’re working on might have some unintended and negative consequences.
 
@@ -36,7 +36,7 @@ This exercise helps us guard against the negative effects of our goals by giving
 
 The exercise breaks down into four sections: the **brainstorm**, **quotes,** **plot points**, and the **poster**. Here’s a template.
 
-![Black%20Mirror%20brainstorms%20%E2%80%94%20a%20product%20design%20exerci%2068fdb8609e044dea8eaa6decc18a1e9c/1S1-LWrkeI_2MmpRT2-qQZw.png](../../img/1S1-LWrkeI_2MmpRT2-qQZw.png)
+![Black%20Mirror%20brainstorms%20%E2%80%94%20a%20product%20design%20exerci%2068fdb8609e044dea8eaa6decc18a1e9c/1S1-LWrkeI_2MmpRT2-qQZw.webp](../../img/1S1-LWrkeI_2MmpRT2-qQZw.webp)
 
 Next we’ll start with an example to get us thinking.
 

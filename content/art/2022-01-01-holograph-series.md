@@ -2,7 +2,7 @@
 title: Holograph series
 tags: [Digital]
 date: 2022-01-01
-image: /img/Screenshot_2023-07-24_at_4.06.55_PM.png
+image: /img/Screenshot_2023-07-24_at_4.06.55_PM.webp
 ---
 
 A series that revisited some older works and tried seeing them in a new light.
