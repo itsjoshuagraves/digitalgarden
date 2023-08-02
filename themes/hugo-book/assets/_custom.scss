@@ -154,3 +154,13 @@ blockquote.page-summary {
 	margin-bottom: 8px;
 	}
 }
+
+
+.active a{
+	background: #6DDE00;
+	color: #000000;
+	}
+
+.page-item a:hover{
+	text-decoration: underline;
+}
