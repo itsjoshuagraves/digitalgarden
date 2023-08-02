@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Team Founding on Joshua Mauldin</title>
+    <link>https://joshuamauldin.com/tags/Team-Founding/</link>
+    <description>Recent content in Team Founding on Joshua Mauldin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 02 Feb 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://joshuamauldin.com/tags/Team-Founding/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Assembled Financial</title>
+      <link>https://joshuamauldin.com/portfolio/2020-02-02-assembled-financial/</link>
+      <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://joshuamauldin.com/portfolio/2020-02-02-assembled-financial/</guid>
+      <description>Designing a fintech startup focused on the CARES Act from scratch.</description>
+    </item>
+    
+  </channel>
+</rss>

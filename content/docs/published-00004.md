@@ -9,7 +9,7 @@ summary: "Something I deeply believe is that if you’re able to have focused ti
 "
 ---
 
-![A craftsman hard at work on an anvil.](../../img/1AFsjQezyHdq7T26lc9J-Jg.webp)
+![A craftsman hard at work on an anvil.](/img/1AFsjQezyHdq7T26lc9J-Jg.webp)
 
 Something I deeply believe is that if you’re able to have focused time to work, you’re going to be able to go further, faster, and deeper than those who don’t.
 
@@ -21,7 +21,7 @@ I’d like to share what I’ve been doing in hopes of it helping you. I won’t
 
 I’d like to talk about the benefits of Deep Work, dispel the myth of multitasking, and give you practical ways of making it work for you.
 
-# What is Deep Work and Why Do I Care?
+## What is Deep Work and Why Do I Care?
 
 Deep Work is a term I stole from [Cal Newport’s book of the same name](https://www.amazon.com/dp/B013UWFM52/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1). I use it as a label for the intensive, focused work we value so highly in design. It’s so important that we made it a core value in our design team.
 
@@ -34,7 +34,7 @@ In this essay, Paul sets up the ways makers and managers use their time and how 
 
 To me, this underscores one of my deeply-held beliefs: **unbroken blocks of time are critical to being a contributing member of any team**. Enter Deep Work.
 
-# The Impact of Deep Work
+## The Impact of Deep Work
 
 Think about metalsmiths, the ones who forge all the cool knives we use every day. Their work is incredibly careful and focused. It takes hours of dedicated focus to produce a blade. They have to hit the metal in just the right way in just the right spot. A lack of focus, even for a short time, means the possibility of a brittle blade that has to be reforged.
 
@@ -46,25 +46,25 @@ At work, we use Pivotal Tracker to measure our team’s progress towards a goal.
 
 How’d we do that? We blocked off time to do Deep Work. Let’s talk about things you can try next.
 
-# What to Try
+## What to Try
 
 Here’s a short list of things that help get you going:
 
-## **Identify What You’ll Focus On**
+### **Identify What You’ll Focus On**
 
 This might seem obvious, but it’s so important that it’s worth reiterating. If you know what you’re working on, you can really dive in. Otherwise, your lack of focus will make for a less rewarding and productive time because you’re spending too much time trying to figure out what to do. So, do this before you get started.
 
-## Shut Off Notifications
+### Shut Off Notifications
 
 Those tiny red dots and push notifications are the best at stealing your attention. I recommend setting aside some time where you’re separated from things that notify you. Put your phone on Do Not Disturb and drop it in a drawer where you can’t see it. You may still need a way to let someone reach you. I’ll cover that in another post.
 
-## Block Off Time, Ritualize It
+### Block Off Time, Ritualize It
 
 For Deep Work to happen and be effective, you need chunks of time to do it. I’ve experimented with short sprints and long stretches of time. But the most important thing is to drop time on your calendar, block it off, and make it consistent.
 
 I’ve found you need at least 45 minutes of uninterrupted time to really get into flow. I find I can focus for an hour and a half, but then I need a break for half an hour or so before I go back.
 
-## Chunk Your Meetings
+### Chunk Your Meetings
 
 To call back to the problem outlined in Paul Graham’s essay from earlier, meetings — while important — can really sap your ability to focus. So put them in blocks. Find out when you work the best and protect that time.
 
@@ -72,13 +72,13 @@ I’ve seen people have a morning or afternoon of meetings so they work uninterr
 
 If neither of those work for you, try putting your interruptions near your lunch break.
 
-## Consider The Optimum Time for Meetings
+### Consider The Optimum Time for Meetings
 
 Our own Aldric had this addition. He says:
 
 When working on the manager schedule, keep those tips in mind for your colleagues on maker schedules, particularly if you must set recurring meetings with them (e.g. 1:1): try to use the beginning or end of their day, or before or after their lunch.
 
-# Wrapping Up
+## Wrapping Up
 
 To conclude, let’s revisit some of the topics we discussed. By now, you and I hopefully share the belief that Deep Work is valuable, rewarding, and worth your time. It can really boost the quality of what you were hired to do. You’ve got a few tools in your toolbox to help facilitate that time, such as identifying what you’ll focus on, shutting off distractions, blocking time on your calendar for it, and chunking your meetings.
 

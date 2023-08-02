@@ -8,10 +8,6 @@ originalURL: https://medium.com/thisisartium/we-need-a-code-of-ethics-eaaba6f939
 summary: "Tech has got to get a code of ethics, ffs."
 ---
 
-
-
-![We%20Need%20a%20Code%20of%20Ethics%2084d3196804e948ab866b828b712e55f2/1L0VD7oa1ABT3ys34Psaitw.webp](/img/1L0VD7oa1ABT3ys34Psaitw.webp)
-
 I keep wondering what we can do to ensure we’re building a better world with the products we make and if we need a code of ethics. So often I see people fall through the cracks because they’re “edge cases” or “not the target audience.” But at the end of the day, we’re still talking about humans.
 
 Other professions that can deeply alter someone’s life have a code of ethics and conduct they must adhere to. Take physicians’ Hippocratic oath for example. It’s got some great guiding principles, which we’ll get into below. Violating this code can mean fines or the losing the ability to practice medicine.
@@ -29,7 +25,7 @@ We’ve moved fast for long enough, now let’s grow together to be more intenti
 
 ## A practical example
 
-![We%20Need%20a%20Code%20of%20Ethics%2084d3196804e948ab866b828b712e55f2/1EthOZquq1IFUCtw-9H69SA.webp](We%20Need%20a%20Code%20of%20Ethics%2084d3196804e948ab866b828b712e55f2/1EthOZquq1IFUCtw-9H69SA.webp)
+![We%20Need%20a%20Code%20of%20Ethics%2084d3196804e948ab866b828b712e55f2/1EthOZquq1IFUCtw-9H69SA.webp](/img/1*EthOZquq1IFUCtw-9H69SA.webp)
 
 Recently, a [developer launched a de-pixelizer](https://twitter.com/tg_bomze/status/1274098682284163072). Essentially, it can take a pixelated image and approximate what the person’s face might look like. The results were…[not great](https://twitter.com/Kiloku/status/1274315587133587457/photo/1).
 

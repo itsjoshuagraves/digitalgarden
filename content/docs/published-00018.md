@@ -19,11 +19,11 @@ I’m always curious about how changing a habit will affect me and have little a
 
 If you’re curious about Soylent, [here’s their website](http://www.soylent.me/). It’s basically that liquid meal Neo eats on the Nebuchadnezzar in The Matrix. Soylent has all the calories and nutrients you’d need to be healthy. A Science Happy Meal, basically.
 
-# Some background on me
+## Some background on me
 
 I’ve been an active guy for the last few years. 5x weekly workouts, I’m a vegetarian of a 2.5 years, and eat fairly healthy. Mostly greens, and I meet the recommended protein intake for folks like me. I tracked things heavily at first through Jawbone’s UP and MyFitnessPal, enough to get an idea of my diet. I did fine, and it’d bore you to death if I got into that here.
 
-# What I wanted to learn
+## What I wanted to learn
 
 Would it help me get more willpower to resist things that were bad for me? I’m terrible with sweets and fear diabetes and cavities.
 
@@ -31,11 +31,11 @@ How would food affect my cognitive ability? My diet makes me foggy in the aftern
 
 Would I become leaner and weigh less? I’m not overweight, but I wonder if this would be a signal for how well I’m doing with my current diet.
 
-# Willpower
+## Willpower
 
 Me in real life.
 
-![My%20week%20with%20Soylent%201%204,%20or%20%E2%80%9COh%20god%20I%20want%20a%20burg%20e902c13b8bd34252ab808f4f57ff6257/1qezsAlhUtFsTcVTTPPC18g.gif](My%20week%20with%20Soylent%201%204,%20or%20%E2%80%9COh%20god%20I%20want%20a%20burg%20e902c13b8bd34252ab808f4f57ff6257/1qezsAlhUtFsTcVTTPPC18g.gif)
+![My%20week%20with%20Soylent%201%204,%20or%20%E2%80%9COh%20god%20I%20want%20a%20burg%20e902c13b8bd34252ab808f4f57ff6257/1qezsAlhUtFsTcVTTPPC18g.gif](/img/1qezsAlhUtFsTcVTTPPC18g.gif)
 
 Dude, if you put me up with basically any kind of sweet, I will pound it down (Pop Rocks are my drug of choice, by the way). That’s kind of scary and I don’t want to be beholden to that kind of addiction.
 
@@ -43,23 +43,23 @@ Luckily, the week was rife with willpower tests. A friend brought in homemade st
 
 Either way, that was an incredible win. I would use this to help me break food addictions.
 
-# Cognitive ability
+## Cognitive ability
 
 Important: always feed and water yourself, else you become a hangry Hulk.
 
-![My%20week%20with%20Soylent%201%204,%20or%20%E2%80%9COh%20god%20I%20want%20a%20burg%20e902c13b8bd34252ab808f4f57ff6257/1FJIdpz_PUoAbplE3A0YDnw.gif](My%20week%20with%20Soylent%201%204,%20or%20%E2%80%9COh%20god%20I%20want%20a%20burg%20e902c13b8bd34252ab808f4f57ff6257/1FJIdpz_PUoAbplE3A0YDnw.gif)
+![My%20week%20with%20Soylent%201%204,%20or%20%E2%80%9COh%20god%20I%20want%20a%20burg%20e902c13b8bd34252ab808f4f57ff6257/1FJIdpz_PUoAbplE3A0YDnw.gif](/img/1FJIdpz_PUoAbplE3A0YDnw.gif)
 
 In the afternoon, I’ll usually get a little foggy. With Soylent, I was able to talk through any problem at any point in the day, even before lunch when people usually get hangry. And I can achieve Hulk-levels of hanger if not fed and watered properly, so I’m keen on avoiding that if at all possible. Even late into the evening, my brain was as sharp as it was earlier in the day.
 
 This category was a total win.
 
-# Weight, etc.
+## Weight, etc.
 
 I thought that I might see a reduction with my weight or body fat percentage. I realize I had a small sample size of a week here, but it isn’t unusual for me to weigh 1-3 pounds lighter on Monday than I did on Friday.
 
 Nope, everything stayed exactly the same. Maybe I’d see more with longer usage. I wasn’t disappointed though.
 
-# What else I noticed
+## What else I noticed
 
 This dog is my spirit animal.
 
@@ -69,7 +69,7 @@ I had planned in advance to allow myself a meal a few 5 days in. And let me tell
 
 Also, I could not get enough water. Drinking 8–10 glasses a day wasn’t enough. It had other consequences that were…unpleasant. It made any bathroom time weird because towards the end of my experiment I was backed up. I kept Gas-X with me along the way, because I had a lot of it. And it was foul.
 
-# What’s next
+## What’s next
 
 Soylent, overall, is a concept I like in small quantities. It won’t be replacing 3 meals a day for me, though. I think it’s likely I’ll keep it for breakfast and maybe a lunch during the week. It makes me feel pretty great, and I look at it as a tool to help me be a better thinker and problem solver. I’m so glad I tried it.
 

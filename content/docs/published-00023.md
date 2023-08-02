@@ -9,7 +9,7 @@ summary: "I ran a site called AwesomeGIFs, and eventually left it. RIP."
 ---
 
 
-![Requiem%20for%20a%20side%20project%20quitting%20AwesomeGIFs%20091129a609c041dca88bc07514f09375/1hF3nRuaaxtfWSCoLTWOdYA.webp](../../img/1hF3nRuaaxtfWSCoLTWOdYA.webp)
+![Requiem%20for%20a%20side%20project%20quitting%20AwesomeGIFs%20091129a609c041dca88bc07514f09375/1hF3nRuaaxtfWSCoLTWOdYA.webp](/img/1hF3nRuaaxtfWSCoLTWOdYA.webp)
 
 A feeling came over me in 2009 when GeoCities was shutting down: ‘I don’t want all those GIFs to somehow disappear! They’re magic.’ So I made a home for them, and in the span of a few short weeks, AwesomeGIFs was born.
 
@@ -23,12 +23,12 @@ There was also a fun time where I moved my image hosting to Amazon S3. It was bl
 
 Ultimately, the site and I grew apart. I thought of trying new things with it, but found my interest going in other directions. This continued while the site remained neglected. Some things began to fail on my server and I wasn’t able to fix it on my own, and so my happiness with the project began to wane.
 
-# Giving myself permission to quit
+## Giving myself permission to quit
 
 I read a post on The Pastry Box on [No More Forever Projects](https://the-pastry-box-project.net/diana-kimball/2014-march-5) that helped give form to some of my feelings, specifically one that gave me permission to quit projects. One particuarly liberating quote:
 
 > “The half-life of obligation is short; the half-life of guilt is long”
-> 
+
 
 It’s true. The guilt I felt for neglecting a side project pricked me with little knives every so often, so I knew I had to do something. I decided to sit on it for a few months and come back to it to see if there was anything left for me here. There wasn’t, turns out.
 

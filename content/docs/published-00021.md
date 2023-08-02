@@ -8,8 +8,6 @@ originalURL: https://www.smashingmagazine.com/2015/01/prototyping-ios-android-ap
 summary: "I designed a lot of mobile apps in the 2010s, here's how I did it with Sketch."
 ---
 
-
-
 After the untimely (and still kind of sad) [demise of Fireworks](https://www.smashingmagazine.com/2013/12/19/present-future-adobe-fireworks/), I found myself looking for other ways to design apps and websites. I also had the desire to produce something more interactive for when I talk about my work with stakeholders. It turned out that [Sketch](https://bohemiancoding.com/sketch/), when paired with some other neat tools, would be a big part of this workflow.
 
 In this article, I’ll talk you through why you should prototype and how you can do it with Sketch and prototyping tools such as Flinto and InVision. You’ll also get a nicely documented freebie Sketch file to help you.
@@ -31,7 +29,6 @@ When it comes to showing an app’s design to a team, a client or a stakeholder,
 Increasingly, animation is playing a stronger role in design. I like how [Val Head](https://twitter.com/vlh) puts it in “All the Right Moves: Putting Your UIs in Motion” (emphasis mine):
 
 > Motion has meaning in UX design
-> 
 
 Motion provides meaning and is also central to the functioning of all native mobile apps — and increasingly for the web as well (see “[Material Design](https://www.google.com/design/spec/material-design/introduction.html#introduction-principles)” and the [Polymer](https://www.polymer-project.org/) project from Google). So, it’s critical to prototype for and to show motion and animation for all digital design work, but especially for mobile apps.
 

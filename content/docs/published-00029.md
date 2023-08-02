@@ -8,9 +8,6 @@ originalURL: https://medium.com/thisisartium/what-we-look-for-in-a-product-desig
 summary: "When I ran design at a consultancy, here's what I looked for in a designer's portfolio."
 ---
 
-
-![https://miro.medium.com/v2/resize:fit:2000/1*1qqwz-4xMMYB_mD2jCz7jQ.webp](https://miro.medium.com/v2/resize:fit:2000/1*1qqwz-4xMMYB_mD2jCz7jQ.webp)
-
 I had a lot of good responses to a question I put out on [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6687366713492803584/) about advice for product design portfolios so I thought I’d expound on that here in hopes of helping you get called in for an interview.
 
 While the principles here are applicable to almost all types of design roles, I’m going to narrow the focus of this to folks who are seeking a product design role.

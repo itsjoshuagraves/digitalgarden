@@ -1,6 +1,6 @@
 ---
 title: Atrium Health
-image: ./img/carolinas-app-home@2x.jpg
+image: ./img/carolinas-app-home@2x.webp
 summary: "Designing an iOS and Android app to help patients receive the best care."
 tags: ["Product Design", "Strategy"]
 date: 2017-01-01
@@ -16,7 +16,7 @@ For their patient-facing app, I developed a flexible, card-based design language
 
 I also lead the design and implementation of Virtual Visits, which turned out to be prudent (it was pre-covid), allows patents to get care anywhere they are. Most of our testing and research focused on how to reduce ER wait times and congestion. We also built tools that helped patients book visits without the need to contact a human. This dramatically reduced time spent on hold and the resulting frustration.
 
-![](/img/vv-home@2x.jpg)*Virtual Visits, where you can see a doctor without leaving home*
+![](/img/vv-home@2x.webp)*Virtual Visits, where you can see a doctor without leaving home*
 
 ## CeSPA
 
@@ -28,9 +28,9 @@ Given that the domain was healthcare, this required me to up my game on all thin
 
 Through careful collaboration and research with our providers, we were able to reduce paperwork, clinic wait times, and ultimately fewer unnecessary surgeries.
 
-![](/img/cespa-results@2x.jpg)*CeSPA's results screen*
+![](/img/cespa-results@2x.webp)*CeSPA's results screen*
 
-![](/img/cespa-survey@2x.jpg)*CeSPA app's survey screen*
+![](/img/cespa-survey@2x.webp)*CeSPA app's survey screen*
 
 ## Results
 

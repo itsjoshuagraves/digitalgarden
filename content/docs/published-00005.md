@@ -8,11 +8,11 @@ originalURL: https://medium.com/@joshuamauldin/effective-animation-86caade87215
 summary: "Over the years, animation evolved from a nice-to-have concept to a core feature. Now, the best companies use animation to inform, delight, and reward the people using their products. Let’s talk about how animation helps and how to use it in our work."
 ---
 
-![https://miro.medium.com/v2/resize:fit:2000/1*wFB80FBxmxR9PO2M_H2n7Q.webp](https://miro.medium.com/v2/resize:fit:2000/1*wFB80FBxmxR9PO2M_H2n7Q.webp)
+![https://miro.medium.com/v2/resize:fit:2000/1*wFB80FBxmxR9PO2M_H2n7Q.webp](/img/1*wFB80FBxmxR9PO2M_H2n7Q.webp)
 
 Over the years, animation evolved from a nice-to-have concept to a core feature. Now, the best companies use animation to inform, delight, and reward the people using their products. Let’s talk about how animation helps and how to use it in our work.
 
-# **Animation Provides Guidance**
+## **Animation Provides Guidance**
 
 I think a lot about this quote from Steve Krug in *Don’t Make Me Think*:
 
@@ -37,7 +37,7 @@ Another part of providing guidance is letting someone know when we need their at
 
 What can we take from this? When we show, rather than tell, we reduce a person’s cognitive load. This makes it easier to get into using the product. After all, who reads instruction manuals unless they absolutely have to?
 
-# **Animation Reduces Frustration and Abandonment**
+## **Animation Reduces Frustration and Abandonment**
 
 Google saw a 20% drop-off for adding half a second to their page load time. Similarly, Amazon saw a significant drop in sales for every tenth of a second they added to page load time.
 
@@ -69,7 +69,7 @@ If we compare this with Kayak, it feels like we’re in a different world. While
 
 What can we take from this? If we put effort into respecting another person’s time, they’re more likely to stick around.
 
-# **Animation Makes an Emotional Connection**
+## **Animation Makes an Emotional Connection**
 
 The animations we give a product are a direct extension of the brand and need special attention. Here are two examples.
 
@@ -85,25 +85,25 @@ Zappos and the Super Cat for iOS.
 
 The next app is a little more fun, and it’s Zappos. Part of their brand and mission statement is to “Create Fun and A Little Weirdness.” That’s why I was surprised and delighted to see a tiny Super Cat delivering a pair of Chucks to the cart. It made me want to add several more 😸.
 
-# **Best Practices**
+## **Best Practices**
 
 It’s great to talk about how animation can help, but let’s talk for a bit about how to put this into action.
 
-## **Be intentional and match the brand**
+### **Be intentional and match the brand**
 
 Animation is best when it is intentional and reinforces the experience. Use this chart to help plot what kinds of animations to use.
 
-![https://miro.medium.com/v2/resize:fit:1400/1*KbzAvqg5pCDG12QzB98wXw@2x.webp](https://miro.medium.com/v2/resize:fit:1400/1*KbzAvqg5pCDG12QzB98wXw@2x.webp)
+![https://miro.medium.com/v2/resize:fit:1400/1*KbzAvqg5pCDG12QzB98wXw@2x.webp](/img/1*KbzAvqg5pCDG12QzB98wXw@2x.webp)
 
 The Brand Personality Spectrum, adapted from [somewhere].
 
 If we’re designing a quiet, meditative app like Pause, that means it’s probably more familiar, happy, reserved, quiet, and off the beaten path. We’d probably avoid giant pops and flashy transitions. It may be perfectly fine, however, to use this with an exercise app designed to motivate.
 
-## **Timing is everything**
+### **Timing is everything**
 
 Most people’s brains take about 200ms to begin processing something. [Anything less than 100ms is considered instant](https://www.nngroup.com/articles/response-times-3-important-limits/) since our brains have trouble processing information at that speed.
 
-![https://miro.medium.com/v2/resize:fit:1400/1*3sjXQNVdan_52LwlVHntjg.webp](https://miro.medium.com/v2/resize:fit:1400/1*3sjXQNVdan_52LwlVHntjg.webp)
+![https://miro.medium.com/v2/resize:fit:1400/1*3sjXQNVdan_52LwlVHntjg.webp](/img/1*3sjXQNVdan_52LwlVHntjg.webp)
 
 Animation awareness spectrum, adapted from [Val Head’s Designing Interface Animation](http://rosenfeldmedia.com/designing-interface-animation/designing-interface-animation/) and [Aerotwist](https://aerotwist.com/blog/flip-your-animations/)
 
@@ -111,7 +111,7 @@ This means the best spot for most animations is 200–500ms. There’s not a har
 
 That being said, it isn’t usually advisable to have animations lasting longer than one second unless it’s with a loading sequence. The more we delay someone from completing their task, the less likely they are to stick around. Animation must help rather than hinder.
 
-## **Don’t break accessibility**
+### **Don’t break accessibility**
 
 Not everyone can hang with motion. Some of us get motion sickness. Offering a low-animation setting can help alleviate that feeling. This can be the difference between someone who stays and someone who bails on an app.
 
@@ -119,11 +119,11 @@ After iOS 7’s beta, people reported having motion sickness from all the visual
 
 Finally, for people with a history of epilepsy: we need to avoid flashing the screen or big color changes more than twice a second. Anything faster than that is a trigger.
 
-# **Wrapping Up**
+## **Wrapping Up**
 
 In closing, animation helps people understand how to use an app, gives them feedback without overburdening their brains, and helps people create an emotional connection. Make sure to be intentional with all of your animations, time them appropriately, and don’t cause anyone motion sickness or worse by overdoing it.
 
-# **Further Reading**
+## **Further Reading**
 
 If you’re looking to read more, I highly recommend peeking at these links.
 

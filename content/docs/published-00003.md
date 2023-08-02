@@ -8,9 +8,7 @@ originalURL: https://uxdesign.cc/black-mirror-brainstorms-f919ccf5938c
 summary: "I want to have more ethical products. I feel like we all do. Sometimes, though, we don’t consider how this amazing thing we’re working on might have some unintended and negative consequences."
 ---
 
-[Black Mirror on Twitter](http://twitter.com/blackmirror)
-
-![Black%20Mirror%20brainstorms%20%E2%80%94%20a%20product%20design%20exerci%2068fdb8609e044dea8eaa6decc18a1e9c/1JMSxb1MjvJFDYrjWN4-Krg.webp](../../img/1JMSxb1MjvJFDYrjWN4-Krg.webp)
+![Black%20Mirror%20brainstorms%20%E2%80%94%20a%20product%20design%20exerci%2068fdb8609e044dea8eaa6decc18a1e9c/1JMSxb1MjvJFDYrjWN4-Krg.webp](/img/1JMSxb1MjvJFDYrjWN4-Krg.webp)
 
 I want to have more ethical products. I feel like we all do. Sometimes, though, we don’t consider how this amazing thing we’re working on might have some unintended and negative consequences.
 
@@ -20,7 +18,7 @@ If you’ve ever seen Black Mirror, the show excels at diving into how our produ
 
 This exercise helps us guard against the negative effects of our goals by giving us a clear understanding of how our product could be misused. The outcome of this exercise is to more clearly define our anti-goals. Here’s how it works.
 
-# About the Exercise
+## About the Exercise
 
 - Groups of 3–4 people
 - Play time: 30–45 minutes (depending on the number of groups)
@@ -32,7 +30,7 @@ This exercise helps us guard against the negative effects of our goals by giving
 - Provide markers, paper, stickies
 - Each team should get one template to work on together
 
-# How to Play
+## How to Play
 
 The exercise breaks down into four sections: the **brainstorm**, **quotes,** **plot points**, and the **poster**. Here’s a template.
 
@@ -45,7 +43,7 @@ Next we’ll start with an example to get us thinking.
 
 Now let’s get to each of the sections.
 
-## Brainstorm
+### Brainstorm
 
 Here, we’ll write down some of your ideas for what might go wrong. Here are a few areas to help frame your activity:
 
@@ -56,13 +54,13 @@ Here, we’ll write down some of your ideas for what might go wrong. Here are a 
 > Important note: some folks won’t do well thinking on the fly in a group setting. To help them, instruct everyone to take 2–5 minutes to think up ideas before talking with the group. The stickies you provide are perfect for this.
 > 
 
-## Quotes
+### Quotes
 
 This section is for quotes people in the episode might say. It can also be things people say about the episode after watching it.
 
 Don’t be afraid to get dramatic or go over the top.
 
-## Plot Points
+### Plot Points
 
 Plot points are helpful in describing how this bad situation comes to pass. They’re the substance of the story. Consider these four as a starting point:
 
@@ -71,21 +69,21 @@ Plot points are helpful in describing how this bad situation comes to pass. They
 - The problem: how the well-intended idea goes wrong
 - The effect: how the idea going wrong affects people
 
-## The Poster
+### The Poster
 
 Here, we’ll communicate the big idea. I suggest using a big quote that sums up the episode. If a team’s so inclined, they could also do an illustration.
 
-# After the Exercise
+## After the Exercise
 
 When everyone’s finished presenting, take a moment to look for common elements from everyone’s posters and write them on stickies. We’ll take the stickies, put them up, and group similar ones together. These are excellent candidates for anti-goals.
 
-# Wrapping up
+## Wrapping up
 
 We don’t have to look far to see how this might be helpful. Consider that [Target figured out a teen was pregnant](https://www.forbes.com/sites/kashmirhill/2012/02/16/how-target-figured-out-a-teen-girl-was-pregnant-before-her-father-did/#7f6150856668) and started sending her pregnancy-related coupons, much to the shock and anger of her parents. Another time, Facebook year in review showed [Eric Meyer a photo of his recently-deceased daughter](http://meyerweb.com/eric/thoughts/2014/12/24/inadvertent-algorithmic-cruelty/) surrounded by confetti and dancing people. None of these things products intended to be cruel. But because the designers didn’t consider the negative implications of their decisions, unintended things happened (and some of them were pretty rough).
 
 Black Mirror Brainstorms are intended to help us consider the negative impacts of our work. By doing this, we help ensure that our products are great and don’t end up causing harm. The unceasing march toward growth will often pull us in unexpected ways and it’s easy let any negative impact of our decisions fall by the wayside.
 
-# Credit and thanks
+## Credit and thanks
 
 Adapted from [Aaron Lewis](https://twitter.com/aaronzlewis/status/1063544871472914432) and Gamestorming’s [Cover Story](https://gamestorming.com/cover-story/) activity. Thanks to Andrew Zusman, Christine Luc and Weiman Kow at Pivotal for the feedback.
 

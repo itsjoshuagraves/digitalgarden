@@ -1,5 +1,5 @@
 ---
-title: Red Tape Series
+title: Red Tape [Series]
 tags: [Digital]
 date: 2019-01-01
 image: /img/type-experiment_-_7.webp

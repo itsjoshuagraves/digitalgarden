@@ -1,5 +1,5 @@
 ---
-title: De-enlightenment Series
+title: De-enlightenment [Series]
 tags: [Digital]
 date: 2019-01-01
 image: /img/digital-_-_11.webp

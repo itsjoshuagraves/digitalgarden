@@ -1,5 +1,5 @@
 ---
-title: Video Series
+title: Video [Series]
 tags: [Digital]
 date: 2019-01-01
 image: /img/Screenshot_2023-07-24_at_4.12.16_PM.webp

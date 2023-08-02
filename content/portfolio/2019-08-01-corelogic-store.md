@@ -1,6 +1,6 @@
 ---
 title: CoreLogic Store
-image: ./img/corelogic.jpg
+image: ./img/corelogic.webp
 tags: ["Product Design", "Strategy"]
 summary: "Redesigning an industry leader’s store for custom real estate reports."
 date: 2019-08-01
@@ -19,13 +19,13 @@ During my time at Pivotal Labs, I worked on enabling CoreLogic's team to utilize
 
 To make this store a reality, and with a timeline of 6 months, we needed to do the following: understand the customer base, test our assumptions with them, and move with speed and intention towards the future. On top of that, we needed to help them visualize what the future could look like with subscription revenue.
 
-![](/img/corelogic-desktop.jpg)*Iterations for subscription plans.*
+![](/img/corelogic-desktop.webp)*Iterations for subscription plans.*
 
 To do this, I created user interview plans, tests, and scripts so that we could be consistent in gathering information. This let both myself and the product managers split off and combine our efforts to move faster. I also invited engineers to be part of this, as it boosted team cohesion and built a shared understanding. We then came together to see what patterns emerged and what insights would guide future iterations.
 
 When it came to subscriptions, we tested prepaid credits as well as standard monthly pricing. Ultimately the standard monthly pricing worked best and addressed most customers' needs. One user said that it was less to manage and were happy to not think about a credit system.
 
-![](/img/corelogic-result.jpg)*The chosen flow, which, according to our research, performed the best.*
+![](/img/corelogic-result.webp)*The chosen flow, which, according to our research, performed the best.*
 
 When I came in, we weren’t designing for mobile or accessibility, so I made the case to the product management and stakeholders on why we should. It required a couple backlog and roadmap changes, but I successfully made the case. It paid off, too. More on that in a moment.
 
@@ -33,7 +33,7 @@ Along the way, we implemented other improvements as a result of our research, ty
 
 And to aid in growth, we adopted atomic design for this and built an early-stage design system so that CoreLogic’s team could focus on higher value tasks, not the shape of a button.
 
-![](/img/corelogic-future.jpg)*Other future plans that were in active development when I left the project.*
+![](/img/corelogic-future.webp)*Other future plans that were in active development when I left the project.*
 
 ## Results
 

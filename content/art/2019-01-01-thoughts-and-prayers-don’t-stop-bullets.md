@@ -1,5 +1,5 @@
 ---
-title: thoughts and prayers don’t stop bullets
+title: Thoughts and Prayers [Series]
 tags: [Digital]
 date: 2019-01-01
 image: /img/type-experiment_-_27.webp

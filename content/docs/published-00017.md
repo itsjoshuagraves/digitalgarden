@@ -9,7 +9,7 @@ summary: "Early work on in-app rating modules and how I made them better. This w
 ---
 
 
-![My%20real%20problem%20with%20in-app%20rating%20modules%20b6643e8967734de1a0e02dd2b0222e3a/1Gygkz7MUtV0HY6UMz5cI-w.webp](../../img/1Gygkz7MUtV0HY6UMz5cI-w.webp)
+![My%20real%20problem%20with%20in-app%20rating%20modules%20b6643e8967734de1a0e02dd2b0222e3a/1Gygkz7MUtV0HY6UMz5cI-w.webp](/img/1Gygkz7MUtV0HY6UMz5cI-w.webp)
 
 ## “Like this app? Give us 5 stars! UGH STOP PLZ.”
 
@@ -42,7 +42,7 @@ Each person got a reply from the support team attempting to help with their prob
 
 PS: if you go all Darth Vader here, you’re basically doing some real shady work and deserve all the karmic flack you catch for that. Death Star icon designed by
 
-![My%20real%20problem%20with%20in-app%20rating%20modules%20b6643e8967734de1a0e02dd2b0222e3a/1UyJLFr3vj97-loLFiItSGw.gif](My%20real%20problem%20with%20in-app%20rating%20modules%20b6643e8967734de1a0e02dd2b0222e3a/1UyJLFr3vj97-loLFiItSGw.gif)
+![My%20real%20problem%20with%20in-app%20rating%20modules%20b6643e8967734de1a0e02dd2b0222e3a/1UyJLFr3vj97-loLFiItSGw.gif](/img/1UyJLFr3vj97-loLFiItSGw.gif)
 
 ## **Darth Vader, or why feedback modules aren’t the problem**
 

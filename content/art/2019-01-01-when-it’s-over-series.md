@@ -1,5 +1,5 @@
 ---
-title: When It’s Over Series
+title: When It’s Over [Series]
 tags: [Digital]
 date: 2019-01-01
 image: /img/type-experiment_-_23.webp

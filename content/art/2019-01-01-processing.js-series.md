@@ -1,5 +1,5 @@
 ---
-title: Processing.js series
+title: Processing [Series]
 tags: [Digital]
 date: 2019-01-01
 image: /img/type-experiment_-_19.webp

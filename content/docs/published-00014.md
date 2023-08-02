@@ -9,7 +9,7 @@ summary: "One of many things I tried to reclaim my sanity from push notification
 ---
 
 
-![I%20turned%20off%20my%20push%20notifications%20and%20I%E2%80%99ve%20never%20%20ab9e0f8aade6429eaa71b88013be1162/1dKC6AzFrukIpK0xJoEGXsw.webp](img/1dKC6AzFrukIpK0xJoEGXsw.webp)
+![I%20turned%20off%20my%20push%20notifications%20and%20I%E2%80%99ve%20never%20%20ab9e0f8aade6429eaa71b88013be1162/1dKC6AzFrukIpK0xJoEGXsw.webp](/img/1dKC6AzFrukIpK0xJoEGXsw.webp)
 
 Over the holiday, I did the unthinkable: turned off push notifications from Messages. Up to that point, I’d received a steadily-increasing stream of messages from co-workers and friends—my head was buzzing as much as my phone. It was hard to get any quiet time in my own head and I was tired of my tiny illuminated rectangle commanding my attention.
 
@@ -21,7 +21,7 @@ I’d already whittled down my apps by removing email, Twitter, and Facebook fro
 
 What struck me most was that I never thought turning off notifications from Messages was an option. I’d received so many over the years that my brain thought that’s just how phones operated these days.
 
-# A change in my relationship
+## A change in my relationship
 
 I wanted to take a step back and change how we relate to our phones: we should take advantage them instead of letting them take advantage of us.
 
@@ -29,7 +29,7 @@ I believe that device manufacturers should us choose what notifications we get b
 
 So in light of that, I dumped all my notifications and started over. You may want to try it too.
 
-# Here’s how I rethought push notifications
+## Here’s how I rethought push notifications
 
 I’ve got a simple, two question way of dealing with it. For apps that can send push notifications, I ask this:
 
@@ -38,13 +38,13 @@ I’ve got a simple, two question way of dealing with it. For apps that can send
 
 Your answers will vary and I’d recommend keeping only the essential ones. The rest of those apps are still there if they’re needed—they just can’t call out to you and steal your attention.
 
-## Here’s what gets to stay for me:
+### Here’s what gets to stay for me:
 
 - Anything security or safety related (Nest, Canary)
 - Anything travel related (TripIt, Airbnb)
 - One unnamed messaging app (so my wife can text me if necessary)
 
-# Wrapping up
+## Wrapping up
 
 Notifications, while sometimes helpful, can be a huge time and attention eater. We shouldn’t be afraid to change our relationship with our phones because it can really reduce the stress we feel in our day-to-day lives.
 

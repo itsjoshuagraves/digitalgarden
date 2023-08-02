@@ -25,7 +25,7 @@ The thing is, when you have almost 70 apps on each of your devices (I should dea
 
 What's worse is that I'm a tech lover… so I don't want to give up all my cool gadgets. That's why when I discovered my newfound place of solace, I couldn't have been happier.
 
-![Notifications%20stress%20me%20out%20How%20I%20cut%20them%20down%20to%200a07044bab81413681566c02924efc8d/nintendo-switch.jpg](Notifications%20stress%20me%20out%20How%20I%20cut%20them%20down%20to%200a07044bab81413681566c02924efc8d/nintendo-switch.jpg)
+![Notifications%20stress%20me%20out%20How%20I%20cut%20them%20down%20to%200a07044bab81413681566c02924efc8d/nintendo-switch.jpg](/img/nintendo-switch.jpg)
 
 (Timothy A. Clary/AFP/Getty Images)
 
@@ -34,8 +34,6 @@ When I bought the [Nintendo Switch](https://www.nintendo.com/switch/), all I wan
 For once, I can fully dive into a story without the incessant vibration of something needing my attention 一 other than Mario who is close to a cliff.
 
 Having the chance to focus solely on the game is such a relief compared to how I feel using my phone.
-
-![Notifications%20stress%20me%20out%20How%20I%20cut%20them%20down%20to%200a07044bab81413681566c02924efc8d/elizabeth-dunn.jpg](Notifications%20stress%20me%20out%20How%20I%20cut%20them%20down%20to%200a07044bab81413681566c02924efc8d/elizabeth-dunn.jpg)
 
 Elizabeth Dunn is a professor of psychology at University of British Columbia. (UBC Psychology)
 
@@ -50,8 +48,6 @@ Naturally that distraction keeps us from being fully present in what we're doing
 "That bit of distraction does seem to kind of chip away at our good feelings and make us feel, perhaps, a little bit more anxious on a day to day basis," says Elizabeth.
 
 I admit, over the past six months, my relationship to notifications has changed. Often, I ignore them, deleting them from my home screen sometime late at night without reading them. Other times, I'll feel the buzz or hear the chirp of a message and choose to ignore it.
-
-![Notifications%20stress%20me%20out%20How%20I%20cut%20them%20down%20to%200a07044bab81413681566c02924efc8d/joshua-mauldin.webp](Notifications%20stress%20me%20out%20How%20I%20cut%20them%20down%20to%200a07044bab81413681566c02924efc8d/joshua-mauldin.webp)
 
 Joshua Mauldin is a designer based in Charlotte, North Carolina. (Enowen Photography)
 

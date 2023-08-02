@@ -12,15 +12,7 @@ After a few years of designing products for clients, I began to feel fatigued. I
 
 I thought of how bored I’d be if I kept on that path. I needed to build some guiding principles that would help me find my place in design. These principles would help grow and would shape my career in a way that fits me best.
 
-## Further Reading on SmashingMag:
-
-- [Why Great Products Need Great Collaboration](https://www.smashingmagazine.com/2016/05/why-great-products-need-great-collaboration/)
-- [A Lean Approach To Product Validation](https://www.smashingmagazine.com/2016/07/a-lean-approach-to-product-validation/)
-- [Nobody Wants To Use Your Product](https://www.smashingmagazine.com/2016/01/nobody-wants-use-your-product/)
-
 What I’d like to share here is how I found my principles and regained a sense of fulfillment. I’ll also discuss one of them and hopefully convince you that it’s **worth considering when we design products**. Speaking of convincing, I’d also like to help you convince your boss that these things are important.
-
-![Giving%20Your%20Product%20A%20Soul%20%E2%80%94%20Smashing%20Magazine%20f42bb8c1a82d4381940d52a6bece523e/cat-scubadiving-panel.svg](Giving%20Your%20Product%20A%20Soul%20%E2%80%94%20Smashing%20Magazine%20f42bb8c1a82d4381940d52a6bece523e/cat-scubadiving-panel.svg)
 
 One small string that began to tie it together was watching Bret Victor’s talk “[Inventing on Principle](https://vimeo.com/36579366).” The first half is mostly a code demo; then, he gets philosophical and talks about how goals and principles help you. I believe that living by principles can lead you to some really interesting places — for me, they’ve helped me to find the right ways (and places) to work and the right projects to take on (like designing a typeface), and they’ve helped me to identify which areas of my life need to be nurtured so I don’t burn out.
 

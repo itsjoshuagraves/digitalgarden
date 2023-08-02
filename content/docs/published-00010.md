@@ -9,13 +9,13 @@ summary: "Early writing on how someone texting with emergency services would be 
 ---
 
 
-![How%20smartphones%20could%20improve%20texting%20emergency%20se%202502298a58d24c579dc830a4e82c4fac/1x4bhld6IJ2CtkpC5QQc8EA.webp](../../img/1x4bhld6IJ2CtkpC5QQc8EA.webp)
+![How%20smartphones%20could%20improve%20texting%20emergency%20se%202502298a58d24c579dc830a4e82c4fac/1x4bhld6IJ2CtkpC5QQc8EA.webp](/img/1x4bhld6IJ2CtkpC5QQc8EA.webp)
 
 As of May 24, 2014, the main 4 carriers in the US will allow texting with 911. That’s great, but I wondered what it would look like if smartphones could build on top of that idea.
 
 I want design to do good and feel like a moment of crisis is an ideal spot to employ thoughtful design to ease a difficult situation. Plus, it’s fun to weave different technologies together. What follows are some initial thoughts and a prototype. I’d love to hear feedback on both.
 
-# Overview and Goals
+## Overview and Goals
 
 I wanted to allow users to have an efficient way of engaging with emergency services when certain situations arise. Composing a text message could be time-consuming in a moment where every second counts; good design can make this easier.
 
@@ -35,13 +35,13 @@ If a phone’s been connected to a vehicle’s collision sensors via Bluetooth, 
 
 In the event that a message couldn’t be delivered, this application would continuously attempt delivery, rather than fail and ask the user to send it again.
 
-# Prototyped options for sending emergency service messages
+## Prototyped options for sending emergency service messages
 
 Interaction via the Lock Screen. [Play with the prototype on Flinto](https://www.flinto.com/p/a624bb9c).
 
-![How%20smartphones%20could%20improve%20texting%20emergency%20se%202502298a58d24c579dc830a4e82c4fac/11yhXebq17Hhn8IKuWN_9pw.gif](How%20smartphones%20could%20improve%20texting%20emergency%20se%202502298a58d24c579dc830a4e82c4fac/11yhXebq17Hhn8IKuWN_9pw.gif)
+![How%20smartphones%20could%20improve%20texting%20emergency%20se%202502298a58d24c579dc830a4e82c4fac/11yhXebq17Hhn8IKuWN_9pw.gif](/img/11yhXebq17Hhn8IKuWN_9pw.gif)
 
-## **1) Lock Screen**
+### **1) Lock Screen**
 
 A user will tap the Emergency option on the Lock Screen, bringing up the dial pad, where the user now has the option to select Text. If a user selects Text, they can select their type of emergency, which reduces the time it takes to compose a text. They may select from any and all of the options presented, including not selecting any at all. (This is one situation where we may not want to force a choice.)
 
@@ -51,21 +51,21 @@ The user’s information will be pre-filled in a text message, and it will inclu
 
 **Update:** It’s important that we protect a person’s privacy. In light of that, texting through the lock screen keeps all other message threads hidden. (Thanks to @sulgi for the reminder)
 
-## 2) Messages
+### 2) Messages
 
 A user initiates a text to emergency services (in the US, it’s 911). The interface adapts slightly to highlight calling 911 and adds a toolbar to include various information such as the user’s GPS-assisted current location and contact information.
 
-## **3) Siri**
+### **3) Siri**
 
 When a user engages Siri, perhaps by saying “Tell 911 that there’s been an accident here,” Siri will create the text, pre-fill it with the user’s name, phone number, and GPS-assisted current location. Then the user is sent to a customized SMS screen, the same as in Option 1.
 
-# Closing thoughts
+## Closing thoughts
 
 I did this as an exercise to see how good design could make a tough situation easier and more efficient. Even if this goes nowhere (I hope it doesn’t!), it feels important for designers to consider applying their knowledge to other areas.
 
 I’d appreciate feedback on how to improve this concept. It would be wonderful to see a smartphone experience implemented—I’d love to know how, or if, that could happen.
 
-## Further Reading & Data
+### Further Reading & Data
 
 [http://www.911.gov/pdf/Current911DataCollection-072613.pdf](http://www.911.gov/pdf/Current911DataCollection-072613.pdf)
 

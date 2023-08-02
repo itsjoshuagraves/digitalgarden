@@ -1,5 +1,5 @@
 ---
-title: The Black Tape Series
+title: The Black Tape [Series]
 tags: [Digital]
 date: 2019-01-01
 image: /img/type-experiments_-_1.webp

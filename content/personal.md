@@ -7,6 +7,8 @@ type: docs
 Here you’ll find a catalog of my artwork and creative endeavors, my personal blog, and other miscellaneous things I’ve enjoyed.
 {{< /hint >}}
 
+## [Visual Art](/art)
+A selection of works. Mixed media collage, glitch art, music industry work, skulls (not real ones!), and tinkering with old tech. Lots of darker themes exploring identity, loneliness, memento moris.
 
 ## [Journal](/journal)
 I'm intentionally not calling this a blog, as that comes with expectations of constant updates. Instead, this is a place to store thoughts on topics that matter to me.

@@ -1,6 +1,6 @@
 ---
 title: Aperture Health
-image: ./img/aperture.jpg
+image: ./img/aperture.webp
 summary: "Modernizing a 20 (!) year old medical credentialing system."
 tags: ["Product Design", "Strategy"]
 date: 2021-01-01

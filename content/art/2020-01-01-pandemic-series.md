@@ -1,5 +1,5 @@
 ---
-title: Pandemic Series
+title: Pandemic [Series]
 tags: [Digital]
 date: 2020-01-01
 image: /img/pandemic_-_1.webp

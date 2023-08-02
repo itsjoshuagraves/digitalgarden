@@ -8,7 +8,7 @@ originalURL: https://medium.com/prototypr/what-i-learned-making-my-first-vr-app-
 summary: "I got to learn about designing for VR, and boy are the principles different there."
 ---
 
-![What%20I%20learned%20making%20my%20first%20VR%20app%20Prototypr%20cd206b10c83e4a66b23ebe8e3354b23d/1CXpmVqUYLVDUVEYTKcAjBg.webp](../../img/1CXpmVqUYLVDUVEYTKcAjBg.webp)
+![What%20I%20learned%20making%20my%20first%20VR%20app%20Prototypr%20cd206b10c83e4a66b23ebe8e3354b23d/1CXpmVqUYLVDUVEYTKcAjBg.webp](/img/1CXpmVqUYLVDUVEYTKcAjBg.webp)
 
 I recently made my first VR app for a client who commissioned an app to celebrate their 100th anniversary. In it, you walk through a 3D art gallery complete with with audio and imagery to understand their history.
 
@@ -16,7 +16,7 @@ Having primarily designed for mobile over the last few years, this was a fun new
 
 For instance, I found typography worked a little differently here. Things like motion and interaction took on an entirely new form, too. Not only that, but the process for making VR apps were also a little different than most other projects. I’ll walk you through those here.
 
-# Interactions
+## Interactions
 
 We have two main ways of using VR apps: with **our gaze** or a **controller**. each method has something different to consider, but I’ve found that they both affect how you design in similar ways. Let’s start with how they affect interactive objects like buttons.
 
@@ -28,11 +28,11 @@ VR environments, because of their immersiveness, make it easy to miss a button. 
 
 It’s fine if you want to focus on only using someone’s gaze to navigate. If that’s what you’re doing, show a timer or some other sort of progress bar when someone gazes on an interactive object. This makes it clear what will happen if someone keeps staring and it. Doing this also prevents accidental interactions. I’ve found that anywhere from half a second to one second for a timer is a good idea.
 
-# Motion
+## Motion
 
 What makes VR so much fun is its immersiveness and movement. We have into two main areas to consider here: **how your body moves** and **how you move around within the app**.
 
-## How your eyes and body move
+### How your eyes and body move
 
 First, I’m really thankful for the work of [Mike Algers](https://www.youtube.com/watch?v=id86HeV-Vb8&t=0s&list=PLzag1H05l3TI7yiOpxg0OmB5bjv_hEC_J&index=1) and Alex Chu here because they articulated these principles so well. Here, we’ll talk about eye movement as well as body movement.
 
@@ -42,7 +42,7 @@ We can comfortably turn our heads about **60º in any direction** before our mus
 
 Its important to consider how far you’re making someone stretch themselves to use your app. Unless you’re making a VR app for yoga, remember that less stretching is better.
 
-## How you move within the app
+### How you move within the app
 
 The other type of movement is the motion someone experiences while using your app. While we can have more fun with snappy animations on desktop and mobile, we must be more considerate and delicate here.
 
@@ -50,19 +50,19 @@ Don’t vary your motion speeds here, this is a huge trigger for motion sickness
 
 Most of my transitions take anywhere from 1–2 seconds in VR. That’s a much longer timeline than the 500 milliseconds most of my app animations take. It feels slower, but at least I’m not getting motion sickness here.
 
-# Typography
+## Typography
 
 Reading…kinda sucks in VR. I have a really big interest in typography (so much that [I made my own typeface](https://www.fontspring.com/fonts/joshua-mauldin/uptown-sans)), so I spent a lot of time understanding this.
 
 There are two reasons why reading isn’t so great: **our devices** and **methods of experience** greatly vary.
 
-## Our devices
+### Our devices
 
 We have so many different devices capable of VR, all at varying resolutions and sizes. Some run at ultra-high resolutions, like the Galaxy S9, while others are at lower resolutions, like the iPhone. There are a few in between, like Playstation VR.
 
 Because the resolution can vary so much, text can look blurry or crunchy. That’s especially true on lower-resolution devices.
 
-## Methods of experience
+### Methods of experience
 
 The other factor is the methods we use to experience VR. We can use anything from a head-mounted visor that straps to your head to a Google Cardboard that you hold up to your face. They both come with their own set of benefits and tradeoffs.
 
@@ -70,7 +70,7 @@ While holding something like Google Cardboard is the easiest and cheapest way to
 
 The head-mounted visors are my favorites because they allow you to stay in the experience longer. You also get to use your hands if you want. These are generally a little more expensive than a Google Cardboard, which will be a barrier for some.
 
-## So what can we do to have better typography?
+### So what can we do to have better typography?
 
 Downplay any kind of longer-form reading. Think about PowerPoint summary slides, that’s about the right amount of text to use.
 
@@ -83,7 +83,7 @@ You will inevitably have to set some text in paragraphs (and that’s okay!). He
 - Shorten your line length from 50–75 characters to 30–40 characters
 - Use as much contrast as you can with text, so consider setting your paragraph inside of a semi-transparent, dark background
 
-# Process considerations
+## Process considerations
 
 I haven’t encountered a designer-friendly environment for VR yet. The best thing you can do to get started is learn the basics of how to navigate within Unity and become good buddies with your engineer.
 
@@ -91,13 +91,13 @@ For a simpler experience, you could try Sketch-to-VR. You’ll need to realize t
 
 You’ll need to do a little work to test it out — it’s not so bad, I promise! [Here’s how to do it.](https://blog.prototypr.io/sketch-plugin-sketch-to-vr-4e23ced47e6)
 
-# Wrapping up
+## Wrapping up
 
 Clearly there’s a lot to VR, and a lot to be excited about. Best practices and patterns are still being worked out, but we know that we have to make different considerations for typography, motion, and interaction.
 
 It’s my hope that one day a good prototyping environment will come around for VR, but the best thing seems to be to get close to your engineer pals here. Have fun!
 
-# Resources
+## Resources
 
 - [Google Cardboard design principles](https://designguidelines.withgoogle.com/cardboard/designing-for-google-cardboard/a-new-dimension.html)
 - [Facebook’s VR Prototyping Template](https://facebook.design/vr-template)

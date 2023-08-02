@@ -1,5 +1,5 @@
 ---
-title: Memento Mori Series
+title: Mementos Mori [Series]
 tags: [Digital]
 date: 2019-01-01
 image: /img/digital-_-_4.webp

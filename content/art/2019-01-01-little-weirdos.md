@@ -1,5 +1,5 @@
 ---
-title: Little Weirdos
+title: Little Weirdos [Series]
 tags: [Digital]
 date: 2019-01-01
 image: /img/Screenshot_2023-07-24_at_4.08.21_PM.webp

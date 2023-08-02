@@ -22,13 +22,6 @@ Here’s why I love it:
 
 This article is all about understanding why you would want to set up a style guide using Fireworks, and you’ll also get a little starter template that I like to use.
 
-## Further Reading on SmashingMag:
-
-- [Creating A Living Style Guide: A Case Study](https://www.smashingmagazine.com/2016/05/creating-a-living-style-guide-case-study/)
-- [How To Design Style Guides For Brands And Websites](https://www.smashingmagazine.com/2010/07/designing-style-guidelines-for-brands-and-websites/)
-- [Smashing Magazine’s Style Guide](https://www.smashingmagazine.com/style-guide/)
-- [Automating Style Guide-Driven Development](https://www.smashingmagazine.com/2015/03/automating-style-guide-driven-development/)
-
 **Important note**: Fireworks’ future is uncertain, as Adobe decided to feature-freeze it in May 2013. There are rumors of Adobe working on a replacement, but nothing definite so far. I’ve spent the last few months with an alternative, [Sketch](https://www.bohemiancoding.com/sketch/), and found it to be… well, pretty fantastic! It’s a young Mac app but shows promise. Also, while Fireworks (CS6) is unlikely to receive any major updates in future, it is still distributed and supported by Adobe and should work on the latest Windows and Mac machines. You can read more about Fireworks’ future in this [pretty detailed article](https://www.smashingmagazine.com/2013/12/19/present-future-adobe-fireworks/).
 
 ## A Style Guide?
@@ -40,7 +33,7 @@ What is exactly a “style guide”, and why would you want to create one? Let�
 
 The biggest reason to create a style guide? The sheer amount of time you’ll save. Depending on the size of the project, reproducing your changes could take minutes or hours. Imagine designing a game, a complex website, a mobile app or a large corporate intranet: having to update one element that appears on dozens or hundreds of pages would be a tedious, madness-inducing task. You have better things to do, like look at cute cat pictures — why waste your time doing the same thing over and over again?
 
-![How%20To%20Make%20An%20Effective%20Style%20Guide%20With%20Adobe%20Fi%20d05c19c9200141b2bcc44fe423c0120b/style-guide-intro-500px.webp](How%20To%20Make%20An%20Effective%20Style%20Guide%20With%20Adobe%20Fi%20d05c19c9200141b2bcc44fe423c0120b/style-guide-intro-500px.webp)
+![How%20To%20Make%20An%20Effective%20Style%20Guide%20With%20Adobe%20Fi%20d05c19c9200141b2bcc44fe423c0120b/style-guide-intro-500px.webp](/img/How%20To%20Make%20An%20Effective%20Style%20Guide%20With%20Adobe%20Fi%20d05c19c9200141b2bcc44fe423c0120b/style-guide-intro-500px.webp)
 
 *A style guide helps you to maintain a consistent look over time, and Fireworks can save a lot of time.*
 
