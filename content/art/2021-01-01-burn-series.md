@@ -3,6 +3,7 @@ title: Burn [Series]
 tags: [Digital]
 date: 2021-01-01
 image: img/Screenshot_2023-07-24_at_4.06.18_PM.webp
+summary: "What if we burned mantras into our brains?"
 ---
 
 

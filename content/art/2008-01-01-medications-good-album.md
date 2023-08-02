@@ -2,11 +2,12 @@
 title: Medications “Good” Album
 tags: [Music Industry]
 date: 2008-01-01
-image: /img/coverditch.jpg
+image: /img/coverditch.webp
+summary: "Album design and art direction."
 ---
 
-![](/img/back-2.jpg)
+![](/img/back-2.webp)
 
-![](/img/disc.jpg)
+![](/img/disc.webp)
 
-![](/img/discwithinlay.jpg)
+![](/img/discwithinlay.webp)

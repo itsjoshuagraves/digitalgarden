@@ -14,16 +14,18 @@ This shirt is printed on an ultra-soft, vintage black cotton shirt. There are al
 
 ## Process Photos
 
-![IMG_2282.jpg](/img/IMG_2282.jpg)
+{{< columns >}}
+![IMG_2282.webp](/img/IMG_2282.webp)
+<--->
+![IMG_2292.webp](/img/IMG_2292.webp)
+{{< /columns >}}
 
-![IMG_2292.JPG](/img/IMG_2292.jpg)
+{{< columns >}}
+![IMG_2289.webp](/img/IMG_2289.webp)
+{{< /columns >}}
 
-![IMG_2289.JPG](/img/IMG_2289.jpg)
-
-![IMG_2354.jpg](/img/IMG_2354.jpg)
-
+{{< columns >}}
 ![IMG_2392.webp](/img/IMG_2392.webp)
-
+<--->
 ![IMG_0612.webp](/img/IMG_0612.webp)
-
-![IMG_0156.jpg](/img/IMG_0156.jpg)
+{{< /columns >}}

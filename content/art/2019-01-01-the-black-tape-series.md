@@ -3,9 +3,9 @@ title: The Black Tape [Series]
 tags: [Digital]
 date: 2019-01-01
 image: /img/type-experiments_-_1.webp
-summary: "Transparency paper, cutouts, tape, ruined scans. A whole lotta fun."
+summary: "Transparency paper, cutouts, tape, ruined scans."
 ---
-
+Transparency paper, cutouts, tape, ruined scans.
 
 ![Lyrics: Run the Jewels](/img/type-experiments_-_2.webp)*Lyrics: Run the Jewels*
 

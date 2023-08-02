@@ -3,6 +3,7 @@ title: When It’s Over [Series]
 tags: [Digital]
 date: 2019-01-01
 image: /img/type-experiment_-_23.webp
+summary: "Made with processing.js, Photoshop, and other pixel ruiners."
 ---
 Made with processing.js, Photoshop, and other pixel ruiners.
 

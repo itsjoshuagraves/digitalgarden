@@ -2,13 +2,14 @@
 title: Barcelona “Absolutes” Album
 tags: [Music Industry]
 date: 2008-01-01
-image: /img/c5.jpg
+image: /img/c5.webp
+summary: "Design and art direction."
 ---
 
-![](/img/c4.jpg)
+![](/img/c4.webp)
 
-![](/img/c3.jpg)
+![](/img/c3.webp)
 
-![](/img/c2.jpg)
+![](/img/c2.webp)
 
-![](/img/c1.jpg)
+![](/img/c1.webp)

@@ -3,7 +3,9 @@ title: Spirit Photography [Series]
 tags: [Digital]
 date: 2023-01-01
 image: /img/spirit-00.webp
+summary: "Mixed media collage focusing on spirit photography, an early 1900s pseudoscientific phenomenon. "
 ---
-Study of spirit photography, an early 1900s phenomenon, since debunked. Mixed media.
+
+Mixed media collage focusing on spirit photography, an early 1900s pseudoscientific phenomenon. 
 
 ![](/img/spirit-01.webp)

@@ -6,7 +6,7 @@ image: /img/Screenshot_2023-07-24_at_4.08.21_PM.webp
 summary: "I have no justification for any of this, except that it was weird and fun.
 "
 ---
-
+I have no justification for any of this, except that it was weird and fun.
 
 {{< columns >}}
 ![HYPERSPEKTIV (1).mov](/img/HYPERSPEKTIV_(1).mov)

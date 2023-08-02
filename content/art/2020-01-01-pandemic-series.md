@@ -3,6 +3,7 @@ title: Pandemic [Series]
 tags: [Digital]
 date: 2020-01-01
 image: /img/pandemic_-_1.webp
+summary: "What do you do when you're stuck inside and the world crashing down around you? Make art. This isn't happy stuff."
 ---
 
 What do you do when you're stuck inside and the world crashing down around you? Make art. This isn't happy stuff.
