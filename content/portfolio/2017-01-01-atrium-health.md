@@ -34,7 +34,7 @@ Through careful collaboration and research with our providers, we were able to r
 
 ## Results
 
-- Winner:[2018 eHealthcare Awards for Best Native Mobile App](https://ehealthcareawards.com/2018-winners/best-native-mobile-app/)
+- Winner: [2018 eHealthcare Awards for Best Native Mobile App](https://ehealthcareawards.com/2018-winners/best-native-mobile-app/)
 - Saved hundreds of thousands of dollars on unnecessary pre-operative procedures
 - Developed a new design foundation for the next generation of the app
 

@@ -1,7 +1,7 @@
 ---
 title: US Space Force
 summary: "Designing a workflow and interface to help shoot lasers into space."
-image: ./img/starfox.jpg
+image: ./img/starfox.webp
 tags: ["Product Design", "Strategy", "Design Systems"]
 date: 2019-07-01
 year: 2019
