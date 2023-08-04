@@ -16,5 +16,6 @@ headless: true
   - [Coaching & Consulting](/coaching)
 - [**About**](/about)
   - [Me](/me)
+  - [The Site](/site)
 
 

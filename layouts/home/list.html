@@ -2,11 +2,13 @@
 <header class="main-header">
   <img src="/img/skull.svg">
   <div class="content">
-      <h1 class="page-title">Hi, it‘s Joshua.</h1>
-    <p class="big-summary">Design Leader, Author, Artist.</p>
+      <h1 class="page-title">Joshua Mauldin</h1>
+    <p class="big-summary">Designer, Author, Artist.</p>
   </div>  
-  
 </header>
+<p class="main-summary">
+  Hi there. I'm a multidisciplinary designer, digital artist, and author who's interested in putting more humanity and kindness into everything I do. I love spooky stuff, animals of all kinds, and exploring the interconnectedness we all share.
+</p>
 <article class="markdown">
   {{ partial "docs/post-meta" . }}
   {{- .Content -}}
@@ -14,5 +16,5 @@
 {{ end }}
 
 {{ define "toc" }}
-  {{ partial "docs/toc" . }}
+  <!-- {{ partial "docs/toc" . }} -->
 {{ end }}

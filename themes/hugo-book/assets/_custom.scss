@@ -107,7 +107,7 @@ blockquote.page-summary {
 	display: flex;
 	align-items: center;
 	gap: 12px;
-	margin-bottom: 24px;
+// margin-bottom: 24px;
 		@media (max-width: 500px) {
 			font-size: 72px;
 			flex-direction: column;
@@ -142,6 +142,11 @@ blockquote.page-summary {
 		}*/
 }
 
+.main-summary {
+	margin-top: 0;
+	font-size: 24px;
+}
+
 .art-summary {
 	margin-top: 4px !important;
 }
@@ -161,4 +166,17 @@ blockquote.page-summary {
 
 .page-item a:hover{
 	text-decoration: underline;
+}
+
+.site-title {
+display:none;
+}
+
+.site-brand {
+	width: 100px !important;
+	height: 100px !important;
+}
+
+.navigation-layout {
+	display: flex;
 }

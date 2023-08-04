@@ -3,11 +3,8 @@ title: Joshua Mauldin
 type: docs
 ---
 
-{{< figure src="/img/IMG_0159.webp" title="Photo by Sarah DeShields" >}}
-
-Multidisciplinary artist, designer, human who cares about kindness and animals. 
-
-## Biography
+## Professional Biography
+{{< columns >}}
 I’m not like other design leaders.
 
 My ideal day isn’t sitting in strategy meetings all day, managing managers. Instead, I find joy in working at both the strategic tactical level. Some call it a player-coach, I call it my happy place.
@@ -24,12 +21,11 @@ My values are important, and they’ll enrich both your product and company:
 - Being principle-driven, not process-shackled
 - Kindness, fairness, and equity
 - Talking it out
-
-## More About Me
+<--->
+{{< figure src="/img/IMG_0159.webp" title="Photo by Sarah DeShields" >}}
+{{< /columns >}}
 
 I'm currently writing a book called [“We Need to Talk: How to Have Hard Conversations with Anyone”](https://rosenfeldmedia.com/books/we-need-to-talk-a-survival-guide-for-tough-conversations/) for Rosenfeld Media. It’s due out in 2023.
-
-In my spare time, I tinker with restoring old iPods and making art with skulls (not real ones, which would be weird). I absolutely adore typography and have designed multiple typefaces, including [Cosmata](/cosmata) and Uptown Sans. Lastly, I created this cool design shirt a few years ago.
 
 Talk to me if you want to discuss:
 
@@ -40,3 +36,12 @@ Talk to me if you want to discuss:
 - Exactly how annoyed to get when a designer detaches a component in Figma
 - Looking for my resume? [Here you go.](https://uploads-ssl.webflow.com/6096f56a012ab25efa5d5f79/6493360f5861dcd9e4521b1b_2023%20Resume-min.pdf)
 
+
+
+## Personal Biography
+
+I'm ever curious. Always looking for connections, always trying something new. 
+
+In my spare time, I tinker with restoring old iPods and making art with skulls (not real ones, which would be weird). I absolutely adore typography and have designed multiple typefaces, including [Cosmata](/cosmata) and Uptown Sans. I [read a lot](/media).
+
+I live in Los Angeles.
