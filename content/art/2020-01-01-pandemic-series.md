@@ -3,10 +3,9 @@ title: Pandemic [Series]
 tags: [Digital]
 date: 2020-01-01
 image: /img/pandemic_-_1.webp
-summary: "What do you do when you're stuck inside and the world crashing down around you? Make art. This isn't happy stuff."
+summary: "I made a collage series comparing the events of the 1918 flu pandemic with 2019's COVID-19. The similarities were striking, and also equally horrifying. History doesn't repeat, but it rhymes."
 ---
-
-What do you do when you're stuck inside and the world crashing down around you? Make art. This isn't happy stuff.
+I made a collage series comparing the events of the 1918 flu pandemic with 2019's COVID-19. The similarities were striking, and also equally horrifying. History doesn't repeat, but it rhymes. 
 
 {{< columns >}}
 ![](/img/pandemic_-_2.webp)
