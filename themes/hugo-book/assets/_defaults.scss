@@ -37,14 +37,17 @@ $hint-colors: (
   --color-link: #8F00FF;
   --color-visited-link: #8F00FF;
 
-  --body-background: white;
-  --body-font-color: black;
+  --body-background: #fcfcfc;
+  --body-font-color: #3F3535;
 
   --icon-filter: none;
 
   --hint-color-info: #8F00FF;
   --hint-color-warning: #fd6;
   --hint-color-danger: #f66;
+
+  --nav-color: #E6E8EE;
+
 }
 
 @mixin theme-dark {
@@ -55,7 +58,7 @@ $hint-colors: (
   --color-link: #6DDE00;
   --color-visited-link: #6DDE00;
 
-  --body-background: #343a40;
+  --body-background: #151515;
   --body-font-color: #e9ecef;
 
   --icon-filter: brightness(0) invert(1);
@@ -63,4 +66,6 @@ $hint-colors: (
   --hint-color-info: #8F00FF;
   --hint-color-warning: #fd6;
   --hint-color-danger: #f66;
+
+  --nav-color: #151515;
 }
