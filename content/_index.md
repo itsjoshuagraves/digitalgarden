@@ -14,7 +14,9 @@ It's broken down into spheres, with overlap between each. This site, just like a
 <--->
 
 ## What's new?
-As of `August 4, 2023`, my forthcoming book, [We Need to Talk](/we-need-to-talk), is in editing mode!
+As of `August 4, 2023`, my forthcoming book, [We Need to Talk](/we-need-to-talk), is officially in editing mode!
+
+On `July 28, 2023`, I launched a new version of this site with an entirely different vision. So excited. :) 
 
 {{< /columns >}}
 
