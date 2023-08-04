@@ -57,7 +57,8 @@ code {
 }
 
 .book-menu-content {
-	border-right: 1px solid #3f3f3f;
+	border-right: 1px solid;
+	border-color: var(--border-color);
 	a{
 		letter-spacing: 0;
 	}
@@ -68,13 +69,9 @@ blockquote {
 	font-size: 18px;
 }
 
-.book-menu ul * {
-	letter-spacing: 0 !important;
-/*	color: rgb(47, 214, 181);*/
-	& a:hover{
-		color: #6DDE00 !important;
+.book-menu a:hover{
+		color: var(--color-link);
 		text-decoration: underline;
-	}
 }
 
 
