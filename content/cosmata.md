@@ -1,6 +1,7 @@
 ---
 title: Cosmata
 type: docs
+summary: " "
 ---
 
 ![](/img/cosmata.webp)

@@ -1,6 +1,7 @@
 ---
 title: Philosophy of Design
 type: docs
+summary: " "
 ---
 <!-- # My Design Philosophy -->
 

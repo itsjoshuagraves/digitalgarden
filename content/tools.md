@@ -1,11 +1,9 @@
 ---
 title: Tools and Items for Sale
 type: docs
----
-{{< hint info >}}
-Here are products that I offer. They range from books to typefaces to design supplies.
-{{< /hint >}}
+summary: "Here are products that I offer. They range from books to typefaces to design supplies. "
 
+---
 
 ## [Cosmata](/cosmata)
 A beatufiful geometric sans serif family.

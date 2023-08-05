@@ -1,13 +1,15 @@
 {{ define "main" }}
-<article class="markdown">
-  <h1 class="post-title">
-    {{ partial "docs/title.html" . }}
-  </h1>
+<!-- <h5 class="post-date"><a href="/art/">← Back</a></h5> -->
+<h1 class="page-title journal-title">
+{{ partial "docs/title.html" . }}
+</h1>
+<article class="markdown book-post">
+  <p class="main-summary">{{ partial "docs/summary.html" . }}
+  </p>
   {{ partial "docs/post-meta" . }}
   {{- .Content -}}
 </article>
 {{ end }}
-
 {{ define "toc" }}
-  {{ partial "docs/toc" . }}
+{{ partial "docs/toc" . }}
 {{ end }}

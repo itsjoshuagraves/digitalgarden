@@ -1,10 +1,8 @@
 ---
 title: We Need to Talk
 type: docs
+summary: "My forthcoming book for Rosenfeld Media, due out in 2023. It's about how to have hard conversations with anyone at work."
 ---
-{{< hint info >}}
-My forthcoming book for Rosenfeld Media, due out in 2023. It's about how to have hard conversations with anyone at work.
-{{< /hint >}}
 
 Too few teams truly embrace healthy conflict—the secret to building great products—so I conduct workshops that teach you how to leverage it with practical, equitable, non-prescriptive methods to craft the best possible version of your product, your team, and even yourself.
 

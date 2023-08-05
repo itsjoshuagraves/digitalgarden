@@ -1,6 +1,7 @@
 ---
 title: Interstellar Spray Paint Textures
 type: docs
+summary: " "
 ---
 
 ![https://images.creativemarket.com/0.1.0/ps/10180473/600/400/m1/fpnw/wm0/interstellar-texturesartboard-1-copy-2-.jpg?1618170290&s=18a468e81993f545991cee33fb935746&fmt=webp](https://images.creativemarket.com/0.1.0/ps/10180473/600/400/m1/fpnw/wm0/interstellar-texturesartboard-1-copy-2-.jpg?1618170290&s=18a468e81993f545991cee33fb935746&fmt=webp)

@@ -1,10 +1,8 @@
 ---
 title: Appearances and Mentions
 type: docs
+summary: "Places I’ve spoken at or were mentioned by."
 ---
-{{< hint info >}}
-Places I’ve spoken at or were mentioned by.
-{{< /hint >}}
 
 ## Speaking 
 - [Design @ Scale](https://rosenfeldmedia.com/design-at-scale-2022/workshops/)

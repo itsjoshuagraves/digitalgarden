@@ -1,6 +1,7 @@
 ---
 title: Design Process
 type: docs
+summary: " "
 ---
 
 "Wait a minute," you say to yourself, "Why do you, a design leader, need to spell out a design process? Doesn't your team do that work?" Sure, the team might do it, but it's important to spell out out for two reasons:

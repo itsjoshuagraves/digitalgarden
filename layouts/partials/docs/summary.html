@@ -1,0 +1,12 @@
+<!-- 
+  Partial to generate page name from Summary
+-->
+{{ $summary := "" }}
+
+{{ with .Summary }}
+  {{ $summary = . }}
+{{ else }}
+  {{ $summary = "" }}
+{{ end }}
+
+{{ return $summary }}

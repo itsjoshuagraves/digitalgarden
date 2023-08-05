@@ -1,6 +1,7 @@
 ---
 title: The Site
 type: docs
+summary: "About the site."
 ---
 
 ## Why build this?

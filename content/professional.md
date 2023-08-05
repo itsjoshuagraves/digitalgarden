@@ -1,10 +1,8 @@
 ---
 title: Professional Sphere
 type: docs
+summary: "Here you’ll find all things related to work. Guides, research, thoughts, PDFs, etc."
 ---
-{{< hint info >}}
-Here you’ll find all things related to work. Guides, research, thoughts, PDFs, etc.
-{{< /hint >}}
 
 ## [Portfolio](/portfolio)
 A selection of work from the last 15+ years.

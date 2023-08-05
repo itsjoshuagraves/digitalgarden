@@ -1,11 +1,8 @@
 ---
 title: Personal Sphere
 type: docs
+summary: "Here you’ll find a catalog of my artwork and creative endeavors, my personal blog, and other miscellaneous things I’ve enjoyed."
 ---
-
-{{< hint info >}}
-Here you’ll find a catalog of my artwork and creative endeavors, my personal blog, and other miscellaneous things I’ve enjoyed.
-{{< /hint >}}
 
 ## [Visual Art](/art)
 A selection of works. Mixed media collage, glitch art, music industry work, skulls (not real ones!), and tinkering with old tech. Lots of darker themes exploring identity, loneliness, memento moris.

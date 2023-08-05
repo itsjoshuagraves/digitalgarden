@@ -1,12 +1,8 @@
 ---
 title: Product Design & Development
 type: docs
+summary: "Examples of work, guides and resources for leaders and those who aspire to be."
 ---
-
-{{< hint info >}}
-Examples of work, guides and resources for leaders and those who aspire to be.
-{{< /hint >}}
-
 
 
 [Work Portfolio](Product%20Design%20&%20Development%20afa0909333974a44b429a0222b5da078/Work%20Portfolio%20b8433897e1eb4ba1920cb39a8b2cfa80.csv)

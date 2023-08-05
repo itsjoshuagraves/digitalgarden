@@ -1,6 +1,7 @@
 ---
 title: Research& Prototypes& Pixels&Code Shirt
 type: docs
+summary: " "
 ---
 
 ![The shirt](/img/Untitled-2.webp)

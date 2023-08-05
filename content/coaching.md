@@ -1,11 +1,8 @@
 ---
 title: Coaching & Consulting
 type: docs
+summary: "I offer coaching engagements through my company, Nice Weather, and consulting engagements."
 ---
-
-{{< hint info >}}
-I offer coaching engagements through my company, Nice Weather, and consulting engagements.
-{{< /hint >}}
 
 ## Consulting
 

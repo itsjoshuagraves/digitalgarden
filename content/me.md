@@ -1,6 +1,7 @@
 ---
 title: Joshua Mauldin
 type: docs
+summary: "About me."
 ---
 
 ## Professional Biography
