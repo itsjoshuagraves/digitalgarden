@@ -9,7 +9,7 @@ summary: "I ran a site called AwesomeGIFs, and eventually left it. RIP."
 ---
 
 
-![Requiem%20for%20a%20side%20project%20quitting%20AwesomeGIFs%20091129a609c041dca88bc07514f09375/1hF3nRuaaxtfWSCoLTWOdYA.webp](/img/1hF3nRuaaxtfWSCoLTWOdYA.webp)
+![Requiem%20for%20a%20side%20project%20quitting%20AwesomeGIFs%20091129a609c041dca88bc07514f09375/1hF3nRuaaxtfWSCoLTWOdYA.webp](/1hF3nRuaaxtfWSCoLTWOdYA.webp)
 
 A feeling came over me in 2009 when GeoCities was shutting down: ‘I don’t want all those GIFs to somehow disappear! They’re magic.’ So I made a home for them, and in the span of a few short weeks, AwesomeGIFs was born.
 

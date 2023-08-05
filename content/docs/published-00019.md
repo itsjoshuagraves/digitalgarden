@@ -9,7 +9,7 @@ summary: "I was interviewed by CBC to discuss push notificaitons and the stress 
 ---
 
 
-![Notifications%20stress%20me%20out%20How%20I%20cut%20them%20down%20to%200a07044bab81413681566c02924efc8d/notifications.jpg](../../img/notifications.jpg)
+![Notifications%20stress%20me%20out%20How%20I%20cut%20them%20down%20to%200a07044bab81413681566c02924efc8d/notifications.jpg](../../notifications.jpg)
 
 (Jason Vermes)
 
@@ -25,7 +25,7 @@ The thing is, when you have almost 70 apps on each of your devices (I should dea
 
 What's worse is that I'm a tech lover… so I don't want to give up all my cool gadgets. That's why when I discovered my newfound place of solace, I couldn't have been happier.
 
-![Notifications%20stress%20me%20out%20How%20I%20cut%20them%20down%20to%200a07044bab81413681566c02924efc8d/nintendo-switch.jpg](/img/nintendo-switch.jpg)
+![Notifications%20stress%20me%20out%20How%20I%20cut%20them%20down%20to%200a07044bab81413681566c02924efc8d/nintendo-switch.jpg](/nintendo-switch.jpg)
 
 (Timothy A. Clary/AFP/Getty Images)
 

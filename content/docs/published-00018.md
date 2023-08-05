@@ -13,7 +13,7 @@ I wrote this article in 2015. While I like that I was curious, I want to be clea
 {{< /hint >}}
 
 
-![My%20week%20with%20Soylent%201%204,%20or%20%E2%80%9COh%20god%20I%20want%20a%20burg%20e902c13b8bd34252ab808f4f57ff6257/1btqIoKLmHIU96vBrOKctcg.webp](../../img/1btqIoKLmHIU96vBrOKctcg.webp)
+![My%20week%20with%20Soylent%201%204,%20or%20%E2%80%9COh%20god%20I%20want%20a%20burg%20e902c13b8bd34252ab808f4f57ff6257/1btqIoKLmHIU96vBrOKctcg.webp](../../1btqIoKLmHIU96vBrOKctcg.webp)
 
 I’m always curious about how changing a habit will affect me and have little aversion to change. My main apps for email, search, and anything else get regularly switched, and so do my mobile OSes. I quit (or double!) caffeine intake. I think that in doing so, I’m cultivating a personality that thrives on learning and change. So when Soylent hit my radar, I was excited to see what it’d do for me.
 
@@ -35,7 +35,7 @@ Would I become leaner and weigh less? I’m not overweight, but I wonder if this
 
 Me in real life.
 
-![My%20week%20with%20Soylent%201%204,%20or%20%E2%80%9COh%20god%20I%20want%20a%20burg%20e902c13b8bd34252ab808f4f57ff6257/1qezsAlhUtFsTcVTTPPC18g.gif](/img/1qezsAlhUtFsTcVTTPPC18g.gif)
+![My%20week%20with%20Soylent%201%204,%20or%20%E2%80%9COh%20god%20I%20want%20a%20burg%20e902c13b8bd34252ab808f4f57ff6257/1qezsAlhUtFsTcVTTPPC18g.gif](/1qezsAlhUtFsTcVTTPPC18g.gif)
 
 Dude, if you put me up with basically any kind of sweet, I will pound it down (Pop Rocks are my drug of choice, by the way). That’s kind of scary and I don’t want to be beholden to that kind of addiction.
 
@@ -47,7 +47,7 @@ Either way, that was an incredible win. I would use this to help me break food a
 
 Important: always feed and water yourself, else you become a hangry Hulk.
 
-![My%20week%20with%20Soylent%201%204,%20or%20%E2%80%9COh%20god%20I%20want%20a%20burg%20e902c13b8bd34252ab808f4f57ff6257/1FJIdpz_PUoAbplE3A0YDnw.gif](/img/1FJIdpz_PUoAbplE3A0YDnw.gif)
+![My%20week%20with%20Soylent%201%204,%20or%20%E2%80%9COh%20god%20I%20want%20a%20burg%20e902c13b8bd34252ab808f4f57ff6257/1FJIdpz_PUoAbplE3A0YDnw.gif](/1FJIdpz_PUoAbplE3A0YDnw.gif)
 
 In the afternoon, I’ll usually get a little foggy. With Soylent, I was able to talk through any problem at any point in the day, even before lunch when people usually get hangry. And I can achieve Hulk-levels of hanger if not fed and watered properly, so I’m keen on avoiding that if at all possible. Even late into the evening, my brain was as sharp as it was earlier in the day.
 

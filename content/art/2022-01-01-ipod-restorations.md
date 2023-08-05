@@ -2,7 +2,7 @@
 title: iPod Restorations [Series]
 tags: [Tinkering]
 date: 2023-08-01
-image: /img/ipod-00.webp
+image: /ipod-00.webp
 summary: "I restore old tech, and have a huge love of iPods."
 ---
 
@@ -11,13 +11,13 @@ I wanted to restore older iPods because I love their focus and simplicity. It ha
 I also swapped out physical hard drives for flash drives. It gave them a nearly infinite battery and storage space. One has 512GB, more than my first 3 iPods combined.
 {{< columns >}}
 
-![](/img/ipod-01.webp)
+![](/ipod-01.webp)
 <--->
-![](/img/ipod-02.webp)
+![](/ipod-02.webp)
 {{< /columns >}}
 
 {{< columns >}}
-![](/img/ipod-03.webp)
+![](/ipod-03.webp)
 <--->
-![](/img/ipod-04.webp)
+![](/ipod-04.webp)
 {{< /columns >}}

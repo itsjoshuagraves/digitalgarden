@@ -1,6 +1,6 @@
 ---
 title: Assembled Financial
-image: /img/aft2.webp
+image: /aft2.webp
 summary: "Designing a fintech startup focused on the CARES Act from scratch."
 tags: ["Product Design", "Team Founding"]
 date: 2020-02-02
@@ -23,7 +23,7 @@ To that end, we focused our efforts on the fields that were required for the ini
 
 Working closely with experts in the industry (including direct counsel from the United States Treasury), the product manager and I decoded a complicated workflow and successfully modernized it.
 
-![](/img/aft.webp)
+![](/aft.webp)
 
 Now, instead of tiny PDF form fields that a person would need to squint over, we made them accessible and easy to use. Not only that, we could easily localize it to the person’s preferred language. The outcome was a completed PDF that could be reviewed and submitted for forgiveness.
 

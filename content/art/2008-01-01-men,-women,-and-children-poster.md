@@ -2,7 +2,7 @@
 title: Men, Women, and Children Poster
 tags: [Music Industry]
 date: 2008-01-01
-image: /img/Type-Poster.webp
+image: /Type-Poster.webp
 summary: "Tour poster for Men, Women, and Children."
 ---
 

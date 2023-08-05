@@ -7,6 +7,9 @@
       <span class="post-date">Updated {{ $date }}</span>
   </div>
 {{ end }}
+<div>
+  <a href="/index.xml">RSS</a>
+</div>
 
 {{ if and .File .Site.Params.BookRepo .Site.Params.BookEditPath }}
   <div>

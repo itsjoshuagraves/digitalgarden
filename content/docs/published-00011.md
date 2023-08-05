@@ -33,7 +33,7 @@ What is exactly a “style guide”, and why would you want to create one? Let�
 
 The biggest reason to create a style guide? The sheer amount of time you’ll save. Depending on the size of the project, reproducing your changes could take minutes or hours. Imagine designing a game, a complex website, a mobile app or a large corporate intranet: having to update one element that appears on dozens or hundreds of pages would be a tedious, madness-inducing task. You have better things to do, like look at cute cat pictures — why waste your time doing the same thing over and over again?
 
-![How%20To%20Make%20An%20Effective%20Style%20Guide%20With%20Adobe%20Fi%20d05c19c9200141b2bcc44fe423c0120b/style-guide-intro-500px.webp](/img/How%20To%20Make%20An%20Effective%20Style%20Guide%20With%20Adobe%20Fi%20d05c19c9200141b2bcc44fe423c0120b/style-guide-intro-500px.webp)
+![How%20To%20Make%20An%20Effective%20Style%20Guide%20With%20Adobe%20Fi%20d05c19c9200141b2bcc44fe423c0120b/style-guide-intro-500px.webp](/How%20To%20Make%20An%20Effective%20Style%20Guide%20With%20Adobe%20Fi%20d05c19c9200141b2bcc44fe423c0120b/style-guide-intro-500px.webp)
 
 *A style guide helps you to maintain a consistent look over time, and Fireworks can save a lot of time.*
 

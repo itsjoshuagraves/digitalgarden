@@ -8,7 +8,7 @@ originalURL: https://medium.com/conflict-resolution-for-people-who-hate-conflict
 summary: "An exploration of pattern-based video games and and the correlation to conflict at work."
 ---
 
-![How%20video%20games%20taught%20me%20to%20be%20better%20at%20conflict%20072e0aaeea1e439795a572476a6e44ca/19cj6jhvJr4O2wb_jWmAAtA.webp](/img/19cj6jhvJr4O2wb_jWmAAtA.webp)
+![How%20video%20games%20taught%20me%20to%20be%20better%20at%20conflict%20072e0aaeea1e439795a572476a6e44ca/19cj6jhvJr4O2wb_jWmAAtA.webp](/19cj6jhvJr4O2wb_jWmAAtA.webp)
 
 I played a lot of video games growing up. It all started with The Legend of Zelda. I had such bad allergies that most of my adventuring had to be more pixel-based than anything. I didn’t expect to learn all that time spent playing video games would amount to anything, especially when it came to conflict resolution. Turns out there’s a lot more in common with old school video games and modern day human behavior than you’d think.
 

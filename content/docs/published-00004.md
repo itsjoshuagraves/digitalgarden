@@ -9,7 +9,7 @@ summary: "Something I deeply believe is that if you’re able to have focused ti
 "
 ---
 
-![A craftsman hard at work on an anvil.](/img/1AFsjQezyHdq7T26lc9J-Jg.webp)
+![A craftsman hard at work on an anvil.](/1AFsjQezyHdq7T26lc9J-Jg.webp)
 
 Something I deeply believe is that if you’re able to have focused time to work, you’re going to be able to go further, faster, and deeper than those who don’t.
 
