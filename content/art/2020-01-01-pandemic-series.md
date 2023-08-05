@@ -7,11 +7,7 @@ summary: "I made a collage series comparing the events of the 1918 flu pandemic 
 ---
 I made a collage series comparing the events of the 1918 flu pandemic with 2019's COVID-19. The similarities were striking, and also equally horrifying. History doesn't repeat, but it rhymes. 
 
-{{< columns >}}
 ![](/pandemic_-_2.webp)
-<--->
-![](/pandemic_-_3.webp)
-{{< /columns >}}
 
 {{< columns >}}
 ![](/pandemic_-_4.webp)
@@ -23,8 +19,6 @@ I made a collage series comparing the events of the 1918 flu pandemic with 2019'
 {{< columns >}}
 ![](/pandemic--_-_1.webp)
 <--->
-![](/pandemmy_-_1_(1).webp)
-
+![](/pandemmy_-_1.webp)
 {{< /columns >}}
 
-![](/pandemmy_-_1.webp)

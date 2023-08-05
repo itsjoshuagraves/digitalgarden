@@ -7,4 +7,4 @@ summary: "Typographic experiment in visualizing echoes."
 ---
 Typographic experiment in visualizing echoes.
 
-![HYPERSPEKTIV.mov](/HYPERSPEKTIV.mov)
+{{< video >}}HYPERSPEKTIV.mov{{< /video >}}

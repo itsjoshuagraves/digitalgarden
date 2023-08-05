@@ -2,7 +2,7 @@
 title: Burn [Series]
 tags: [Digital]
 date: 2021-01-01
-image: img/Screenshot_2023-07-24_at_4.06.18_PM.webp
+image: /Screenshot_2023-07-24_at_4.06.18_PM.webp
 summary: "What if we burned mantras into our brains?"
 ---
 
@@ -10,19 +10,19 @@ summary: "What if we burned mantras into our brains?"
 A series focusing on pushing type legibility to the limits and repeating phrases like a mantra.
 
 {{< columns >}}
-![GlitchArt_export (1).mov](/GlitchArt_export_(1).mov)
+{{< video >}}GlitchArt_export_(1).mov{{< /video >}}
 <--->
-![GlitchArt_export (2).mov](/GlitchArt_export_(2).mov)
+{{< video >}}GlitchArt_export_(2).mov{{< /video >}}
 {{< /columns >}}
 
 {{< columns >}}
-![GlitchArt_export (3).mov](/GlitchArt_export_(3).mov)
+{{< video >}}GlitchArt_export_(3).mov{{< /video >}}
 <--->
-![GlitchArt_export (4).mov](/GlitchArt_export_(4).mov)
+{{< video >}}GlitchArt_export_(4).mov{{< /video >}}
 {{< /columns >}}
 
 {{< columns >}}
-![GlitchArt_export (5).mov](/GlitchArt_export_(5).mov)
+{{< video >}}GlitchArt_export_(5).mov{{< /video >}}
 <--->
-![GlitchArt_export.mov](/GlitchArt_export.mov)
+{{< video >}}GlitchArt_export.mov{{< /video >}}
 {{< /columns >}}

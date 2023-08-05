@@ -9,27 +9,23 @@ summary: "I have no justification for any of this, except that it was weird and 
 I have no justification for any of this, except that it was weird and fun.
 
 {{< columns >}}
-![HYPERSPEKTIV (1).mov](/HYPERSPEKTIV_(1).mov)
+{{< video >}}HYPERSPEKTIV_(1).mov{{< /video >}}
 <--->
-![Glitch - 52 of 54.mp4](/Glitch_-_52_of_54.mp4)
+{{< video >}}Glitch_-_52_of_54.mp4{{< /video >}}
 {{< /columns >}}	
-
 {{< columns >}}
-![Glitch - 50 of 54.mp4](/Glitch_-_50_of_54.mp4)
+{{< video >}}Glitch_-_50_of_54.mp4{{< /video >}}
 <--->
-![Glitch - 49 of 54.mp4](/Glitch_-_49_of_54.mp4)
+{{< video >}}Glitch_-_49_of_54.mp4{{< /video >}}
 {{< /columns >}}	
-
 {{< columns >}}
-![Glitch - 53 of 54.mp4](/Glitch_-_53_of_54.mp4)
+{{< video >}}Glitch_-_53_of_54.mp4{{< /video >}}
 <--->
-![digital- - 3.mov](/digital-_-_3.mov)
+{{< video >}}digital-_-_3.mov{{< /video >}}
 {{< /columns >}}	
-
 {{< columns >}}
-![digital- - 2.mov](/digital-_-_2.mov)
+{{< video >}}digital-_-_2.mov{{< /video >}}
 <--->
-![digital- - 1.mov](/digital-_-_1.mov)
+{{< video >}}digital-_-_1.mov{{< /video >}}
 {{< /columns >}}	
-
-![art - 2.mov](/art_-_2.mov)
+{{< video >}}art_-_2.mov{{< /video >}}

@@ -9,37 +9,37 @@ summary: "Some video experiments I did with apps on my phone, weird TVs, and oth
 Some video experiments I did with apps on my phone, weird TVs, and other found footage.
 
 {{< columns >}}
-![Glitch - 45 of 54.mp4](/Glitch_-_45_of_54.mp4)
+{{< video >}}Glitch_-_45_of_54.mp4{{< /video >}}
 <--->
-![Glitch - 42 of 54.mp4](/Glitch_-_42_of_54.mp4)
+{{< video >}}Glitch_-_42_of_54.mp4{{< /video >}}
 {{< /columns >}}
 {{< columns >}}
-![Glitch - 25 of 54.mov](/Glitch_-_25_of_54.mov)
+{{< video >}}Glitch_-_25_of_54.mov{{< /video >}}
 <--->
-![Glitch - 26 of 54.mov](/Glitch_-_26_of_54.mov)
+{{< video >}}Glitch_-_26_of_54.mov{{< /video >}}
 {{< /columns >}}
 {{< columns >}}
-![Glitch - 27 of 54.mov](/Glitch_-_27_of_54.mov)
+{{< video >}}Glitch_-_27_of_54.mov{{< /video >}}
 <--->
-![Glitch - 28 of 54.mov](/Glitch_-_28_of_54.mov)
+{{< video >}}Glitch_-_28_of_54.mov{{< /video >}}
 {{< /columns >}}
 {{< columns >}}
-![Glitch - 29 of 54.mov](/Glitch_-_29_of_54.mov)
+{{< video >}}Glitch_-_29_of_54.mov{{< /video >}}
 <--->
-![Glitch - 30 of 54.mov](/Glitch_-_30_of_54.mov)
+{{< video >}}Glitch_-_30_of_54.mov{{< /video >}}
 {{< /columns >}}
 {{< columns >}}
-![Glitch - 31 of 54.mov](/Glitch_-_31_of_54.mov)
+{{< video >}}Glitch_-_31_of_54.mov{{< /video >}}
 <--->
-![Glitch - 32 of 54.mov](/Glitch_-_32_of_54.mov)
+{{< video >}}Glitch_-_32_of_54.mov{{< /video >}}
 {{< /columns >}}
 {{< columns >}}
-![Glitch - 33 of 54.mov](/Glitch_-_33_of_54.mov)
+{{< video >}}Glitch_-_33_of_54.mov{{< /video >}}
 <--->
-![Glitch - 34 of 54.mp4](/Glitch_-_34_of_54.mp4)
+{{< video >}}Glitch_-_34_of_54.mp4{{< /video >}}
 {{< /columns >}}
 {{< columns >}}
-![Glitch - 35 of 54.mp4](/Glitch_-_35_of_54.mp4)
+{{< video >}}Glitch_-_35_of_54.mp4{{< /video >}}
 <--->
-![Glitch - 36 of 54.mp4](/Glitch_-_36_of_54.mp4)
+{{< video >}}Glitch_-_36_of_54.mp4{{< /video >}}
 {{< /columns >}}
