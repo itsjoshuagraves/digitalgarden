@@ -12,12 +12,3 @@ I'm intentionally not calling this a blog, as that comes with expectations of co
 
 ## [Read & Watch List](/media)
 I watch and read a lot. Here’s some of it.
-
-
-
-<!-- {{< figure src="/img/IMG_2334.webp" title="Lyrics: Bloc Party" >}} -->
-
-
-<!-- ## See also
-
-[We Need to Talk](/professional/we-need-to-talk) -->

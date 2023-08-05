@@ -12,10 +12,13 @@ figcaption h4 {margin:0 !important;}
 	font-weight: normal !important;
 	letter-spacing: 0 !important;
 }
-.post-title, .page-title {
+
+//.post-title, 
+.page-title {
 	margin-top: 0 !important;
 	line-height: 1.0;
 	padding-bottom: 8px;
+	font-size: 48px;
 }
 
 h1 {
@@ -141,8 +144,15 @@ blockquote.page-summary {
 
 .main-summary {
 	margin-top: 0;
+	font-size: 20px;
+}
+
+@media (min-width: 500px) {
+.main-summary {
 	font-size: 24px;
 }
+}
+
 
 .art-summary {
 	margin-top: 4px !important;

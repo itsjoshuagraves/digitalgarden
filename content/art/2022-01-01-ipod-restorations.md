@@ -1,7 +1,7 @@
 ---
 title: iPod Restorations [Series]
 tags: [Tinkering]
-date: 2022-01-01
+date: 2023-08-01
 image: /img/ipod-00.webp
 summary: "I restore old tech, and have a huge love of iPods."
 ---
