@@ -4,6 +4,8 @@
 {{ partial "docs/title.html" . }}
 </h1>
 <article class="markdown book-post">
+  <p class="main-summary">{{ partial "docs/summary.html" . }}
+  </p>
   {{ partial "docs/post-meta" . }}
   {{- .Content -}}
 </article>
