@@ -5,16 +5,18 @@ summary: "Here you’ll find all things related to work. Guides, research, thoug
 bookToc: false
 ---
 
-## Featured
-{{< columns >}}
+<article class="markdown book-post feature-block">
+	<a href="/we-need-to-talk">
+		<img src="/book.jpg">
+		<div class="feature-right">
+		<h2 class="post-title">
+		We Need to Talk
+		</h2>
+	</a>
+    	<p class="post-summary">I'm writing a book for Rosenfeld Media. It’s due out in 2023.</p>
+    </div>
+</article>
 
-![](/we-need-to-talk.jpg)
-<--->
-## [We Need to Talk, a Book](/we-need-to-talk)
-I'm writing a book for Rosenfeld Media. It’s due out in 2023.
-{{< /columns >}}
-
----
 {{< columns >}}
 ## Artifacts
 ## [Guides & Articles](/docs)
