@@ -18,7 +18,8 @@ bookToc: false
 </article>
 
 {{< columns >}}
-## Artifacts
+<h4 class="subheader">Artifacts</h4>
+
 ## [Guides & Articles](/docs)
 A collection of things I've written, plus guides for leaders, workshop facilitators, and other curious people.
 ## [Portfolio](/portfolio)
@@ -28,7 +29,8 @@ The why behind how I do it.
 ## [Design Process](/design-process)
 How I do what I do.
 <--->
-## Services
+<h4 class="subheader">Services</h4>
+
 ## [Workshops & Speaking](/workshops)
 Places I've spoken at and workshops I offer.
 ## [Coaching & Consulting](/coaching)
