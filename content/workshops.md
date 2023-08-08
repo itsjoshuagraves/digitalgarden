@@ -17,20 +17,20 @@ I care deeply about bringing more mindfulness to your craft and more humanity to
 
 From executive leadership to junior-level practitioner, here's what people said about my talks and workshops.
 
+{{< columns >}}
 > Joshua's workshop really took some potentially painful situations and made them smooth and easy!
 > *Rad Summit Attendee*
-
-
+<--->
 > This should be required for every person at any company.
 > *OnDeck 2022 Cohort Attendee*
-
-
+<--->
 > Your workshop is the main reason I came to this conference.
 > *Rad Summit Attendee*
 > 
-
+<--->
 >Josh's workshop was really helpful for my new leadership role in my company!
 > *Productized Masterclass Attendee*
+{{< /columns >}}
 
 
 ## Current Offerings

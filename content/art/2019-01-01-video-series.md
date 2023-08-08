@@ -2,6 +2,7 @@
 title: Video [Series]
 tags: [Digital]
 date: 2019-01-01
+bookToc: false
 image: /Screenshot_2023-07-24_at_4.12.16_PM.webp
 summary: "Some video experiments I did with apps on my phone, weird TVs, and other found footage."
 ---

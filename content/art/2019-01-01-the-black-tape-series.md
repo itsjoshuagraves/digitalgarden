@@ -3,6 +3,7 @@ title: The Black Tape [Series]
 tags: [Digital]
 date: 2019-01-01
 image: /type-experiments_-_1.webp
+bookToc: false
 summary: "Transparency paper, cutouts, tape, ruined scans."
 ---
 Transparency paper, cutouts, tape, ruined scans.

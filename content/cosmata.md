@@ -3,6 +3,7 @@ title: Cosmata
 type: docs
 summary: "Cosmata is geometric sans serif family of 10 fonts suitable for both display and reading use."
 image: "/cosmata.webp"
+bookToc: false
 ---
 
 Inspired by Futura, Cosmata developed its own complex, unique life.

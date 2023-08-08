@@ -2,6 +2,7 @@
 title: Media
 type: docs
 summary: "I watch and read a lot. Here's some of it."
+bookToc: false
 ---
 
 

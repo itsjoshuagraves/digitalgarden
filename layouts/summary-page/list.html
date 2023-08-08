@@ -1,0 +1,27 @@
+{{ define "main" }}
+  <h1 class="page-title journal-title">{{ partial "docs/title.html" . }}</h1>
+  <article class="markdown book-post">
+  <p class="main-summary">
+    {{ partial "docs/summary.html" . }}
+  </p>
+</article>
+
+  <article class="markdown book-post">
+    <h2 class="post-title">
+      <a href="guides/">Guides</a>
+    </h2>
+      <p class="post-summary">
+        A collection of guides for leaders, workshop facilitators, and other curious people.
+    </p>
+  </article>
+
+  <article class="markdown book-post">
+    <h2 class="post-title">
+      <a href="articles">Published Articles</a>
+    </h2>
+      <p class="post-summary">
+        A collection of things I've written that were published elsewhere.
+    </p>
+  </article>
+
+{{ end }}

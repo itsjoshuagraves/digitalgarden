@@ -1,6 +1,7 @@
 ---
 title: Home
 type: home
+bookToc: false
 ---
 
 ---

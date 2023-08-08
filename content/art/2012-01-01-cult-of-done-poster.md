@@ -3,6 +3,7 @@ title: Cult of Done Poster
 tags: [Digital]
 date: 2012-01-01
 image: /Untitled.webp
+bookToc: false
 summary: "Hand-set wood type poster."
 ---
 

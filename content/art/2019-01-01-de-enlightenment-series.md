@@ -4,6 +4,7 @@ tags: [Digital]
 date: 2019-01-01
 image: /enlightenment.webp
 summary: Disillusionment visualized.
+bookToc: false
 ---
 Disillusionment visualized.
 {{< columns >}}

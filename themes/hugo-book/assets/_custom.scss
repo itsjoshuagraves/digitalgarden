@@ -3,10 +3,14 @@
 // @import "plugins/numbered";
 article aside { background: #fff000; padding: 10px; color: #033233}
 
+article {
+	margin-bottom: 36px !important;
+}
+
 figcaption h4 {margin:0 !important;}
 
 .post-date {
-	margin: 8px 0 !important;
+	margin: 8px 0 16px 0 !important;
 	font-family: 'pt_monoregular';
 	font-size: 14px;
 	font-weight: normal !important;
@@ -17,8 +21,12 @@ figcaption h4 {margin:0 !important;}
 .page-title {
 	margin-top: 0 !important;
 	line-height: 1.0;
-	padding-bottom: 8px;
+	padding-bottom: 16px;
 	font-size: 48px;
+}
+
+.post-title, article h2 {
+	margin-bottom: 8px !important;
 }
 
 h1 {
@@ -38,6 +46,7 @@ h1 {
 }
 
 
+
 h2, h3, h4, h5, h6 {
 	font-family: "pt_sansbold";
 }
@@ -47,6 +56,7 @@ body {
   	font-weight: 500;
   	font-style: normal;
   	p {
+  	margin-top: 0;
   		line-height: 130%;
   	}
 }
@@ -101,9 +111,14 @@ blockquote.page-summary {
 	font-family: "Okkult-Black";
 }
 
+.book-btn {
+	margin-bottom: 12px;
+}
+
 .book-btn:hover {
-	background: #6DDE00;
-	color: #030303 !important;
+	background: var(--color-link);
+	color: #fff !important;
+
 }
 
 .main-header {
@@ -170,8 +185,8 @@ blockquote.page-summary {
 
 
 .active a{
-	background: #6DDE00;
-	color: #000000;
+	border: 1px solid var(--color-link);
+
 	}
 
 .page-item a:hover{

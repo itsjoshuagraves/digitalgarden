@@ -3,6 +3,7 @@ date: 2023-07-26
 title: Skulls and Spooky Stuff
 weight: 10
 tags: skulls
+draft: true
 summary: "I have always liked spooky stuff, and it's an inspiration for a lot of my art."
 ---
 

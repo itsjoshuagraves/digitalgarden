@@ -3,6 +3,7 @@ title: Research& Prototypes& Pixels&Code Shirt
 type: docs
 summary: "This is a modern take on the classic Beatles shirt, focused on the design process."
 image: "/Untitled-2.webp"
+bookToc: false
 ---
 
 {{< button href="https://joshmauldin.gumroad.com/l/yjBUj" >}}Purchase link (sold out){{< /button >}}

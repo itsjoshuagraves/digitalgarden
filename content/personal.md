@@ -1,6 +1,7 @@
 ---
 title: Personal Sphere
 type: docs
+bookToc: false
 summary: "Here you’ll find a catalog of my artwork and creative endeavors, my personal blog, and other miscellaneous things I’ve enjoyed."
 ---
 

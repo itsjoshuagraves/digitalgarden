@@ -4,6 +4,7 @@ tags: [Music Industry]
 date: 2008-01-01
 image: /1169.webp
 summary: "Summer internship at Asterik Studio in 2005"
+bookToc: false
 ---
 
 Summer internship at Asterik Studio in 2005. Worked on the heart.

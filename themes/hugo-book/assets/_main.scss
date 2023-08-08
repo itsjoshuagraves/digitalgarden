@@ -164,6 +164,7 @@ body[dir="rtl"] .book-menu {
   min-width: $body-min-width;
   flex-grow: 1;
   padding: $padding-16;
+  max-width: 800px;
 }
 
 .book-post {

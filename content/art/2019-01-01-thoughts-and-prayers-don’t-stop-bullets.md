@@ -2,6 +2,7 @@
 title: Thoughts and Prayers [Series]
 tags: [Digital]
 date: 2019-01-01
+bookToc: false
 image: /type-experiment_-_27.webp
 summary: "Stop it, do something."
 ---
