@@ -4,10 +4,7 @@ linktitle: Low Power Mode for Humans
 title: Low Power Mode for Humans
 weight: 10
 tags: burnout
-expiryDate: 2020-01-01
-summary: "Sometimes I get stuck on making decisions, coming to terms with an idea or choice, or just plain seeing through the muck."
-
-
+summary: "Taking inspiration from how devices recharge themselves."
 ---
 
 We can't all take vacations or mental health days, but we can leverage an idea from phones to recharge and restore ourselves: low power mode. We can't go full speed all the time, much though we'd like. Here's what my essentials were, and I found it helpful to define what things weren't, too.

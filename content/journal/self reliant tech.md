@@ -9,8 +9,6 @@ summary: "On craftsmanship, curiosity, and the love of know-how."
 
 It’s so damned easy to find a service that will take your money and create a website for you, or use a cloud to host your project. But with ease comes trade-offs. Namely, creativity and self-reliance.
 
----
-
 When we use these tools, our expression and creativity become constrained by how the makers of the services crafted their tools. The medium shapes the message, as Marshall Mccluen said. And there’s usually little flexibility around that, as those makers (justifiably) have a vision to achieve and letting others tamper with that doesn’t jibe well with said vision. 
 
 The other loss is self-reliance. What happens if we forget how to make these digital things ourselves, the places we go for knowledge aren’t reliable or reachable, or an internet isn’t available?

@@ -68,8 +68,11 @@ code {
 }
 
 blockquote {
-
 	font-size: 18px;
+	padding: 20px !important;
+	border: solid 1px var(--color-link) !important;
+  box-shadow: 15px 15px 0 0 var(--color-link);
+  margin-bottom: 24px !important;
 }
 
 .book-menu a:hover{

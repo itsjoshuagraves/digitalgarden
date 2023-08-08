@@ -1,8 +1,8 @@
 {{ define "main" }}
-  <h1 class="page-title journal-title">Guides & Articles</h1>
+  <h1 class="page-title journal-title">{{ partial "docs/title.html" . }}</h1>
   <article class="markdown book-post">
   <p class="main-summary">
-    This is a collection of things I've written, plus guides for leaders, workshop facilitators, and other curious people.
+    {{ partial "docs/summary.html" . }}
   </p>
 </article>
 

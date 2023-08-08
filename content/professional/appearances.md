@@ -14,7 +14,14 @@ summary: "Places I’ve spoken at or were mentioned by."
 
 ## Selected Media
 
-- {{< youtube zAfb2SDPSxE >}}
-- {{< youtube XCYTFgXC49U >}}
-- {{< youtube UDBT6lFrTd0 >}}
-- {{< youtube Z8Af88ZEhfE >}}
+{{< columns >}}
+{{< youtube zAfb2SDPSxE >}}
+<--->
+{{< youtube XCYTFgXC49U >}}
+{{< /columns >}}
+
+{{< columns >}}
+{{< youtube UDBT6lFrTd0 >}}
+<--->
+{{< youtube Z8Af88ZEhfE >}}
+{{< /columns >}}

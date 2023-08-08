@@ -1,11 +1,13 @@
 ---
 title: Research& Prototypes& Pixels&Code Shirt
 type: docs
-summary: " "
+summary: "This is a modern take on the classic Beatles shirt, focused on the design process."
+image: "/Untitled-2.webp"
 ---
 
-![The shirt](/img/Untitled-2.webp)
 {{< button href="https://joshmauldin.gumroad.com/l/yjBUj" >}}Purchase link (sold out){{< /button >}}
+
+## About
 
 This is a modern take on the classic Beatles shirt, focused on the design process. I originally designed this for BlendConf, a lovely conference in Charlotte (RIP).
 
@@ -16,17 +18,17 @@ This shirt is printed on an ultra-soft, vintage black cotton shirt. There are al
 ## Process Photos
 
 {{< columns >}}
-![IMG_2282.webp](/img/IMG_2282.webp)
+![IMG_2282.webp](/IMG_2282.webp)
 <--->
-![IMG_2292.webp](/img/IMG_2292.webp)
+![IMG_2292.webp](/IMG_2292.webp)
 {{< /columns >}}
 
 {{< columns >}}
-![IMG_2289.webp](/img/IMG_2289.webp)
+![IMG_2289.webp](/IMG_2289.webp)
 {{< /columns >}}
 
 {{< columns >}}
-![IMG_2392.webp](/img/IMG_2392.webp)
+![IMG_2392.webp](/IMG_2392.webp)
 <--->
-![IMG_0612.webp](/img/IMG_0612.webp)
+![IMG_0612.webp](/IMG_0612.webp)
 {{< /columns >}}

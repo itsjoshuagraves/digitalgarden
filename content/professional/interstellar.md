@@ -1,10 +1,10 @@
 ---
 title: Interstellar Spray Paint Textures
 type: docs
-summary: " "
+summary: "10 hand-made spray paint textures."
+image: "/interstellar.webp"
 ---
 
-![https://images.creativemarket.com/0.1.0/ps/10180473/600/400/m1/fpnw/wm0/interstellar-texturesartboard-1-copy-2-.jpg?1618170290&s=18a468e81993f545991cee33fb935746&fmt=webp](https://images.creativemarket.com/0.1.0/ps/10180473/600/400/m1/fpnw/wm0/interstellar-texturesartboard-1-copy-2-.jpg?1618170290&s=18a468e81993f545991cee33fb935746&fmt=webp)
 
 {{< button href="https://creativemarket.com/joshua.mauldin/6063689-Interstellar-Spray-Paint-Textures" >}}Buy it at Creative Market{{< /button >}}
 
@@ -26,12 +26,12 @@ I hope you have as much fun using them as I did making them.
 - Low-resolution 72 DPI files (4,000 x 5176 px)
 - Starter PSDs with examples
 
-![IMG_4297.webp](/img/IMG_4297.webp)
+![IMG_4297.webp](/IMG_4297.webp)
 
-![IMG_4298.webp](/img/IMG_4298.webp)
+![IMG_4298.webp](/IMG_4298.webp)
 
-![IMG_4299.webp](/img/IMG_4299.webp)
+![IMG_4299.webp](/IMG_4299.webp)
 
-![IMG_4300.webp](/img/IMG_4300.webp)
+![IMG_4300.webp](/IMG_4300.webp)
 
-![IMG_4301.webp](/img/IMG_4301.webp)
+![IMG_4301.webp](/IMG_4301.webp)

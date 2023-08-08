@@ -7,15 +7,15 @@ headless: true
   - [Visual Art](/art)
   - [Read & Watch List](/media)
 - [**Professional Sphere**](/professional)
+  - [We Need to Talk](/professional/we-need-to-talk)
   - [Portfolio](/portfolio)
-  - [Guides](/docs)
+  - [Guides & Articles](/docs)
   <!-- - [Philosophy](/design-philosophy) -->
-  - [We Need to Talk](/we-need-to-talk)
-  - [Workshops & Speaking](/workshops)
+  - [Workshops & Speaking](/professional/workshops)
   <!-- - [For Sale](/tools) -->
-  - [Coaching & Consulting](/coaching)
+  - [Coaching & Consulting](/professional/coaching)
 - [**About**](/about)
-  - [Me](/me)
-  - [The Site](/site)
+  - [Me](/about/me)
+  - [The Site](/about/site)
 
 

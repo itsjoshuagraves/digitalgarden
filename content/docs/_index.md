@@ -1,4 +1,5 @@
 ---
-title: Guides & Published Articles
+title: Guides & Articles
 type: docs
+summary: " work."
 ---

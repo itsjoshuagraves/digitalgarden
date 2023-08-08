@@ -51,21 +51,6 @@ Product designers are the glue that holds a project together. They’re the brid
 
 If you had a heroic moment on a project, you should absolutely tell that story. But don’t forget to show how you worked with others. That helps make strong case about what you’d add to the company you’re trying to join.
 
-[jonathanpberger](https://medium.com/u/bcdcaf48bb81?source=post_page-----d7ae90056a3b--------------------------------)
-
-has this to say about collaboration in an interview with
-
-[Invision](https://www.invisionapp.com/inside-design/inside-design-team-pivotal-labs/)
-
-:
-
-> Also, ask for help. Don’t hide in a hole.
-> 
-> 
-> *Don’t put your headphones on and block out everybody else. It can be gratifying to think that you’re some lone genius in your own little tower, but you’re probably not, and even if you are, it’s no fun up there alone. Engage in the conversation, and engage in the community.*
-> 
-
-In short, don’t try to be be the lone hero. Talk about how you assembled your own Justice League and tackled your problem together.
 
 **Practical examples**
 

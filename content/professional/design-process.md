@@ -1,7 +1,7 @@
 ---
 title: Design Process
 type: docs
-summary: " "
+summary: "How I do what I do."
 ---
 
 "Wait a minute," you say to yourself, "Why do you, a design leader, need to spell out a design process? Doesn't your team do that work?" Sure, the team might do it, but it's important to spell out out for two reasons:
@@ -11,7 +11,7 @@ summary: " "
 
 That being said, my design process is thoughtful, intentional, and geared towards speedy delivery. From the first moment of every project, I collaborate deeply with everyone involved in its development.
 
-This process isn’t always linear, nor is a double diamond or any other cute little infographic that makes for a good slide in a deck. It’s a set of strong defaults aimed at quickly discovering and delivering the best possible solution. (By the way, I wrote about the [philosophy behind my process](https://personal-site-95b339.webflow.io/project/design-philosophy) if you’d like to read it.)
+This process isn’t always linear, nor is a double diamond or any other cute little infographic that makes for a good slide in a deck. It’s a set of strong defaults aimed at quickly discovering and delivering the best possible solution. (By the way, I wrote about the [philosophy behind my process](/professional/design-philosophy) if you’d like to read it.)
 
 ## Strategy
 

@@ -1,14 +1,12 @@
 ---
 title: Uptown Sans
 type: docs
-summary: " "
+summary: "What if Jim Flora (a record cover designer from the 50s), Saul Bass, and Eric Carle got together for tacos and made a typeface? That’s the vibe of Uptown Sans."
+image: "/uptown-sans-1.webp"
 ---
 
-![](/img/uptown-sans-1.webp)
-
 **About Uptown Sans**
-
-What if Jim Flora (a record cover designer from the 50s), Saul Bass, and Eric Carle got together for tacos and made a typeface? That’s the vibe of Uptown Sans. It’s a little weird, a little loud, and full of energy. It’s sure to help you express yourself in just the right way.
+It’s a little weird, a little loud, and full of energy. It’s sure to help you express yourself in just the right way.
 
 {{< button href="https://www.fontspring.com/fonts/joshua-mauldin/uptown-sans" >}}Buy it at Fontspring{{< /button >}}
 
@@ -27,9 +25,9 @@ Some suggested uses:
 
 Uptown Sans gets its name from the city of Charlotte, a beautiful place that’s got some of the absolute best people. It may also funk you up, to borrow a turn of phrase from a pretty fun song.
 
-![](/img/uptown-sans-2.webp)
-![](/img/uptown-sans-3.webp)
-![](/img/uptown-sans-4.webp)
-![](/img/uptown-sans-5.webp)
-![](/img/uptown-sans-6.webp)
-![](/img/uptown-sans-7.webp)
+![](/uptown-sans-2.webp)
+![](/uptown-sans-3.webp)
+![](/uptown-sans-4.webp)
+![](/uptown-sans-5.webp)
+![](/uptown-sans-6.webp)
+![](/uptown-sans-7.webp)
