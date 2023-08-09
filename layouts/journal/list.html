@@ -1,6 +1,5 @@
 {{ define "main" }}
-<h1 class="page-title journal-title">Journal</h1>
-
+  <h1 class="page-title journal-title">{{ partial "docs/title.html" . }}</h1>
 <article class="markdown book-post">
   <p class="main-summary">
     {{ partial "docs/summary.html" . }}
@@ -9,11 +8,13 @@
 
   {{ range sort .Paginator.Pages }}
   <article class="markdown book-post">
-    <h2 class="post-title">
-      <a href="{{ .RelPermalink }}">{{ partial "docs/title.html" . }}</a>
+    <h2 class="art-title">
+      <a href="{{ .RelPermalink }}">
+        {{ partial "docs/post-meta" . }}
+        {{ partial "docs/title.html" . }}
+        </a>
     </h2>
-    {{ partial "docs/post-meta" . }}
-    <p class="post-summary">
+    <p class="art-summary">
       {{- .Summary -}}
       {{ if .Truncated }}
         <a href="{{ .RelPermalink }}">...</a>
@@ -24,4 +25,3 @@
 
   {{ template "_internal/pagination.html" . }}
 {{ end }}
-

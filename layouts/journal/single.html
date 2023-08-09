@@ -1,7 +1,5 @@
 {{ define "main" }}
-<h5 class="post-date">
-<a href="/journal/">← Back</a>
-</h5>
+<h5 class="post-date"><a href="/journal/">← Back</a></h5>
 <h1 class="page-title journal-title">
 {{ partial "docs/title.html" . }}
 </h1>
@@ -11,4 +9,7 @@
   {{ partial "docs/post-meta" . }}
   {{- .Content -}}
 </article>
+{{ end }}
+{{ define "toc" }}
+{{ partial "docs/toc" . }}
 {{ end }}
