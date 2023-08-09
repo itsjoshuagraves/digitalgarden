@@ -1,6 +1,5 @@
 {{ define "main" }}
-<h1 class="page-title journal-title">Journal</h1>
-
+<h1 class="page-title journal-title">Log</h1>
 <article class="markdown book-post">
   <p class="main-summary">
     {{ partial "docs/summary.html" . }}
@@ -14,10 +13,7 @@
     </h2>
     {{ partial "docs/post-meta" . }}
     <p class="post-summary">
-      {{- .Summary -}}
-      {{ if .Truncated }}
-        <a href="{{ .RelPermalink }}">...</a>
-      {{ end }}
+      {{- .Content -}}
     </p>
   </article>
   {{ end }}
