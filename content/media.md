@@ -1,5 +1,5 @@
 ---
-title: Media
+title: Read & Watch List
 type: docs
 summary: "I watch and read a lot. Here's some of it."
 bookToc: false
@@ -57,9 +57,19 @@ bookToc: false
 
 ### Incoming
 - Return to Seoul (2022)
+- The Blackening 
+- Talk to Me
+- Poor Things
+- Asteroid City
+- master
+- Maxxxine
+- Skinamarink
+- Last Voyage of the Demeter
+- TMNT
 
 ### 2023
 - Oppenheimer
+- Barbie
 - [The Conjuring 2](https://boxd.it/7GJg)
 - [Zombieland: Double Tap](https://boxd.it/bgb6)
 - [Crimson Peak](https://boxd.it/62Ty)
