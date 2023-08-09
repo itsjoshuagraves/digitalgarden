@@ -2,14 +2,14 @@
 title: Personal Sphere
 type: docs
 bookToc: false
-summary: "Here you’ll find a catalog of my artwork and creative endeavors, my personal blog, and other miscellaneous things I’ve enjoyed."
+summary: "A catalog of my artwork and creative endeavors, my personal journal, and other miscellaneous things I’ve enjoyed."
 ---
 
 ## [Visual Art](/art)
-A selection of works. Mixed media collage, glitch art, music industry work, skulls (not real ones!), and tinkering with old tech. Lots of darker themes exploring identity, loneliness, memento moris.
+Mixed media collages, glitch art and skulls (not real ones!). Lots of darker themes exploring identity, loneliness, memento moris. Also, tinkering.
 
 ## [Journal](/journal)
-I'm intentionally not calling this a blog, as that comes with expectations of constant updates. Instead, this is a place to store thoughts on topics that matter to me.
+A place where collect thoughts on topics that matter to me. (I'm intentionally not calling this a blog, as that comes with expectations of constant updates.)
 
 ## [Read & Watch List](/media)
 I watch and read a lot. Here’s some of it.

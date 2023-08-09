@@ -1,7 +1,7 @@
 ---
 title: Professional Sphere
 type: docs
-summary: "Here you’ll find all things related to work. Guides, research, thoughts, PDFs, etc."
+summary: "A collection related to work. Guides, research, thoughts, PDFs, etc."
 bookToc: false
 ---
 

@@ -18,18 +18,22 @@ I care deeply about bringing more mindfulness to your craft and more humanity to
 From executive leadership to junior-level practitioner, here's what people said about my talks and workshops.
 
 {{< columns >}}
-> Joshua's workshop really took some potentially painful situations and made them smooth and easy!
-> *Rad Summit Attendee*
+
+> Joshua's workshop really took some potentially painful situations and made them smooth and easy!\
+> \
+> _Rad Summit Attendee_
 <--->
-> This should be required for every person at any company.
-> *OnDeck 2022 Cohort Attendee*
+> This should be required for every person at any company.\
+> \
+> _OnDeck 2022 Cohort Attendee_
 <--->
-> Your workshop is the main reason I came to this conference.
-> *Rad Summit Attendee*
-> 
+> Your workshop is the main reason I came to this conference.\
+> \
+> _Rad Summit Attendee_
 <--->
->Josh's workshop was really helpful for my new leadership role in my company!
-> *Productized Masterclass Attendee*
+>Josh's workshop was really helpful for my new leadership role in my company!\
+> \
+> _Productized Masterclass Attendee_
 {{< /columns >}}
 
 
@@ -37,7 +41,7 @@ From executive leadership to junior-level practitioner, here's what people said 
 
 I'm focused on teaching teams how and why to embrace healthy conflict.
 
-I offer customized workshops, both in-person or remote, and talks for your teams, too! Just [get in touch](https://www.joshuamauldin.com/contact) and we can discuss what you need.
+I offer customized workshops, both in-person or remote, and talks for your teams, too! Just [get in touch](mailto:hello@joshuamauldin.com) and we can discuss what you need.
 
 ### We Need to Talk
 
@@ -49,15 +53,6 @@ Available as:
 
 - 4 hour workshop with one-on-one office hours available afterwards (4+ people required)
 - 8 hour workshop with one-on-one office hours available afterwards (8+ people required)
-
-### Magical Cross-Functional Collaboration
-
-To build the best products and teams, it’s critical that you collaborate deeply with people both inside and outside your discipline to build a shared sense of ownership. This workshop focuses on building working agreements.
-
-It identifies areas for you and your team to unlock the collaboration required to build top-tier products and break down silos you didn’t even know were there. Whether it’s someone who’s strongly-opinionated or extremely shy, you’ll learn how to engage both—and everyone in between—for a more meaningful collaboration.
-
-- 45 minute talk with Q&A and one-on-one office hours afterwards
-- 2 hour workshop with one-on-one office hours available afterwards
 
 ---
 
