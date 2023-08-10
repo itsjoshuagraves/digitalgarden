@@ -3,6 +3,9 @@
 baseURL = 'https://joshuamauldin.com/'
 title = 'Joshua Mauldin'
 theme = 'hugo-book'
+copyright = '2023, Joshua Mauldin.'
+enableRobotsTXT = true
+removePathAccents = true
 
 # Book configuration
 disablePathToLower = true
@@ -19,13 +22,16 @@ enableGitInfo = true
   bgColor = '#333333'
   hint = 'photo'
   quality = 60
+  imageMaxWidth = "10px"
+  imageMaxHeight = "10px"
   resampleFilter = 'Box'
+  [imaging.exif]
+    disableDate = true
+    disableLatLong = true
+    excludeFields = ''
+    includeFields = ''
 
-[imaging.exif]
-  disableDate = true
-  disableLatLong = true
-  excludeFields = ''
-  includeFields = ''
+
 
 [params]
   # (Optional, default light) Sets color theme: light, dark or auto.
@@ -35,7 +41,7 @@ enableGitInfo = true
   # (Optional, default true) Controls table of contents visibility on right side of pages.
   # Start and end levels can be controlled with markup.tableOfContents setting.
   # You can also specify this parameter per page in front matter.
-  BookToC = true
+  BookToC = false
 
   # (Optional, default none) Set leaf bundle to render as side menu
   # When not specified file structure and weights will be used
