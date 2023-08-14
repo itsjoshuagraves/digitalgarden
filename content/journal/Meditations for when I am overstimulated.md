@@ -3,6 +3,7 @@ date: 2021-02-01
 title: Meditations for when I am overstimulated 
 summary: ""
 draft: true
+bookToc: true
 ---
 We have three selves. The emotional, intellectual, and action self. 
 

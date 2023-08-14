@@ -2,7 +2,7 @@
 date: 2021-02-01
 linktitle: Low Power Mode for Humans
 title: Low Power Mode for Humans
-weight: 10
+bookToc: true
 tags: burnout
 summary: "Taking inspiration from how devices recharge themselves."
 ---

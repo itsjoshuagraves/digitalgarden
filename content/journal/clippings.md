@@ -2,20 +2,14 @@
 date: 2023-07-30
 title: Clippings
 tags: Evaluation
-toc: true
+bookToc: true
+weight: 10
 summary: "Collections of wisdom on various topics."
 ---
 
 ## Design
 - Design is [orienteering](https://en.wikipedia.org/wiki/Orienteering). There’s no trail, there’s no map. It’s just you being dropped in a thick forest with only your compass and tools to help you find your way out.
 - The more you cling to process, the quicker you sink.
-
-{{< columns >}}
-![Unlearn](../Unlearn.jpeg)
-<--->
-![Devil](../Devil.jpeg)
-{{< /columns >}}
- -->
 
 ## Mind
 
@@ -46,12 +40,13 @@ summary: "Collections of wisdom on various topics."
 {{< /columns >}}
 
 ## Focus
+![Thoreau quote](/maine.JPG)
 
 - You have a finite amount of willpower that becomes depleted as you use it.
 - If everything is important, nothing is.
 - Deliberate practice cannot exist alongside distraction.
 
-![Thoreau quote](./IMG_4437.JPG)
+
 
 ## Tech
 

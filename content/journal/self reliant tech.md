@@ -3,6 +3,7 @@ date: 2023-07-29
 title: Self-Reliant Tech
 weight: 10
 tags: tech
+bookToc: true
 summary: "On craftsmanship, curiosity, and the love of know-how."
 
 ---

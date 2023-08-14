@@ -1,7 +1,7 @@
 ---
 title: The Site
 type: docs
-summary: "The ethos behind this kind of a site."
+summary: "Why build a digital garden?"
 ---
 
 ## Why build this?
@@ -30,7 +30,7 @@ I also took inspiration from [Devine Lu Linvega](https://wiki.xxiivv.com/site/ho
 
 
 ## How's this built?
-I use Hugo, a static site generator. There's no fancy CMS, it’s just Markdown-powered text files and the site is served by GitHub pages. The only Javascript here powers a search feature, so that means no tracking. 
+I use [Hugo](http://gohugo.io), a static site generator. There's no fancy CMS, it’s just Markdown-powered text files and the site is served by GitHub pages. The only Javascript here powers a search feature, so that means no tracking. 
 
 There are other constraints. I won’t be adding flashy animations, adding layouts, and only allowing minimal imagery. I’ll indulge myself with nice typefaces though, because I love them so. 
 

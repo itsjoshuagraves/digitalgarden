@@ -1,8 +1,17 @@
 ---
 title: Joshua Mauldin
 type: docs
-summary: "About me."
+summary: "About me, personally and professionally."
 ---
+
+## Personal Biography
+
+I'm ever curious. Always looking for connections, always trying something new. 
+
+In my spare time, I tinker with restoring old iPods and making art with skulls (not real ones, which would be weird). I absolutely adore typography and have designed multiple typefaces, including [Cosmata](/cosmata) and Uptown Sans. I [read a lot](/media).
+
+I live in Los Angeles.
+
 
 ## Professional Biography
 {{< columns >}}
@@ -39,10 +48,3 @@ Talk to me if you want to discuss:
 
 
 
-## Personal Biography
-
-I'm ever curious. Always looking for connections, always trying something new. 
-
-In my spare time, I tinker with restoring old iPods and making art with skulls (not real ones, which would be weird). I absolutely adore typography and have designed multiple typefaces, including [Cosmata](/cosmata) and Uptown Sans. I [read a lot](/media).
-
-I live in Los Angeles.
