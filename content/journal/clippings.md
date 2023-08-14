@@ -1,20 +1,14 @@
 ---
 date: 2023-07-30
 title: Clippings
-weight: 10
 tags: Evaluation
+toc: true
 summary: "Collections of wisdom on various topics."
 ---
 
 ## Design
 - Design is [orienteering](https://en.wikipedia.org/wiki/Orienteering). There’s no trail, there’s no map. It’s just you being dropped in a thick forest with only your compass and tools to help you find your way out.
 - The more you cling to process, the quicker you sink.
-
-<!-- ## Human Interaction
-
-> You can observe a lot by just watching.\
-> \
-> _-Yogi Berra_
 
 {{< columns >}}
 ![Unlearn](../Unlearn.jpeg)
@@ -57,8 +51,7 @@ summary: "Collections of wisdom on various topics."
 - If everything is important, nothing is.
 - Deliberate practice cannot exist alongside distraction.
 
-![Maine](../maine.png)
-
+![Thoreau quote](./IMG_4437.JPG)
 
 ## Tech
 

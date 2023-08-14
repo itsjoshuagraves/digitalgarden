@@ -24,7 +24,9 @@ If I decide to take this further, I'll:
 - Use a [waterproof USB stick](https://www.gorilladriveusb.com) and try it while camping.
 
 ## Search
-Can I make my own search engine?  https://wiby.me/ seems cool. 
+I tried using [wiby.me](https://wiby.me/) to make my own search engine. The retro feel and embracing of the small web was really interesting to me. After a couple of attempts, I gave up. The site loaded, but I wasn't enough of an expert to diagnose all the issues that come with debugging a mysql database and crawlers. 
+
+It was fun, and I felt really powerful there for a minute, churning through config files and creating databases and writing code myself. Maybe some other time I'll come back to it.
 
 ## Hosting
 I’ve used Nextcloud to make my own platform-agnostic cloud, which was great. I’d like to host things on a raspberry pi and have it be powered by solar. Maybe I start with a local version on an old Mac mini. 
@@ -32,9 +34,9 @@ I’ve used Nextcloud to make my own platform-agnostic cloud, which was great. I
 ## Personal LLM
 I’d also like a personal LLM that would search my knowledge and notes, provide provocative questions, and fulfill what I see as the role of ultimate personal assistant. 
 
-	- https://github.com/ggerganov/llama.cpp
-	- https://simonwillison.net/2023/Mar/11/llama/
-	- https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm
+I've used [Simon Wilson's LLM](https://simonwillison.net/2023/Mar/11/llama/) to install a few local versions of gpt4-all. It's wildly fun. Mostly, all it's good for is helping me debug code, but that in and of itself is fantastic.
+
+I don't care one iota about using it for creativity, it's all programmatic stuff for me. If I'm able to add more data to the training model (which I'm investigating), it'll be great. I've archived a ton of neat websites over the years (nerds: learn `wget` and you will not regret it). 
 
 ## Repair
 You may have already seen my [iPod restorations](/art/2022-01-01-ipod-restorations/), but I want to continue this trend and be able to maintain my own tech when it breaks. Or crack it open if I wanna do something cool.
