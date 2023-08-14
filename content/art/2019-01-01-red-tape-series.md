@@ -6,6 +6,5 @@ image: /type-experiment_-_7.webp
 bookToc: false
 summary: "Experiments with light, scanners, and tape."
 ---
-Experiments with light, scanners, and tape.
 
 ![](/type-experiment_-_8.webp)

@@ -7,4 +7,4 @@ summary: "Summer internship at Asterik Studio in 2005"
 bookToc: false
 ---
 
-Summer internship at Asterik Studio in 2005. Worked on the heart.
+Worked on the heart.

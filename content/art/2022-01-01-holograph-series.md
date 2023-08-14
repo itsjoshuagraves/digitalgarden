@@ -7,8 +7,6 @@ image: /Screenshot_2023-07-24_at_4.06.55_PM.webp
 summary: "A series that revisited some older works and tried seeing them in a new light."
 ---
 
-A series that revisited some older works and tried seeing them in a new light.
-
 {{< columns >}}
 {{< video "Glitch-1.mov" >}}
 <--->

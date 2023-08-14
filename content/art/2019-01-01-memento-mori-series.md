@@ -7,6 +7,4 @@ bookToc: false
 summary: "A combination of something lively and organic with something ... not lively."
 ---
 
-A combination of something lively and organic with something ... not lively.
-
 ![](/digital-_-_21.webp)

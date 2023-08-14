@@ -6,5 +6,3 @@ bookToc: false
 image: /softly-we-rush.webp
 summary: "Craft night exploration."
 ---
-
-Craft night exploration.

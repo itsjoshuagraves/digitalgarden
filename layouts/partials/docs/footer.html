@@ -4,22 +4,12 @@
   <div>
     {{- $date := partial "docs/date" (dict "Date" .GitInfo.AuthorDate.Local "Format" .Site.Params.BookDateFormat) -}}
     {{- $commitPath := default "commit" .Site.Params.BookCommitPath -}}
-      <span class="post-date">Updated {{ $date }}</span>
+      <span class="post-date">Updated and © {{ $date }}</span>
   </div>
 {{ end }}
 <div>
-  <a href="/index.xml">RSS</a>
+  <a class="post-date" href="/index.xml">RSS</a>
 </div>
-
-{{ if and .File .Site.Params.BookRepo .Site.Params.BookEditPath }}
-  <div>
-    <a class="flex align-center" href="{{ .Site.Params.BookRepo }}/{{ .Site.Params.BookEditPath }}/{{ .Site.Params.contentDir | default "content" }}/{{ replace .File.Path "\\" "/" }}" target="_blank" rel="noopener">
-      <img src="{{ "svg/edit.svg" | relURL }}" class="book-icon" alt="Edit" />
-      <span>{{ i18n "Edit this page" }}</span>
-    </a>
-  </div>
-{{ end }}
-
 </div>
 
 {{ $script := resources.Get "clipboard.js" | resources.Minify }}

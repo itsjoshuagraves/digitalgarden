@@ -6,8 +6,6 @@ image: /type-experiments_-_1.webp
 bookToc: false
 summary: "Transparency paper, cutouts, tape, ruined scans."
 ---
-Transparency paper, cutouts, tape, ruined scans.
-
 ![Lyrics: Run the Jewels](/type-experiments_-_2.webp)*Lyrics: Run the Jewels*
 
 ![Lyrics: Brand New](/type-experiments_-_3.webp)*Lyrics: Brand New*

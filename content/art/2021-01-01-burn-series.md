@@ -6,8 +6,6 @@ bookToc: false
 image: /Screenshot_2023-07-24_at_4.06.18_PM.webp
 summary: "What if we burned mantras into our brains?"
 ---
-
-
 A series focusing on pushing type legibility to the limits and repeating phrases like a mantra.
 
 {{< columns >}}

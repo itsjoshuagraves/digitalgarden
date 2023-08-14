@@ -4,7 +4,6 @@ type: docs
 summary: "I offer half and full-day workshops that help teams unlock the secret to building great products: embracing healthy conflict and building psychological safety. We'll work together to craft plans tailored to your team's needs."
 ---
 
-
 Since beginning my speaking career, I've:
 
 - Talked with web3 engineers at ETHDenver on why they should care about design
@@ -26,7 +25,8 @@ From executive leadership to junior-level practitioner, here's what people said 
 > This should be required for every person at any company.\
 > \
 > _OnDeck 2022 Cohort Attendee_
-<--->
+{{< /columns >}}
+{{< columns >}}
 > Your workshop is the main reason I came to this conference.\
 > \
 > _Rad Summit Attendee_
@@ -39,13 +39,9 @@ From executive leadership to junior-level practitioner, here's what people said 
 
 ## Current Offerings
 
-I'm focused on teaching teams how and why to embrace healthy conflict.
-
-I offer customized workshops, both in-person or remote, and talks for your teams, too! Just [get in touch](mailto:hello@joshuamauldin.com) and we can discuss what you need.
-
 ### We Need to Talk
 
-For most of us, conflict is often something we try to avoid. Yet, truly embracing “healthy” conflict is your team’s secret to building great products.
+Based off my [upcoming book](/we-need-to-talk). For most of us, conflict is often something we try to avoid. Yet, truly embracing “healthy” conflict is your team’s secret to building great products. 
 
 In this workshop, you how to leverage healthy conflict with practical, equitable, non-prescriptive methods, and craft the best possible version of your product, your team, and even yourself. Through exercises, worksheets, and facilitated discussion, you'll leave with tools you can put to use in your next hard conversation.
 
@@ -58,5 +54,3 @@ Available as:
 
 ## See also
 [Appearances and Mentions](/appearances)
-
-[We Need to Talk](/we-need-to-talk)

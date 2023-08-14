@@ -4,8 +4,7 @@ tags: [Digital]
 date: 2019-01-01
 image: /Screenshot_2023-07-24_at_4.08.21_PM.webp
 bookToc: false
-summary: "I have no justification for any of this, except that it was weird and fun.
-"
+summary: "I have no justification for any of this, except that it was weird and fun."
 ---
 {{< columns >}}
 {{< video "art_-_2.mov" >}}

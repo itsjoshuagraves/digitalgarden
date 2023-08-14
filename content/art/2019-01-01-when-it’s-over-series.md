@@ -6,8 +6,6 @@ image: /type-experiment_-_23.webp
 bookToc: false
 summary: "Made with processing.js, Photoshop, and other pixel ruiners."
 ---
-Made with processing.js, Photoshop, and other pixel ruiners.
-
 {{< columns >}}
 ![](/type-experiment_-_21.webp)
 <--->

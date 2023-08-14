@@ -6,7 +6,6 @@ image: /type-experiment_-_19.webp
 bookToc: false
 summary: "Made with processing.js, among other things."
 ---
-Made with processing.js, among other things.
 
 ![](/type-experiment_-_20.webp)
 

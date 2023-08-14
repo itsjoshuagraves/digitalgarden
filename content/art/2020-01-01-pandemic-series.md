@@ -4,9 +4,9 @@ tags: [Digital]
 date: 2020-01-01
 bookToc: false
 image: /pandemic_-_1.webp
-summary: "I made a collage series comparing the events of the 1918 flu pandemic with 2019's COVID-19. The similarities were striking, and also equally horrifying. History doesn't repeat, but it rhymes."
+summary: "I made a collage series comparing the events of the 1918 flu pandemic with 2019's COVID-19."
 ---
-I made a collage series comparing the events of the 1918 flu pandemic with 2019's COVID-19. The similarities were striking, and also equally horrifying. History doesn't repeat, but it rhymes. 
+The similarities were striking, and also equally horrifying. History doesn't repeat, but it rhymes. 
 
 ![](/pandemic_-_2.webp)
 

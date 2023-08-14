@@ -6,7 +6,6 @@ image: /enlightenment.webp
 summary: Disillusionment visualized.
 bookToc: false
 ---
-Disillusionment visualized.
 {{< columns >}}
 ![](/type-experiment_-_37.webp)
 <--->

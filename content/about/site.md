@@ -1,7 +1,7 @@
 ---
 title: The Site
 type: docs
-summary: "About the site."
+summary: "The ethos behind this kind of a site."
 ---
 
 ## Why build this?
@@ -30,6 +30,8 @@ I also took inspiration from [Devine Lu Linvega](https://wiki.xxiivv.com/site/ho
 
 
 ## How's this built?
-I use Hugo, a static site generator. It's working with Go, markdown, and powered by GitHub pages. There's no fancy CMS, no loads of animations. The only Javascript here powers a search feature.
+I use Hugo, a static site generator. There's no fancy CMS, it’s just Markdown-powered text files and the site is served by GitHub pages. The only Javascript here powers a search feature, so that means no tracking. 
+
+There are other constraints. I won’t be adding flashy animations, adding layouts, and only allowing minimal imagery. I’ll indulge myself with nice typefaces though, because I love them so. 
 
 In the future, I'll be focusing on making it even easier and greener to load, adding image dithering and hopefully attempting to most entirely to green, solar-powered hosting.

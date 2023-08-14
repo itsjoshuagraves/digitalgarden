@@ -6,5 +6,3 @@ bookToc: false
 image: /spirit_acid.webp
 summary: "Found imagery collage, hand-cut type."
 ---
-
-Found imagery collage, hand-cut type.
