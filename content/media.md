@@ -136,7 +136,7 @@ summary: "I watch and read a lot. Here's some of it."
 - The Dark Knight
 - The Medium
 - Raw
-- Titane
+- Titane ❤️
 - The Northman
 - Everything Everywhere All at Once
 - The Night House
@@ -204,7 +204,7 @@ summary: "I watch and read a lot. Here's some of it."
 - 1917
 - Thirst
 - Blood Quantum
-- You Won't Be Alone
+- You Won't Be Alone ❤️❤️❤️
 - Glass Onion
 - Home Alone
 - Nope
@@ -213,8 +213,8 @@ summary: "I watch and read a lot. Here's some of it."
 - Interstellar
 - Joker
 - National Lampoon's Christmas Vacation
-- The Addams Family
-- Mona Lisa and the Blood Moon
+- The Addams Family ❤️
+- Mona Lisa and the Blood Moon ❤️
 - Run
 - The Woman King
 - The Black Phone
@@ -223,8 +223,8 @@ summary: "I watch and read a lot. Here's some of it."
 - Crimes of the Future
 - Funny Pages
 - Men
-- Marcel the Shell with Shoes On
-- After Yang
+- Marcel the Shell with Shoes On ❤️
+- After Yang ❤️
 - Scream
 - Bodies Bodies Bodies
 - Hellraiser
@@ -233,20 +233,20 @@ summary: "I watch and read a lot. Here's some of it."
 - A Christmas Story Christmas
 - The People vs. Larry Flynt
 - The Suicide Squad
-- Promising Young Woman
+- Promising Young Woman ❤️
 - House of Gucci
 - I Care a Lot
-- The Tragedy of Macbeth
+- The Tragedy of Macbeth ❤️
 - The Woman in the Window
 - The Social Dilemma
 - The Hunt
 - Decision to Leave
 ### 2021
-- The Wailing
+- The Wailing ❤️
 - The Perfection
 - Ravenous
-- Gonjiam: Haunted Asylum
-- A Tale of Two Sisters
+- Gonjiam: Haunted Asylum ❤️
+- A Tale of Two Sisters ❤️
 - Moonrise Kingdom
 - #Alive
 - Train to Busan
@@ -285,8 +285,8 @@ summary: "I watch and read a lot. Here's some of it."
 - It
 - American Psycho
 - Alien
-- The Witch
-- Annihilation
+- The Witch ❤️
+- Annihilation ❤️
 - Jaws
 - mother!
 - Shaun of the Dead
@@ -295,7 +295,7 @@ summary: "I watch and read a lot. Here's some of it."
 - It Chapter Two
 - Zombieland
 - Halloween
-- It Follows
+- It Follows ❤️
 - The Cabin in the Woods
 - Blood Red Sky
 - Lucky
@@ -340,7 +340,4 @@ summary: "I watch and read a lot. Here's some of it."
 - Zelda: Tears of the Kingdom
 - Metroid Prime Remastered
 - Cyberpunk 2077
-- God of War: Ragnarok
-
-{{< /tab >}}
-{{< /tabs >}}
+- Go
