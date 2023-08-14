@@ -1,15 +1,10 @@
 ---
-title: Read & Watch List
+title: Media
 type: docs
 summary: "I watch and read a lot. Here's some of it."
-bookToc: false
 ---
-
-
 {{< tabs "media" >}}
-
 {{< tab "Books" >}}
-
 ### Incoming
 - Salem's Lot
 - Dark Delicacies Vol 1
@@ -17,7 +12,6 @@ bookToc: false
 - Listening to the music machines make
 - Outrage Machine
 - Pet Semetary
-
 
 ### 2023
 - The Destroyer of Worlds (A Return Lovecraft Country)
@@ -30,7 +24,7 @@ bookToc: false
 - The Butcher
 - How minds are changed
 - Chaos machine
-- Mind gut connection
+- Mind gut connection ❤️
 - Brain energy
 - Pretty Marys All in a Row
 - Boneset & Feathers
@@ -44,19 +38,16 @@ bookToc: false
 - No Gods for Drowning
 - The Worm and His Kings
 - Your Mind Is a Terrible Thing
-- Echo
-- Hex
+- Echo ❤️
+- Hex ❤️
 - Malorie: A Bird Box Novel
-- The Living Dead
+- The Living Dead ❤️
 - How Minds Change
 - The Chaos Machine
-
 {{< /tab >}}
 
 {{< tab "Film & TV" >}}
-
 ### Incoming
-- Return to Seoul (2022)
 - The Blackening 
 - Talk to Me
 - Poor Things
@@ -68,57 +59,272 @@ bookToc: false
 - TMNT
 
 ### 2023
+- Return to Seoul
+- Squaring the Circle ❤️
 - Oppenheimer
-- Barbie
-- [The Conjuring 2](https://boxd.it/7GJg)
-- [Zombieland: Double Tap](https://boxd.it/bgb6)
-- [Crimson Peak](https://boxd.it/62Ty)
-- [The Autopsy of Jane Doe](https://boxd.it/dUu2)
-- [Annabelle](https://boxd.it/7l84)
-- [Resident Evil: Retribution](https://boxd.it/2qmK)
-- [Lords of Chaos](https://boxd.it/f5no)
-- [Cargo](https://boxd.it/f55Y)
-- [Black Christmas](https://boxd.it/ka4G)
-- [The Lords of Salem](https://boxd.it/3yDm)
-- [The Silence](https://boxd.it/j9UE)
-- [Smile](https://boxd.it/xjfE)
-- [Candyman](https://boxd.it/kHFg)
-- [The Conjuring: The Devil Made Me Do It](https://boxd.it/eXZY)
-- [Halloween Kills](https://boxd.it/mxzG)
-- [The Menu](https://boxd.it/lScm)
-- [Evil Dead Rise](https://boxd.it/qIvo)
-- [Scream VI](https://boxd.it/zdfW)
+- Barbie ❤️
+- Evil Dead Rise ❤️
+- Scream VI
+- The Angry Black Girl and Her Monster
+- Come to Daddy
+- John Wick: Chapter 4
+- Scream VI
+- Renfield
+- Evil Dead Rise
+- Hellbender
+- One Cut of the Dead
+- The Devil to Pay
+- Evil Dead II
+- The Sadness
+- M3GAN
+- Bones and All ❤️
+- Logan
+- TÁR
+- A Girl Walks Home Alone at Night
+- Triangle of Sadness ❤️
+- The Conjuring
+- The Babadook
+- Halloween
+- World War Z
+- The Neon Demon
+- The Conjuring 2
+- Zombieland: Double Tap
+- The Purge
+- Crimson Peak
+- Scream 4
+- Alien: Covenant
+- Creep
+- I Saw the Devil
+- The Dead Don't Die
+- Evil Dead
+- The Nun
+- Velvet Buzzsaw
+- Warm Bodies
+- The Autopsy of Jane Doe
+- Annabelle
+- Annabelle: Creation
+- The Cloverfield Paradox
+- Annabelle Comes Home
+- Child's Play
+- Unsane
+- Apostle
+- A Nightmare on Elm Street
+- The Curse of La Llorona
+- Let Me In
+- Resident Evil: Retribution
+- Slender Man
+- The Invisible Man
+- Smile
+- Candyman
+- The Conjuring: The Devil Made Me Do It
+- Army of the Dead
+- Halloween Kills
+- The Menu
 
 ### 2022
-- [Texas Chainsaw Massacre](https://boxd.it/ns6c)
-- [In the Earth](https://boxd.it/s652)
-- [Fresh](https://boxd.it/tCNi)
-- [The Power of the Dog](https://boxd.it/m99E)
-- [The Night House](https://boxd.it/jZze)
-- [Censor](https://boxd.it/oHFS)
-- [Happy Death Day](https://boxd.it/fDz4)
-- [Saint Maud](https://boxd.it/l8QA)
-- [Mandy](https://boxd.it/gtti)
-- [Relic](https://boxd.it/jEwS)
-- [Ready or Not](https://boxd.it/kOf0)
-- [The Invitation](https://boxd.it/9OUU)
-- [His House](https://boxd.it/l8Qq)
-- [Can You Ever Forgive Me?](https://boxd.it/e7x4)
-- [Incantation](https://boxd.it/wFiI)
-- [The Grand Budapest Hotel](https://boxd.it/3ZqO)
-- [The Silence of the Lambs](https://boxd.it/2aHW)
-- [Little Women](https://boxd.it/aSVk)
-- [Thirst](https://boxd.it/1Aqq)
-- [Bad Santa](https://boxd.it/1WYk)
-- [The People vs. Larry Flynt](https://boxd.it/28rs)
-
+- The French Dispatch
+- Antlers
+- Texas Chainsaw Massacre
+- Nightmare Alley
+- In the Earth
+- The Batman
+- Fresh
+- Licorice Pizza
+- The Power of the Dog
+- Dune
+- Don't Look Up
+- The Dark Knight
+- The Medium
+- Raw
+- Titane
+- The Northman
+- Everything Everywhere All at Once
+- The Night House
+- Green Room
+- The Ritual
+- The Dark and the Wicked
+- Censor
+- Malignant
+- Happy Death Day
+- Possum
+- Caveat
+- Saint Maud
+- Mandy
+- Get Out
+- Last Night in Soho
+- 10 Cloverfield Lane
+- The Lighthouse
+- Spree
+- Relic
+- Ready or Not
+- X
+- It Comes at Night
+- 12 Hour Shift
+- Come True
+- The Invitation
+- His House
+- Possessor
+- Don't Breathe
+- Color Out of Space
+- In Fabric
+- Till Death
+- The Handmaiden
+- Prey
+- Can You Ever Forgive Me?
+- Incantation
+- The Blob
+- The Descent
+- Hair Wolf
+- Fight Club
+- Pulp Fiction
+- Gone Girl
+- Knives Out
+- The Wolf of Wall Street
+- Inception
+- The Grand Budapest Hotel
+- The Shining
+- Eternal Sunshine of the Spotless Mind
+- Once Upon a Time… in Hollywood
+- Inglourious Basterds
+- Lady Bird
+- The Godfather
+- The Silence of the Lambs
+- Blade Runner 2049
+- Little Women
+- The Social Network
+- Little Miss Sunshine
+- Black Panther
+- Her
+- Donnie Darko
+- Drive
+- Jojo Rabbit
+- The Matrix
+- Fantastic Mr. Fox
+- Scott Pilgrim vs. the World
+- 1917
+- Thirst
+- Blood Quantum
+- You Won't Be Alone
+- Glass Onion
+- Home Alone
+- Nope
+- Pearl
+- Barbarian
+- Interstellar
+- Joker
+- National Lampoon's Christmas Vacation
+- The Addams Family
+- Mona Lisa and the Blood Moon
+- Run
+- The Woman King
+- The Black Phone
+- Moonage Daydream
+- The Tinder Swindler
+- Crimes of the Future
+- Funny Pages
+- Men
+- Marcel the Shell with Shoes On
+- After Yang
+- Scream
+- Bodies Bodies Bodies
+- Hellraiser
+- See How They Run
+- Bad Santa
+- A Christmas Story Christmas
+- The People vs. Larry Flynt
+- The Suicide Squad
+- Promising Young Woman
+- House of Gucci
+- I Care a Lot
+- The Tragedy of Macbeth
+- The Woman in the Window
+- The Social Dilemma
+- The Hunt
+- Decision to Leave
 ### 2021
-- [The Stylist](https://boxd.it/rPHy)
-- [Sinister](https://boxd.it/2TnW)
-- [Animal House](https://boxd.it/2062)
-- [The Host](https://boxd.it/28ZY)
-- [Jennifer's Body](https://boxd.it/1Efw)
+- The Wailing
+- The Perfection
+- Ravenous
+- Gonjiam: Haunted Asylum
+- A Tale of Two Sisters
+- Moonrise Kingdom
+- #Alive
+- Train to Busan
+- Peninsula
+- Fear Street: 1994
+- Black Widow
+- No Sudden Move
+- Zola
+- Cruella
+- In the Heights
+- Parasite
+- A Quiet Place Part II
+- Bo Burnham: Inside
+- Atomic Blonde
+- Fear Street: 1978
+- Slaxx
+- John Wick
+- John Wick: Chapter 2
+- John Wick: Chapter 3 – Parabellum
+- Gunpowder Milkshake
+- A Classic Horror Story
+- Fear Street: 1666
+- Midsommar
+- Orpheus
+- Mayhem
+- Vicious Fun
+- Jurassic Park
+- An Unquiet Grave
+- The Beyond
+- Ringu
+- The Texas Chainsaw Massacre
+- Rosemary's Baby
+- A Quiet Place
+- Us
+- Black Swan
+- It
+- American Psycho
+- Alien
+- The Witch
+- Annihilation
+- Jaws
+- mother!
+- Shaun of the Dead
+- The Thing
+- What We Do in the Shadows
+- It Chapter Two
+- Zombieland
+- Halloween
+- It Follows
+- The Cabin in the Woods
+- Blood Red Sky
+- Lucky
+- Jungle Cruise
+- Hereditary
+- The Stylist
+- Malevolent
+- 28 Days Later
+- Insidious
+- Sinister
+- Shutter
+- Before the Fire
+- Animal House
+- The Host
+- Jennifer's Body
 
+### 2020
+- Resident Evil: Afterlife
+- Rubber
+- Resident Evil: The Final Chapter
+- Abraham Lincoln: Vampire Hunter
+- Pride and Prejudice and Zombies
+- The Crazies
+- Lords of Chaos
+- Life After Beth
+- Cargo
+- Black Christmas
+- The Lords of Salem
+- The Silence
 
 {{< /tab >}}
 
@@ -126,7 +332,6 @@ bookToc: false
 
 ### Incoming
 - Horizon Forbidden West
-
 
 ### 2023
 
