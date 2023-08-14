@@ -4,7 +4,9 @@ type: docs
 summary: "I watch and read a lot. Here's some of it."
 ---
 {{< tabs "media" >}}
+
 {{< tab "Books" >}}
+
 ### Incoming
 - Salem's Lot
 - Dark Delicacies Vol 1
@@ -341,3 +343,5 @@ summary: "I watch and read a lot. Here's some of it."
 - Metroid Prime Remastered
 - Cyberpunk 2077
 - Go
+{{< /tab >}}
+{{< /tabs >}}
