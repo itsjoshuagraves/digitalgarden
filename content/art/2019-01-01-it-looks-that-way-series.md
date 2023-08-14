@@ -6,7 +6,7 @@ image: /digital-_-_13.webp
 bookToc: false
 ---
 {{< columns >}}
-![](/Glitch_-_12_of_54.mov)
+{{< video "/Glitch_-_12_of_54.mov" >}}
 <--->
 ![](/digital-_-_10.webp)
 {{< /columns >}}

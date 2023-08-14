@@ -8,4 +8,4 @@ bookToc: false
 ---
 Typographic experiment in visualizing echoes.
 
-![](/HYPERSPEKTIV.mov)
+{{< video "/HYPERSPEKTIV.mov" >}}
