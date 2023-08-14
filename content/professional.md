@@ -7,7 +7,7 @@ bookToc: false
 
 <article class="markdown book-post feature-block">
 	<a href="/we-need-to-talk">
-		<img src="/book.jpg">
+		<img src="/book.webp">
 		<div class="feature-right">
 		<h2 class="post-title">
 		We Need to Talk

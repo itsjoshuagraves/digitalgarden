@@ -12,6 +12,10 @@ summary: "Places I’ve spoken at or were mentioned by."
 - Rad Summit 2019
 - Meetups
 
+## Books
+- Designing with Type
+- HOW
+
 ## Selected Media
 
 {{< columns >}}

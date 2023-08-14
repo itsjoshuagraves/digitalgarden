@@ -11,7 +11,7 @@ figcaption h4 {margin:0 !important;}
 
 .post-date {
 	margin: 8px 0 16px 0 !important;
-	font-family: 'pt_monoregular';
+	font-family: 'pt_monoregular', sans-serif;
 	font-size: 14px;
 	font-weight: normal !important;
 	letter-spacing: 0 !important;
@@ -30,7 +30,7 @@ figcaption h4 {margin:0 !important;}
 }
 
 h1 {
-  font-family: "Okkult-Black";
+  font-family: "Okkult-Black", sans-serif;
   font-weight: 900;
 }
 
@@ -48,11 +48,11 @@ h1 {
 
 
 h2, h3, h4, h5, h6 {
-	font-family: "pt_sansbold";
+	font-family: "pt_sansbold", sans-serif;
 }
 
 body {
-  	font-family: "pt_sansregular";
+  	font-family: "pt_sansregular", sans-serif;
   	font-weight: 500;
   	font-style: normal;
   	p {
@@ -62,7 +62,7 @@ body {
 }
 
 code {
-  font-family: 'Roboto Mono', monospace;
+  font-family: 'pt_monoregular', monospace;
 }
 
 .book-post p{
@@ -108,7 +108,7 @@ blockquote.page-summary {
 
 
 .book-brand {
-	font-family: "Okkult-Black";
+	font-family: "Okkult-Black", sans-serif;
 }
 
 .book-btn {
@@ -146,7 +146,7 @@ blockquote.page-summary {
 				}
 				p {
 					margin-top: 0;
-					font-family: "Okkult-Black";
+					font-family: "Okkult-Black", sans-serif;
 					font-size: 24px;
 						@media (min-width: 500px) {
 							font-size: 24px;

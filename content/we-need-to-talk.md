@@ -2,7 +2,7 @@
 title: We Need to Talk
 type: docs
 summary: "My forthcoming book for Rosenfeld Media, due out in 2023. It's about how to have hard conversations with anyone at work."
-image: /book.jpg
+image: /book.webp
 ---
 {{< button href="https://joshuamauldin.substack.com" >}}Get Notified When It's Ready{{< /button >}}
 
