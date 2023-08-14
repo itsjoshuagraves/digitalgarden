@@ -17,5 +17,5 @@ I started remixing this every time I saw a school shooting on the news. I ran ou
 {{< columns >}}
 ![](/prayers-04.webp)
 <--->
-{{< video "/prayers.mov" >}}
+{{< video "prayers.mov" >}}
 {{< /columns >}}

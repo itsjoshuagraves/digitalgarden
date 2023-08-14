@@ -10,8 +10,8 @@ summary: "A series that revisited some older works and tried seeing them in a ne
 A series that revisited some older works and tried seeing them in a new light.
 
 {{< columns >}}
-{{< video "/Glitch-1.mov" >}}
+{{< video "Glitch-1.mov" >}}
 <--->
-{{< video "/Glitch_-_3_of_54.mov" >}}
+{{< video "Glitch_-_3_of_54.mov" >}}
 {{< /columns >}}
-{{< video "/Glitch_-_2_of_54.mov" >}}
+{{< video "Glitch_-_2_of_54.mov" >}}
