@@ -7,23 +7,20 @@ bookToc: false
 summary: "I have no justification for any of this, except that it was weird and fun."
 ---
 {{< columns >}}
-{{< video "art_-_2.mov" >}}
+{{< video "art-2.mp4" >}}
+<--->
+{{< video "glitch-49.mp4" >}}
+{{< /columns >}}	
+{{< columns >}}
+{{< video "glitch-50.mp4" >}}
 <--->
 {{< video "lw1.mp4" >}}
 {{< /columns >}}	
 {{< columns >}}
-{{< video "Glitch_-_50_of_54.mp4" >}}
+{{< video "digital-3.mp4" >}}
 <--->
-{{< video "Glitch_-_49_of_54.mp4" >}}
-{{< /columns >}}	
-{{< columns >}}
-{{< video "Glitch_-_53_of_54.mp4" >}}
+{{< video "digital-2.mp4" >}}
 <--->
-{{< video "digital-_-_3.mov" >}}
+{{< video "digital-1.mp4" >}}
 {{< /columns >}}	
-{{< columns >}}
-{{< video "digital-_-_2.mov" >}}
-<--->
-{{< video "digital-_-_1.mov" >}}
-{{< /columns >}}	
-{{< video "lw0.mov" >}}
+{{< video "lw0.mp4" >}}

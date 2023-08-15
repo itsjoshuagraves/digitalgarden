@@ -7,4 +7,4 @@ summary: "Typographic experiment in visualizing echoes."
 bookToc: false
 ---
 
-{{< video "HYPERSPEKTIV.mov" >}}
+{{< video "echo.mp4" >}}

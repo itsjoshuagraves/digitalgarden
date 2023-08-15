@@ -8,37 +8,37 @@ summary: "Some video experiments I did with apps on my phone, weird TVs, and oth
 ---
 
 {{< columns >}}
-{{< video "Glitch_-_45_of_54.mp4" >}}
+{{< video "glitch-45.mp4" >}}
 <--->
-{{< video "Glitch_-_42_of_54.mp4" >}}
+{{< video "glitch-42.mp4" >}}
 {{< /columns >}}
 {{< columns >}}
-{{< video "Glitch_-_25_of_54.mov" >}}
+{{< video "glitch-25.mp4" >}}
 <--->
-{{< video "Glitch_-_26_of_54.mov" >}}
+{{< video "glitch-26.mp4" >}}
 {{< /columns >}}
 {{< columns >}}
-{{< video "Glitch_-_27_of_54.mov" >}}
+{{< video "glitch-27.mp4" >}}
 <--->
-{{< video "Glitch_-_28_of_54.mov" >}}
+{{< video "glitch-28.mp4" >}}
 {{< /columns >}}
 {{< columns >}}
-{{< video "Glitch_-_29_of_54.mov" >}}
+{{< video "glitch-29.mp4" >}}
 <--->
-{{< video "Glitch_-_30_of_54.mov" >}}
+{{< video "glitch-30.mp4" >}}
 {{< /columns >}}
 {{< columns >}}
-{{< video "Glitch_-_31_of_54.mov" >}}
+{{< video "glitch-31.mp4" >}}
 <--->
-{{< video "Glitch_-_32_of_54.mov" >}}
+{{< video "glitch-32.mp4" >}}
 {{< /columns >}}
 {{< columns >}}
-{{< video "Glitch_-_33_of_54.mov" >}}
+{{< video "glitch-33.mp4" >}}
 <--->
-{{< video "Glitch_-_34_of_54.mp4" >}}
+{{< video "glitch-34.mp4" >}}
 {{< /columns >}}
 {{< columns >}}
-{{< video "Glitch_-_35_of_54.mp4" >}}
+{{< video "glitch-35.mp4" >}}
 <--->
-{{< video "Glitch_-_36_of_54.mp4" >}}
+{{< video "glitch-36.mp4" >}}
 {{< /columns >}}

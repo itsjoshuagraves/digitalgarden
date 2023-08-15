@@ -8,8 +8,8 @@ summary: "A series that revisited some older works and tried seeing them in a ne
 ---
 
 {{< columns >}}
-{{< video "Glitch-1.mov" >}}
+{{< video "glitch-0.mp4" >}}
 <--->
-{{< video "Glitch_-_3_of_54.mov" >}}
+{{< video "glitch-1.mp4" >}}
 {{< /columns >}}
-{{< video "Glitch_-_2_of_54.mov" >}}
+{{< video "glitch-2.mp4" >}}

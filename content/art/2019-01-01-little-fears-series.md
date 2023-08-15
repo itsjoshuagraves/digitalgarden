@@ -8,12 +8,12 @@ summary: "A series dedicated to automatic writing and textural experiments."
 ---
 
 {{< columns >}}
-{{< video "Glitch_-_46_of_54.mp4" >}}
+{{< video "glitch-46.mp4" >}}
 <--->
-{{< video "Glitch_-_47_of_54.mp4" >}}
+{{< video "glitch-47.mp4" >}}
 {{< /columns >}}
 {{< columns >}}
-{{< video "Glitch_-_48_of_54.mp4" >}}
+{{< video "glitch-48.mp4" >}}
 <--->
-{{< video "Glitch_-_51_of_54.mp4" >}}
+{{< video "glitch-51.mp4" >}}
 {{< /columns >}}
