@@ -1,10 +1,11 @@
 ---
-title: iPod Restorations [Series]
+title: iPod Restoration
 tags: [Tinkering]
+type: docs
 date: 2023-08-01
 image: /ipod-00.webp
 bookToc: false
-summary: "I restore old tech, and have a huge love of iPods."
+summary: "I restore old tech, and have a huge love of iPods. Here are a few I've updated."
 ---
 
 I wanted to restore older iPods because I love their focus and simplicity. It had everything I needed, plus Solitaire. I rebuilt old iPod minis, giving them new paint jobs that never existed in the wild. 
