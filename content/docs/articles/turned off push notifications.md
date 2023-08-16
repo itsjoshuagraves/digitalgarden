@@ -1,4 +1,5 @@
 ---
+bookToc: true
 date: 2018-01-15
 link title: I turned off my push notifications and I’ve never been happier
 title: I turned off my push notifications and I’ve never been happier

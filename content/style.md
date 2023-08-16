@@ -19,7 +19,7 @@ this is a standard paragraph, please look at it. it is pretty and long and gorge
 
 > Here's a blockquote. This is nice and you can use it to show off how smart some of the people are who made these quotes. Or dumb, whatever.
 
-a <a>local link</a> and an <a target='_blank'>external link</a>
+a <a href="#">local link</a> and an <a href="https://atlasobscura.com" target='_blank'>external link</a>
 
 <ul>
   <li>This is a list, with:</li>
@@ -86,12 +86,12 @@ stateDiagram-v2
 
 {{< columns >}}
 <figure>
-  <img src='/img/uptown-sans-1.webp' alt='Maude picture'/>
+  <img src='/uptown-sans-1.webp' alt='Maude picture'/>
   <figcaption>This is an image in a figure block, this note is in a figcaption with <b>bold</b>, <i>italic</i>, <code>code</code> and a <a>link</a>.</figcaption>
 </figure>
 <--->
 <figure>
-  <img src='/img/uptown-sans-1.webp' alt='Maude picture'/>
+  <img src='/uptown-sans-1.webp' alt='Maude picture'/>
   <figcaption>This is an image in a figure block, this note is in a figcaption with <b>bold</b>, <i>italic</i>, <code>code</code> and a <a>link</a>.</figcaption>
 </figure>
 

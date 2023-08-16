@@ -1,4 +1,5 @@
 ---
+bookToc: true
 date: 2019-07-16
 link title: How using Cranky Conclusions makes tough conversations easier
 title: How using Cranky Conclusions makes tough conversations easier

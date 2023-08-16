@@ -1,4 +1,5 @@
 ---
+bookToc: true
 date: 2020-05-18
 linktitle: End of Day ceremonies, the key to sleeping better and staying focused during quarantine
 title: End of Day ceremonies, the key to sleeping better and staying focused during quarantine

@@ -1,4 +1,5 @@
 ---
+bookToc: true
 date: 2019-07-02
 link title: The Prime Directive and the limits of assuming positive intent
 title: The Prime Directive and the limits of assuming positive intent

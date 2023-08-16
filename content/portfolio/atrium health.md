@@ -5,6 +5,7 @@ summary: "Designing an iOS and Android app to help patients receive the best car
 tags: ["Product Design", "Strategy"]
 date: 2017-01-01
 year: 2017
+bookToc: true
 ---
 
 ## Role

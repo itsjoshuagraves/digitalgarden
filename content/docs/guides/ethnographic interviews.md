@@ -4,6 +4,7 @@ link title: Ethnographic Interviews
 title: Ethnographic Interviews
 weight: 10
 tags: [Guides, Product]
+bookToc: true
 summary: "Why interviewing people in their environment is crucial. Includes a guide for conducting them."
 ---
 

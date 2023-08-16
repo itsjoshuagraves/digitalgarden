@@ -4,6 +4,7 @@ link title: User Research Tools
 title: User Research Tools
 weight: 10
 tags: [Guides, Product]
+bookToc: true
 summary: "A collection of tools that'll help you along your way in user research."
 ---
 

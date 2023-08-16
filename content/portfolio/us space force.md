@@ -5,6 +5,7 @@ image: /starfox.webp
 tags: ["Product Design", "Strategy", "Design Systems"]
 date: 2019-07-01
 year: 2019
+bookToc: true
 ---
 
 {{< hint warning >}}

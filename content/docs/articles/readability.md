@@ -1,4 +1,5 @@
 ---
+bookToc: true
 date: 2016-06-20
 link title: Tips for perfect readability with a little help from The Big Lebowski
 title: Tips for perfect readability with a little help from The Big Lebowski

@@ -1,4 +1,5 @@
 ---
+bookToc: true
 date: 2013-04-03
 link title: How smartphones could improve texting emergency services
 title: How smartphones could improve texting emergency services

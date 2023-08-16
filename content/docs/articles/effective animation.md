@@ -1,4 +1,5 @@
 ---
+bookToc: true
 date: 2017-05-09
 linktitle: Effective Animation
 title: Effective Animation

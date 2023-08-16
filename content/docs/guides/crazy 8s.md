@@ -5,6 +5,7 @@ title: Crazy 8s
 weight: 10
 tags: [Guides, Product, Exercise]
 summary: "An exercise in idea generation."
+bookToc: true
 ---
 
 ## Key points

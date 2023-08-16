@@ -1,4 +1,5 @@
 ---
+bookToc: true
 date: 2017-04-21
 link title: Push Notifications, the good, the bad, and the wtf could u not (UX Collective)
 title: Push Notifications, the good, the bad, and the wtf could u not (UX Collective)

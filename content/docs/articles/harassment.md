@@ -1,4 +1,5 @@
 ---
+bookToc: true
 date: 2016-08-04
 link title: One idea that could curb harassment on social media
 title: One idea that could curb harassment on social media

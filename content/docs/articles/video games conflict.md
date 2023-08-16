@@ -1,4 +1,5 @@
 ---
+bookToc: true
 date: 2019-06-26
 link title: How video games taught me to be better at conflict
 title: How video games taught me to be better at conflict

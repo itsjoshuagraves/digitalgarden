@@ -1,4 +1,5 @@
 ---
+bookToc: true
 date: 2020-06-23
 link title: We Need a Code of Ethics.
 title: We Need a Code of Ethics.

@@ -1,4 +1,5 @@
 ---
+bookToc: true
 date: 2022-05-01
 linktitle: How To Give Effective Feedback Remotely (Smashing Magazine)
 title: How To Give Effective Feedback Remotely (Smashing Magazine)

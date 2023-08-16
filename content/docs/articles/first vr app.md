@@ -1,4 +1,5 @@
 ---
+bookToc: true
 date: 2018-05-08
 link title: What I learned making my first VR app (Prototypr)
 title: What I learned making my first VR app (Prototypr)

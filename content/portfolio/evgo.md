@@ -5,6 +5,7 @@ summary: "Designing a cross-platform mobile app and design system for EV chargin
 tags: ["Product Design", "Enablement"]
 date: 2020-03-02
 year: 2020
+bookToc: true
 ---
 
 ## Role

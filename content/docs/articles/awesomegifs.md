@@ -1,4 +1,5 @@
 ---
+bookToc: true
 date: 2015-01-11
 link title: Requiem for a side project, quitting AwesomeGIFs
 title: Requiem for a side project, quitting AwesomeGIFs

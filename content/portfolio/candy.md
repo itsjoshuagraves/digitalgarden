@@ -5,7 +5,7 @@ tags: ["Product Design", "Strategy"]
 summary: "Launching and iterating on a two-sided NFT marketplace for Major League Baseball."
 date: 2022-02-02
 year: 2022
-
+bookToc: true
 ---
 
 Candy’s approach to the NFT ecosystem changes how fans engage with their favorite sports. They allow collectors to purchase officially-licensed digital collectibles, understand their value, and trade them on a secure secondary market. Initially partnered with Major League Baseball, Candy has since announced upcoming collaborations with Premier League and NASCAR.

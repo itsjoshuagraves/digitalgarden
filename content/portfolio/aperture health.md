@@ -5,6 +5,7 @@ summary: "Modernizing a 20 (!) year old medical credentialing system."
 tags: ["Product Design", "Strategy"]
 date: 2021-01-01
 year: 2021
+bookToc: true
 ---
 
 Aperture Health had a credential system in need of an update called CredSmart. This system helped providers track, renew, and remind themselves about the expiration or renewal dates of medical licenses, certificates, and other important medical documents that allowed them to continue practicing medicine.

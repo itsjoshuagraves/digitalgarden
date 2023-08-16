@@ -1,4 +1,5 @@
 ---
+bookToc: true
 date: 2013-04-12
 link title: My real problem with in-app rating modules
 title: My real problem with in-app rating modules

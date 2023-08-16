@@ -5,6 +5,7 @@ summary: "Designing a fintech startup focused on the CARES Act from scratch."
 tags: ["Product Design", "Team Founding"]
 date: 2020-02-02
 year: 2020
+bookToc: true
 ---
 Assembled Financial is a joint venture with Artium that's focused on building a highly automated lending platform. They got their start by helping customers stay afloat in the pandemic through the CARES Act and have now moved into neobanking with Anda, which I also helped conceive.
 

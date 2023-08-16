@@ -5,6 +5,7 @@ image: /acbj.webp
 tags: ["Product Design"]
 summary: "Designing an iOS app and responsive website for a large news publisher."
 year: 2014
+bookToc: true
 
 ---
 ## Role

@@ -1,4 +1,5 @@
 ---
+bookToc: true
 date: 2018-11-26
 linktitle: Black Mirror brainstorms — a product design exercise (UX Collective)
 title: Black Mirror brainstorms — a product design exercise (UX Collective)

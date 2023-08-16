@@ -5,6 +5,7 @@ tags: ["Design Systems", "Research", "Product Design"]
 summary: "Designing a cohesive, valuable experience for property owners."
 date: 2023-06-01
 year: 2014
+bookToc: true
 ---
 
 Azibo is an earlier-stage startup in the real estate business. They aim to be a one-stop shop for smaller landlords who manage their own properties by providing lease generation, rent collection, tenant screening, and accounting. Azibo also offers tools for tenants, such as paying a landlord and renter’s insurance.

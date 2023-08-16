@@ -5,6 +5,8 @@ title: Design Presentations
 weight: 10
 tags: [Guides, Product]
 summary: "On presenting design work and soliciting feedback."
+bookToc: true
+
 ---
 
 How we communicate about our work is just as important as the effort that went into making it. Read the following carefully.
