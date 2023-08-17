@@ -12,9 +12,10 @@ summary: "Places I’ve spoken at or were mentioned by."
 - Rad Summit 2019
 - Meetups
 
-## Books
-- Designing with Type
+## Print
+- Type, Form & Function (Jason Tselentis, Rockport Publishing)
 - HOW
+- [Six Seconds or Less](https://www.printmag.com/featured/six-seconds-or-less-is-vine-actually-worth-your-time/)(PRINT Magazine)
 
 ## Selected Media
 
