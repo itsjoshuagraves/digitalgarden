@@ -27,3 +27,4 @@ On `July 28, 2023`, I launched a new version of this site with an entirely diffe
 ## Find Me Elsewhere
 - [Mastodon](http://hooray.computer/@josh)
 - [LinkedIn](http://linkedin.com/in/joshuamauldin/)
+- [Email](mailto:hello@joshuamauldin.com)
