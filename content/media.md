@@ -1,22 +1,22 @@
 ---
 title: Media
 type: docs
+toc: false
 summary: "I watch and read a lot. Here's some of it."
-bookToc: false
 ---
 {{< tabs "media" >}}
 
 {{< tab "Books" >}}
 
 ### Incoming
-- Salem's Lot
 - Dark Delicacies Vol 1
 - Notes on Complexity
-- Listening to the music machines make
 - Outrage Machine
 - Pet Semetary
+- The Handyman Method
 
 ### 2023
+- Salem's Lot
 - The Destroyer of Worlds (A Return Lovecraft Country)
 - Little Heaven
 - The Deep
