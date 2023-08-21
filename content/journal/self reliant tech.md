@@ -7,14 +7,6 @@ bookToc: true
 summary: "On craftsmanship, curiosity, and the love of know-how."
 
 ---
----
-date: 2023-07-29
-title: Self-Reliant Tech
-weight: 10
-tags: tech
-summary: "On craftsmanship, curiosity, and the love of know-how."
-
----
 
 It’s so damned easy to find a service that will take your money and create a website for you, or use a cloud to host your project. But with ease comes trade-offs. Namely, creativity and self-reliance.
 

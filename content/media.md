@@ -1,7 +1,7 @@
 ---
 title: Media
 type: docs
-toc: false
+bookToc: false
 summary: "I watch and read a lot. Here's some of it."
 ---
 {{< tabs "media" >}}
@@ -9,11 +9,11 @@ summary: "I watch and read a lot. Here's some of it."
 {{< tab "Books" >}}
 
 ### Incoming
+- <mark>Notes on Complexity</mark>
+- <mark>The Handyman Method</mark>
 - Dark Delicacies Vol 1
-- ==Notes on Complexity==
 - Outrage Machine
 - Pet Semetary
-- ==The Handyman Method==
 
 ### 2023
 - Salem's Lot

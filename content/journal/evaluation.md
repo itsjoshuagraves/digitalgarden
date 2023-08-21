@@ -9,15 +9,10 @@ bookToc: true
 ## Making decisions
 {{< columns >}}
 - To figure out if you really want something in life, give yourself permission to explore the alternative and say no. Live with it for a few weeks. See how it feels after that. 
-
 <--->
-
 - To live without regrets doesn’t mean making all the right choices. It means fully embracing the ones you do get to make and taking time to grieve the ones you didn’t. 
-
-
 <--->
 - What's the cost of _not_ doing the thing?
-
 {{< /columns >}}
 
 
