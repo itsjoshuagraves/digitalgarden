@@ -10,10 +10,10 @@ summary: "I watch and read a lot. Here's some of it."
 
 ### Incoming
 - Dark Delicacies Vol 1
-- Notes on Complexity
+- ==Notes on Complexity==
 - Outrage Machine
 - Pet Semetary
-- The Handyman Method
+- ==The Handyman Method==
 
 ### 2023
 - Salem's Lot
@@ -62,6 +62,7 @@ summary: "I watch and read a lot. Here's some of it."
 - TMNT
 
 ### 2023
+- The Lost Boys
 - Return to Seoul
 - Squaring the Circle ❤️
 - Oppenheimer
