@@ -1,8 +1,8 @@
-<script type="text/javascript">
-    if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
-    document.querySelector('meta[name="theme-color"]').setAttribute("content", "#151515");  // Or use .Site.Params.themeColorDark with Hugo templating before this JS
+<script>
+if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+    document.querySelector('meta[name="theme-color"]').setAttribute("content", "{{ .Site.Params.themeColorDark }}");  
 } else {
-    document.querySelector('meta[name="theme-color"]').setAttribute("content", "#FFFCFA");  // Or use .Site.Params.themeColorLight with Hugo templating before this JS
+    document.querySelector('meta[name="theme-color"]').setAttribute("content", "{{ .Site.Params.themeColorLight }}");  
 }
 
 </script>
