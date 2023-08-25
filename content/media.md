@@ -9,20 +9,21 @@ summary: "I watch and read a lot. Here's some of it."
 {{< tab "Books" >}}
 
 ### Incoming
-- <mark>Notes on Complexity</mark>
-- <mark>The Handyman Method</mark>
+
 - Dark Delicacies Vol 1
 - Outrage Machine
 - Pet Semetary
 
 ### 2023
+- Notes on Complexity
+- The Handyman Method
 - Salem's Lot
 - The Destroyer of Worlds (A Return Lovecraft Country)
 - Little Heaven
 - The Deep
 - The Troop
-- Unbury Carol
-- Dead of Night: A Zombie Novel (Dead of Night Series Book 1)
+- ~~Unbury Carol~~
+- ~~Dead of Night: A Zombie Novel (Dead of Night Series Book 1)~~
 - Queen of Teeth
 - The Butcher
 - How minds are changed
@@ -34,10 +35,10 @@ summary: "I watch and read a lot. Here's some of it."
 - The Rust Maidens
 - Reluctant Immprtals
 - Old Souls: The Sages and Mystics of Our World
-- Sundial
-- The Paris Apartment
+- ~~Sundial~~
+- ~~The Paris Apartment~~
 - Come As You Are
-- Even The Worm Will Turn
+- ~~Even The Worm Will Turn~~
 - No Gods for Drowning
 - The Worm and His Kings
 - Your Mind Is a Terrible Thing

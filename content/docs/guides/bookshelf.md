@@ -15,7 +15,9 @@ This covers the basics of visual design and provides practical tips on how to cr
 {{< button href="https://www.amazon.com/Williams-Non-Designers-Design-Bk_p3-Designers/dp/0321534042" >}}Purchase{{< /button >}}
 
 ### Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability
-This covers basic design principles and how/why to validate your ideas. It assumes you also have a system for the ethical implications of your design, but it's a very helpful overview otherwise.
+This covers basic design principles and how/why to validate your ideas. 
+
+I do have two nits, despite this being so helpful: the goal isn’t to remove _all_ friction, it exists for a reason and you need to manage it. Also, this book assumes you have a system for the ethical implications of your design, as you clearly wouldn’t want to “not make me think” your way into doing something unethical. 
 
 {{< button href="https://www.oreilly.com/library/view/dont-make-me/9780133597271/" >}}Purchase{{< /button >}}
 
