@@ -9,7 +9,7 @@ summary: "I watch and read a lot. Here's some of it."
 {{< tab "Books" >}}
 
 ### Incoming
-
+- ==Looking Glass Sound==
 - Dark Delicacies Vol 1
 - Outrage Machine
 - Pet Semetary
