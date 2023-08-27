@@ -13,6 +13,7 @@ summary: "I watch and read a lot. Here's some of it."
 - Dark Delicacies Vol 1
 - Outrage Machine
 - Pet Semetary
+- Sister, Maiden, Monster
 
 ### 2023
 - Notes on Complexity
@@ -52,7 +53,6 @@ summary: "I watch and read a lot. Here's some of it."
 
 {{< tab "Film & TV" >}}
 ### Incoming
-- The Blackening 
 - Talk to Me
 - Poor Things
 - Asteroid City
@@ -63,6 +63,7 @@ summary: "I watch and read a lot. Here's some of it."
 - TMNT
 
 ### 2023
+- The Blackening ❤️
 - The Lost Boys
 - Return to Seoul
 - Squaring the Circle ❤️
