@@ -15,6 +15,8 @@ It's broken down into spheres, with overlap between each. This site, just like a
 <--->
 
 ## What's new?
+On `August 31, 2023` I posted a guide in Tinkering about how I [modified a kegerator](/tinkering/sparkling-water/) to make sparkling mineral water.
+
 As of `August 17, 2023` I've added a [bookshelf](/docs/guides/bookshelf) which contains recommendations for newcomers to design.
 
 As of `August 4, 2023`, my forthcoming book, [We Need to Talk](/we-need-to-talk), is officially in editing mode!
