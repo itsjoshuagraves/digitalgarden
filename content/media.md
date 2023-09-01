@@ -9,10 +9,11 @@ summary: "I watch and read a lot. Here's some of it."
 {{< tab "Books" >}}
 
 ### Incoming
-- ==Looking Glass Sound==
-- Dark Delicacies Vol 1
-- Outrage Machine
+- <mark>Outrage Machine</mark>
+- <mark>Looking Glass Sound</mark>
+- Dark Delicacies Vol. 1
 - Pet Semetary
+- Like, Literally, Dude: Arguing for the Good in Bad English Arguing for the Good in Bad English
 - Sister, Maiden, Monster
 
 ### 2023
@@ -28,9 +29,9 @@ summary: "I watch and read a lot. Here's some of it."
 - Queen of Teeth
 - The Butcher
 - How minds are changed
-- Chaos machine
-- Mind gut connection ❤️
-- Brain energy
+- ~~Chaos Machine~~
+- Mind Gut Connection ❤️
+- Brain Energy
 - Pretty Marys All in a Row
 - Boneset & Feathers
 - The Rust Maidens
@@ -76,7 +77,6 @@ summary: "I watch and read a lot. Here's some of it."
 - John Wick: Chapter 4
 - Scream VI
 - Renfield
-- Evil Dead Rise
 - Hellbender
 - One Cut of the Dead
 - The Devil to Pay
@@ -338,6 +338,8 @@ summary: "I watch and read a lot. Here's some of it."
 
 ### Incoming
 - Horizon Forbidden West
+- Starfield
+- Elden Ring 3
 
 ### 2023
 
