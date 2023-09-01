@@ -31,7 +31,7 @@ enableGitInfo = true
 
 [params]
   # Theme Colors
-  themeColorDark = "#151515"
+  themeColorDark = "#000000"
   themeColorLight = "#FFFCFA"
 
   # Book Settings

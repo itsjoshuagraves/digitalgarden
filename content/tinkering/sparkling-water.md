@@ -7,7 +7,7 @@ type: docs
 bookToc: true
 summary: "But what if I could have infinite sparkling mineral water?"
 ---
-tI drink *a lot* of sparkling water. And the amount of it I drink got to legendary levels, so I decided to see if I could make my own. The Soda Streams just carbonated tap water, and they barely did that. What I wanted was sparkling *mineral* water. That sounded like home brewing to me, and I wondered if home brewing was a hobby for some, why couldn't sparkling water be one for me?
+I drink *a lot* of sparkling water. And the amount of it I drink got to legendary levels, so I decided to see if I could make my own. The Soda Streams just carbonated tap water, and they barely did that. What I wanted was sparkling *mineral* water. That sounded like home brewing to me, and I wondered if home brewing was a hobby for some, why couldn't sparkling water be one for me?
 
 So I sought out various tutorials online and ended up cobbling together a few things. Here's what I collected (none of the following are affiliate links):
 
