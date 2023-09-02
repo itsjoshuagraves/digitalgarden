@@ -13,7 +13,7 @@ summary: "I watch and read a lot. Here's some of it."
 - <mark>Looking Glass Sound</mark>
 - Dark Delicacies Vol. 1
 - Pet Semetary
-- Like, Literally, Dude: Arguing for the Good in Bad English Arguing for the Good in Bad English
+- Like, Literally, Dude: Arguing for the Good in Bad English
 - Sister, Maiden, Monster
 
 ### 2023
