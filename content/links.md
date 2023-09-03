@@ -1,6 +1,7 @@
 ---
 title: Links
 type: docs
+bookToc: true
 summary: "A list of sites of interest to me."
 ---
 
