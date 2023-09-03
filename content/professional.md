@@ -1,7 +1,7 @@
 ---
 title: Professional Sphere
 type: docs
-summary: "A collection related to work. Guides, research, thoughts, PDFs, etc."
+summary: "A collection of product design work. Also includes guides, research, and articles for those in technology."
 bookToc: false
 ---
 
@@ -20,10 +20,10 @@ bookToc: false
 {{< columns >}}
 
 Artifacts
+: ## [Portfolio](/portfolio)
+	A selection of product design work from the last 15+ years.
 : ## [Guides & Articles](/docs)
 	A collection of things I've written, plus guides for leaders, workshop facilitators, and other curious people.
-: ## [Portfolio](/portfolio)
-	A selection of work from the last 15+ years.
 : ## [Design Philosophy](/design-philosophy)
 	The why behind how I do it.
 : ## [Design Process](/design-process)
