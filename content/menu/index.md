@@ -11,9 +11,7 @@ headless: true
   - [We Need to Talk](/we-need-to-talk)
   - [Portfolio](/portfolio)
   - [Guides & Articles](/docs)
-  <!-- - [Philosophy](/design-philosophy) -->
   - [Workshops & Speaking](/workshops)
-  <!-- - [For Sale](/tools) -->
   - [Coaching & Consulting](/coaching)
 - [**About**](/about)
   - [Me](/about/me)

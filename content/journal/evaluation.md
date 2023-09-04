@@ -6,39 +6,34 @@ summary: "Sometimes I get stuck on making decisions, coming to terms with an ide
 bookToc: true
 ---
 
-## Making decisions
-{{< columns >}}
+## Deciding
 - To figure out if you really want something in life, give yourself permission to explore the alternative and say no. Live with it for a few weeks. See how it feels after that. 
-<--->
 - To live without regrets doesn’t mean making all the right choices. It means fully embracing the ones you do get to make and taking time to grieve the ones you didn’t. 
-<--->
 - What's the cost of _not_ doing the thing?
-{{< /columns >}}
-
-
-## Fact vs opinion
-{{< columns >}}
-
-![facts](/facts.webp)
-<--->
-- If a security camera were observing the situation, what would it say? Is it different than what you would?
 - Does this thing I’m doing or buying or downloading serve my goals? Is it the best way out of the rest of the available options to achieve them? If not, look elsewhere. 
+
+## Separating Fact VS Story
+
+- If a security camera were observing the situation, what would it say? Is it different than what you would?
+```
+## Factual Equations
+---
+Fact = information - emotion
+Opinion = information + experience
+Ingorance = opinion - experience
+Stupidity = opinion - fact
+```
+## Uncovering Truth
+- The harder people (or companies) cling to positivity and happiness, the more likely it is that there’s something truly rotten underneath that isn’t being addressed.
 - Suspect anyone who markets themselves or their company as a world changer. That’s a determination others make, it’s not one that they can proclaim. 
-
-{{< /columns >}}
-
-
-
+- If another person demands a change to your life or self in order to gain their acceptance, they have already decided to not accept you. No amount of change will do for them—either your change will not be enough or they will invent more things which need changing. 
 
 ## Disagreeing
-![](/Baldwin.webp)
-
-## Seeing through it
-
 {{< columns >}}
-- The harder people (or companies) cling to positivity and happiness, the more likely it is that there’s something truly rotten underneath that isn’t being addressed.
-
+> "We can disagree and still love each other unless your disagreement is rooted in my oppression and denial of my humanity and right to exist." \
+> \
+> ~ James Baldwin
 <--->
-![](/abuse.webp)
-
+- Disagreeing and committing is set up to benefit those loudest and most persuasive. To do the ideas presented service requires understanding their merits, not simply accepting them based on how loudly they're presented.
 {{< /columns >}}
+
