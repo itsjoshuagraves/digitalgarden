@@ -2,7 +2,7 @@
 title: Family Dollar
 image: /family-dollar.webp
 summary: "Designing an iOS and Android app help customers save money."
-tags: ["Product Design", "Strategy"]
+tags: ["Product Design", "Strategy", "Android", "iOS"]
 date: 2018-05-01
 year: 2018
 bookToc: true

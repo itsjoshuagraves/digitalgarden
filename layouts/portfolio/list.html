@@ -12,7 +12,7 @@
       <a href="{{ .RelPermalink }}">
         {{ partial "docs/post-meta" . }}
         {{ partial "docs/title.html" . }}
-        </a>
+      </a>
     </h2>
     <p class="art-summary">
       {{- .Summary -}}
@@ -20,8 +20,20 @@
         <a href="{{ .RelPermalink }}">...</a>
       {{ end }}
     </p>
+    <!-- Display tags for the current page -->
+<div class="tags">
+  <ul class="tag-list">
+    {{ range .Params.tags }}
+      <li>{{ . }}</li>
+    {{ end }}
+  </ul>
+</div>
   </article>
   {{ end }}
 
   {{ template "_internal/pagination.html" . }}
+{{ end }}
+
+{{ define "toc" }}
+  {{ partial "docs/taxonomy" . }}
 {{ end }}

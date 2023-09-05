@@ -180,7 +180,22 @@ blockquote.page-summary {
 
 .art-summary {
 	margin-top: 4px !important;
+	margin-bottom: 8px;
 }
+.tags {
+	h5, ul, li {
+	font-family: 'pt_monoregular';
+	display: inline;
+	font-size: 14px;
+	padding-left: 0;
+		li {
+background: var(--gray-200);
+    border-radius: 0.25rem;
+    padding: .25rem
+		}
+	}
+}
+
 
 .art-title{
 	margin-bottom: 8px !important;

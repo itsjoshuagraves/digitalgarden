@@ -2,7 +2,7 @@
 title: EVgo
 image: /evgo.webp
 summary: "Designing a cross-platform mobile app and design system for EV charging."
-tags: ["Product Design", "Enablement"]
+tags: ["Product Design", "Enablement", "Android", "iOS"]
 date: 2020-03-02
 year: 2020
 bookToc: true

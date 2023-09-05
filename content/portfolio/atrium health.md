@@ -2,7 +2,7 @@
 title: Atrium Health
 image: /carolinas-app-home@2x.webp
 summary: "Designing an iOS and Android app to help patients receive the best care."
-tags: ["Product Design", "Strategy"]
+tags: ["Product Design", "Strategy", "Android", "iOS"]
 date: 2017-01-01
 year: 2017
 bookToc: true

@@ -10,6 +10,15 @@
           <a href="{{ .RelPermalink }}">{{ .Title }}</a>
           <span>{{ len .Pages }}</span>
         </li>
+        <!-- Display tags if current taxonomy term is 'tags' and content type is 'docs' -->
+        {{ if and (eq $term "tags") (eq .Type "docs") }}
+          {{ range .Params.tags }}
+            <li>
+              <a href="{{ "tags/" | relURL }}{{ . | urlize }}" class="tag">{{ . }}</a>
+            </li>
+          {{ end }}
+        {{ end }}
+        
       {{ end }}
       </ul>
     </li>

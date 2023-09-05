@@ -14,7 +14,8 @@ headless: true
   - [Workshops & Speaking](/workshops)
   - [Coaching & Consulting](/coaching)
 - [**About**](/about)
-  - [Me](/about/me)
-  - [The Site](/about/site)
+  - [Joshua Mauldin](/about/me)
+  - [Digital Gardening](/about/site)
+  - [Resume](/resume.pdf)
 
 

@@ -2,7 +2,7 @@
 title: American City Business Journals
 date: 2014-06-01
 image: /acbj.webp
-tags: ["Product Design"]
+tags: ["Product Design", "iOS"]
 summary: "Designing an iOS app and responsive website for a large news publisher."
 year: 2014
 bookToc: true
