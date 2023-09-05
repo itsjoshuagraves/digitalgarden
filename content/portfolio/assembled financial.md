@@ -2,7 +2,7 @@
 title: Assembled Financial
 image: /aft2.webp
 summary: "Designing a fintech startup focused on the CARES Act from scratch."
-tags: ["Product Design", "Team Founding"]
+tags: ["Product Design"]
 date: 2020-02-02
 year: 2020
 bookToc: true

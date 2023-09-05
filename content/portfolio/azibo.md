@@ -1,7 +1,7 @@
 ---
 title: Azibo
 image: /azibo.webp
-tags: ["Design Systems", "Research", "Product Design"]
+tags: ["Design Systems", "Product Design"]
 summary: "Designing a cohesive, valuable experience for property owners."
 date: 2023-06-01
 year: 2014

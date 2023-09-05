@@ -1,7 +1,7 @@
 ---
 title: Candy
 image: /candy.webp
-tags: ["Product Design", "Strategy"]
+tags: ["Product Design", "Design Systems"]
 summary: "Launching and iterating on a two-sided NFT marketplace for Major League Baseball."
 date: 2022-02-02
 year: 2022

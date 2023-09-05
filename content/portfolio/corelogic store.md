@@ -1,7 +1,7 @@
 ---
 title: CoreLogic Store
 image: /corelogic.webp
-tags: ["Product Design", "Strategy"]
+tags: ["Product Design"]
 summary: "Redesigning an industry leader’s store for custom real estate reports."
 date: 2019-08-01
 year: 2019
