@@ -189,9 +189,10 @@ blockquote.page-summary {
 	font-size: 14px;
 	padding-left: 0;
 		li {
-background: var(--gray-200);
+		background: var(--gray-200);
     border-radius: 0.25rem;
-    padding: .25rem
+    padding: .25rem;
+    margin-right: .5rem;
 		}
 	}
 }
