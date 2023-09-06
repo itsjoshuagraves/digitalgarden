@@ -1,5 +1,5 @@
 ---
-title: iPod Restorations [Series]
+title: iPod Restorations
 tags: [Tinkering]
 date: 2023-08-01
 image: /ipod-00.webp

@@ -10,6 +10,8 @@ summary: "Giving some new life to an old arcade cabinet."
 
 My dad and I fixed up an old, junked arcade cabinet, complete with giant CRT monitor, and put in a multicade game board.
 
+It was not the easiest project (we also had to bend steel for the play field where the joysticks and buttons are!), but it was so rewarding.
+
 {{< columns >}}
 ![](/arcade-8.webp)
 <--->
@@ -25,10 +27,12 @@ My dad and I fixed up an old, junked arcade cabinet, complete with giant CRT mon
 ![](/arcade-5.webp)
 <--->
 ![](/arcade-6.webp)
-{{< /columns >}}
-{{< columns >}}
-![](/arcade-9.webp)
 <--->
-![](/arcade-10.webp)
+![](/arcade-9.webp)
 {{< /columns >}}
 ![](/arcade-7.webp)
+{{< columns >}}
+![](/arcade-13.webp)
+<--->
+![](/arcade-14.webp)
+{{< /columns >}}

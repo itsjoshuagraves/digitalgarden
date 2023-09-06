@@ -15,14 +15,6 @@ enableGitInfo = true
   unsafe = true
 
 # Image processing
-[imaging]
-  anchor = 'Smart'
-  bgColor = '#333333'
-  hint = 'photo'
-  quality = 60
-  imageMaxWidth = "1500px"
-  imageMaxHeight = "1500px"
-  resampleFilter = 'Box'
   [imaging.exif]
     disableDate = true
     disableLatLong = true
