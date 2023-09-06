@@ -18,7 +18,7 @@ Coming into the situation, the first thing we did was begin to gather context an
 
 ### Reduce “Range Anxiety” and Safety Issues
 
-![](/evgo-maps.webp)
+![Maps showed the nearest chargers with availability.](/evgo-maps.webp)
 
 EV batteries don’t always have the best range. And chargers aren’t always easy to find or are nearby. An EV driver needs to plan their route with more care than drivers of  gas-powered cars. EVgo wanted to show all chargers available to the user, even ones outside of their own network.
 
@@ -30,7 +30,7 @@ The final issue was availability. Some drivers drove to an open charger only to 
 
 ### Create Clarity on Chargers
 
-![](/evgo-filters.webp)
+![Filters made sure drivers never went to sites chargers that didn't march their vehicles.](/evgo-filters.webp)
 
 I found that it wasn’t always clear what types of chargers fit which car, and drivers didn’t always know what type of charger they had. Every company had different names for their chargers. Additionally, not all charger types were available at every location.
 
@@ -40,7 +40,7 @@ Second, and because it’s difficult for drivers to keep in mind what kind of ch
 
 ### Create a Scalable Design System and Workflow
 
-![](/evgo-system.webp)
+![The design system was flexible and respectful of iOS and Android design patterns.](/evgo-system.webp)
 
 I wanted EVgo to have a consistent experience for their drivers, so I and the other designers (including the ones who designed interfaces for the hardware) got together and harmonized the typefaces and general design patterns. While each type of charger model had some variations, we were able to find a good, consistent path forward that maintained consistency with the EVgo brand.
 

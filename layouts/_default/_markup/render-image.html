@@ -3,6 +3,7 @@
 {{- else -}}
   <figure>
     <img src="{{ .Destination | safeURL }}" alt="{{ .Text }}" />
+<figcaption>{{ .Text }}</figcaption>
   </figure>
 {{- end -}}
 
@@ -19,5 +20,6 @@
   {{- end }}
   <figure>
     <img src="{{ .Destination | safeURL }}" alt="{{ .Text }}" />
+    <figcaption>{{ .Text }}</figcaption>
   </figure>
 {{- end -}}
