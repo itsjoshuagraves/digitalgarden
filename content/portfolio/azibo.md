@@ -35,7 +35,7 @@ Doing this let any designer—or product manager, for that matter—pick up and 
 
 All of this improved velocity, quality, and the speed of the entire team's work.
 
-![Some of the individual goodies. You'll notice easy to grab logos, patterns, and tables.](/individual-goodies.webp)
+![I created a space for easy to grab logos, patterns, and tables.](/individual-goodies.webp)
 
 
 
