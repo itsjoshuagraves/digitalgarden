@@ -27,7 +27,7 @@ After auditing, I consolidated and worked my way forward. I also established reg
 
 Another bonus: because we had consistency with components in Figma, and we used the design system, it allowed us to prototype instead of demoing work through static mockups or Figma workspaces. This consistency meant we can share and validate ideas quicker. That, in turn meant we can ship quicker.
 
-![Establishing typography and rhythm for a flexible card system.](/construction-guidelines.png)
+![Establishing typography and rhythm for a flexible card system.](/construction-guidelines.webp)
 
 I also implemented a standardized structure for how we organize work. Our files shared a naming convention consistent with our ticketing system (Shortcut), and we standardized on only showing prototypes to stakeholders instead of walking them through our working area. This was in response to non-designers feeling lost and nodding along during presentations. Prototypes made it much easier for everyone to connect the dots and ask better questions.
 
@@ -35,9 +35,7 @@ Doing this let any designer—or product manager, for that matter—pick up and 
 
 All of this improved velocity, quality, and the speed of the entire team's work.
 
-Some of the individual goodies. You'll notice easy to grab logos, patterns, and tables. Link
-
-![Individual goodies.](/individual-goodies.webp)
+![Some of the individual goodies. You'll notice easy to grab logos, patterns, and tables.](/individual-goodies.webp)
 
 
 
