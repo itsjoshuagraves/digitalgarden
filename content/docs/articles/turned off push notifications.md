@@ -1,5 +1,4 @@
 ---
-bookToc: true
 date: 2018-01-15
 link title: I turned off my push notifications and I’ve never been happier
 title: I turned off my push notifications and I’ve never been happier
@@ -10,7 +9,7 @@ summary: "One of many things I tried to reclaim my sanity from push notification
 ---
 
 
-![I%20turned%20off%20my%20push%20notifications%20and%20I%E2%80%99ve%20never%20%20ab9e0f8aade6429eaa71b88013be1162/1dKC6AzFrukIpK0xJoEGXsw.webp](/1dKC6AzFrukIpK0xJoEGXsw.webp)
+![Push Notifications](/1dKC6AzFrukIpK0xJoEGXsw.webp)
 
 Over the holiday, I did the unthinkable: turned off push notifications from Messages. Up to that point, I’d received a steadily-increasing stream of messages from co-workers and friends—my head was buzzing as much as my phone. It was hard to get any quiet time in my own head and I was tired of my tiny illuminated rectangle commanding my attention.
 

@@ -1,5 +1,4 @@
 ---
-bookToc: true
 date: 2015-05-16
 link title: My week with Soylent 1.4, or “Oh god I want a burger”
 title: My week with Soylent 1.4, or “Oh god I want a burger”

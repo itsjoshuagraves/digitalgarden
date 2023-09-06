@@ -1,5 +1,4 @@
 ---
-bookToc: true
 date: 2020-08-13
 link title: What we look for in a product designer’s portfolio
 title: What we look for in a product designer’s portfolio

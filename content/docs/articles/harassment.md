@@ -1,5 +1,4 @@
 ---
-bookToc: true
 date: 2016-08-04
 link title: One idea that could curb harassment on social media
 title: One idea that could curb harassment on social media
@@ -10,7 +9,7 @@ summary: "I've always been thinking about how to reduce harassment and annoyance
 ---
 
 
-![One%20idea%20that%20could%20curb%20harassment%20on%20social%20medi%202ef8ea392834472893198b7090fe674b/1oznHhVPcIUgKnOcrjPuG_g.webp](../../1oznHhVPcIUgKnOcrjPuG_g.webp)
+![](../../1oznHhVPcIUgKnOcrjPuG_g.webp)
 
 I have an idea about how to help people being harassed, and it’s about how people get and manage their replies.
 
@@ -26,7 +25,7 @@ Here’s what that could look like:
 
 ### Friends only
 
-![One%20idea%20that%20could%20curb%20harassment%20on%20social%20medi%202ef8ea392834472893198b7090fe674b/1Yhw9Mljdn_vabp2NFuZ3Jw.webp](/1Yhw9Mljdn_vabp2NFuZ3Jw.webp)
+![](/1Yhw9Mljdn_vabp2NFuZ3Jw.webp)
 
 You’ve got a public account and people can see your posts. But you only see interactions from people you’ve approved.
 
@@ -34,13 +33,13 @@ Anyone can request permission to interact with you. Those requests are ranked by
 
 ### Friends of friends
 
-![One%20idea%20that%20could%20curb%20harassment%20on%20social%20medi%202ef8ea392834472893198b7090fe674b/15hRiAWooQmE759pdLTfw2g.webp](/15hRiAWooQmE759pdLTfw2g.webp)
+![](/15hRiAWooQmE759pdLTfw2g.webp)
 
 This allows for a little more exposure. You’re good at choosing friends, and you figure that your friends are, too. So they can totally interact with you.
 
 ### Verified accounts only
 
-![One%20idea%20that%20could%20curb%20harassment%20on%20social%20medi%202ef8ea392834472893198b7090fe674b/1BeYXxk6ZfRNU1O8scYBAzA.webp](/1BeYXxk6ZfRNU1O8scYBAzA.webp)
+![](/1BeYXxk6ZfRNU1O8scYBAzA.webp)
 
 This is relatively new and pretty interesting. Twitter just opened up public registration for verified accounts, and it could have some interesting repercussions later on down the line.
 
@@ -58,7 +57,7 @@ I say that because some want Twitter to be like a backyard bbq where they hang o
 
 ## Other ideas that need work
 
-![One%20idea%20that%20could%20curb%20harassment%20on%20social%20medi%202ef8ea392834472893198b7090fe674b/1rHH7hAlsS6th231_2btPFQ.webp](/1rHH7hAlsS6th231_2btPFQ.webp)
+![](/1rHH7hAlsS6th231_2btPFQ.webp)
 
 One of my favorite Twitter clients, Tweetbot, allows me to mute things. And I mute a lot. I wonder how it could factor into this solution.
 
@@ -68,7 +67,7 @@ Perhaps we could utilize machine learning to look for variants of those words an
 
 ## Yeah, but free speech!
 
-![One%20idea%20that%20could%20curb%20harassment%20on%20social%20medi%202ef8ea392834472893198b7090fe674b/1TDDfP_cARYJ_n1yby5Idkw.webp](/1TDDfP_cARYJ_n1yby5Idkw.webp)
+![](/1TDDfP_cARYJ_n1yby5Idkw.webp)
 
 I don’t want to retread all those arguments here, but mostly [my thoughts align with this Xkcd comic](https://xkcd.com/1357/). In short, I think that if what’s being said is deliberately hateful or harassing, it shouldn’t ever be permitted.
 
@@ -78,7 +77,7 @@ It’s fair to argue that this doesn’t solve the root of the problem: people a
 
 ## Closing thoughts
 
-![One%20idea%20that%20could%20curb%20harassment%20on%20social%20medi%202ef8ea392834472893198b7090fe674b/1Fsj3MO84RA_Bhy3V9jmwCQ.webp](/1Fsj3MO84RA_Bhy3V9jmwCQ.webp)
+![](/1Fsj3MO84RA_Bhy3V9jmwCQ.webp)
 
 Harassment is a tricky one to solve, particularly if your network is built in such a way that doesn’t have the guardrails in place to inhibit it from the start. Fixing harassment is more than could be discussed in one single post, and should be the ultimate long-term goal.
 

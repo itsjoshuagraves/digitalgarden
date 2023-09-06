@@ -4,7 +4,6 @@ link title: Journey Map
 title: Journey Map
 weight: 10
 tags: [Guides, Product]
-bookToc: true
 summary: "An exercise to understand the person's journey through a service."
 ---
 
@@ -25,9 +24,3 @@ summary: "An exercise to understand the person's journey through a service."
     1. Instruct our clients to avoid getting mired in details at this point (e.g. we don't need to include making API calls to servers when registering a user, just talk about registering the user)
 2. Once you establish a batch of related touchpoints, group them into stages
 3. Give clients another 10 minutes to individually come up with pain points and ideas for improvement for a particular step, then come together with the rest of the team to synthesize
-
-## Template
-
-Duplicate this to get started.
-
-![Screenshot 2023-07-22 at 4.18.16 PM.webp](/Screenshot_2023-07-22_at_4.18.16_PM.webp)

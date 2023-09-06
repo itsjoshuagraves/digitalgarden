@@ -1,5 +1,4 @@
 ---
-bookToc: true
 date: 2017-05-09
 linktitle: Effective Animation
 title: Effective Animation
@@ -9,7 +8,7 @@ originalURL: https://medium.com/@joshuamauldin/effective-animation-86caade87215
 summary: "Over the years, animation evolved from a nice-to-have concept to a core feature. Now, the best companies use animation to inform, delight, and reward the people using their products. Let’s talk about how animation helps and how to use it in our work."
 ---
 
-![https://miro.medium.com/v2/resize:fit:2000/1*wFB80FBxmxR9PO2M_H2n7Q.webp](/1*wFB80FBxmxR9PO2M_H2n7Q.webp)
+![](/1*wFB80FBxmxR9PO2M_H2n7Q.webp)
 
 Over the years, animation evolved from a nice-to-have concept to a core feature. Now, the best companies use animation to inform, delight, and reward the people using their products. Let’s talk about how animation helps and how to use it in our work.
 
@@ -94,7 +93,7 @@ It’s great to talk about how animation can help, but let’s talk for a bit ab
 
 Animation is best when it is intentional and reinforces the experience. Use this chart to help plot what kinds of animations to use.
 
-![https://miro.medium.com/v2/resize:fit:1400/1*KbzAvqg5pCDG12QzB98wXw@2x.webp](/1*KbzAvqg5pCDG12QzB98wXw@2x.webp)
+![](/1*KbzAvqg5pCDG12QzB98wXw@2x.webp)
 
 The Brand Personality Spectrum, adapted from [somewhere].
 
@@ -104,7 +103,7 @@ If we’re designing a quiet, meditative app like Pause, that means it’s proba
 
 Most people’s brains take about 200ms to begin processing something. [Anything less than 100ms is considered instant](https://www.nngroup.com/articles/response-times-3-important-limits/) since our brains have trouble processing information at that speed.
 
-![https://miro.medium.com/v2/resize:fit:1400/1*3sjXQNVdan_52LwlVHntjg.webp](/1*3sjXQNVdan_52LwlVHntjg.webp)
+![](/1*3sjXQNVdan_52LwlVHntjg.webp)
 
 Animation awareness spectrum, adapted from [Val Head’s Designing Interface Animation](http://rosenfeldmedia.com/designing-interface-animation/designing-interface-animation/) and [Aerotwist](https://aerotwist.com/blog/flip-your-animations/)
 

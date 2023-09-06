@@ -1,5 +1,4 @@
 ---
-bookToc: true
 date: 2020-07-01
 linktitle: Deep Work, Quarantine Edition
 title: Deep Work, Quarantine Edition

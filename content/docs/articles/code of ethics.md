@@ -1,5 +1,4 @@
 ---
-bookToc: true
 date: 2020-06-23
 link title: We Need a Code of Ethics.
 title: We Need a Code of Ethics.
@@ -26,7 +25,7 @@ We’ve moved fast for long enough, now let’s grow together to be more intenti
 
 ## A practical example
 
-![We%20Need%20a%20Code%20of%20Ethics%2084d3196804e948ab866b828b712e55f2/1EthOZquq1IFUCtw-9H69SA.webp](/1*EthOZquq1IFUCtw-9H69SA.webp)
+![De-pixelization example.](/1*EthOZquq1IFUCtw-9H69SA.webp)
 
 Recently, a [developer launched a de-pixelizer](https://twitter.com/tg_bomze/status/1274098682284163072). Essentially, it can take a pixelated image and approximate what the person’s face might look like. The results were…[not great](https://twitter.com/Kiloku/status/1274315587133587457/photo/1).
 

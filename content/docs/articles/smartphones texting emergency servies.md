@@ -1,5 +1,4 @@
 ---
-bookToc: true
 date: 2013-04-03
 link title: How smartphones could improve texting emergency services
 title: How smartphones could improve texting emergency services
@@ -10,7 +9,7 @@ summary: "Early writing on how someone texting with emergency services would be 
 ---
 
 
-![How%20smartphones%20could%20improve%20texting%20emergency%20se%202502298a58d24c579dc830a4e82c4fac/1x4bhld6IJ2CtkpC5QQc8EA.webp](/1x4bhld6IJ2CtkpC5QQc8EA.webp)
+![](/1x4bhld6IJ2CtkpC5QQc8EA.webp)
 
 As of May 24, 2014, the main 4 carriers in the US will allow texting with 911. That’s great, but I wondered what it would look like if smartphones could build on top of that idea.
 
@@ -40,7 +39,7 @@ In the event that a message couldn’t be delivered, this application would cont
 
 Interaction via the Lock Screen. [Play with the prototype on Flinto](https://www.flinto.com/p/a624bb9c).
 
-![How%20smartphones%20could%20improve%20texting%20emergency%20se%202502298a58d24c579dc830a4e82c4fac/11yhXebq17Hhn8IKuWN_9pw.gif](/11yhXebq17Hhn8IKuWN_9pw.gif)
+![](/11yhXebq17Hhn8IKuWN_9pw.gif)
 
 ### **1) Lock Screen**
 

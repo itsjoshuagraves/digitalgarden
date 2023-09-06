@@ -1,5 +1,4 @@
 ---
-bookToc: true
 date: 2016-10-01
 linktitle: Giving Your Product A Soul (Smashing Magazine)
 title: Giving Your Product A Soul (Smashing Magazine)

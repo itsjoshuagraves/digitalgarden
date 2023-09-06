@@ -1,5 +1,4 @@
 ---
-bookToc: true
 date: 2018-11-26
 linktitle: Black Mirror brainstorms — a product design exercise (UX Collective)
 title: Black Mirror brainstorms — a product design exercise (UX Collective)
@@ -9,7 +8,7 @@ originalURL: https://uxdesign.cc/black-mirror-brainstorms-f919ccf5938c
 summary: "I want to have more ethical products. I feel like we all do. Sometimes, though, we don’t consider how this amazing thing we’re working on might have some unintended and negative consequences."
 ---
 
-![Black%20Mirror%20brainstorms%20%E2%80%94%20a%20product%20design%20exerci%2068fdb8609e044dea8eaa6decc18a1e9c/1JMSxb1MjvJFDYrjWN4-Krg.webp](/1JMSxb1MjvJFDYrjWN4-Krg.webp)
+![Black Mirror](/1JMSxb1MjvJFDYrjWN4-Krg.webp)
 
 I want to have more ethical products. I feel like we all do. Sometimes, though, we don’t consider how this amazing thing we’re working on might have some unintended and negative consequences.
 
@@ -35,12 +34,11 @@ This exercise helps us guard against the negative effects of our goals by giving
 
 The exercise breaks down into four sections: the **brainstorm**, **quotes,** **plot points**, and the **poster**. Here’s a template.
 
-![Black%20Mirror%20brainstorms%20%E2%80%94%20a%20product%20design%20exerci%2068fdb8609e044dea8eaa6decc18a1e9c/1S1-LWrkeI_2MmpRT2-qQZw.webp](../../1S1-LWrkeI_2MmpRT2-qQZw.webp)
+![Exercise Template](/1S1-LWrkeI_2MmpRT2-qQZw.webp)
 
 Next we’ll start with an example to get us thinking.
 
 > Let’s say we’re a large technology company who’s looking to have the most personalized content so people will spend more time in our product. To do that, we’re building a targeting engine that sifts through millions of data points to spot trends. Our goal is to figure out how this can go wrong for people who we’re collecting data on.
-> 
 
 Now let’s get to each of the sections.
 

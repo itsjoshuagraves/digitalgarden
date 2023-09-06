@@ -1,5 +1,4 @@
 ---
-bookToc: true
 date: 2016-06-20
 link title: Tips for perfect readability with a little help from The Big Lebowski
 title: Tips for perfect readability with a little help from The Big Lebowski
@@ -20,7 +19,7 @@ These ideas aren’t prescriptions or laws, nor should they be perceived as such
 
 If you’ve ever gotten tired from reading a paragraph, it could be because the length isn’t right. The best thing to do is keep your line lengths between 50–75 characters. This helps your eye easily scan what’s in a paragraph without getting tired.
 
-![Tips%20for%20perfect%20readability%20with%20a%20little%20help%20fr%2003727c3cda444b6c886d6fec29154180/1Ueqndpl1vq1-joWbtizhuQ.webp](/1Ueqndpl1vq1-joWbtizhuQ.webp)
+![](/1Ueqndpl1vq1-joWbtizhuQ.webp)
 
 Anything longer than 75 characters increases the chances you’ll re-read a paragraph. Shorter widths will find you losing the train of thought as you jump from line to line.
 
@@ -32,7 +31,7 @@ Line length is an important factor to consider when it comes to responsive desig
 
 Another factor affecting readability is the spacing between lines. It’s known by a few names: line height, leading, or line spacing. When discussing line height, I separate it out in two parts: headlines and everything else.
 
-![Tips%20for%20perfect%20readability%20with%20a%20little%20help%20fr%2003727c3cda444b6c886d6fec29154180/1NuGsjZAjob9FOoCQKMPmOw.webp](//1NuGsjZAjob9FOoCQKMPmOw.webp)
+![](/1NuGsjZAjob9FOoCQKMPmOw.webp)
 
 I’ve found I have the most impactful headlines if I use 90–110% line height. This helps a short burst of text have the oomph it needs without feeling too airy. It also makes headlines feel more tightly connected if they wrap to another line. If you’re working with CSS, avoid using pixels for this and let it be relative to the type size. I set it like this: h1{line-height: 1.1;}
 
@@ -46,7 +45,7 @@ These percentage ranges give you a baseline to work with for your typography. Ea
 
 It’s good to have a system when you make text. A system helps you make better, more strategic decisions when you’re adding new elements to your design.
 
-![Tips%20for%20perfect%20readability%20with%20a%20little%20help%20fr%2003727c3cda444b6c886d6fec29154180/1onyj9EC807T2EoPyBbF5ig.webp](/1onyj9EC807T2EoPyBbF5ig.webp)
+![](/1onyj9EC807T2EoPyBbF5ig.webp)
 
 To get one started, think about the text that’ll be the most plentiful in your design — base everything else off of that. You’re probably going to have lots of paragraphs in your designs, so I usually start there. Next, think about other elements: headers, subheaders, etc. Once I have them, I usually like to plug my designs into something called [Modular Scale](http://modularscale.com/) to help build a hierarchy.
 
@@ -62,7 +61,7 @@ If you’re unfamiliar with how contrast applies here: it refers to the balance 
 
 Just like with photos, you’ll want to have enough contrast make out what you’re seeing easily. Too much in a photo and everything looks like a blown-out 90s album cover, too little and you can’t make out a thing.
 
-![Tips%20for%20perfect%20readability%20with%20a%20little%20help%20fr%2003727c3cda444b6c886d6fec29154180/1kBPEkW8jebbPhqEdqGk_Hg.webp](/1kBPEkW8jebbPhqEdqGk_Hg.webp)
+![](/1kBPEkW8jebbPhqEdqGk_Hg.webp)
 
 Look at Helvetica on the top, and Didot below it. Notice the difference in the stroke around E. Helvetica has a much lower contrast since the stroke is largely the same. Didot has much more contrast. Both are usually good for headlines since those are short and don’t require significant effort to read.
 

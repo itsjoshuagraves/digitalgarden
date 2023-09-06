@@ -1,5 +1,4 @@
 ---
-bookToc: true
 date: 2017-12-22
 link title: Notifications stress me out. How I cut them down to improve my well-being (CBC Radio)
 title: Notifications stress me out. How I cut them down to improve my well-being (CBC Radio)
@@ -9,10 +8,7 @@ originalURL: https://www.cbc.ca/radio/spark/377-notification-fatigue-seasonal-gh
 summary: "I was interviewed by CBC to discuss push notificaitons and the stress they cause."
 ---
 
-
-![Notifications%20stress%20me%20out%20How%20I%20cut%20them%20down%20to%200a07044bab81413681566c02924efc8d/notifications.jpg](../../notifications.jpg)
-
-(Jason Vermes)
+By Jason Vermes
 
 I'm really fed up with notifications.
 
@@ -25,10 +21,6 @@ But I want certain notifications to get through. Texts from my Mom, for example.
 The thing is, when you have almost 70 apps on each of your devices (I should deal with that too), the thought of customizing all these different bleeps and bloops is almost overwhelming.
 
 What's worse is that I'm a tech lover… so I don't want to give up all my cool gadgets. That's why when I discovered my newfound place of solace, I couldn't have been happier.
-
-![Notifications%20stress%20me%20out%20How%20I%20cut%20them%20down%20to%200a07044bab81413681566c02924efc8d/nintendo-switch.jpg](/nintendo-switch.jpg)
-
-(Timothy A. Clary/AFP/Getty Images)
 
 When I bought the [Nintendo Switch](https://www.nintendo.com/switch/), all I wanted to do was save princesses and race go-karts. But it gave me a greater joy than I ever could've imagined: no notifications.
 

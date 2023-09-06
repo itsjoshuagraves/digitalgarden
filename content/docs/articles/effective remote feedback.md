@@ -1,5 +1,4 @@
 ---
-bookToc: true
 date: 2022-05-01
 linktitle: How To Give Effective Feedback Remotely (Smashing Magazine)
 title: How To Give Effective Feedback Remotely (Smashing Magazine)
@@ -15,7 +14,7 @@ In this article, I’ll discuss a few ways to get around that difficulty. We’l
 
 This article is targeted toward designers and developers who are currently working remotely or are planning to switch to remote work.
 
-## Imagine…
+## Imagine
 
 You’re part of a remote design team in a small company that is currently having you focus on revising their to-do app’s design based on some customer feedback and some ideas that the company wants to validate. During your presentation to the company, someone interrupts you. With their camera off, they say: “Wait, why are we wasting time doing this? The existing page is fine. The older colors and layout were better and this new *thing* feels clunky. Just put the sign-up call to action at the top and be done with it.”
 

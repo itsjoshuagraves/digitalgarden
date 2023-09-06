@@ -1,5 +1,4 @@
 ---
-bookToc: true
 date: 2020-05-18
 linktitle: End of Day ceremonies, the key to sleeping better and staying focused during quarantine
 title: End of Day ceremonies, the key to sleeping better and staying focused during quarantine
@@ -8,8 +7,6 @@ tags: Focus
 originalURL: https://medium.com/thisisartium/end-of-day-ceremonies-the-key-to-sleeping-better-and-staying-focused-during-quarantine-7902b8e01339
 summary: "How to empty your brain at the end of the day so you're able to be present in your non-work life."
 ---
-
-![https://miro.medium.com/v2/resize:fit:2000/1*82azlWt6tkCFj877oF44oQ.webp](/1*82azlWt6tkCFj877oF44oQ.webp)
 
 Remember the last time you couldn’t get something out of your head and you woke up thinking about it in the middle of the night? The last few weeks of quarantine have been one continuous stretch of undifferentiated time and it’s become hard to turn things off. So I’ll share what I did about it in hopes of it helping you too. After putting this self-care routine into practice, I’ve been much more effective and focused during the day. In these times, self care is key.
 
@@ -57,8 +54,5 @@ And finally, it helps me be more intentional about setting and accomplishing my 
 After two weeks of this End of Day ceremony, my experiment in self-care did exactly what I wanted it to: I sleep much better than before. My brain is a little less frenetic and I’m able to focus more at work. Turns out, just taking time to purge my brain was the key to it all.
 
 —
-
-*Photo by Alejandro Escamilla on [Unsplash](https://unsplash.com/s/photos/journaling?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
-
 
 [Original post](https://medium.com/thisisartium/end-of-day-ceremonies-the-key-to-sleeping-better-and-staying-focused-during-quarantine-7902b8e01339)

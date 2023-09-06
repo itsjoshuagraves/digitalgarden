@@ -1,5 +1,4 @@
 ---
-bookToc: true
 date: 2015-01-01
 link title: Prototyping iOS And Android Apps With Sketch (Smashing Magazine)
 title: Prototyping iOS And Android Apps With Sketch (Smashing Magazine)

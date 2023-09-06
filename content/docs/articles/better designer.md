@@ -1,5 +1,4 @@
 ---
-bookToc: true
 date: 2014-05-16
 link title: In which a nerd changes almost every part of his life to be better designer
 title: In which a nerd changes almost every part of his life to be better designer
