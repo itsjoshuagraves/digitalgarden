@@ -30,7 +30,7 @@ The final issue was availability. Some drivers drove to an open charger only to 
 
 ### Create Clarity on Chargers
 
-![Filters made sure drivers never went to sites chargers that didn't march their vehicles.](/evgo-filters.webp)
+![Filters made sure drivers never went to sites chargers that did not march their vehicles.](/evgo-filters.webp)
 
 I found that it wasn’t always clear what types of chargers fit which car, and drivers didn’t always know what type of charger they had. Every company had different names for their chargers. Additionally, not all charger types were available at every location.
 

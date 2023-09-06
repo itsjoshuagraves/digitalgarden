@@ -37,13 +37,13 @@ All of this improved velocity, quality, and the speed of the entire team's work.
 
 Some of the individual goodies. You'll notice easy to grab logos, patterns, and tables. Link
 
-![Individual goodies](/individual-goodies.webp)
+![Individual goodies.](/individual-goodies.webp)
 
 
 
 ### The Rebrand
 
-![The rebrand kickoff. We also invited stakeholders to participate and collaborate live to share ideas](/rebrand-kickoff.webp)
+![We invited stakeholders to participate and collaborate live to share ideas.](/rebrand-kickoff.webp)
 
 The space that Azibo occupies is difficult to conquer, and we needed to widen the top of our funnel. To do that, we developed a two-pronged strategy. The first was to differentiate ourselves from competitors. The second is a dashboard, which we'll discuss momentarily.
 
