@@ -16,11 +16,11 @@ The conversation where folks are growing collectively tired of being asked to ra
 
 Some tech folks want to encourage users to rate an app 1 star because they asked for a rating. I think that’s unfair, because that doesn’t seem like a real review at all to me. It doesn’t tell me that the app is buggy, that it steals my data, or [doesn’t alert me to a tornado](http://xkcd.com/937/). It just tells me someone was bothered by being asked to rate an app.
 
-To be clear, I think *just* asking for ratings isn’t the right thing, but I don’t think asking for them is wrong in and of itself. What I think is missing is this: **asking for negative feedback.**
+To be clear, I think *just* asking for ratings isn’t the right thing, but I don’t think asking for them is wrong in and of itself. What I think is missing is this:  asking for negative feedback. 
 
 My biggest problem with App Store reviews are this: they’re a one-way conversation. There should be something better, more conversational. I think that’s where feedback modules can be improved over the standard.
 
-## **Feedback modules, not ‘Rate this App’ modules**
+##  Feedback modules, not ‘Rate this App’ modules 
 
 I believe a solid way to approach asking for feedback and ratings is to ask for feedback, both good and bad. If it’s positive, send them to the App Store to write a review, because you likely don’t have much to talk about. If the feedback’s negative, open a dialog.
 
@@ -37,13 +37,13 @@ I implemented this pattern in a medium-sized news app with thousands of users, a
 
 We later amended this to let people dismiss this instead of prompting a positive or negative response, and let folks see this after an accumulated usage time. We found some users would launch the app (say on a Friday afternoon), quit it, and return a few days later (like Monday morning), which made it harder to get a good idea of how the app was.
 
-Each person got a reply from the support team attempting to help with their problem. Some were angry, most confused because they lost a password, and some experienced legitimate problems that we couldn’t find on our own. **Ultimately, these emails were directly responsible for improving the product, and ultimately turned its health around.**
+Each person got a reply from the support team attempting to help with their problem. Some were angry, most confused because they lost a password, and some experienced legitimate problems that we couldn’t find on our own.  Ultimately, these emails were directly responsible for improving the product, and ultimately turned its health around. 
 
 PS: if you go all Darth Vader here, you’re basically doing some real shady work and deserve all the karmic flack you catch for that. Death Star icon designed by
 
 ![](/1UyJLFr3vj97-loLFiItSGw.gif)
 
-## **Darth Vader, or why feedback modules aren’t the problem**
+##  Darth Vader, or why feedback modules aren’t the problem 
 
 The first thing I hear when talking about app ratings and this approach is that some would call it a [dark pattern](http://darkpatterns.org/). I don’t think of it that way—it’s a tool, just like The Force.
 
@@ -53,7 +53,7 @@ Sure, it could be used for evil and silence all dissent. Just don a black outfit
 
 It’s been my experience that if folks are motivated to complain, they will do it to you, the App Store, and anyone else who will listen, regardless of what types of barriers you introduce for deterring that kind of feedback. More so if your app is a real stinker. If your customers have a problem, you’re doing them a service by being there to talk to them.
 
-**Why not just have a support link?**
+ Why not just have a support link? 
 
 I prefer to have a proactive approach when it comes to feedback. I look at feedback modules as someone checking in on you to make sure things meet your expectations. If they don’t, let’s figure out what we can do to make it better. I’d rather it be me asking how things are going rather than someone coming to find me and tell me about a problem.
 

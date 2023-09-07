@@ -16,7 +16,7 @@ I tend to think about Star Trek when considering how designers and engineers sho
 
 Spock and Kirk work together and solve difficult problems. One’s driven by logic, the other by empathy and the heart. This relationship feels like a good template for how designers and engineers could work together because one working independently wouldn’t be nearly as effective or interesting as both working together. Oh, FYI: you’ll end up playing both Spock and Kirk during the course of a project.
 
-## **Work closely by staying on the bridge with each other.**
+##  Work closely by staying on the bridge with each other. 
 
 Show an engineer your sketches, ideas, and prototypes before you send them out. Make sure you two join the kickoff meeting so everyone can think of ways to solve the problem at hand. That way, your engineer can start to think about how to solve the problem from their end, help avoid any pitfalls, and put forward some other interesting ideas to shape the project.
 

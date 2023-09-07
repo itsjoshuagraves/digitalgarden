@@ -8,7 +8,7 @@ summary: "Early writing on how someone texting with emergency services would be 
 ---
 
 
-![](/1x4bhld6IJ2CtkpC5QQc8EA.webp)
+![Texting with 911.](/1x4bhld6IJ2CtkpC5QQc8EA.webp)
 
 As of May 24, 2014, the main 4 carriers in the US will allow texting with 911. That’s great, but I wondered what it would look like if smartphones could build on top of that idea.
 
@@ -66,11 +66,9 @@ I’d appreciate feedback on how to improve this concept. It would be wonderful 
 
 ### Further Reading & Data
 
-[http://www.911.gov/pdf/Current911DataCollection-072613.pdf](http://www.911.gov/pdf/Current911DataCollection-072613.pdf)
-
-[http://www.911.gov/whencall.html](http://www.911.gov/whencall.html)
-
-[http://www.fcc.gov/guides/text-911-quick-facts-faqs](http://www.fcc.gov/guides/text-911-quick-facts-faqs)
+- [http://www.911.gov/pdf/Current911DataCollection-072613.pdf](http://www.911.gov/pdf/Current911DataCollection-072613.pdf)
+- [http://www.911.gov/whencall.html](http://www.911.gov/whencall.html)
+- [http://www.fcc.gov/guides/text-911-quick-facts-faqs](http://www.fcc.gov/guides/text-911-quick-facts-faqs)
 
 
 [Original post](https://medium.com/@joshuamauldin/how-smartphones-could-improve-texting-emergency-services-876216fd8a5e)

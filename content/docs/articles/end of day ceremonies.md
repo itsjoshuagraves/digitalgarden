@@ -13,7 +13,7 @@ I had been waking up every night at 2:30am thinking about something going on at 
 
 I hoped if I could take a few minutes at the end of each day to shut my brain down, I’d be able to sleep better. So I came up with an experiment: an End Of Day ceremony where I empty out my head so there’d be room to sleep. Experiment #1: journaling.
 
-## **Here’s what I write about**
+##  Here’s what I write about 
 
 1. Anything notable from today
 2. How’ve I’ve been feeling
@@ -22,23 +22,23 @@ I hoped if I could take a few minutes at the end of each day to shut my brain do
 
 I write about the good, the not so good, the seemingly banal (because that’s the stuff that’s caught in my head in the middle of the night). If it’s in my head, it’s going to become text in this journal entry.
 
-## **Here’s how to set it up**
+##  Here’s how to set it up 
 
-### **Find a journaling tool.**
+###  Find a journaling tool. 
 
 Invest no more than 20 minutes here. It’s important that your choice of software gets out of your way and makes writing pleasant. I use [Day One](https://dayone.me/) (but something as simple as Google Docs or Notes could be enough to get you started.
 
-### **Set up a reminder each day at 5 PM to write.**
+###  Set up a reminder each day at 5 PM to write. 
 
 Day One, thankfully, handles that for me.
 
-### **Create a template that includes all the topics you want to cover.**
+###  Create a template that includes all the topics you want to cover. 
 
 If you’re a director like me, this could be how your direct reports are doing, or initiatives you need to track. If you aren’t, some ideas could be tracking how you’re feeling, or noting tiny wins you’ve achieved. Just keep it simple.
 
 Ten minutes later, I’ve emptied out my mind, leaving me free to enjoy a more relaxed sleep.
 
-## **Delightful Surprises**
+##  Delightful Surprises 
 
 This approach already yielded a few unexpected gems.
 
@@ -48,7 +48,7 @@ Another bonus is the record of what I’ve been up to. It’s much easier to rec
 
 And finally, it helps me be more intentional about setting and accomplishing my goals.
 
-## **In closing**
+##  In closing 
 
 After two weeks of this End of Day ceremony, my experiment in self-care did exactly what I wanted it to: I sleep much better than before. My brain is a little less frenetic and I’m able to focus more at work. Turns out, just taking time to purge my brain was the key to it all.
 

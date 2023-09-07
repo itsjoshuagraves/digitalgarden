@@ -1,9 +1,6 @@
 ---
 date: 2023-07-23
 title: Accessibility Audit Guide
-weight: 10
-bookToc: true
-tags: [Guides, Product]
 summary: "What to look for when auditing a site or app for accessibility issues."
 ---
 
@@ -13,7 +10,7 @@ As of writing, the goal is to follow [WCAG 2.1](https://www.w3.org/TR/WCAG21/), 
 
 ### WCAG 2.0 AA
 
-**Section 1: Alternatives**
+#### Section 1: Alternatives
 
 - Alt text (1.1.1): All images and non-text content needs alt text (there are exceptions)
 - Video & Audio alternatives (1.2.1): All video-only and audio-only content has a text transcript. Transcripts are clearly labeled and linked below the media.
@@ -22,7 +19,7 @@ As of writing, the goal is to follow [WCAG 2.1](https://www.w3.org/TR/WCAG21/), 
 - Live captions (1.2.4): Any live video presentations must have closed captions.
 - Audio description (1.2.5): An audio description is optional under 1.2.3 level A but not in 1.2.5 AA.
 
-**Section 2: Presentation**
+#### Section 2: Presentation
 
 - Website structure (1.3.1): Use proper markup techniques to structure your website’s content (e.g. use correct heading tags and HTML for ordered and unordered lists)
 - Meaningful order (1.3.2): Present content in a meaningful order and sequence so that it reads properly.
@@ -33,7 +30,7 @@ As of writing, the goal is to follow [WCAG 2.1](https://www.w3.org/TR/WCAG21/), 
 - Text resize (1.4.4): Text must be able to be resized up to 200% without negatively affecting the ability to read content or use functions.
 - Images of text (1.4.5): Do not use images of text unless necessary (e.g. logo).
 
-**Section 3: User Control**
+#### Section 3: User Control
 
 - Keyboard only (2.1.1): All content and functions on a website must be accessible by keyboard only (i.e. no mouse).
 - No keyboard trap (2.1.2): Keyboard-only users must never get stuck on any part of the website; they must be able to navigate forwards and backwards.
@@ -42,7 +39,7 @@ As of writing, the goal is to follow [WCAG 2.1](https://www.w3.org/TR/WCAG21/), 
 - Three flashes or below (2.3.1): Web pages do not contain anything that flashes more than three times in any one second period.
 - Skip navigation link (2.4.1): A “Skip to Content” or “Skip Navigation” link allows users to bypass the heading and go straight to the main content.
 
-**Section 4: Understandable**
+#### Section 4: Understandable
 
 - Page titles (2.4.2): Each page of a website needs to have a unique and descriptive page title.
 - Focus order (2.4.3): Users must be able to navigate through a website in a logical sequential order that preserves meaning.
@@ -53,7 +50,7 @@ As of writing, the goal is to follow [WCAG 2.1](https://www.w3.org/TR/WCAG21/), 
 - Website language (3.1.1): Set the language for your website (e.g. `html lang=en`)
 - Language changes (3.1.2): Indicate any language changes for an entire page or within the content.
 
-**Section 5: Predictability**
+#### Section 5: Predictability
 
 - No focus change (3.2.1): Nothing changes merely because an item receives focus; a user must actively choose to activate an item (e.g. hit enter to submit) before a change takes place.
 - No input change (3.2.2): Nothing changes just because information is inputted into a field (e.g. form doesn’t auto submit once all fields are filled out).
@@ -68,18 +65,18 @@ As of writing, the goal is to follow [WCAG 2.1](https://www.w3.org/TR/WCAG21/), 
 
 ### WCAG 2.1 AA
 
-- Orientation** **(**1.3.4**): Style your website so that it does not lock on or require a single display mode
-- Input (**1.3.5**): Make it so forms can autocomplete information for users.
-- Reflow (**1.4.10**): Ensure someone can zoom in on your website without requiring scrolling or without causing poor experience.
-- Non-text contrast (**1.4.11**): All meaningful non-text content on your website should have sufficient contrast with the background.
-- Text spacing (**1.4.12**): Make sure your text spacing is able to be adjusted without causing a poor experience.
-- Content on hover or focus (**1.4.13**): Make it so any additional content (e.g. pop-ups, submenus) can be dismissed or remain visible if the user desires
-- Keyboard shortcuts (**2.1.4**): If you have a keyboard shortcut, make sure a user can either 1) turn it off, 2) there’s a way to add another key in the shortcut, and/or 3) have the shortcut only active while focusing on a specific component
-- Pointer gestures (**2.5.1**): Provide simple alternatives (e.g. single tap vs. swipe) to potentially complex finger motions on touch screens
-- Pointer cancellation (**2.5.2**): Provide a way to cancel the trigger when you click down on a mouse or press down/touch with your finger
-- Label in Name (**2.5.3**): Make sure any programmatic labels you make are aligned with the corresponding visual text
-- Motion Actuation (**2.5.4**): For any functions that are activated by motion, provide a simpler, alternative means of action. Also, give users the option to turn off motion activation.
-- Status Messages (**4.1.3**): When a status message appears, it should be coded with role or properties so that people using assistive technologies (e.g. screen readers) are alerted without losing focus
+- Orientation (1.3.4): Style your website so that it does not lock on or require a single display mode
+- Input (1.3.5): Make it so forms can autocomplete information for users.
+- Reflow (1.4.10): Ensure someone can zoom in on your website without requiring scrolling or without causing poor experience.
+- Non-text contrast (1.4.11): All meaningful non-text content on your website should have sufficient contrast with the background.
+- Text spacing (1.4.12): Make sure your text spacing is able to be adjusted without causing a poor experience.
+- Content on hover or focus (1.4.13): Make it so any additional content (e.g. pop-ups, submenus) can be dismissed or remain visible if the user desires
+- Keyboard shortcuts (2.1.4): If you have a keyboard shortcut, make sure a user can either 1) turn it off, 2) there’s a way to add another key in the shortcut, and/or 3) have the shortcut only active while focusing on a specific component
+- Pointer gestures (2.5.1): Provide simple alternatives (e.g. single tap vs. swipe) to potentially complex finger motions on touch screens
+- Pointer cancellation (2.5.2): Provide a way to cancel the trigger when you click down on a mouse or press down/touch with your finger
+- Label in Name (2.5.3): Make sure any programmatic labels you make are aligned with the corresponding visual text
+- Motion Actuation (2.5.4): For any functions that are activated by motion, provide a simpler, alternative means of action. Also, give users the option to turn off motion activation.
+- Status Messages (4.1.3): When a status message appears, it should be coded with role or properties so that people using assistive technologies (e.g. screen readers) are alerted without losing focus
 
 ## Other considerations
 

@@ -10,7 +10,7 @@ summary: "Style guides and Adobe Fireworks. This article is old, but one of my f
 
 I started with style guides like any other obsessive-compulsive designer: with the desire to make it simple to maintain and grow a design. Plus, knowing which component to use in a given situation is nice, too, right? Since making this a regular practice, I’ve found it’s been like having a nice combination of a CSS class and a pattern library all in one.
 
-One of the first questions, understandably, is **why use Fireworks for a style guide?** Well, for me, it’s mostly because of symbols and styles. Sure, you could use similar things in Photoshop, but I find Fireworks’ implementation to be smarter.
+One of the first questions, understandably, is  why use Fireworks for a style guide?  Well, for me, it’s mostly because of symbols and styles. Sure, you could use similar things in Photoshop, but I find Fireworks’ implementation to be smarter.
 
 Here’s why I love it:
 
@@ -21,7 +21,7 @@ Here’s why I love it:
 
 This article is all about understanding why you would want to set up a style guide using Fireworks, and you’ll also get a little starter template that I like to use.
 
-**Important note**: Fireworks’ future is uncertain, as Adobe decided to feature-freeze it in May 2013. There are rumors of Adobe working on a replacement, but nothing definite so far. I’ve spent the last few months with an alternative, [Sketch](https://www.bohemiancoding.com/sketch/), and found it to be… well, pretty fantastic! It’s a young Mac app but shows promise. Also, while Fireworks (CS6) is unlikely to receive any major updates in future, it is still distributed and supported by Adobe and should work on the latest Windows and Mac machines. You can read more about Fireworks’ future in this [pretty detailed article](https://www.smashingmagazine.com/2013/12/19/present-future-adobe-fireworks/).
+ Important note : Fireworks’ future is uncertain, as Adobe decided to feature-freeze it in May 2013. There are rumors of Adobe working on a replacement, but nothing definite so far. I’ve spent the last few months with an alternative, [Sketch](https://www.bohemiancoding.com/sketch/), and found it to be… well, pretty fantastic! It’s a young Mac app but shows promise. Also, while Fireworks (CS6) is unlikely to receive any major updates in future, it is still distributed and supported by Adobe and should work on the latest Windows and Mac machines. You can read more about Fireworks’ future in this [pretty detailed article](https://www.smashingmagazine.com/2013/12/19/present-future-adobe-fireworks/).
 
 ## A Style Guide?
 
@@ -32,9 +32,7 @@ What is exactly a “style guide”, and why would you want to create one? Let�
 
 The biggest reason to create a style guide? The sheer amount of time you’ll save. Depending on the size of the project, reproducing your changes could take minutes or hours. Imagine designing a game, a complex website, a mobile app or a large corporate intranet: having to update one element that appears on dozens or hundreds of pages would be a tedious, madness-inducing task. You have better things to do, like look at cute cat pictures — why waste your time doing the same thing over and over again?
 
-![How%20To%20Make%20An%20Effective%20Style%20Guide%20With%20Adobe%20Fi%20d05c19c9200141b2bcc44fe423c0120b/style-guide-intro-500px.webp](/How%20To%20Make%20An%20Effective%20Style%20Guide%20With%20Adobe%20Fi%20d05c19c9200141b2bcc44fe423c0120b/style-guide-intro-500px.webp)
-
-*A style guide helps you to maintain a consistent look over time, and Fireworks can save a lot of time.*
+![A style guide helps you to maintain a consistent look over time, and Fireworks can save a lot of time.](/How%20To%20Make%20An%20Effective%20Style%20Guide%20With%20Adobe%20Fi%20d05c19c9200141b2bcc44fe423c0120b/style-guide-intro-500px.webp)
 
 Instead of wondering how to style headings, you could look to the style guide for answers. As your design grows and you add elements, putting all of the elements on one page will help to ensure that they look like they were all crafted by the same hand — or at least look consistent. The secondary benefit is that you won’t have to solve the same design problem multiple times.
 
@@ -42,7 +40,7 @@ If you work on a team or for a client, handing off the document to someone else 
 
 Speaking of which, if you’ve ever applied a CSS class or ID to an HTML element, then you’ve basically written a style guide — even if you didn’t necessarily formalize it as such.
 
-When you’re presenting a design to a client or team, use the style guide to guide your presentation. A lot of people are talking about style tiles, style prototypes and element collages these days; there’s no reason why a style guide can’t fit in there. **It’s a great way to help someone visualize** what a product will look like without having to design every screen.
+When you’re presenting a design to a client or team, use the style guide to guide your presentation. A lot of people are talking about style tiles, style prototypes and element collages these days; there’s no reason why a style guide can’t fit in there.  It’s a great way to help someone visualize  what a product will look like without having to design every screen.
 
 ### Who Uses Style Guides Anyway?
 
@@ -74,7 +72,7 @@ All that being said, the size of the style guide should fit the project. If you�
 
 If you’re developing a mobile app, ensure that the design and development team is familiar with the human interface guidelines of the relevant device or platform. [Apple](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG), [Google](https://developer.android.com/design/index.html), [Microsoft](https://msdn.microsoft.com/en-us/windows/apps/hh779072) and others publish guidelines to ensure quality and consistency. The guidelines are geared to designers, but you might want to ensure that your team understands things like the minimum touch size for buttons (44 × 44 pixels for iOS, by the way) and the standards for typography and icons.
 
-I try to **keep everything on one page in Fireworks**, because exporting slices is much easier if all elements are on the same page (more on that later). The alternative is going to each page, exporting an image, checking that I’ve put it in the right folder, and then cursing myself if I’ve accidentally saved it to the wrong spot.
+I try to  keep everything on one page in Fireworks , because exporting slices is much easier if all elements are on the same page (more on that later). The alternative is going to each page, exporting an image, checking that I’ve put it in the right folder, and then cursing myself if I’ve accidentally saved it to the wrong spot.
 
 Speaking of which, aren’t slices in Fireworks awesome? Without them, we’d have to do something like this:
 
@@ -87,7 +85,7 @@ Speaking of which, aren’t slices in Fireworks awesome? Without them, we’d ha
 
 Clearly, no one would want to do this. If slices were a person you could hang out with at a bar, I’d buy them drinks all night.
 
-Use **symbols** and **styles** as often as possible. With them, you can easily create something once and update it throughout the document. (By the way, Fireworks doesn’t always honor updates to styles inside of symbols. Sometimes you’ll have go into each symbol and refresh the style individually. It’s a bit of a drag, but it happens so rarely that I’m not bothered.)
+Use  symbols  and  styles  as often as possible. With them, you can easily create something once and update it throughout the document. (By the way, Fireworks doesn’t always honor updates to styles inside of symbols. Sometimes you’ll have go into each symbol and refresh the style individually. It’s a bit of a drag, but it happens so rarely that I’m not bothered.)
 
 ## A Quick Primer On Symbols, Slices And Styles
 
@@ -95,9 +93,7 @@ Use **symbols** and **styles** as often as possible. With them, you can easily c
 
 Use a symbol when a UI element repeats throughout the website or application. The usual candidates are buttons, icons, images and logos. A symbol has states, too, giving you the flexibility to display various states of an element (for example selected and unselected) or just to test various iterations of an item.
 
-![How%20To%20Make%20An%20Effective%20Style%20Guide%20With%20Adobe%20Fi%20d05c19c9200141b2bcc44fe423c0120b/symbols-example-500px.webp](How%20To%20Make%20An%20Effective%20Style%20Guide%20With%20Adobe%20Fi%20d05c19c9200141b2bcc44fe423c0120b/symbols-example-500px.webp)
-
-*Symbols are helpful and even have states! ([View large version](https://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/93d91967-48b2-4d3a-94c2-608e2f60d1d5/symbols-example-large.webp))*
+![Symbols are helpful and even have states!](How%20To%20Make%20An%20Effective%20Style%20Guide%20With%20Adobe%20Fi%20d05c19c9200141b2bcc44fe423c0120b/symbols-example-500px.webp)
 
 To convert an element to a symbol, simply select it and go to `Modify → Symbol → Convert to Symbol…` (or press `F8`).
 
@@ -121,7 +117,7 @@ Once your symbols are set, create a slice for each element. Fireworks’ naming 
 
 *Insert a rectangular slice an an object. ([View large version](https://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7a4e1a6a-332c-4ff1-83ad-b81c30e26b17/insert-slice-large.webp))*
 
-**Useful tip:** You can highlight multiple elements and create individual slices for each one. Simply select all of the elements on the canvas, and go to `Insert Rectangular Slice → Multiple slices`! It’s a real time-saver.
+ Useful tip:  You can highlight multiple elements and create individual slices for each one. Simply select all of the elements on the canvas, and go to `Insert Rectangular Slice → Multiple slices`! It’s a real time-saver.
 
 *To create multiple slices, select multiple objects on the canvas, select “Insert Rectangular Slice,” and then the “Multiple” option. ([View large version](https://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ed066b0d-1702-4b91-b308-50c4e0026c0d/slices-single-multiple-large.webp))*
 
@@ -129,13 +125,13 @@ Once your symbols are set, create a slice for each element. Fireworks’ naming 
 
 If you’re creating an app, try to work with vector graphics whenever possible, which make it much easier to scale icons infinitely to higher-resolution devices. I’ll have to gloss over some finer points, such as ensuring that icons scale down well.
 
-**Useful tip:** The *[Icon Design Handbook](https://hicksdesign.co.uk/journal/the-icon-handbook)* has you covered on that front. It has has great tips on making beautiful icons. Also, [Ivo Mynttinen teaches quite a few things](https://www.smashingmagazine.com/2012/12/03/design-ios-apps-with-adobe-fireworks/) about designing icons with Fireworks.
+ Useful tip:  The *[Icon Design Handbook](https://hicksdesign.co.uk/journal/the-icon-handbook)* has you covered on that front. It has has great tips on making beautiful icons. Also, [Ivo Mynttinen teaches quite a few things](https://www.smashingmagazine.com/2012/12/03/design-ios-apps-with-adobe-fireworks/) about designing icons with Fireworks.
 
 So, how do we achieve this in Fireworks? Sure, we could drop in regular and `@2x` versions, but vectors can be exported as SVGs, courtesy of Aaron Beall’s handy [Export](https://fireworks.abeall.com/extensions/commands/Export/) extension.
 
-**Useful tip:** Another article on Smashing Magazine gets a little nerdy talking about “[Resolution Independence With SVG](https://www.smashingmagazine.com/2012/01/16/resolution-independence-with-svg/).”
+ Useful tip:  Another article on Smashing Magazine gets a little nerdy talking about “[Resolution Independence With SVG](https://www.smashingmagazine.com/2012/01/16/resolution-independence-with-svg/).”
 
-Usually when designing for the Web, an icon font is most helpful. I have nothing but love for [IcoMoon](https://icomoon.io/), which creates an icon font from SVG graphics that you upload, for free. Icon fonts currently have some limitations, such as individual elements being confined to one color. So, if you need multiple colors, gradients and so on for your icons, then exporting an SVG or a `@2x` webp might be best. (**Note:** SVG is supported in Internet Explorer 8+ and in recent versions of all other major browsers.)
+Usually when designing for the Web, an icon font is most helpful. I have nothing but love for [IcoMoon](https://icomoon.io/), which creates an icon font from SVG graphics that you upload, for free. Icon fonts currently have some limitations, such as individual elements being confined to one color. So, if you need multiple colors, gradients and so on for your icons, then exporting an SVG or a `@2x` webp might be best. ( Note:  SVG is supported in Internet Explorer 8+ and in recent versions of all other major browsers.)
 
 ### When To Start Preparing the Guide?
 
@@ -200,7 +196,7 @@ Select all of the elements to be sliced, and then go to `Edit → Insert → R
 
 *Create rectangular slices. [(View large version)](https://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/05d2365e-54f4-4e64-87e0-5a8188c95897/fw-insert-rectangular-slice-large.webp)*
 
-**Note:** When Fireworks asks, choose “Multiple,” or else it will create a single large slice.
+ Note:  When Fireworks asks, choose “Multiple,” or else it will create a single large slice.
 
 Slices are ready to be exported whenever you’re ready! You can even give slices their own export settings (webp32, webp24, webp8, GIF or any custom format — for example, webp8 with a limited number of colors, webp Progressive with a set quality, etc.). The settings will be saved in the Fireworks webp file, so exporting and re-exporting assets is very easy.
 
@@ -239,9 +235,9 @@ Finally, the Properties panel gives you complete control of the properties of al
 
 ## Closing Thoughts
 
-**Useful tip:** Another article on Smashing Magazine gets a little nerdy talking about “[Resolution Independence With SVG](https://www.smashingmagazine.com/2012/01/16/resolution-independence-with-svg/).”
+ Useful tip:  Another article on Smashing Magazine gets a little nerdy talking about “[Resolution Independence With SVG](https://www.smashingmagazine.com/2012/01/16/resolution-independence-with-svg/).”
 
-Usually when designing for the Web, an icon font is most helpful. I have nothing but love for [IcoMoon](https://icomoon.io/), which creates an icon font from SVG graphics that you upload, for free. Icon fonts currently have some limitations, such as individual elements being confined to one color. So, if you need multiple colors, gradients and so on for your icons, then exporting an SVG or a `@2x` webp might be best. (**Note:** SVG is supported in Internet Explorer 8+ and in recent versions of all other major browsers.)
+Usually when designing for the Web, an icon font is most helpful. I have nothing but love for [IcoMoon](https://icomoon.io/), which creates an icon font from SVG graphics that you upload, for free. Icon fonts currently have some limitations, such as individual elements being confined to one color. So, if you need multiple colors, gradients and so on for your icons, then exporting an SVG or a `@2x` webp might be best. ( Note:  SVG is supported in Internet Explorer 8+ and in recent versions of all other major browsers.)
 
 ### When To Start Preparing the Guide?
 
@@ -306,7 +302,7 @@ Select all of the elements to be sliced, and then go to `Edit → Insert → R
 
 *Create rectangular slices. [(View large version)](https://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/05d2365e-54f4-4e64-87e0-5a8188c95897/fw-insert-rectangular-slice-large.webp)*
 
-**Note:** When Fireworks asks, choose “Multiple,” or else it will create a single large slice.
+ Note:  When Fireworks asks, choose “Multiple,” or else it will create a single large slice.
 
 Slices are ready to be exported whenever you’re ready! You can even give slices their own export settings (webp32, webp24, webp8, GIF or any custom format — for example, webp8 with a limited number of colors, webp Progressive with a set quality, etc.). The settings will be saved in the Fireworks webp file, so exporting and re-exporting assets is very easy.
 

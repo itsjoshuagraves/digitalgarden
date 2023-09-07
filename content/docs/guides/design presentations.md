@@ -1,9 +1,6 @@
 ---
 date: 2023-07-23
-link title: Design Presentations
 title: Design Presentations
-weight: 10
-tags: [Guides, Product]
 summary: "On presenting design work and soliciting feedback."
 bookToc: true
 
@@ -13,33 +10,24 @@ How we communicate about our work is just as important as the effort that went i
 
 ## Show in context
 
-It’s always best to show something in context, and at the right fidelity. To that end:
+It’s always best to show something in context and at the right fidelity. To that end:
 
-- Prefer to show something interactive over something static
-- Prefer to show something in context (e.g. if it’s an app, show it on a phone. A site should be demoed in a browser.)
-- Avoid sending any static PDF or mockup, especially by email
-    - If this is our only option, it’s important to make sure we accompany it with a verbal conversation at the same time so the design isn’t misinterpreted
+- Show interactive over static
+- Show it in context
+- Never send a PDF, especially by email
+
+To not do these loses valuable context.
 
 ## Scope your sessions
 
-Just like we don’t start projects without clear goals, we don’t have design presentations without expected outcomes and structure.
+Know what you want to get out of your sessions before going in.
 
-- Be specific in articulating what you need feedback on
-- Give ample time
-- general
-    - always show in context
-        - apps should be on phones or shown in mockups of phones
-        - sites should be in live html
-        - only send pdfs and static imagery as a last resort
-    - scope the session
-        - what specifically would you like feedback on
-            - do not ask them if they like it
-            - e.g. what might we not be seeing, what hurdles do you see in adoption?
-        - give ample time for feedback
-            - consider sending in advance so feedback can be more considered
-            - present work, give them 5 or so min to write feedback down
-        - do/try/consider
-- for products
-    - make it about goals
-- for branding/marketing
-    - focus on brand guidelines, tone and voice
+- Articulate what you need feedback on: is it a login flow? Legibility check?
+    - Discuss how your work maps to objectives and goals.
+    - If it's brand-related, focus on brand guidelines, tone and voice.
+- Give ample time to consider and discuss.
+    - Consider sending in advance so feedback can be more considered
+- Do not ask someone if they like it. Do not tell them everything that's on the screen.
+    - Instead ask things like "what might we not be seeing," "what hurdles do you see in adoption?
+- Give them 5 or so min to write feedback down
+    - Initial gut reactions don't always yield the most productive comments.

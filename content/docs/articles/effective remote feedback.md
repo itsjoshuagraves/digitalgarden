@@ -50,15 +50,9 @@ When we are threatened, something called the amygdala (which is our brain’s �
 
 You want the receiver of the feedback to feel comfortable enough to hear what you have to say without triggering their amygdala response, and you need to feel comfortable enough to say it. This is called *psychological safety*, and it is defined like this:
 
-> “Psychological safety is being able to show and employ one’s self without fear of negative consequences of self-image, status or career (Kahn 1990, p. 708). It can be defined as a shared belief that the team is safe for interpersonal risk-taking. In psychologically safe teams, team members feel accepted and respected. It is also the most studied enabling condition in
-> 
-> 
-> [group dynamics](https://en.wikipedia.org/wiki/Group_dynamics)
-> 
-> [team learning](https://en.wikipedia.org/wiki/Team_learning)
+> “Psychological safety is being able to show and employ one’s self without fear of negative consequences of self-image, status or career (Kahn 1990, p. 708). It can be defined as a shared belief that the team is safe for interpersonal risk-taking. In psychologically safe teams, team members feel accepted and respected. It is also the most studied enabling condition in [group dynamics](https://en.wikipedia.org/wiki/Group_dynamics) and team learning](https://en.wikipedia.org/wiki/Team_learning)
 > 
 > [Wikipedia](https://en.wikipedia.org/wiki/Psychological_safety)
-> 
 
 The tools that follow will help build and maintain psychological safety by signaling that it’s not a harmful situation. Remember, when you lose safety, it’s because someone’s survival circuits kicked in. Better put, psychological safety is the underpinning of all good conversations.
 
@@ -72,7 +66,7 @@ We’ll learn how to give high-fidelity feedback, share actionable and specific 
 
 Having a conflict when collaborating remotely causes us to lose what I call “high fidelity conversation,” leaving everyone at a disadvantage. Here’s my definition:
 
-> High fidelity conversation
+> **High fidelity conversation**
 > It is a conversation in which all participants have access to the full range of human communication, including tone of voice as well as non-verbal cues, such as body language and tone.
 
 As more and more teams work remotely, we lose out on vital conversational cues, such as body language and tone of voice, leaving us in the dark about what someone truly means when they speak. Let’s dig into why this is difficult so that we can frame up an appropriate response.
@@ -93,8 +87,10 @@ There are times, however, when real-time communication isn’t an option, especi
 
 Failing that, you’ll need to work a little harder to ensure things are taken well. Remember, you’re losing a lot of fidelity here, so you’ll need to compensate. Here are two of the best tips:
 
-1. **Be very clear with your language.**Humans’ brains like to fill in the gaps with negative assumptions.
-2. **Use emoji. 😊**Because [our brains perceive emoji in the same way that it does a real human’s reaction](https://www.wired.com/2014/02/brain-smiley-emoticon-science/). Don’t overuse them, but know they’re a helpful tool if people can’t see your real face.
+- Be very clear with your language. 
+	- Humans’ brains like to fill in the gaps with negative assumptions.
+- Use emoji. 😊
+	- Because [our brains perceive emoji in the same way that it does a real human’s reaction](https://www.wired.com/2014/02/brain-smiley-emoticon-science/). Don’t overuse them, but know they’re a helpful tool if people can’t see your real face.
 
 ### Ask For (And Give) Actionable Feedback On Specific Areas
 
@@ -116,7 +112,8 @@ I’ve found Asana’s method to be particularly helpful here — you need to bu
 
 > “A while back at Asana we noticed teams were laser-focused on shipping and would carefully ask if each piece of feedback was “launch blocking” at our launch reviews. Often non-blocking feedback would be brushed aside even if it was relatively cheap and would really improve the quality of the product. We reflected on what was happening and realized that we didn’t have clear language or norms on how to give or respond to feedback. And so, the Do, Try, Consider framework was born.”
 
-![[Do, Try, Consider — How we give product feedback at Asana](https://jackiebo.medium.com/do-try-consider-how-we-give-product-feedback-at-asana-db9bc754cc4a)](https://res.cloudinary.com/indysigner/image/fetch/f_auto,q_80/w_2000/https://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/37cb3e77-953b-4e46-9fb2-bbff722b576e/2-give-effective-feedback-remotely.png)
+
+[![Do, Try, Consider — How we give product feedback at Asana](https://res.cloudinary.com/indysigner/image/fetch/f_auto,q_80/w_2000/https://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/37cb3e77-953b-4e46-9fb2-bbff722b576e/2-give-effective-feedback-remotely.png)](https://zibo-co.github.io/frontend-azibo/?path=/story/refactor-cards-cardpromo--default)
 
 
 When giving feedback, you should give the person something to explore or try. For example, instead of “Put the sign-up call to action here,” try “What other layouts might help us achieve our goal?”
@@ -127,8 +124,8 @@ Here’s how a feedback session could work:
 
 Invite people to have several minutes of quiet ideation, adding sticky notes to a virtual board. Once the solo time expires, group the similar sticky notes and then discuss each group individually, bucketing them accordingly.
 
-![](https://res.cloudinary.com/indysigner/image/fetch/f_auto,q_80/w_2000/https://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6b89972c-a1c5-4b18-9ea4-32b118e5fdc5/figma-feedback-template.png)
-Here’s a little [template](https://www.figma.com/community/file/1103730337624845214/Feedback-Template) that I made:
+[![Here’s a little Figma template that I made.](https://res.cloudinary.com/indysigner/image/fetch/f_auto,q_80/w_2000/https://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6b89972c-a1c5-4b18-9ea4-32b118e5fdc5/figma-feedback-template.png)](https://www.figma.com/community/file/1103730337624845214/Feedback-Template)
+
 
 And here’s how this could look like in action:
 
@@ -137,12 +134,6 @@ And here’s how this could look like in action:
 > Person B: “The account settings should definitely be not so front-and-center, I think we have to put them under ‘Profile’ to match the website UX. Also, I expected to see the buttons in our brand’s shade of blue and not the shade that you have used. Can we change the color?”
 > 
 > Person A: “Okay, let’s talk about the blue first. We didn’t have a matching shade that was also accessible (not enough color contrast), so I made a new one that was. Is this comment a must-do, try, or consider? Also, it sounds like repositioning the account settings is a must-do, is that right?”
-
-
-
-
-
-
 
 
 ### Be Kind
@@ -176,7 +167,11 @@ Here’s what they look like:
 Here are a few refocusing statements in action:
 
 > “I don’t intend to imply you’re not a skillful enough designer, I’m saying that this isn’t up to our team’s standards. We can &mdash, and we want — to help you get there though.”
+>
+> “I’m not saying you have to do it my way. I know that you’ve got a lot more expertise in designing interfaces than I do. I just wanted to say that we need to consult with one another before sending the prototypes to the stakeholders because I’m responsible for doing the accessibility audits and don’t want any unnecessary back and forth to happen.”
 > 
+> “It’s not that you aren’t welcome to contribute to the user interviews or you aren’t a part of our team, your expertise in this is essential. Rather I would say that the type of questions you asked could taint our user research. Can we talk about how to reframe those questions?”
+
 
 By framing the statements like in these examples, we actively address someone’s humanity and experience, and at the same time, we shift the conversation in a way that overcomes the objection or misunderstanding.
 
