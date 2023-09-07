@@ -1,9 +1,6 @@
 ---
 date: 2023-07-23
-linktitle: Quick Start Guide
 title: Quick Start Guide
-weight: 10
-tags: [Guides, Product]
 bookToc: true
 summary: "A quick checklist to make sure designers have what they need to get going at the start of a project."
 ---

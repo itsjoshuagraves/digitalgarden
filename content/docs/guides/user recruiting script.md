@@ -1,10 +1,6 @@
 ---
 date: 2023-07-23
-link title: User Recruiting Script
 title: User Recruiting Script
-weight: 10
-tags: [Guides, Product]
-bookToc: true
 summary: "A script that you can send to people you want to interview for your research."
 ---
 

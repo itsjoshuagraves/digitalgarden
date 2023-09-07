@@ -1,8 +1,6 @@
 ---
 date: 2023-08-08
 title: Books for Design Beginners
-tags: [Guides, Design]
-weight: 10
 bookToc: true
 summary: "Covers basics, typography, and deeper topics like writing and communicating. Being a good designer is much more than what software you use."
 ---

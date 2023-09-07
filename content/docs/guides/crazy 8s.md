@@ -1,9 +1,6 @@
 ---
 date: 2023-07-23
-linktitle: Crazy 8s
 title: Crazy 8s
-weight: 10
-tags: [Guides, Product, Exercise]
 summary: "An exercise in idea generation."
 bookToc: true
 ---

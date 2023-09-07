@@ -13,18 +13,18 @@ My workshops give you tools you can use immediately in your next tough conversat
 ## Easily digestible, tactical tools
 
 - Learn to structure any conversation for maximum success by using tools like the Conversation Pyramid and Cranky Conclusions
-- Understandhowtokeepeveryoneengagedeven when the stakes are high.R
+- Understandhowtokeepeveryoneengagedeven when the stakes are high.
 - Know how to correct failing conversations and restore safety so you can keep going.
 
 ## Build better products and teams
 
-- Learn how to establish shared purpose when compromise seems impossible.R
-- Be able to kindly deliver tough decisions to underperforming teammatesU
+- Learn how to establish shared purpose when compromise seems impossible.
+- Be able to kindly deliver tough decisions to underperforming teammates
 - Know how to make the most of conflict on remote teams.
 
 ## Inclusivity and empowerment
 
-- Know how to build psychological safety into your team by starting smallU
+- Know how to build psychological safety into your team by starting small
 - Understand the best ways to address gender and power dynamicsU
 - Learn how to have cross-cultural conflict that isn’t based on stereotypes.
 

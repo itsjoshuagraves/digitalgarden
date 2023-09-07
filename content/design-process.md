@@ -1,6 +1,7 @@
 ---
 title: Design Process
 type: docs
+bookToc: true
 summary: "How I do what I do."
 ---
 

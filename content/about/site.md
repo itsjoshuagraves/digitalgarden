@@ -31,7 +31,7 @@ I also took inspiration from [Devine Lu Linvega](https://wiki.xxiivv.com/site/ho
 
 
 ## How's this built?
-I use [Hugo](http://gohugo.io), a static site generator. There's no fancy CMS, it’s just Markdown-powered text files and the site is served by GitHub pages. The only Javascript here powers a search feature, so that means no tracking. 
+I use [Hugo](http://gohugo.io), a static site generator. There's no fancy CMS, it’s just Markdown-powered text files and the site is served by GitHub pages. The only meaningful Javascript here powers a search feature, so that means no trackers here either. I reserve the right to add sparkling via Javascript.
 
 There are other constraints. I won’t be adding flashy animations, adding layouts, and only allowing minimal imagery. I’ll indulge myself with nice typefaces though, because I love them so. 
 
