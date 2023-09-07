@@ -1,5 +1,6 @@
 ---
 date: 2015-05-16
+bookToc: true
 title: My week with Soylent 1.4, or “Oh god I want a burger”
 tags: ["Medium"]
 originalURL: https://medium.com/@joshuamauldin/my-week-with-soylent-1-4-or-oh-god-i-want-a-burger-7df2ac6690f2

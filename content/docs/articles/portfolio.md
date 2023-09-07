@@ -1,6 +1,6 @@
 ---
 date: 2020-08-13
-link title: What we look for in a product designer’s portfolio
+bookToc: true
 title: What we look for in a product designer’s portfolio
 tags: ["Artium"]
 originalURL: https://medium.com/thisisartium/what-we-look-for-in-a-product-designers-portfolio-d7ae90056a3b

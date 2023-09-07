@@ -1,5 +1,6 @@
 ---
 date: 2016-08-04
+bookToc: true
 title: One idea that could curb harassment on social media
 tags: ["Medium"]
 originalURL: https://medium.com/@joshuamauldin/one-idea-that-could-curb-harassment-on-social-media-ae253aa37555

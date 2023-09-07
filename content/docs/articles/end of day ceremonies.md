@@ -1,6 +1,7 @@
 ---
 date: 2020-05-18
 title: End of Day Ceremonies
+bookToc: true
 tags: ["Artium"]
 originalURL: https://medium.com/thisisartium/end-of-day-ceremonies-the-key-to-sleeping-better-and-staying-focused-during-quarantine-7902b8e01339
 summary: "How to empty your brain at the end of the day so you're able to be present in your non-work life."

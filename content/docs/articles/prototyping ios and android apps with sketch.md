@@ -1,5 +1,6 @@
 ---
 date: 2015-01-01
+bookToc: true
 title: Prototyping iOS And Android Apps With Sketch
 tags: ["Smashing Magazine"]
 originalURL: https://www.smashingmagazine.com/2015/01/prototyping-ios-android-apps-sketch-freebie/

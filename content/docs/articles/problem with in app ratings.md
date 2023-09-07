@@ -1,6 +1,6 @@
 ---
 date: 2013-04-12
-link title: My real problem with in-app rating modules
+bookToc: true
 title: My real problem with in-app rating modules
 tags: ["Medium"]
 originalURL: https://medium.com/@joshuamauldin/my-real-problem-with-in-app-rating-modules-b2c0df494783

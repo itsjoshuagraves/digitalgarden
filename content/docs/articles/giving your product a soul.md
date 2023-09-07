@@ -1,5 +1,6 @@
 ---
 date: 2016-10-01
+bookToc: true
 title: Giving Your Product A Soul
 tags: ["Smashing Magazine"]
 originalURL: https://www.smashingmagazine.com/2016/10/giving-your-product-a-soul/

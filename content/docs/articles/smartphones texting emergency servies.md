@@ -1,5 +1,6 @@
 ---
 date: 2013-04-03
+bookToc: true
 title: How smartphones could improve texting emergency services
 tags: ["Medium"]
 originalURL: https://medium.com/@joshuamauldin/how-smartphones-could-improve-texting-emergency-services-876216fd8a5e

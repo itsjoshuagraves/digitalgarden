@@ -1,5 +1,6 @@
 ---
 date: 2018-01-15
+bookToc: true
 title: I turned off my push notifications and I’ve never been happier
 tags: ["Medium"]
 originalURL: https://medium.com/@joshuamauldin/i-turned-off-my-push-notifications-and-ive-never-been-happier-582ecae25708

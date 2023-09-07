@@ -2,6 +2,7 @@
 date: 2015-01-11
 title: Requiem for a side project, quitting AwesomeGIFs
 tags: ["Medium"]
+bookToc: true
 originalURL: https://medium.com/@joshuamauldin/requiem-for-a-side-project-quitting-awesomegifs-fc08a0e879df
 summary: "I ran a site called AwesomeGIFs, and eventually left it. RIP."
 ---

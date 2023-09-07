@@ -1,6 +1,6 @@
 ---
 date: 2019-06-26
-link title: How video games taught me to be better at conflict
+bookToc: true
 title: How video games taught me to be better at conflict
 tags: ["Conflict Resolution"]
 originalURL: https://medium.com/conflict-resolution-for-people-who-hate-conflict/how-video-games-taught-me-to-be-better-at-conflict-69cdb52e670f

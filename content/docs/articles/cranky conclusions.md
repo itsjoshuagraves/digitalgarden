@@ -2,6 +2,7 @@
 date: 2019-07-16
 title: How using Cranky Conclusions makes tough conversations easier
 tags: ["Conflict Resolution"]
+bookToc: true
 originalURL: https://medium.com/conflict-resolution-for-people-who-hate-conflict/how-using-cranky-conclusions-makes-tough-conversations-easier-4af9789dfa1e
 summary: "Ever needed to tell a teammate something tough but fear they’ll get too defensive? Here’s one way that’s proven to work."
 ---

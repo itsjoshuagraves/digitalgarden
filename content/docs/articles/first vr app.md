@@ -1,5 +1,6 @@
 ---
 date: 2018-05-08
+bookToc: true
 title: What I learned making my first VR app
 tags: ["Prototypr"]
 originalURL: https://medium.com/prototypr/what-i-learned-making-my-first-vr-app-e6c19a160342

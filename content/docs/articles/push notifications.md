@@ -1,5 +1,6 @@
 ---
 date: 2017-04-21
+bookToc: true
 title: Push Notifications, the good, the bad, and the wtf could u not
 tags: ["UX Collective"]
 originalURL: https://medium.com/user-experience-design-1/push-notifications-the-good-the-bad-and-the-wtf-could-u-not-b73d6b2c4f90

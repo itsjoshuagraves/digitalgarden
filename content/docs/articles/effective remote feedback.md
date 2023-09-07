@@ -1,7 +1,7 @@
 ---
 date: 2022-05-01
 title: How To Give Effective Feedback Remotely
-weight: 10
+bookToc: true
 tags: ["Smashing Magazine"]
 originalURL: https://www.smashingmagazine.com/2022/05/give-effective-feedback-remotely/#top
 summary: "I wrote about how to give good feedback to other designers and why it's worth the effort."
@@ -73,7 +73,7 @@ We’ll learn how to give high-fidelity feedback, share actionable and specific 
 Having a conflict when collaborating remotely causes us to lose what I call “high fidelity conversation,” leaving everyone at a disadvantage. Here’s my definition:
 
 > High fidelity conversation
-> 
+> It is a conversation in which all participants have access to the full range of human communication, including tone of voice as well as non-verbal cues, such as body language and tone.
 
 As more and more teams work remotely, we lose out on vital conversational cues, such as body language and tone of voice, leaving us in the dark about what someone truly means when they speak. Let’s dig into why this is difficult so that we can frame up an appropriate response.
 
@@ -115,10 +115,9 @@ We often mistake a client’s, a manager’s, or a stakeholder’s desire to con
 I’ve found Asana’s method to be particularly helpful here — you need to bucket the feedback into three buckets: **do**, **try**, and **consider**.
 
 > “A while back at Asana we noticed teams were laser-focused on shipping and would carefully ask if each piece of feedback was “launch blocking” at our launch reviews. Often non-blocking feedback would be brushed aside even if it was relatively cheap and would really improve the quality of the product. We reflected on what was happening and realized that we didn’t have clear language or norms on how to give or respond to feedback. And so, the Do, Try, Consider framework was born.”
-> 
-> 
-> [Do, Try, Consider — How we give product feedback at Asana](https://jackiebo.medium.com/do-try-consider-how-we-give-product-feedback-at-asana-db9bc754cc4a)
-> 
+
+![[Do, Try, Consider — How we give product feedback at Asana](https://jackiebo.medium.com/do-try-consider-how-we-give-product-feedback-at-asana-db9bc754cc4a)](https://res.cloudinary.com/indysigner/image/fetch/f_auto,q_80/w_2000/https://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/37cb3e77-953b-4e46-9fb2-bbff722b576e/2-give-effective-feedback-remotely.png)
+
 
 When giving feedback, you should give the person something to explore or try. For example, instead of “Put the sign-up call to action here,” try “What other layouts might help us achieve our goal?”
 
@@ -128,17 +127,23 @@ Here’s how a feedback session could work:
 
 Invite people to have several minutes of quiet ideation, adding sticky notes to a virtual board. Once the solo time expires, group the similar sticky notes and then discuss each group individually, bucketing them accordingly.
 
+![](https://res.cloudinary.com/indysigner/image/fetch/f_auto,q_80/w_2000/https://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6b89972c-a1c5-4b18-9ea4-32b118e5fdc5/figma-feedback-template.png)
 Here’s a little [template](https://www.figma.com/community/file/1103730337624845214/Feedback-Template) that I made:
 
 And here’s how this could look like in action:
 
-> Person A:
+> Person A: “Hey Person B, here’s the latest prototype. I’d like to get feedback on the navigation structure for this app because I’m feeling a little tension with where the account settings are currently located. I’m also not sure about whether or not this design iteration is fully in line with the new brand look that we’re rolling out next quarter.”
 > 
+> Person B: “The account settings should definitely be not so front-and-center, I think we have to put them under ‘Profile’ to match the website UX. Also, I expected to see the buttons in our brand’s shade of blue and not the shade that you have used. Can we change the color?”
 > 
-> **Person B:**
-> 
-> **Person A:**
-> 
+> Person A: “Okay, let’s talk about the blue first. We didn’t have a matching shade that was also accessible (not enough color contrast), so I made a new one that was. Is this comment a must-do, try, or consider? Also, it sounds like repositioning the account settings is a must-do, is that right?”
+
+
+
+
+
+
+
 
 ### Be Kind
 
@@ -161,11 +166,6 @@ I hope you chose the second option. 😄
 
 Despite our best efforts, conversations will still go sideways sometimes. Here, we’ll discuss the best way to perform some conversational “first aid” when things feel a little dicey. Enter what I call **refocusing statements**.
 
-> A
-> 
-> 
-> **refocusing statement**
-> 
 
 Here’s what they look like:
 
