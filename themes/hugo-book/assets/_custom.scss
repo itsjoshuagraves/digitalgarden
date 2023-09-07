@@ -27,7 +27,7 @@ figcaption h4 {margin:0 !important;}
 .page-title {
 	margin-top: 0 !important;
 	line-height: 1.0;
-	padding-bottom: 16px;
+	padding-bottom: 8px;
 	font-size: 48px;
 }
 
@@ -63,7 +63,7 @@ body {
   	font-style: normal;
   	p {
   	margin-top: 0;
-  		line-height: 130%;
+  		line-height: 166%;
   	}
 }
 
@@ -72,7 +72,7 @@ code {
 }
 
 .book-post p{
-	line-height: 130%;
+	line-height: 166%;
 }
 
 .book-menu-content {
@@ -169,6 +169,7 @@ blockquote.page-summary {
 .main-summary {
 	margin-top: 0;
 	font-size: 20px;
+	line-height: 133% !important;
 }
 
 @media (min-width: 500px) {
@@ -181,6 +182,7 @@ blockquote.page-summary {
 .art-summary {
 	margin-top: 4px !important;
 	margin-bottom: 8px;
+	line-height: 130% !important;
 }
 .tags {
 	h5, ul, li {
@@ -254,4 +256,7 @@ a[target="_blank"]{
 figcaption {
 	text-align: center;
 	padding: .25rem;
+	font-size: $font-size-14;
+	font-style: italic;
+	line-height: 133%;
 }

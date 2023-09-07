@@ -184,7 +184,8 @@ body[dir="rtl"] .book-menu {
 .book-search {
   position: relative;
   margin: $padding-16 0;
-  border-bottom: 1px solid transparent;
+  border-radius: $border-radius;
+  border-bottom: 1px solid var(--gray-500);
 
   input {
     width: 100%;
