@@ -9,8 +9,6 @@ bookToc: true
 
 ---
 
-What does good collaboration look like? Some thoughts:
-
 ## To Designers
 
 - Attend ceremonies with engineers

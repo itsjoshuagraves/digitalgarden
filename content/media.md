@@ -10,13 +10,15 @@ summary: "I watch and read a lot. Here's some of it."
 
 ### Incoming
 - <mark>Outrage Machine</mark>
-- <mark>Looking Glass Sound</mark>
-- Dark Delicacies Vol. 1
+- <mark>The Last House on Needless Street</mark>
 - Pet Semetary
 - Like, Literally, Dude: Arguing for the Good in Bad English
 - Sister, Maiden, Monster
+- Tomorrow, and Tomorrow, and Tomorrow: A novel
 
 ### 2023
+- Looking Glass Sound ❤️❤️
+- Dark Delicacies Vol. 1
 - Notes on Complexity
 - The Handyman Method
 - Salem's Lot
@@ -49,7 +51,7 @@ summary: "I watch and read a lot. Here's some of it."
 - Malorie: A Bird Box Novel
 - The Living Dead ❤️
 - How Minds Change
-- The Chaos Machine
+
 {{< /tab >}}
 
 {{< tab "Film & TV" >}}
@@ -57,13 +59,20 @@ summary: "I watch and read a lot. Here's some of it."
 - Talk to Me
 - Poor Things
 - Asteroid City
-- master
-- Maxxxine
+- Command Z
+- Significant Other
+- Saltburn
+- Careful How You Go
+- Bottoms
 - Skinamarink
 - Last Voyage of the Demeter
 - TMNT
 
 ### 2023
+- What We Do In the Shadows (s5) ❤️
+- Foundation (s2) ❤️
+- River ❤️
+- The Descent 2
 - The Blackening ❤️
 - The Lost Boys
 - Return to Seoul

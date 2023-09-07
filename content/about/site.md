@@ -1,5 +1,6 @@
 ---
 title: The Site
+bookToc: true
 type: docs
 summary: "Why build a digital garden?"
 ---

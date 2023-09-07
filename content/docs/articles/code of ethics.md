@@ -1,9 +1,7 @@
 ---
 date: 2020-06-23
-link title: We Need a Code of Ethics.
 title: We Need a Code of Ethics.
-weight: 10
-tags: Thoughtful Design
+tags: ["Artium"]
 originalURL: https://medium.com/thisisartium/we-need-a-code-of-ethics-eaaba6f9394b
 summary: "Tech has got to get a code of ethics, ffs."
 ---

@@ -1,9 +1,7 @@
 ---
 date: 2018-05-08
-link title: What I learned making my first VR app (Prototypr)
-title: What I learned making my first VR app (Prototypr)
-weight: 10
-tags: Reflection
+title: What I learned making my first VR app
+tags: ["Prototypr"]
 originalURL: https://medium.com/prototypr/what-i-learned-making-my-first-vr-app-e6c19a160342
 summary: "I got to learn about designing for VR, and boy are the principles different there."
 ---

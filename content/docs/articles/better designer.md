@@ -3,7 +3,7 @@ date: 2014-05-16
 link title: In which a nerd changes almost every part of his life to be better designer
 title: In which a nerd changes almost every part of his life to be better designer
 weight: 10
-tags: [Advice, Reflection]
+tags: ["Medium"]
 originalURL: https://medium.com/@joshuamauldin/in-which-a-nerd-changes-almost-every-part-of-his-life-to-be-better-designer-f4f2b5749088
 summary: "Early writing on becoming a better designer."
 ---

@@ -2,8 +2,7 @@
 date: 2020-08-13
 link title: What we look for in a product designer’s portfolio
 title: What we look for in a product designer’s portfolio
-weight: 10
-tags: Advice
+tags: ["Artium"]
 originalURL: https://medium.com/thisisartium/what-we-look-for-in-a-product-designers-portfolio-d7ae90056a3b
 summary: "When I ran design at a consultancy, here's what I looked for in a designer's portfolio."
 ---

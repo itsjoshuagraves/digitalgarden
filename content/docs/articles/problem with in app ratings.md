@@ -2,8 +2,7 @@
 date: 2013-04-12
 link title: My real problem with in-app rating modules
 title: My real problem with in-app rating modules
-weight: 10
-tags: Thoughtful Design
+tags: ["Medium"]
 originalURL: https://medium.com/@joshuamauldin/my-real-problem-with-in-app-rating-modules-b2c0df494783
 summary: "Early work on in-app rating modules and how I made them better. This was before Apple launched their own in-app rating system."
 ---

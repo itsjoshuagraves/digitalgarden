@@ -1,9 +1,7 @@
 ---
 date: 2016-06-20
-link title: Tips for perfect readability with a little help from The Big Lebowski
 title: Tips for perfect readability with a little help from The Big Lebowski
-weight: 10
-tags: [Thoughtful Design]
+tags: ["Medium"]
 originalURL: https://medium.com/@joshuamauldin/typographic-strategies-for-great-readability-also-a-lot-of-quotes-from-the-big-lebowski-7b8e31dafbda
 summary: "Written shortly after the release of my first typeface, Uptown Sans. I ended up giving a talk on this at GIANTConf in Charleston, SC."
 ---

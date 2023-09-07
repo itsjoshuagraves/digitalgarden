@@ -1,6 +1,7 @@
 ---
 title: Joshua Mauldin
 type: docs
+bookToc: true
 summary: "About me, personally and professionally."
 ---
 
