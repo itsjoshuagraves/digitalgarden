@@ -18,10 +18,8 @@ Once you're done, synthesize your insights and share them out with your client. 
 - What diverged
 - What patterns emerged
 
----
-
 {{< hint info >}}
-The big idea here is to **stay quiet and listen** to the person. It's okay to add in clarifying questions (e.g. "could you say more" or "what led you to that?"), but otherwise let them take the lead.
+The big idea here is to **stay quiet and listen** to the person. It's okay to add in clarifying questions (e.g. "could you say more" or "what led you to that?"), but otherwise let them take the lead.
 {{< /hint >}}
 
 ```
@@ -68,11 +66,11 @@ Do you mind if we record this call for note taking purposes only? The recording 
 
 ### The questions
 
-Now, **walk me through your day yesterday** in as much detail as possible. Don't worry about boring me, I want to know everything.
+Now, **walk me through your day yesterday** in as much detail as possible. Don't worry about boring me, I want to know everything.
 
-Next, tell me **what parts of your job make you grumpiest**.
+Next, tell me **what parts of your job make you grumpiest**.
 
-Okay, finally, tell me: **if you could wave a magic wand**, what would you change to make your job easier?
+Okay, finally, tell me: **if you could wave a magic wand**, what would you change to make your job easier?
 
 ### Wrap-up
 

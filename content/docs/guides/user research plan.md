@@ -1,62 +1,102 @@
 ---
 date: 2023-07-23
-link title: User Research Plan
 title: User Research Plan
-weight: 10
-tags: [Guides, Product]
 bookToc: true
 summary: "A guide for planning your research that will convince your stakeholders that the time investment is worth it."
 ---
 
 ## Business Objectives
+{{< hint info >}}
+What's the main goals you're trying to achieve?
+{{< /hint >}}
 
-The business' main goal here is: e.g. beat last year's signup numbers
+The business' main goal here is:
+<pre>Beat last year's signup numbers</pre>
 
-We're trying to understand: e.g. why signup numbers don't match our projections
+We're trying to understand:
+<pre>Why signup numbers don't match our projections</pre>
 
-We need to keep in mind: e.g. an OKR or KPI
+We need to keep in mind:
+<pre>An OKR or KPI</pre>
 
-Users will get: e.g. an easier signup experience
+Users will get:
+<pre>An easier signup experience</pre>
 
 ## Timeline
+{{< hint info >}}
+How long will this take?
+{{< /hint >}}
 
-- Time needed: e.g. 3 weeks until share-out
+Time needed:
+<pre>3 weeks until share-out</pre>
 
-## **Hypotheses & goals**
+## Hypotheses & goals
 
 ### Hypothesis
+{{< hint info >}}
+What will you test?
+{{< /hint >}}
 
-- We hope to: e.g. desired learning
-- So that: e.g. users can reduce time with support
-- We'll know we're right when: e.g. users call in less frequently to the call center
+We hope to:
+<pre>desired learning</pre>
 
-### **Goals**
+So that:
+<pre>users can reduce time with support</pre>
 
-- Goal 1: e.g. Discover if someone can complete a certain task
-- Goal 2: e.g. Uncover pain points and frustrations
-- Goal 3: e.g. Discover why a specific tool or element is important to the user
+We'll know we're right when:
+<pre>users call in less frequently</pre>
+
+### Goals
+{{< hint info >}}
+List no more than three.
+{{< /hint >}}
+
+<pre>Can users complete a certain task</pre>
 
 ### Anti-goals
+{{< hint info >}}
+What *won't* you build?
+{{< /hint >}}
 
-- Anti-goal 1: e.g. we will not give a line by line description of our tests
+Anti-goal: 
+<pre>Line by line description of our tests</pre>
 
-## **Methodology**
+## Methodology
+{{< hint info >}}
+How are you going to do this?
+{{< /hint >}}
 
-- Proposed type of session: : e.g. user interviews, user tests, a/b testing
-- Estimated time per session: e.g. 45 minutes
-- Number of people needed: e.g. 5
-- Proposed method: e.g. user interviews, user tests, a/b tests
-- Proposed place: e.g. Zoom, Skype, socially-distanced in-person
-- Toolset: e.g. Lookback, [usertesting.com](http://usertesting.com/)
+Proposed type of session:
+<pre>user interviews, user tests, a/b testing</pre>
+Estimated time per session:
+<pre>45 minutes</pre>
+Number of people needed:
+<pre>5</pre>
+Proposed method:
+<pre>user interviews, user tests, a/b tests</pre>
+Proposed place:
+<pre>Zoom, Skype, socially-distanced in-person</pre>
+Toolset:
+<pre>Lookback, [usertesting.com](http://usertesting.com/)</pre>
 
-## **Metrics**
+## Metrics
+{{< hint info >}}
+What are you measuring?
+{{< /hint >}}
 
-- Metric 1: e.g. Reduced time on task
-- Metric 2: e.g. Increased registration
-- Metric 3: e.g. Reduction in support phone calls
+Metric 1:
+<pre>Reduced time on task</pre>
+Metric 2:
+<pre>Increased registration</pre>
+Metric 3:
+<pre>Reduction in support phone calls</pre>
 
-## **Participants & Recruiting**
+## Participants & Recruiting
+How will you find your users?
 
-- We'll find users by: e.g. email surveys, customer service databases, marketing lists
-- We'll incentivize them by: e.g. $100 Amazon gift card, statement credit** **
-- Participants should be: e.g. demographics, type of user
+We'll find users by:
+<pre>email surveys, customer service databases, marketing lists</pre>
+We'll incentivize them by:
+<pre>$100 Amazon gift card, statement credit </pre>
+Participants should be:
+<pre>demographics, type of user</pre>
