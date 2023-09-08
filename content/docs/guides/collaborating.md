@@ -1,6 +1,7 @@
 ---
 date: 2023-07-23
 title: Collaborating
+draft: true
 bookToc: true
 summary: "What does good collaboration look like from each discipline's perspective?"
 
