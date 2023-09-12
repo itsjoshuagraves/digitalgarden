@@ -1,7 +1,7 @@
 baseURL = 'https://joshuamauldin.com/'
 title = 'Joshua Mauldin'
 theme = 'hugo-book'
-copyright = '2023, Joshua Mauldin.'
+copyright = '2023, Joshua Mauldin'
 enableRobotsTXT = true
 removePathAccents = true
 
