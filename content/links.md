@@ -6,39 +6,39 @@ summary: "A list of sites I like."
 ---
 
 ## Tech
-[https://eoe.works/](https://eoe.works/)
-[https://www.notechmagazine.com/](https://www.notechmagazine.com/)
-[https://solar.lowtechmagazine.com/](https://solar.lowtechmagazine.com/)
-[https://arstechnica.com/](https://arstechnica.com/)
-[https://esoteric.codes/](https://esoteric.codes/)
-[Internet In a Box](https://internet-in-a-box.org)
-[Pandoc](https://pandoc.org/epub.html)
+- [Elite Obsolete Electronics](https://eoe.works/)
+- [Notech Magazine](https://www.notechmagazine.com/)
+- [solar.lowtechmagazine.com/](https://solar.lowtechmagazine.com/)
+- [Ars Technica](https://arstechnica.com/)
+- [esoteric.codes](https://esoteric.codes/)
+- [Internet In a Box](https://internet-in-a-box.org)
+- [Pandoc](https://pandoc.org/epub.html)
 
 ## Fun
-[https://www.itsnicethat.com/](https://www.itsnicethat.com/)
-[https://www.fangoria.com/](https://www.fangoria.com/)
-[https://kottke.org/](https://kottke.org/)
-[https://www.thisiscolossal.com/](https://www.thisiscolossal.com/)
-[https://design-milk.com/](https://design-milk.com/)
-[https://poorlydrawnlines.com/](https://poorlydrawnlines.com/)
+- [It's Nice That](https://www.itsnicethat.com/)
+- [Fangoria](https://www.fangoria.com/)
+- [Kottke](https://kottke.org/)
+- [This is Colossal/](https://www.thisiscolossal.com/)
+- [Design Milk](https://design-milk.com/)
+- [Poorly Drawn Lines.com/](https://poorlydrawnlines.com/)
 
 ## Art & Design
-[https://normadesign.it/en/](https://normadesign.it/en/)
-[https://helveticablanc.com/](https://helveticablanc.com/)
-[https://processing.org/](https://processing.org/)
-[https://processing.org/examples/gameoflife.html](https://processing.org/examples/gameoflife.html)
-[http://www.generative-gestaltung.de/2/](http://www.generative-gestaltung.de/2/)
+- [Norma Design](https://normadesign.it/en/)
+- [Helvetica Blanc](https://helveticablanc.com/)
+- [Processing.org](https://processing.org/)
+- [Pocessing.org - Game of LIfe](https://processing.org/examples/gameoflife.html)
+- [Generative Gestaltung](http://www.generative-gestaltung.de/2/)
 
 ## Reference & Resources
-[https://archive.org/](https://archive.org/)
-[http://libgen.rs/](http://libgen.rs/)
-[https://ia.net/](https://ia.net/)
-[https://patternatlas.com/](https://patternatlas.com/)
-[https://www.drcathicks.com/blog/](https://www.drcathicks.com/blog/)
-[Solarpunk](https://www.re-des.org/a-solarpunk-manifesto/)
-[Lean Logic](https://leanlogic.online/introduction-david-fleming/)
-[Minimizing Computing Maximizes Labor](http://digitalhumanities.org/dhq/vol/16/2/000594/000594.html)
-['Jugaad' innovation: the businesses getting creative in the face of scarcity](https://www.theguardian.com/sustainable-business/jugaad-innovation-business-creativity-scarcity)
+- [Archive.org](https://archive.org/)
+- [Libgen](http://libgen.rs/)
+- [IA (markdown writer)](https://ia.net/)
+- [Pattern Atlas](https://patternatlas.com/)
+- [https://www.drcathicks.com/blog/](https://www.drcathicks.com/blog/)
+- [Solarpunk](https://www.re-des.org/a-solarpunk-manifesto/)
+- [Lean Logic](https://leanlogic.online/introduction-david-fleming/)
+- [Minimizing Computing Maximizes Labor](http://digitalhumanities.org/dhq/vol/16/2/000594/000594.html)
+- ['Jugaad' innovation: the businesses getting creative in the face of scarcity](https://www.theguardian.com/sustainable-business/jugaad-innovation-business-creativity-scarcity)
 
 
 

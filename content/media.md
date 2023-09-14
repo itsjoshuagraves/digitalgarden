@@ -10,13 +10,13 @@ summary: "I watch and read a lot. Here's some of it."
 
 ### Incoming
 - <mark>Outrage Machine</mark>
-- <mark>The Last House on Needless Street</mark>
 - Pet Semetary
 - Like, Literally, Dude: Arguing for the Good in Bad English
 - Sister, Maiden, Monster
 - Tomorrow, and Tomorrow, and Tomorrow: A novel
 
 ### 2023
+- The Last House on Needless Street ❤️❤️
 - Looking Glass Sound ❤️❤️
 - Dark Delicacies Vol. 1
 - Notes on Complexity
