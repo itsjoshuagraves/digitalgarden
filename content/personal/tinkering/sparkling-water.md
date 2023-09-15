@@ -2,7 +2,7 @@
 title: Sparkling Water Kegerator
 tags: [Tinkering]
 date: 2023-08-08
-image: /water-0000.webp
+image: images/water-0000.webp
 type: docs
 bookToc: true
 summary: "But what if I could have infinite sparkling mineral water?"

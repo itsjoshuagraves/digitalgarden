@@ -18,4 +18,3 @@ headless: true
   - [Digital Gardening](/personal/about/site)
   - [Resume.pdf](/resume.pdf)
   - [Links](/personal/links)
-
