@@ -7,6 +7,8 @@ Log: {{ partial "docs/title.html" . }}
   {{ partial "docs/post-meta" . }}
   {{- .Content -}}
 </article>
+<a href="{{ if .PrevInSection }}{{ .PrevInSection.Permalink }}{{ end }}">Older Log</a>
+<a href="{{ if .NextInSection }}{{ .NextInSection.Permalink }}{{ end }}">Newer Log</a>
 {{ end }}
 {{ define "toc" }}
 {{ partial "docs/toc" . }}
