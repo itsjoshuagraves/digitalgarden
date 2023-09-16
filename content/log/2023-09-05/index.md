@@ -2,8 +2,9 @@
 date: 2023-09-05
 title: 2023-09-05
 bookToc: false
+image: clay.webp
 ---
-![Clay and glitter skull sculpture](clay.webp) 
+
 ## Art
 Started in on a clay sculpture. I was inspired by Foundation’s incredible opening credits, and thought it would be fun to sculpt a half human/half bone…thing. So I got some polymer clay, primer, and set to work. 
 
