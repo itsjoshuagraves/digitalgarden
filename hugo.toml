@@ -14,13 +14,6 @@ enableGitInfo = true
 [markup.goldmark.renderer]
   unsafe = true
 
-# Image processing
-  [imaging.exif]
-    disableDate = true
-    disableLatLong = true
-    excludeFields = ''
-    includeFields = ''
-
 [params]
   # Theme Colors
   themeColorDark = "#000000"
