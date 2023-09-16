@@ -9,7 +9,7 @@ bookToc: false
 
 This site is a wiki that catalogs my [professional](/professional) and [personal](/personal) life. 
 
-This kind of site is also known as a digital garden. Mine has two spheres with some overlap between each. And just like a garden, this site is constantly being tended. [Read more about why I did this.](/about)
+This kind of site is also known as a digital garden. Mine has two spheres with some overlap between each. And just like a garden, this site is constantly being tended. [Read more about why I did this.](/about/site/)
 
 <--->
 
