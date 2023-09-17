@@ -195,7 +195,7 @@ blockquote.page-summary {
 		li {
     // margin-right: .5rem;
     &:after{
-    	content: ",";
+    	content: ", ";
     }
     &:last-child:after{
     	content: "";
