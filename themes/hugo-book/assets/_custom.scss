@@ -193,7 +193,13 @@ blockquote.page-summary {
 	font-size: .667rem;
 	padding-left: 0;
 		li {
-    margin-right: .5rem;
+    // margin-right: .5rem;
+    &:after{
+    	content: ",";
+    }
+    &:last-child:after{
+    	content: "";
+    }
 		}
 	}
 }
