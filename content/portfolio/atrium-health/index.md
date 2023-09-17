@@ -9,7 +9,7 @@ bookToc: true
 ---
 
 ## Role
-In 2017, I was the lead designer on two projects with Carolinas Healthcare System (now Atrium Health) during my time at Cardinal Solutions. Together, we released multiple iterations of two separate apps, the main patient-facing healthcare app (seen below) and another algorithm-focused app called CeSPA. While the work was done through an agency, we acted more as a longer-term product organization where we saw to multiple releases and iterations.
+In 2017, I was the designer on two projects with Carolinas Healthcare System (now Atrium Health) during my time at Cardinal Solutions. Together, we released multiple iterations of two separate apps, the main patient-facing healthcare app (seen below) and another algorithm-focused app called CeSPA. While the work was done through an agency, we acted more as a longer-term product organization where we saw to multiple releases and iterations.
 
 ## Patient-facing App
 

@@ -183,15 +183,16 @@ blockquote.page-summary {
 	line-height: 130% !important;
 }
 .tags {
+	ul{
+		border-top: 1px solid var(--gray-200);
+		padding-top: .33rem;
+	}
 	h5, ul, li {
 	font-family: 'pt_monoregular';
 	display: inline;
-	font-size: 14px;
+	font-size: .667rem;
 	padding-left: 0;
 		li {
-		background: var(--gray-200);
-    border-radius: 0.25rem;
-    padding: .25rem;
     margin-right: .5rem;
 		}
 	}

@@ -7,7 +7,7 @@ date: 2018-05-01
 year: 2018
 bookToc: true
 ---
-In 2018, I was the lead designer on Family Dollar’s first coupon-focused iOS and Android app. My role included facilitating discovery sessions, interaction design, visual design, and loads of customer interviews and test. Also on the team: an information architect, two engineers, one project manager, one business analyst. An IT and marketing team represented Family Dollar. While the work was done through an agency, we acted more as a longer-term product organization where we saw to multiple releases and iterations.
+In 2018, I was the designer on Family Dollar’s first coupon-focused iOS and Android app. My role included facilitating discovery sessions, interaction design, visual design, and loads of customer interviews and test. Also on the team: an information architect, two engineers, one project manager, one business analyst. An IT and marketing team represented Family Dollar. While the work was done through an agency, we acted more as a longer-term product organization where we saw to multiple releases and iterations.
 
 ## Role
 We had a month-long discovery with key stakeholders, which I led. In this time we co-created a a vision as well as a list of goals, fears, and ideas for the app. We then charted each idea by effort and impact to determine the right ones to pursue (our sweet spot was high impact, low effort). We used that information to prioritize what to test—this also helped us ensure the best match of customers’ needs and Family Dollar’s ideas.

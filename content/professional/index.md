@@ -13,7 +13,7 @@ bookToc: false
 		We Need to Talk
 		</h2>
 	</a>
-    	<p class="post-summary">I'm writing a book for Rosenfeld Media. It’s due out in 2023.</p>
+    	<p class="post-summary">I'm writing a book on how to have hard conversations at work. It's basically conflict resolution for people who hate conflict. It’s due later this year and will be published by Rosenfeld Media.</p>
     </div>
 </article>
 

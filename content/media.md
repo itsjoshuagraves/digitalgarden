@@ -10,8 +10,8 @@ summary: "I watch and read a lot. Here's some of it."
 
 ### Incoming
 - <mark>Outrage Machine</mark>
-- Pet Semetary
-- Like, Literally, Dude: Arguing for the Good in Bad English
+- <mark>Silver Nitrate</mark>
+- <mark>The Black Spider</mark>
 - Sister, Maiden, Monster
 - Tomorrow, and Tomorrow, and Tomorrow: A novel
 
