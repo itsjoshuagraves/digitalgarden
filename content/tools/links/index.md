@@ -1,6 +1,6 @@
 ---
-date: 2023-07-23
-title: User Research Tools
+title: Links
+type: docs
 bookToc: true
 summary: "A collection of tools that'll help you along your way in user research."
 ---
