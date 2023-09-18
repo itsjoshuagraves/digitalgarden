@@ -2,6 +2,8 @@
 date: 2023-07-23
 title: Ethnographic Interviews
 bookToc: true
+type: docs
+
 summary: "Why interviewing people in their environment is crucial. Includes a guide for conducting them."
 ---
 

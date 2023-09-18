@@ -3,6 +3,8 @@ date: 2014-08-17
 title: Spock, Kirk, and the ideal designer/engineer relationship
 bookToc: true
 tags: ["Medium"]
+type: docs
+
 originalURL: https://medium.com/cardinal-solutions/3d78486d961f
 summary: "I've long been a fan of collaboration between design and engineering."
 ---

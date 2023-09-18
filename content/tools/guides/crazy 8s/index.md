@@ -3,6 +3,8 @@ date: 2023-07-23
 title: Crazy 8s
 summary: "An exercise in idea generation."
 bookToc: true
+type: docs
+
 ---
 
 ## Key points

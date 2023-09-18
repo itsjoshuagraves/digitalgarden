@@ -2,6 +2,8 @@
 date: 2023-07-23
 title: Journey Map
 bookToc: true
+type: docs
+
 summary: "An exercise to understand the person's journey through a service."
 ---
 

@@ -1,6 +1,8 @@
 ---
 date: 2023-07-23
 title: User Recruiting Script
+type: docs
+
 summary: "A script that you can send to people you want to interview for your research."
 ---
 

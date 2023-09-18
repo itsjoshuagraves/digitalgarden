@@ -2,6 +2,8 @@
 date: 2023-07-23
 title: User Interviews & Tests
 bookToc: true
+type: docs
+
 summary: "Why we observe users in their environment, the benefits, and a script for getting started."
 ---
 

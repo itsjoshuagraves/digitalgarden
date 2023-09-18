@@ -2,6 +2,8 @@
 date: 2017-05-09
 title: Effective Animation
 bookToc: true
+type: docs
+
 tags: ["Medium"]
 originalURL: https://medium.com/@joshuamauldin/effective-animation-86caade87215
 summary: "Over the years, animation evolved from a nice-to-have concept to a core feature. Now, the best companies use animation to inform, delight, and reward the people using their products. Let’s talk about how animation helps and how to use it in our work."

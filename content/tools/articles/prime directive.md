@@ -1,6 +1,8 @@
 ---
 date: 2019-07-02
 bookToc: true
+type: docs
+
 title: The Prime Directive and the limits of assuming positive intent
 tags: ["Conflict Resolution"]
 originalURL: https://medium.com/conflict-resolution-for-people-who-hate-conflict/the-prime-directive-and-the-limits-of-assuming-positive-intent-59b7b2d735f1

@@ -2,6 +2,8 @@
 date: 2016-10-01
 bookToc: true
 title: Giving Your Product A Soul
+
+type: docs
 tags: ["Smashing Magazine"]
 originalURL: https://www.smashingmagazine.com/2016/10/giving-your-product-a-soul/
 summary: "I wrote about why it's important that the products we make have a little personality. Not delight, but soul."

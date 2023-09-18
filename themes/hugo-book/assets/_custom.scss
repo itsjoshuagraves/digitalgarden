@@ -265,3 +265,16 @@ figcaption {
 	font-style: italic;
 	line-height: 133%;
 }
+
+.page-nav {
+margin-top: 5rem;
+	h5 {
+	text-align: center;
+	border-bottom: 1px solid var(--gray-200);
+	padding-bottom: 1rem;
+	}
+	.pagination {
+	justify-content: space-between;
+	}
+
+}

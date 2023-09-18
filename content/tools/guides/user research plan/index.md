@@ -1,6 +1,8 @@
 ---
 date: 2023-07-23
 title: User Research Plan
+type: docs
+
 bookToc: true
 summary: "A guide for planning your research that will convince your stakeholders that the time investment is worth it."
 ---

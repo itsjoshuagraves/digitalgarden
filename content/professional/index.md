@@ -22,19 +22,19 @@ bookToc: false
 Artifacts
 : ## [Portfolio](/portfolio)
 	I'm a human-centered designer with over 15 years under my belt. As a player-coach, I've led teams for 5+ years. This is a collection of award-winning iOS, Android, and web designs.
-: ## [Guides & Articles](tools/)
+: ## [Guides & Articles](/tools/)
 	A collection of things I've written, plus guides for leaders, workshop facilitators, and other curious people.
-: ## [Design Philosophy](design-philosophy/)
+: ## [Design Philosophy](/design-philosophy/)
 	The why behind how I do it.
-: ## [Appearances](appearances/)
+: ## [Appearances](/appearances/)
 	Why
 : ## [Design Process](/design-process)
 	How I do what I do.
 <--->
 Services
-: ## [Workshops & Speaking](working/)
+: ## [Workshops & Speaking](/working/)
 	Places I've spoken at and workshops I offer.
-: ## [Coaching & Consulting](coaching)
+: ## [Coaching & Consulting](/coaching)
 	Services I offer to clients and aspiring leaders.
 {{< /columns >}}
 

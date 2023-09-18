@@ -1,6 +1,8 @@
 ---
 date: 2013-05-05
 bookToc: true
+type: docs
+
 title: iOS Grid System, A Free Extension For Adobe Fireworks
 tags: ["Smashing Magazine"]
 originalURL: https://www.smashingmagazine.com/2013/05/ios-grid-system-free-extension-adobe-fireworks/

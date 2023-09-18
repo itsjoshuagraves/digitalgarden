@@ -3,6 +3,8 @@ date: 2020-07-01
 title: Deep Work, Quarantine Edition
 bookToc: true
 tags: ["Artium"]
+type: docs
+
 originalURL: https://medium.com/thisisartium/deep-work-quarantine-edition-b963541ebd5f
 summary: "Something I deeply believe is that if you’re able to have focused time to work, you’re going to be able to go further, faster, and deeper than those who don’t.
 "

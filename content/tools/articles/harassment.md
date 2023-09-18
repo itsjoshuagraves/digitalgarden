@@ -3,6 +3,8 @@ date: 2016-08-04
 bookToc: true
 title: One idea that could curb harassment on social media
 tags: ["Medium"]
+type: docs
+
 originalURL: https://medium.com/@joshuamauldin/one-idea-that-could-curb-harassment-on-social-media-ae253aa37555
 summary: "I've always been thinking about how to reduce harassment and annoyance on the web, here are some early thoughts."
 ---

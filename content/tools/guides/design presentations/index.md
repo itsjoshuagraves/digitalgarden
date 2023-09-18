@@ -4,6 +4,8 @@ title: Design Presentations
 summary: "On presenting design work and soliciting feedback."
 bookToc: true
 
+type: docs
+
 ---
 
 How we communicate about our work is just as important as the effort that went into making it. Read the following carefully.

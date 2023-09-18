@@ -1,6 +1,6 @@
 {{ define "main" }}
 
-{{ if and (ne .Kind "section") (in (slice "art" "docs" "portfolio" "tinkering" "about") .Section) }}
+{{ if and (ne .Kind "section") (in (slice "art" "docs" "portfolio" "tinkering" "tools" "about") .Section) }}
     {{ with .Site.GetPage "section" .Section }}
         <h5 class="post-date"><a href="{{ .RelPermalink }}">← Back</a></h5>
     {{ end }}
@@ -15,6 +15,23 @@
   {{ partial "docs/post-meta" . }}
   {{- .Content -}}
 </article>
+
+<div class="page-nav">
+    <h5 class="post-date">More</h5>
+    <ul class="pagination">
+        {{ if .PrevInSection }}
+        <li class="page-item">
+            <a href="{{ .PrevInSection.RelPermalink }}" class="prev">⬸ {{ .PrevInSection.Title }}</a>
+        </li>
+        {{ end }}
+        
+        {{ if .NextInSection }}
+        <li class="page-item">
+            <a href="{{ .NextInSection.RelPermalink }}" class="next">{{ .NextInSection.Title }} ⤑</a>
+        </li>
+        {{ end }}
+    </ul>
+</div>
 {{ end }}
 {{ define "toc" }}
 {{ partial "docs/toc" . }}
