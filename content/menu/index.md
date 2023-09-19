@@ -11,7 +11,7 @@ headless: true
   - [We Need to Talk](/we-need-to-talk)
   - [Portfolio](/portfolio)
   - [Tools for Designers & Leaders](/tools)
-  - [Work With Me](/working)
+  - [Work With Me](/work-with-me)
 - [**About & More**](/about)
   - [Joshua Mauldin](/about/me)
   - [Digital Gardening](/about/site)

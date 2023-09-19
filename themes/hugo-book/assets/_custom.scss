@@ -122,7 +122,11 @@ blockquote.page-summary {
 .book-btn:hover {
 	background: var(--color-link);
 	color: #fff !important;
+}
 
+.book-btn.filled {
+	background: var(--color-link) !important;
+	color: #fff !important;
 }
 
 .main-header {

@@ -32,9 +32,9 @@ Artifacts
 	How I do what I do.
 <--->
 Services
-: ## [Workshops & Speaking](/working/)
+: ## [Work With Me](/work-with-me)
+	Let's talk about how I can help your team.
+: ## [Workshops & Speaking](/workshops/)
 	Places I've spoken at and workshops I offer.
-: ## [Coaching & Consulting](/coaching)
-	Services I offer to clients and aspiring leaders.
 {{< /columns >}}
 
