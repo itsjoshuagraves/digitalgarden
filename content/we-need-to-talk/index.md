@@ -13,7 +13,7 @@ My workshops give you tools you can use immediately in your next tough conversat
 ## Easily digestible, tactical tools
 
 - Learn to structure any conversation for maximum success by using tools like the Conversation Pyramid and Cranky Conclusions
-- Understandhowtokeepeveryoneengagedeven when the stakes are high.
+- Understand how to keep everyone engage deven when the stakes are high.
 - Know how to correct failing conversations and restore safety so you can keep going.
 
 ## Build better products and teams
