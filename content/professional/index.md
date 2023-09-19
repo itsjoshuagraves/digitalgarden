@@ -1,6 +1,6 @@
 ---
 title: Professional Sphere
-type: docs
+type: summary-page
 summary: "A collection of product design work. Also includes guides, research, and articles for those in technology."
 bookToc: false
 ---

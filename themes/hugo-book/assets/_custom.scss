@@ -218,6 +218,9 @@ blockquote.page-summary {
 
 	}
 
+.page-item a{ 
+	text-decoration: none;
+}
 .page-item a:hover{
 	text-decoration: underline;
 }
@@ -275,10 +278,12 @@ figcaption {
 	ul{
 		display: block;
 	}
+	li {
+		margin-bottom: 1rem;
+	}
 	a {
 		text-decoration: none;
-	}
-	.pagination {
+		padding-left: 0 !important;
 	}
 
 

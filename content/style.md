@@ -85,16 +85,10 @@ stateDiagram-v2
 ## Columns and Images
 
 {{< columns >}}
-<figure>
-  <img src='/uptown-sans-1.webp' alt='Maude picture'/>
-  <figcaption>This is an image in a figure block, this note is in a figcaption with <b>bold</b>, <i>italic</i>, <code>code</code> and a <a>link</a>.</figcaption>
-</figure>
-<--->
-<figure>
-  <img src='/uptown-sans-1.webp' alt='Maude picture'/>
-  <figcaption>This is an image in a figure block, this note is in a figcaption with <b>bold</b>, <i>italic</i>, <code>code</code> and a <a>link</a>.</figcaption>
-</figure>
 
+[![Image Caption with a link](/Devil.webp)](/journal)
+<--->
+[![Image Caption with a link](/Devil.webp)](/journal)
 {{< /columns >}}
 
 ## Tabs
