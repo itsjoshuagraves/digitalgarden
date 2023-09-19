@@ -1,7 +1,7 @@
 ---
 title: Design Process
-type: docs
 bookToc: true
+type: docs
 summary: "How I do what I do."
 ---
 
@@ -12,7 +12,7 @@ summary: "How I do what I do."
 
 That being said, my design process is thoughtful, intentional, and geared towards speedy delivery. From the first moment of every project, I collaborate deeply with everyone involved in its development.
 
-This process isn’t always linear, nor is a double diamond or any other cute little infographic that makes for a good slide in a deck. It’s a set of strong defaults aimed at quickly discovering and delivering the best possible solution. (By the way, I wrote about the [philosophy behind my process](/professional/design-philosophy) if you’d like to read it.)
+This process isn’t always linear, nor is a double diamond or any other cute little infographic that makes for a good slide in a deck. It’s a set of strong defaults aimed at quickly discovering and delivering the best possible solution. (By the way, I wrote about the [philosophy behind my process](/philosophy) if you’d like to read it.)
 
 ## Strategy
 
@@ -43,3 +43,6 @@ I take joy is in supporting a team and being a part of someone’s growth. Here�
 - **Be consistent:** I create consistent leveling guidelines and give everyone the chance to move up in a way that benefits both them and the company.
 - **Be with them:** Leaders lose relevance when they don’t practice their craft. Pair with your team, learn and grow with them.
 - **Make it safe:** I make it safe to give and receive feedback. Teams model their behavior of their leaders, especially when it comes to feedback and psychological safety. If leaders don’t make it safe to give feedback, everyone suffers.
+
+### See Also
+- [Work With Me](/work-with-me/)

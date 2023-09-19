@@ -5,7 +5,7 @@ bookToc: true
 summary: "What underpins everything I do as a designer and leader."
 ---
 
-The most effective process is one that's resilient and adaptable. That means being principle-driven and not process-driven. Here’s why: each project, problem, and team are unique. Each person’s insight and experience are, too. Following principles instead of a rigorous process lets us honor that uniqueness to deliver truly wonderful results. Not only that, we can move quickly and with intention to deliver great software. You can read [how it looks in practice](/design-process), too.
+The most effective process is one that's resilient and adaptable. That means being principle-driven and not process-driven. Here’s why: each project, problem, and team are unique. Each person’s insight and experience are, too. Following principles instead of a rigorous process lets us honor that uniqueness to deliver truly wonderful results. Not only that, we can move quickly and with intention to deliver great software. You can read [how it looks in practice](/process), too.
 
 ## 1. Design is careful
 
@@ -40,3 +40,6 @@ The most effective process is one that's resilient and adaptable. That means bei
 - Work as a team with other disciplines, Design does not rule everything.
 - Pair up with each other, even (and especially) across disciplines.
 - Feedback is a gift. Welcome criticism and differing viewpoints.
+
+### See Also
+- [Work With Me](/work-with-me/)

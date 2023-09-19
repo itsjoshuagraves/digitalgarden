@@ -24,9 +24,9 @@ Artifacts
 	I'm a human-centered designer with over 15 years under my belt. As a player-coach, I've led teams for 5+ years. This is a collection of award-winning iOS, Android, and web designs.
 : ## [Guides & Articles](/tools/)
 	A collection of things I've written, plus guides for leaders, workshop facilitators, and other curious people.
-: ## [Design Philosophy](/design-philosophy/)
+: ## [Design Philosophy](/philosophy/)
 	The why behind how I do it.
-: ## [Design Process](/design-process)
+: ## [Design Process](/process/)
 	How I do what I do.
 <--->
 Services

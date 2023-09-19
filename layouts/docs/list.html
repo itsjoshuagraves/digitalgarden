@@ -20,6 +20,14 @@
         <a href="{{ .RelPermalink }}">...</a>
       {{ end }}
     </p>
+    <!-- Display tags for the current page -->
+<div class="tags">
+  <ul class="tag-list">
+    {{ range .Params.tags }}
+      <li>{{ . }}</li>
+    {{ end }}
+  </ul>
+</div>
   </article>
   {{ end }}
 
