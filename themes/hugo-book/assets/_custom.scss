@@ -8,9 +8,9 @@ article {
 }
 
 .post-date {
-	margin: 16px 0 16px 0 !important;
+	margin: 1rem 0 !important;
 	font-family: 'pt_monoregular', sans-serif;
-	font-size: 14px;
+	font-size: 12px;
 	font-weight: normal !important;
 	letter-spacing: 0 !important;
 		a{
@@ -267,14 +267,31 @@ figcaption {
 }
 
 .page-nav {
-margin-top: 5rem;
+	margin-top: 5rem;
+	border-top: 1px solid var(--gray-500);
+
 	h5 {
-	text-align: center;
-	border-bottom: 1px solid var(--gray-200);
-	padding-bottom: 1rem;
+	}
+	ul{
+		display: block;
+	}
+	a {
+		text-decoration: none;
 	}
 	.pagination {
-	justify-content: space-between;
 	}
 
+
 }
+
+.meta {
+	font-size: .667rem;
+	color: var(--gray-500);
+	font-family: 'pt_monoregular', sans-serif;
+	.meta-rss{
+		display: inline-block;
+	text-decoration: none;
+	padding-top: .5rem;
+	}
+}
+

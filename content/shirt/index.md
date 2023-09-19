@@ -2,7 +2,8 @@
 title: Research& Prototypes& Pixels&Code Shirt
 type: docs
 summary: "This is a modern take on the classic Beatles shirt, focused on the design process."
-image: "shirt"
+image: "shirt.webp"
+draft: true
 bookToc: false
 ---
 

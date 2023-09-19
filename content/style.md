@@ -2,7 +2,7 @@
 title: Style Guide
 type: docs
 summary: " "
-
+hidden: true
 ---
 
 ## Headings

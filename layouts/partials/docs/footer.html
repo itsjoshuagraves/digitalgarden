@@ -1,15 +1,12 @@
-<div class="flex flex-wrap justify-between">
+<div class="meta">
 
 {{ if and .GitInfo .Site.Params.BookRepo }}
   <div>
     {{- $date := partial "docs/date" (dict "Date" .GitInfo.AuthorDate.Local "Format" .Site.Params.BookDateFormat) -}}
     {{- $commitPath := default "commit" .Site.Params.BookCommitPath -}}
-      <span class="post-date">Updated and © {{ $date }}</span>
+      <span class="meta-update">Updated and © {{ $date }} • </span> <a class="meta-rss" href="/index.xml">RSS</a>
   </div>
 {{ end }}
-<div>
-  <a class="post-date" href="/index.xml">RSS</a>
-</div>
 </div>
 
 {{ $script := resources.Get "clipboard.js" | resources.Minify }}
