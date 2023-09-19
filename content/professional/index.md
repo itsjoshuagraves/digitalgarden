@@ -1,6 +1,6 @@
 ---
 title: Professional Sphere
-type: docs
+type: summary-page
 summary: "A collection of product design work. Also includes guides, research, and articles for those in technology."
 bookToc: false
 ---
@@ -22,19 +22,19 @@ bookToc: false
 Artifacts
 : ## [Portfolio](/portfolio)
 	I'm a human-centered designer with over 15 years under my belt. As a player-coach, I've led teams for 5+ years. This is a collection of award-winning iOS, Android, and web designs.
-: ## [Guides & Articles](/docs)
+: ## [Guides & Articles](/tools/)
 	A collection of things I've written, plus guides for leaders, workshop facilitators, and other curious people.
-: ## [Design Philosophy](/design-philosophy)
+: ## [Design Philosophy](/design-philosophy/)
 	The why behind how I do it.
+: ## [Appearances](/appearances/)
+	Why
 : ## [Design Process](/design-process)
 	How I do what I do.
 <--->
 Services
-: ## [Workshops & Speaking](/workshops)
+: ## [Work With Me](/work-with-me)
+	Let's talk about how I can help your team.
+: ## [Workshops & Speaking](/workshops/)
 	Places I've spoken at and workshops I offer.
-: ## [Coaching & Consulting](/coaching)
-	Services I offer to clients and aspiring leaders.
-: ## [Tools and Items for Sale](/tools)
-	Products that I offer. They range from books to typefaces to design supplies.
 {{< /columns >}}
 

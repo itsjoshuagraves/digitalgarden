@@ -7,8 +7,23 @@ Log: {{ partial "docs/title.html" . }}
   {{ partial "docs/post-meta" . }}
   {{- .Content -}}
 </article>
-<a href="{{ if .PrevInSection }}{{ .PrevInSection.Permalink }}{{ end }}">Older Log</a>
-<a href="{{ if .NextInSection }}{{ .NextInSection.Permalink }}{{ end }}">Newer Log</a>
+<div class="page-nav">
+    <h5 class="post-date">More</h5>
+    <ul class="pagination">
+        {{ if .NextInSection }}
+        <li class="page-item">
+            <a href="{{ .NextInSection.RelPermalink }}" class="next">⇡ {{ .NextInSection.Title }} </a>
+        </li>
+        {{ end }}
+
+        {{ if .PrevInSection }}
+        <li class="page-item">
+            <a href="{{ .PrevInSection.RelPermalink }}" class="prev">⇣ {{ .PrevInSection.Title }}</a>
+        </li>
+        {{ end }}
+        
+    </ul>
+</div>
 {{ end }}
 {{ define "toc" }}
 {{ partial "docs/toc" . }}
