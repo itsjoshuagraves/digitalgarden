@@ -26,8 +26,6 @@ Artifacts
 	A collection of things I've written, plus guides for leaders, workshop facilitators, and other curious people.
 : ## [Design Philosophy](/design-philosophy/)
 	The why behind how I do it.
-: ## [Appearances](/appearances/)
-	Why
 : ## [Design Process](/design-process)
 	How I do what I do.
 <--->
