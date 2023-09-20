@@ -30,9 +30,9 @@ Stupidity = opinion - fact
 
 ## Disagreeing
 {{< columns >}}
-> "We can disagree and still love each other unless your disagreement is rooted in my oppression and denial of my humanity and right to exist." \
-> \
-> - James Baldwin
+> "We can disagree and still love each other unless your disagreement is rooted in my oppression and denial of my humanity and right to exist." 
+> 
+> -James Baldwin
 <--->
 - Disagreeing and committing is set up to benefit those loudest and most persuasive. To do the ideas presented service requires understanding their merits, not simply accepting them based on how loudly they're presented.
 {{< /columns >}}

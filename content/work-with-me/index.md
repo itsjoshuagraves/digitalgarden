@@ -2,7 +2,7 @@
 title: Work With Me
 bookToc: true
 type: summary-page
-summary: "I've designed software to help Space Force fire lasers into space, earned over 500,000 5-star reviews on apps I've designed. Big or small, I love working through tricky problems and designing the right approach to addressing them."
+summary: "I've designed software to help Space Force fire lasers into space and earned over 500,000 5-star reviews on apps I've designed. Big or small, I love working through tricky problems and designing the right approach to addressing them."
 ---
 
 ## Consulting

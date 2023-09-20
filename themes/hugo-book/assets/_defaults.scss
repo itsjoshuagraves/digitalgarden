@@ -20,7 +20,9 @@ $header-height: 3.5rem !default;
 $menu-width: 16rem !default;
 $toc-width: 16rem !default;
 
+
 $primary: var(--color-link);
+
 
 $mobile-breakpoint: $menu-width + $body-min-width * 1.2 + $toc-width !default;
 
@@ -38,6 +40,8 @@ $hint-colors: (
 
   --color-link: #8F00FF;
   --color-visited-link: #8F00FF;
+
+  --color-stripe: rgba(143,0,255,.05);
 
   --body-background: #FFFCFA;
   --body-font-color: #121212;
@@ -60,6 +64,8 @@ $hint-colors: (
   --color-link: #6DDE00;
   --color-visited-link: #6DDE00;
 
+  --color-stripe: rgba(109,222,0,.15);
+
   --body-background: #000000;
   --body-font-color: #e9ecef;
 
@@ -73,3 +79,4 @@ $hint-colors: (
   --border-color: #3f3f3f;
 
 }
+
