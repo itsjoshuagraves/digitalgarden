@@ -3,7 +3,7 @@ date: 2023-07-23
 title: Design Presentations
 summary: "On presenting design work and soliciting feedback."
 bookToc: true
-tags: [Facilitation, Presenting]
+tags: ["Facilitation", "Presenting"]
 type: docs
 
 ---

@@ -1,7 +1,7 @@
 ---
 date: 2023-08-02
 title: On Site Interview Email Template
-tags: [Hiring, Interviews]
+tags: ["Hiring", "Interviews"]
 type: docs
 bookToc: true
 summary: "Calling a candidate in for a final round of interviews? Here's how to set expectations."

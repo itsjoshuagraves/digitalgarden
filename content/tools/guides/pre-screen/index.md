@@ -1,7 +1,7 @@
 ---
 date: 2023-08-02
 title: Pre-screen Review for Product Design Candidates
-tags: [Hiring, Interviews]
+tags: ["Hiring", "Interviews"]
 type: docs
 bookToc: true
 summary: "What to look for before you call a candidate in for an interview."

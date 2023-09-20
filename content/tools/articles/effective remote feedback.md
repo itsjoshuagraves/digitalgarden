@@ -3,7 +3,6 @@ date: 2022-05-01
 title: How To Give Effective Feedback Remotely
 bookToc: true
 type: docs
-
 tags: ["Smashing Magazine"]
 originalURL: https://www.smashingmagazine.com/2022/05/give-effective-feedback-remotely/#top
 summary: "I wrote about how to give good feedback to other designers and why it's worth the effort."

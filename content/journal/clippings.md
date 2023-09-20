@@ -1,7 +1,7 @@
 ---
 date: 2023-07-30
 title: Clippings
-tags: Evaluation
+tags: ["Wisdom"]
 bookToc: true
 weight: 10
 summary: "Collections of wisdom on various topics."

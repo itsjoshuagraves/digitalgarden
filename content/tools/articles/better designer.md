@@ -4,7 +4,6 @@ link title: In which a nerd changes almost every part of his life to be better d
 title: In which a nerd changes almost every part of his life to be better designer
 bookToc: true
 type: docs
-
 tags: ["Medium"]
 originalURL: https://medium.com/@joshuamauldin/in-which-a-nerd-changes-almost-every-part-of-his-life-to-be-better-designer-f4f2b5749088
 summary: "Early writing on becoming a better designer."

@@ -1,7 +1,7 @@
 ---
 date: 2023-08-02
 title: Workshop Facilitation Kit
-tags: [Facilitation, Presenting]
+tags: ["Facilitation", "Presenting"]
 bookToc: false
 type: docs
 summary: "Here's a shopping list if you're doing in-person workshop facilitation with people."

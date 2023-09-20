@@ -3,7 +3,7 @@ date: 2023-07-23
 title: Quick Start Guide
 bookToc: true
 type: docs
-
+tags: ["Template"]
 summary: "A quick checklist to make sure designers have what they need to get going at the start of a project."
 ---
 

@@ -4,7 +4,7 @@ title: Crazy 8s
 summary: "An exercise in idea generation."
 bookToc: true
 type: docs
-tags: [Facilitation, Presenting]
+tags: ["Facilitation", "Presenting"]
 ---
 
 ## Key points

@@ -20,16 +20,20 @@
         <a href="{{ .RelPermalink }}">...</a>
       {{ end }}
     </p>
-    <!-- Display tags for the current page -->
-<div class="tags">
-  <ul class="tag-list">
-    {{ range .Params.tags }}
-      <li>{{ . }}</li>
-    {{ end }}
-  </ul>
-</div>
+{{ if and (not (in (slice "journal" "art") .Section)) (isset .Params "tags") }}
+  <div class="tags">
+    <ul class="tag-list">
+      {{ range .Params.tags }}
+        <li>{{ . }}</li>
+      {{ end }}
+    </ul>
+  </div>
+{{ end }}
+
   </article>
   {{ end }}
 
   {{ template "_internal/pagination.html" . }}
 {{ end }}
+
+

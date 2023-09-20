@@ -1,7 +1,7 @@
 ---
 date: 2023-08-02
 title: Interviewer Guidelines
-tags: [Facilitation, Hiring, Interviews]
+tags: ["Facilitation", "Hiring", "Interviews"]
 type: docs
 bookToc: true
 summary: "There's an art to interviewing candidates, mostly focused on listening. Here are some guidelines."

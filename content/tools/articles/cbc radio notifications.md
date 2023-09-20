@@ -2,9 +2,8 @@
 date: 2017-12-22
 link title: Notifications stress me out. How I cut them down to improve my well-being
 title: Notifications stress me out. How I cut them down to improve my well-being
-tags: [CBC Radio]
+tags: ["CBC Radio"]
 type: docs
-
 bookToc: true
 originalURL: https://www.cbc.ca/radio/spark/377-notification-fatigue-seasonal-ghost-stories-and-more-1.4450632/notifications-stress-me-out-how-i-cut-them-down-to-improve-my-well-being-1.4450646
 summary: "I was interviewed by CBC to discuss push notificaitons and the stress they cause."

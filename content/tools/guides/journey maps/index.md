@@ -3,7 +3,7 @@ date: 2023-07-23
 title: Journey Map
 bookToc: true
 type: docs
-tags: [Facilitation, Template]
+tags: ["Facilitation", "Template"]
 summary: "An exercise to understand the person's journey through a service."
 ---
 

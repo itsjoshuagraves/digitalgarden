@@ -3,7 +3,7 @@ date: 2023-08-08
 title: Books for Design Beginners
 bookToc: true
 type: docs
-tags: [Resources]
+tags: ["Resources"]
 aliases:
   - /docs/guides/bookshelf
 summary: "Covers basics, typography, and deeper topics like writing and communicating. Being a good designer is much more than what software you use."

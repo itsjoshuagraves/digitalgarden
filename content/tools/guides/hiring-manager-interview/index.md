@@ -1,7 +1,7 @@
 ---
 date: 2023-08-02
 title: Hiring Manager Interview
-tags: [Hiring, Interviews]
+tags: ["Hiring", "Interviews"]
 bookToc: true
 type: docs
 summary: "How to conduct a hiring manager interview with a candidate."

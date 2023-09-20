@@ -2,7 +2,7 @@
 date: 2023-08-02
 title: Screener Questions
 type: docs
-tags: [Hiring, Interviews]
+tags: ["Hiring", "Interviews"]
 bookToc: true
 summary: "Initial recruiting screen geared towards fundamental understanding of design processes and collaboration."
 ---
