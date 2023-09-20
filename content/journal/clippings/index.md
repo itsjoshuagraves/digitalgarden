@@ -32,7 +32,7 @@ summary: "Quotes and insights from books and other sources on mind, focus, and e
 {{< /columns >}}
 
 ## Focus
-![Thoreau quote](/maine.JPG)
+![Thoreau quote](maine.JPG)
 
 
 
