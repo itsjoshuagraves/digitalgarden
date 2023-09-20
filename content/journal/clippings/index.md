@@ -4,18 +4,10 @@ title: Clippings
 tags: ["Wisdom"]
 bookToc: true
 weight: 10
-summary: "Collections of wisdom on various topics."
+summary: "Quotes and insights from books and other sources on mind, focus, and ethics."
 ---
 
-## Design
-- Design is [orienteering](https://en.wikipedia.org/wiki/Orienteering). There’s no trail, there’s no map. It’s just you being dropped in a thick forest with only your compass and tools to help you find your way out.
-- The more you cling to process, the quicker you sink.
-
 ## Mind
-
-* What you are now is the result of what you were. What you will be tomorrow will be the result of what you are now. 
-* If you're stumped, leave it to your unconscious mind to untangle. Take a nap. Have a walk.
-* Everything exists on a spectrum. And sometimes the spectrum is a circle. 
 
 {{< columns >}}
 > We hope to find meaning by fitting ourselves into some ready-made story about the universe, but according to the liberal interpretation of the world, the truth is exactly the opposite. The universe does not give me meaning. I give meaning to the universe. This is my cosmic vocation. I have no fixed destiny or dharma.\
@@ -42,16 +34,10 @@ summary: "Collections of wisdom on various topics."
 ## Focus
 ![Thoreau quote](/maine.JPG)
 
-- You have a finite amount of willpower that becomes depleted as you use it.
-- If everything is important, nothing is.
-- Deliberate practice cannot exist alongside distraction.
 
 
+## Tech and Equity
 
-## Tech
-
-- You have to be responsible for what you put into the world.
-- Less 'move fast and break things,' more 'move slowly and fix things.'
 
 > In order to cope with the unprecedented technological and economic disruptions of the twenty-first century, we need to develop new social and economic models as soon as possible. These models should be guided by the principle of protecting humans rather than jobs.\
 > \

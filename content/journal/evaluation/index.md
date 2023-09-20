@@ -32,8 +32,30 @@ Stupidity = opinion - fact
 {{< columns >}}
 > "We can disagree and still love each other unless your disagreement is rooted in my oppression and denial of my humanity and right to exist." \
 > \
-> ~ James Baldwin
+> - James Baldwin
 <--->
 - Disagreeing and committing is set up to benefit those loudest and most persuasive. To do the ideas presented service requires understanding their merits, not simply accepting them based on how loudly they're presented.
 {{< /columns >}}
+
+## Cognitive Biases
+
+| **Bias Name**             | **Description**                                  |
+|---------------------------|-------------------------------------------------------------|
+| Confirmation Bias         | Preferring information that matches what you already think. |
+| Availability Heuristic    | Giving more weight to recent or memorable information.      |
+| Anchoring Bias            | Relying too much on the first piece of information.         |
+| Status Quo Bias           | Resisting change, preferring things stay the same.          |
+| Self-serving Bias         | Crediting successes to yourself, blaming others for failures.|
+| Dunning-Kruger Effect     | Those less skilled think they're better than they are.      |
+| Hindsight Bias            | Believing you knew something would happen after it does.    |
+| Survivorship Bias         | Only looking at successes, ignoring failures.               |
+| Optimism/Pessimism Bias   | Thinking good/bad things are more likely than they are.     |
+| Framing Effect            | Drawing conclusions based on how info is presented.         |
+| Groupthink                | Wanting to agree with the group, even if it's wrong.        |
+| Bandwagon Effect          | Doing something because everyone else is.                   |
+| Sunk Cost Fallacy         | Sticking with a decision due to past investment.            |
+| Recency Effect            | Valuing the latest information more.                        |
+| Selection Bias            | Focusing on certain data and ignoring the rest.             |
+| Observer-expectancy Effect| Expectations affecting the results.                         |
+| False Consensus Effect    | Thinking everyone agrees with you more than they do.        |
 
