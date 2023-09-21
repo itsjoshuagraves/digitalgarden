@@ -49,3 +49,6 @@ summary: "A list of sites I like or find useful."
 - [Lean Logic](https://leanlogic.online/introduction-david-fleming/)
 - [Minimizing Computing Maximizes Labor](http://digitalhumanities.org/dhq/vol/16/2/000594/000594.html)
 - ['Jugaad' innovation](https://www.theguardian.com/sustainable-business/jugaad-innovation-business-creativity-scarcity)
+- [Cultural Etiquette Around the World](http://www.ediplomat.com/np/cultural_etiquette/ce_kr.htm)
+- [Hofstede Insights: Country Comparison Tool](https://www.hofstede-insights.com/country-comparison-tool?countries=south-korea,the-usa)
+  - Please ensure you use tools such as these to give you an idea of how people from other cultures _may_ act, do not let it lead you into stereotypes.
