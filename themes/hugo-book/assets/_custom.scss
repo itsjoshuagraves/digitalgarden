@@ -117,23 +117,27 @@ blockquote.page-summary {
 
 .book-btn {
 	margin-bottom: 12px;
+	color: var(--color-link);
+	background: none;
+		&:hover {
+			background: var(--color-link);
+			color: var(--body-background) !important;
+			}
+	&.filled {
+		background: var(--color-link);
+		color: var(--body-background) !important;
+		&:hover {
+			background: var(--body-background);
+			color: var(--color-link) !important;
+		}
+	}
 }
 
-.book-btn:hover {
-	background: var(--color-link);
-	color: #fff !important;
-}
-
-.book-btn.filled {
-	background: var(--color-link) !important;
-	color: #fff !important;
-}
 
 .main-header {
 	display: flex;
 	align-items: center;
 	gap: 12px;
-// margin-bottom: 24px;
 		@media (max-width: 500px) {
 			font-size: 72px;
 			flex-direction: column;
