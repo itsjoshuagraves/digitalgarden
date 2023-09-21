@@ -6,6 +6,41 @@ summary: "I watch and read a lot. Here's some of it."
 ---
 {{< tabs "media" >}}
 
+{{< tab "Top Favs" >}}
+
+## Fiction
+{{< columns >}}
+
+![The Last House on Needless Street by Catriona Ward](./needless.webp)
+<--->
+![Hex by Thomas Olde Heuvelt](./hex.webp)
+<--->
+![Queen of Teeth by Hailey Piper](./queen.webp)
+{{< /columns >}}
+
+## Nonfiction
+
+{{< columns >}}
+![Digital Minimalism by Cal Newport](./digital-minimalism.webp)
+<--->
+![Mind Gut Connection by Emeran Mayer](./mind-gut.webp)
+<--->
+![Humankind by Rutger Bregman](./humankind.png)
+<--->
+![Surviving Death by Leslie Kean](./surviving.webp)
+{{< /columns >}}
+
+
+## Films
+These likely won't get imagery as I'm way too picky. :-)
+
+- You Won't Be Alone
+- It Follows
+- Gonjiam: Haunted Asylum
+- The Dark and the Wicked
+- The Wailing
+{{< /tab >}}
+
 {{< tab "Books" >}}
 
 ### Incoming
@@ -37,7 +72,7 @@ summary: "I watch and read a lot. Here's some of it."
 - Pretty Marys All in a Row
 - Boneset & Feathers
 - The Rust Maidens
-- Reluctant Immprtals
+- Reluctant Immortals
 - Old Souls: The Sages and Mystics of Our World
 - ~~Sundial~~
 - ~~The Paris Apartment~~
@@ -360,3 +395,6 @@ summary: "I watch and read a lot. Here's some of it."
 - Go
 {{< /tab >}}
 {{< /tabs >}}
+
+### See also
+- [Design Bookshelf](/tools/guides/bookshelf)
