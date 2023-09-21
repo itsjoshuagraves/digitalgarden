@@ -14,7 +14,6 @@ headless: true
   - [Work With Me](/work-with-me)
 - [**About & More**](/about)
   - [Joshua Mauldin](/about/me)
-  - [Digital Gardening](/about/site)
+  - [Digital Gardening](/about/digital-gardening)
   - [Resume.pdf](/resume.pdf)
   - [Bookmarks](/bookmarks)
-

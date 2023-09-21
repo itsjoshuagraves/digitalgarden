@@ -1,15 +1,16 @@
 ---
 date: 2023-08-08
-title: Books for Design Beginners
+title: Designer's Bookshelf
 bookToc: true
 type: docs
 tags: ["Resources"]
 aliases:
   - /docs/guides/bookshelf
-summary: "Covers basics, typography, and deeper topics like writing and communicating. Being a good designer is much more than what software you use."
+summary: "Covers visuals, typography, and deeper topics like writing and communicating. Being a good designer is much more than what software you use."
 ---
 
 ## Fundamentals
+Please note: none of what you see here has affiliate links. 
 
 ### The Non-Designer's Design Book
 This covers the basics of visual design and provides practical tips on how to create effective layouts, use color and typography effectively, and more.
@@ -60,32 +61,27 @@ Interpersonal skills. How and why Design can't just "take orders." Solid advocac
 
 ## Craft
 ### Just Enough Research
-Good research is about asking more and better questions, and thinking critically about the answers. Done well, it will save your team time and money by reducing unknowns and creating a solid foundation to build the right thing, in the most effective way.
-
-Erika Hall distills her experience into a guidebook of trusted research methods you can implement right away, no matter what size team you're on or budget you're working with. Learn how to discover your competitive advantages, spot your own blind spots and biases, understand and harness your findings, and why you should never, ever hold a focus group. You’ll start doing good research faster than you can plan your next pitch.
+Erika Hall’s guidebook condenses her experience into actionable insights on implementing trusted research methods irrespective of team size or budget. It focuses on critical thinking, competitive advantage discovery, and bias recognition, advising against focus groups and encouraging swift execution of effective research to build solid foundations and reduce unknowns.
 
 {{< button href="https://abookapart.com/products/just-enough-research" >}}Purchase{{< /button >}}
 
 
 
 ### Continuous Discovery Habits
-How do you know that you are making a product or service that your customers want? How do you ensure that you are improving it over time? How do you guarantee that your team is creating value for your customers in a way that creates value for your business?
-
-In this book, you'll learn a structured and sustainable approach to continuous discovery that will help you answer each of these questions, giving you the confidence to act while also preparing you to be wrong. You'll learn to balance action with doubt so that you can get started without being blindsided by what you don't get right.
+This book delves into structured and sustainable approaches to continuous discovery, helping teams create valuable, desirable products with a balanced perspective on action and doubt. It’s a guide for refining products while embracing uncertainties, offering strategies for confident action and adaptability to inaccuracies and changes.
 
 {{< button href="https://www.amazon.com/Continuous-Discovery-Habits-Discover-Products/dp/1736633309" >}}Purchase{{< /button >}}
 
 
 
-### Product Management for UX people
-User experience designers and researchers are wrestling with product management—as a peer discipline, a job title, a future career—or simply wondering exactly what it entails. In Product Management for UX People, Christian Crumlish demystifies product management for UX practitioners who want to understand, partner with, and even become product managers.
+### Product Management for UX People
+This book demystifies the essentials of product management specifically for UX researchers and designers. It's a practical guide for those looking to understand, partner with, or evolve into product managers, clarifying the myriad facets and responsibilities of the role in the realm of user experience.
 
 {{< button href="https://www.amazon.com/Product-Management-UX-People-Designing/dp/1933820713" >}}Purchase{{< /button >}}
 
 
-
 ## The Really Good Stuff
-You can’t just read design books. Design is about thinking, observing, and articulating. The best examples of that come from outside sources, as true creativity can’t come from being self-referential. 
+You can’t _just_ read design books. Good designers are clear thinkers, sharp observers, and can clearly define what a problem is. The best examples of such come from outside sources, as true creativity can’t come from being entirely self-referential. 
 
 ### On Writing
 This teaches you about managing your own time and communicating. By Stephen King.
