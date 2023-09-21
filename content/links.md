@@ -32,6 +32,8 @@ summary: "A list of sites I like."
 - [Beautiful typography](https://gitlab.com/velvetyne/velvetyne-libre-friends/-/blob/main/README.md)
 
 ## Reference & Resources
+- [Open Syllabus](https://galaxy.opensyllabus.org)
+- [arkipelago.space](https://arkipelago.space/)
 - [Archive.org](https://archive.org/)
 - [Library Genesis](http://libgen.rs/)
 - [IA](https://ia.net/)
