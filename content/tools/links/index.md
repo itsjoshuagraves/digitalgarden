@@ -6,17 +6,17 @@ summary: "A collection of tools that'll help you along your way in as a product 
 ---
 
 ## Research
-- Automation
-	- [Zapier](https://zapier.com/)
-- Research
-	- [Ethn.io](https://ethn.io/)
-- User tests, preference tests (unmoderated)
-	- [Maze.co](https://maze.co)
-	- [SurveyMonkey](https://www.surveymonkey.com)
-	- [Delighted](https://delighted.com/)
-- Targeted messaging and customized onboarding
-	- [Pendo](https://pendo.io/)
-	- [Intercom](https://www.intercom.com/)
+- [Ethn.io](https://ethn.io/)
+
+### User tests, preference tests (unmoderated)
+- [Maze.co](https://maze.co)
+- [SurveyMonkey](https://www.surveymonkey.com)
+- [Delighted](https://delighted.com/)
+
+
+### Targeted messaging, testing, and customized onboarding
+- [Pendo](https://pendo.io/)
+- [Intercom](https://www.intercom.com/)
 
 ## Typography and Visuals
 - [Lineto](https://lineto.com/)

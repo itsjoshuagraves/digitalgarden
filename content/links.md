@@ -12,8 +12,12 @@ summary: "A list of sites I like."
 - [Ars Technica](https://arstechnica.com/)
 - [Esoteric Codes](https://esoteric.codes/)
 - [Internet In a Box](https://internet-in-a-box.org)
-- [Pandoc](https://pandoc.org/epub.html)
 - [Hooray! Computer](https://hooray.computer/)
+- [Pandoc](https://pandoc.org)
+- [Ffmpeg](https://ffmpeg.org)
+- [Imagemagick](https://imagemagick.org/index.php)
+- [Nextcloud](https://nextcloud.com)
+- [Hugo](https://gohugo.io)
 
 ## Fun
 - [It's Nice That](https://www.itsnicethat.com/)
@@ -43,15 +47,3 @@ summary: "A list of sites I like."
 - [Lean Logic](https://leanlogic.online/introduction-david-fleming/)
 - [Minimizing Computing Maximizes Labor](http://digitalhumanities.org/dhq/vol/16/2/000594/000594.html)
 - ['Jugaad' innovation](https://www.theguardian.com/sustainable-business/jugaad-innovation-business-creativity-scarcity)
-
-## Tools
-- [Pandoc](https://pandoc.org)
-	- Universal document converter
-- [Ffmpeg](https://ffmpeg.org)
-	- Easily convert and transcode video files 
-- [Imagemagick](https://imagemagick.org/index.php)
-	- You can do some real cool stuff here that saves you tons of time (batch processing, for one)
-- [Nextcloud](https://nextcloud.com)
-	- It's like your own version of iCloud, but like...yours
-- [Hugo](https://gohugo.io)
-	- Static site generator written in Go, which powers this site
