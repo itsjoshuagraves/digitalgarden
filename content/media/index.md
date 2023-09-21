@@ -6,9 +6,9 @@ summary: "I watch and read a lot. Here's some of it."
 ---
 {{< tabs "media" >}}
 
-{{< tab "Top Favs" >}}
+{{< tab "Favs" >}}
 
-## Fiction
+### Fiction
 {{< columns >}}
 
 ![The Last House on Needless Street by Catriona Ward](./needless.webp)
@@ -18,7 +18,7 @@ summary: "I watch and read a lot. Here's some of it."
 ![Queen of Teeth by Hailey Piper](./queen.webp)
 {{< /columns >}}
 
-## Nonfiction
+### Nonfiction
 
 {{< columns >}}
 ![Digital Minimalism by Cal Newport](./digital-minimalism.webp)
@@ -31,7 +31,7 @@ summary: "I watch and read a lot. Here's some of it."
 {{< /columns >}}
 
 
-## Films
+### Films
 These likely won't get imagery as I'm way too picky. :-)
 
 - You Won't Be Alone
