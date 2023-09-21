@@ -1,8 +1,10 @@
 ---
-title: Links
+title: Bookmarks
 type: docs
+aliases:
+  - /links
 bookTOC: true
-summary: "A list of sites I like."
+summary: "A list of sites I like or find useful."
 ---
 
 ## Tech

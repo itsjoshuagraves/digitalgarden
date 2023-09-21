@@ -1,8 +1,8 @@
 ---
-title: The Site
+title: Digital Gardening
 bookToc: true
 type: docs
-summary: "Why build a digital garden?"
+summary: "What is a digital garden and why build one?"
 ---
 
 ## Why build this?

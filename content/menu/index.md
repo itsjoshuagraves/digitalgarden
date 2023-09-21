@@ -2,7 +2,7 @@
 headless: true
 ---
 - [**Home**](/)
-- [**Personal Sphere**]({{< relref "/personal" >}})
+- [**Personal Sphere**](/personal)
   - [Journal](/journal)
   - [Visual Art](/art)
   - [Read & Watch List](/media)
@@ -16,5 +16,5 @@ headless: true
   - [Joshua Mauldin](/about/me)
   - [Digital Gardening](/about/site)
   - [Resume.pdf](/resume.pdf)
-  - [Links](/links)
+  - [Bookmarks](/bookmarks)
 

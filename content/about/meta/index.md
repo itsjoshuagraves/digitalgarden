@@ -1,9 +1,30 @@
 ---
-title: Style Guide
+title: Meta
 type: docs
-summary: " "
-hidden: true
+bookToc: true
+summary: "Credits and other information about the site."
 ---
+
+## Launch
+The current version of this site launched in July of 2023 as a digital garden, replacing a very cute but very resource-intensive site. See [my rationale](/about/digital-gardening) for more on this.
+
+## Typography
+This site uses [ParaType's PT Sans and PT Mono](https://www.paratype.com) for body text and preformatted text, respectively. The headlines are set in [Good Type Foundry's Okkult](https://goodtypefoundry.com/okkult/).
+
+## Site
+[Hugo](https://gohugo.io) powers this site, it's an open source framework for building static sites. There are no trackers, cookies, or anything weird. It's good old HTML, CSS, and some JS for styling and the search function.
+
+This site is based off the `hugo-book` theme by [Alex Shpak](https://themes.gohugo.io/themes/hugo-book/). 
+
+{{< columns >}}
+![JDM Ambigram Insignia](/insignia.svg)
+<--->
+<--->
+<--->
+{{< /columns>}}
+
+---
+
 
 ## Headings
 
