@@ -1,7 +1,7 @@
 ---
 date: 2023-08-02
 title: 2023-08-02
-image: aahhh.jpeg
+image: output.png
 bookToc: false
 ---
 

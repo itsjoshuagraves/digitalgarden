@@ -25,7 +25,7 @@ summary: "I watch and read a lot. Here's some of it."
 <--->
 ![Mind Gut Connection by Emeran Mayer](./mind-gut.webp)
 <--->
-![Humankind by Rutger Bregman](./humankind.png)
+![Humankind by Rutger Bregman](./humankind.webp)
 <--->
 ![Surviving Death by Leslie Kean](./surviving.webp)
 {{< /columns >}}
