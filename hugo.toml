@@ -30,11 +30,8 @@ enableGitInfo = true
   BookComments = false
   
   # Experimental Features
-  BookServiceWorker = false
+  BookServiceWorker = true
   BookTranslatedOnly = false
 
 # Uncomment below settings if needed
-#  BookLogo = 'skull.svg'
-#  BookCommitPath = 'commit'
-#  BookEditPath = 'edit/main/exampleSite'
 #  BookPortableLinks = true
