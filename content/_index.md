@@ -14,7 +14,7 @@ This kind of site is also known as a digital garden. Mine has two spheres with s
 <--->
 
 ## What's new?
-On `September 24, 2023` I made some updates to my [design philosophy](/philosophy). It's pretty significant.
+On `September 24, 2023` I made some updates to my [design philosophy](/philosophy).
 
 On `September 10, 2023` I launched a new project, [The Nevermore](https://nevermore.rip). It's dedicated to the works of Edgar Allan Poe and is focused on giving readers a beautiful experience while reading. Hope you'll enjoy!
 

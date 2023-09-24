@@ -47,6 +47,7 @@ These likely won't get imagery as I'm way too picky. :-)
 - <mark>Outrage Machine</mark>
 - <mark>Silver Nitrate</mark>
 - <mark>The Black Spider</mark>
+- <mark>Little Eve</mark>
 - Sister, Maiden, Monster
 - Tomorrow, and Tomorrow, and Tomorrow: A novel
 
