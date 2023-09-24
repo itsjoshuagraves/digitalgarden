@@ -4,8 +4,6 @@ type: docs
 bookToc: true
 summary: "What underpins everything I do as a designer and leader."
 ---
-What defines good design? Is it pretty interfaces? Not really. 
-
 Design is fundamentally a practice and mindset focused on solving a problem. Designers are those who solve problems.
 
 _Good_ design goes a step further by treating each problem, people involved, and constraints at play as unique. There may be similarities between problems, there may not.
