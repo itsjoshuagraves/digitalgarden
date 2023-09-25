@@ -7,4 +7,4 @@ image: spirit_acid.webp
 summary: "Found imagery collage, hand-cut type."
 ---
 
-![Rotated work in process](rotate.webp)
+![Here's how this one got started!](rotate.webp)
