@@ -114,11 +114,15 @@
     margin-top: $padding-16;
     margin-bottom: $padding-16;
     font-size: .875rem;
+    border-color: var(--gray-200); 
 
     tr th,
     tr td {
       padding: $padding-8 $padding-16;
-      border: $padding-1 solid var(--gray-200);
+      border-top: $padding-1 solid var(--gray-200); 
+      border-bottom: $padding-1 solid var(--gray-200); 
+
+      // border: $padding-1 solid var(--gray-200);
     }
 
     tr:nth-child(2n) {
