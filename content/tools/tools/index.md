@@ -1,5 +1,6 @@
 ---
 title: Tools
+linktitle: Tools
 type: docs
 bookToc: true
 aliases:
@@ -7,25 +8,14 @@ aliases:
 summary: "A collection of tools that'll help you along your way in as a product designer."
 ---
 
-## Design
-- [Figma file organization template](https://www.figma.com/community/file/1287099937231452013/sample-design-ops-file)
-  - Use this to keep your desktop and mobile designs neatly organized and searchable. Includes states, notes, and allows you to link up your backlog for future referencing.
-- [Figma feedback template](https://www.figma.com/community/file/1288586025702023281/design-critique-template)
-  - A design feedback template that incorporates Asana's Do-
+## Templates
+Templates for keeping organized.
+- [Figma Design Ops Template](https://www.figma.com/community/file/1287099937231452013/sample-design-ops-file)
+- [Figma Feedback Template](https://www.figma.com/community/file/1288586025702023281/design-critique-template)
 
-## Research
-- [Ethn.io](https://ethn.io/)
+## Design 
+Typography and visuals. You gotta keep it fresh.
 
-## User tests, preference tests (unmoderated)
-- [Maze.co](https://maze.co)
-- [SurveyMonkey](https://www.surveymonkey.com)
-- [Delighted](https://delighted.com/)
-
-## Targeted messaging, testing, and customized onboarding
-- [Pendo](https://pendo.io/)
-- [Intercom](https://www.intercom.com/)
-
-## Typography and Visuals
 - [Lineto](https://lineto.com/)
 - [Typewolf](https://www.typewolf.com)
 - [Sudtipos](https://www.sudtipos.com/)
@@ -35,7 +25,17 @@ summary: "A collection of tools that'll help you along your way in as a product 
 - [The Pattern Library](http://thepatternlibrary.com)
 - [Mobbin](http://thepatternlibrary.com)
 
+## User Research
+Includse preference tests, unmoderated tests, tools for onboarding and more.
+- [Maze.co](https://maze.co) 
+- [SurveyMonkey](https://www.surveymonkey.com)
+- [Delighted](https://delighted.com/)
+- [Ethn.io](https://ethn.io/)
+- [Pendo](https://pendo.io/)
+- [Intercom](https://www.intercom.com/)
+
 ## Articles & Learnings
+Quick reference material.
 - [Google Ventures Survey Guide](https://library.gv.com/improve-your-startup-s-surveys-and-get-even-better-data-7b0272f74c23)
 - [Design Better Co: Guess Less](https://www.designbetter.co/principles-of-product-design/guess-less)
 - [Minimum Viable Ethnography](https://medium.com/mule-design/minimum-viable-ethnography-a047e9358df0)
