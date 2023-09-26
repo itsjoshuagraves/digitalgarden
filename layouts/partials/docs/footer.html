@@ -1,11 +1,14 @@
-<div class="meta">
+<ul class="meta">
 
 {{ if and .GitInfo .Site.Params.BookRepo }}
-  <div>
+  <li class="meta-update">
     {{- $date := partial "docs/date" (dict "Date" .GitInfo.AuthorDate.Local "Format" .Site.Params.BookDateFormat) -}}
     {{- $commitPath := default "commit" .Site.Params.BookCommitPath -}}
-      <span class="meta-update">Updated and © {{ $date }} • </span> <a class="meta-rss" href="/index.xml">RSS</a>
-  </div>
+      Updated & © {{ $date }}</li> 
+      <li><a class="meta-rss" href="https://www.websitecarbon.com/website/joshuamauldin-com/" target="blank">0.03g/CO2 generated</a> 
+        </li>
+        <li><a class="meta-rss" href="/index.xml">RSS</a></li>
+  </ul>
 {{ end }}
 </div>
 

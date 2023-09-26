@@ -298,13 +298,25 @@ figcaption {
 }
 
 .meta {
+	padding-left: 0;
 	font-size: .667rem;
 	color: var(--gray-500);
 	font-family: 'pt_monoregular', sans-serif;
+	li {
+		display: block;
+		margin-bottom: .5rem;
+		@media screen and (min-width: 500px) {
+			display: inline;
+		&::after {
+			content: " • ";
+		}
+		&:last-child:after {
+				content: "";
+			}
+		}
+	}
 	.meta-rss{
-		display: inline-block;
-	text-decoration: none;
-	padding-top: .5rem;
+		text-decoration: none;
 	}
 }
 
