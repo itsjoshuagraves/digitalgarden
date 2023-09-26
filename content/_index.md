@@ -3,16 +3,13 @@ title: Home
 type: home
 bookToc: false
 ---
-
+---
 {{< columns >}}
-## What is this?
-
+## Welcome!
 This site is a wiki that catalogs my [professional](/professional) and [personal](/personal) life. 
 
 This kind of site is also known as a [digital garden](/about/digital-gardening/). Mine has two spheres with some overlap between each. And just like a garden, this site is constantly being tended.
-
 <--->
-
 ## What's new?
 On `September 24, 2023` I made some updates to my [design philosophy](/philosophy).
 
@@ -24,10 +21,10 @@ On `August 31, 2023` I posted a guide in Tinkering about how I [modified a keger
 As of `August 17, 2023` I've added a [bookshelf](/docs/guides/bookshelf) which contains recommendations for newcomers to design.
 
 As of `August 4, 2023`, my forthcoming book, [We Need to Talk](/we-need-to-talk), is officially in editing mode!
+
+
+
+
+
 {{< /columns >}}
 
----
-## Find Me Elsewhere
-- [Mastodon](http://hooray.computer/@josh)
-- [LinkedIn](http://linkedin.com/in/joshuamauldin/)
-- [Email](mailto:hello@joshuamauldin.com)

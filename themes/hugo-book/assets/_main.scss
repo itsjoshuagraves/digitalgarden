@@ -362,3 +362,9 @@ body[dir="rtl"] .book-menu {
     padding: $padding-16 * 2 $padding-16;
   }
 }
+
+strong {
+  letter-spacing: -.4px !important;
+text-rendering: auto;
+
+}

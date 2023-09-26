@@ -77,7 +77,7 @@ code {
 	border-right: 1px solid;
 	border-color: var(--border-color);
 	a{
-		letter-spacing: 0;
+		letter-spacing: normal;
 	}
 }
 
@@ -175,7 +175,7 @@ blockquote.page-summary {
 .main-summary {
 	margin-top: 0;
 	font-size: 20px;
-	line-height: 133% !important;
+	line-height: 140% !important;
 }
 
 @media (min-width: 500px) {
@@ -188,7 +188,7 @@ blockquote.page-summary {
 .art-summary {
 	margin-top: 4px !important;
 	margin-bottom: 8px;
-	line-height: 130% !important;
+	line-height: 140% !important;
 }
 .tags {
 	ul{
@@ -315,8 +315,12 @@ figcaption {
 			}
 		}
 	}
-	.meta-rss{
-		text-decoration: none;
+	.bottomline {
+		display: inline !important;
+	}
+	a{
+	text-decoration: none;	
 	}
 }
+
 

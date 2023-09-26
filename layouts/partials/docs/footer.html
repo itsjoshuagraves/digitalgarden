@@ -7,12 +7,18 @@
       Updated & © {{ $date }}</li> 
       <li><a class="meta-rss" href="https://www.websitecarbon.com/website/joshuamauldin-com/" target="blank">0.03g/CO2 generated</a> 
         </li>
-        <li><a class="meta-rss" href="/index.xml">RSS</a></li>
   </ul>
 {{ end }}
-</div>
+<ul class="meta">
+  <li class="bottomline"><a href="http://hooray.computer/@josh" title="Find me on Mastodon">Mastodon</a></li>
+  <li class="bottomline"><a href="http://linkedin.com/in/joshuamauldin/" title="Find me on LinkedIn">LinkedIn</a></li>
+  <li class="bottomline"><a href="mailto:hello@joshuamauldin.com" title="Email Me">Email</a></li>
+  <li class="bottomline"><a class="meta-rss" href="/index.xml">RSS</a></li>
+
+</ul>
 
 {{ $script := resources.Get "clipboard.js" | resources.Minify }}
 {{ with $script.Content }}
   <script>{{ . | safeJS }}</script>
 {{ end }}
+
