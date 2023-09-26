@@ -13,19 +13,19 @@ summary: "Covers visuals, typography, and deeper topics like writing and communi
 Please note: none of what you see here has affiliate links. 
 
 ### The Non-Designer's Design Book
-This covers the basics of visual design and provides practical tips on how to create effective layouts, use color and typography effectively, and more.
+This covers the basics of visual design and provides practical tips on how to create effective layouts, use color and typography effectively, and more. By Robin Williams. (No, not that one.)
 
 {{< button href="https://www.amazon.com/Williams-Non-Designers-Design-Bk_p3-Designers/dp/0321534042" >}}Purchase{{< /button >}}
 
-### Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability
+### Don't Make Me Think, Revisited
 This covers basic design principles and how/why to validate your ideas. 
 
-I do have two nits, despite this being so helpful: the goal isn’t to remove _all_ friction, it exists for a reason and you need to manage it. Also, this book assumes you have a system for the ethical implications of your design, as you clearly wouldn’t want to “not make me think” your way into doing something unethical. 
+I do have two nits, despite this being so helpful: the goal isn’t to remove _all_ friction, it exists for a reason and you need to manage it. Also, this book assumes you have a system for the ethical implications of your design, as you clearly wouldn’t want to “not make me think” your way into doing something unethical. By Steve Krug.
 
 {{< button href="https://www.oreilly.com/library/view/dont-make-me/9780133597271/" >}}Purchase{{< /button >}}
 
 ### How to Make Sense of Any Mess
-This covers how to approach massively complex problems in a human, easy way.
+This covers how to approach massively complex problems in a human, easy way. By Abby Covert.
 
 {{< button href="https://abbycovert.com/make-sense/" >}}Read{{< /button >}}
 
@@ -33,27 +33,27 @@ This covers how to approach massively complex problems in a human, easy way.
 ## Problems & People
 
 ### Cultures and Organizations
-This book discusses the dimensions of identity and how they affect interpersonal communication. It's perfect when you're working with people who aren't like you.
+This book discusses the dimensions of identity and how they affect interpersonal communication. It's perfect when you're working with people who aren't like you. By Geert Hofstede.
 
 {{< button href="https://www.amazon.com/Cultures-Organizations-Software-Mind-Third/dp/0071664181" >}}Purchase{{< /button >}}
 
 ### Better Allies
-A concise, practical guide to what allyship looks like at work. And, conveniently, what it *doesn't* look like.
+A concise, practical guide to what allyship looks like at work. And, conveniently, what it *doesn't* look like. By Karen Catlin.
 
 {{< button href="https://betterallies.com" >}}More Info{{< /button >}}
 
 ### How to Have a Good Day
-Behavioral science-influenced approach to more effective interpersonal communication, overcoming obstacles, and general ambiguity. Lovely read.
+Behavioral science-influenced approach to more effective interpersonal communication, overcoming obstacles, and general ambiguity. Lovely read. By Caroline Webb.
 
 {{< button href="https://carolinewebb.co/books/how-to-have-a-good-day/" >}}Purchase{{< /button >}}
 
 ### Practical Design Discovery
-90% of a good solution is knowing how to ask the right question. How you discover matters as much (if not more) than what you discover.
+90% of a good solution is knowing how to ask the right question. How you discover matters as much (if not more) than what you discover. By Dan Brown.
 
 {{< button href="https://abookapart.com/products/practical-design-discovery" >}}Purchase{{< /button >}}
 
 ### Design is a Job
-Interpersonal skills. How and why Design can't just "take orders." Solid advocacy for responsible designs.
+Interpersonal skills. How and why Design can't just "take orders." Solid advocacy for responsible designs. By Mike Montiero.
 
 {{< button href="https://abookapart.com/products/design-is-a-job" >}}Purchase{{< /button >}}
 
@@ -61,21 +61,17 @@ Interpersonal skills. How and why Design can't just "take orders." Solid advocac
 
 ## Craft
 ### Just Enough Research
-Erika Hall’s guidebook condenses her experience into actionable insights on implementing trusted research methods irrespective of team size or budget. It focuses on critical thinking, competitive advantage discovery, and bias recognition, advising against focus groups and encouraging swift execution of effective research to build solid foundations and reduce unknowns.
+Research, but scrappy. Focuses on competitive advantage discovery, bias recognition and a lot more. By Erika Hall.
 
 {{< button href="https://abookapart.com/products/just-enough-research" >}}Purchase{{< /button >}}
 
-
-
 ### Continuous Discovery Habits
-This book delves into structured and sustainable approaches to continuous discovery, helping teams create valuable, desirable products with a balanced perspective on action and doubt. It’s a guide for refining products while embracing uncertainties, offering strategies for confident action and adaptability to inaccuracies and changes.
+It's a different way of looking at product discovery and planning. Instead of "we want this thing, now go do it" you brainstorm opportunities to serve a goal. It is a welcome inversion of product discovery processes. By Teresa Torres.
 
 {{< button href="https://www.amazon.com/Continuous-Discovery-Habits-Discover-Products/dp/1736633309" >}}Purchase{{< /button >}}
 
-
-
 ### Product Management for UX People
-This book demystifies the essentials of product management specifically for UX researchers and designers. It's a practical guide for those looking to understand, partner with, or evolve into product managers, clarifying the myriad facets and responsibilities of the role in the realm of user experience.
+Helps UX researchers and designers become better at product management. Essential in becoming a competent strategic partner to your product management peers. By Christian Crumlish.
 
 {{< button href="https://www.amazon.com/Product-Management-UX-People-Designing/dp/1933820713" >}}Purchase{{< /button >}}
 
@@ -89,7 +85,7 @@ This teaches you about managing your own time and communicating. By Stephen King
 {{< button href="https://www.amazon.com/Writing-Memoir-Craft-Stephen-King/dp/1982159375" >}}Purchase{{< /button >}}
 
 ### Deep Work
-On focus and its importance. It's smartly written, and has extremely practical tips. But it's more than just being about productivity. It's about how to realize ideas in a world that has forgotten how to slow down and think.
+On focus and its importance. It's smartly written, and has extremely practical tips. But it's more than just being about productivity. It's about how to realize ideas in a world that has forgotten how to slow down and think. By Cal Newport.
 
 {{< button href="https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692" >}}Purchase{{< /button >}}
 
