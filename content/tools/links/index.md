@@ -1,11 +1,8 @@
 ---
-title: Tools
-linktitle: Tools
+title: Links
 type: docs
 bookToc: true
-aliases:
-  - /tools/links/
-summary: "A collection of tools that'll help you along your way in as a product designer."
+summary: "Links, templates, and reference material."
 ---
 
 ## Templates
