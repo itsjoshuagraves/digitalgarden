@@ -7,6 +7,7 @@ headless: true
   - [Visual Art](/art)
   - [Read & Watch List](/media)
   - [Tinkering](/tinkering)
+  - [Log](/log)
 - [**Professional Sphere**](/professional)
   - [We Need to Talk](/we-need-to-talk)
   - [Portfolio](/portfolio)
