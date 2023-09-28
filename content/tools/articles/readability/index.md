@@ -46,7 +46,7 @@ These percentage ranges give you a baseline to work with for your typography. Ea
 
 It’s good to have a system when you make text. A system helps you make better, more strategic decisions when you’re adding new elements to your design.
 
-![Ideal text sizes](type-3.png)
+![Ideal text sizes](type-3.webp)
 
 To get one started, think about the text that’ll be the most plentiful in your design — base everything else off of that. You’re probably going to have lots of paragraphs in your designs, so I usually start there. Next, think about other elements: headers, subheaders, etc. Once I have them, I usually like to plug my designs into something called [Modular Scale](http://modularscale.com/) to help build a hierarchy.
 

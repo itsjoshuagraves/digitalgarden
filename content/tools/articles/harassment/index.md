@@ -10,8 +10,6 @@ summary: "I've always been thinking about how to reduce harassment and annoyance
 ---
 
 
-![Harrasment Online](harassment.webp)
-
 I have an idea about how to help people being harassed, and it’s about how people get and manage their replies.
 
 This idea is more of an umbrella in a shitstorm. It’s a short-term solution that helps us stay dry while we try to get indoors to safety.
@@ -40,7 +38,7 @@ This allows for a little more exposure. You’re good at choosing friends, and y
 
 ### Verified accounts only
 
-![Verified Accounts](verified.webp)
+![Verified Accounts](verified-only.webp)
 
 This is relatively new and pretty interesting. Twitter just opened up public registration for verified accounts, and it could have some interesting repercussions later on down the line.
 

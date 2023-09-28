@@ -4,13 +4,12 @@ title: Requiem for a side project, quitting AwesomeGIFs
 tags: ["Medium"]
 bookToc: true
 type: docs
-
 originalURL: https://medium.com/@joshuamauldin/requiem-for-a-side-project-quitting-awesomegifs-fc08a0e879df
 summary: "I ran a site called AwesomeGIFs, and eventually left it. RIP."
 ---
 
 
-![AwesomeGIFs Site](/awesomegifs.webp)
+![AwesomeGIFs Site](awesomegifs.webp)
 
 A feeling came over me in 2009 when GeoCities was shutting down: ‘I don’t want all those GIFs to somehow disappear! They’re magic.’ So I made a home for them, and in the span of a few short weeks, AwesomeGIFs was born.
 
