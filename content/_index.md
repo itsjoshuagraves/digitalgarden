@@ -3,12 +3,14 @@ title: Home
 type: home
 bookToc: false
 ---
----
 {{< columns >}}
-## Hello there!
-This site is a wiki that catalogs my [professional](/professional) and [personal](/personal) life. 
+## Hi there.
+I'm Joshua. I‘m working to put more humanity and kindness into the world through my design work and writing. I love spooky stuff, animals of all kinds, and exploring the interconnectedness we all share.
 
-This kind of site is also known as a [digital garden](/about/digital-gardening/). Mine has two spheres with some overlap between each. And just like a garden, this site is constantly being tended.
+Here you'll find a wiki of my [professional](/professional) and [personal](/personal) life. This site is expansive and is also known as a [digital garden](/about/digital-gardening/). 
+
+Enjoy your time here!
+
 <--->
 ## What's new?
 On `September 24, 2023` I made some updates to my [design philosophy](/philosophy).
