@@ -47,11 +47,11 @@ These likely won't get imagery as I'm way too picky. :-)
 - <mark>Outrage Machine</mark>
 - <mark>Silver Nitrate</mark>
 - <mark>The Black Spider</mark>
-- <mark>Little Eve</mark>
-- Sister, Maiden, Monster
+- <mark>Sister, Maiden, Monster</mark>
 - Tomorrow, and Tomorrow, and Tomorrow: A novel
 
 ### 2023
+- Little Eve
 - The Last House on Needless Street ❤️❤️
 - Looking Glass Sound ❤️❤️
 - Dark Delicacies Vol. 1
