@@ -1,8 +1,8 @@
 ---
 date: 2023-07-30
-title: Evaluation and Clear Thinking
+title: Evaluation & Clear Thinking
 tags: ["Evaluation"]
-summary: "Sometimes I get stuck on making decisions, coming to terms with an idea or choice, or just plain seeing through the muck."
+summary: "Rubric for making decisions, coming to terms with an idea or choice, or seeing through the muck."
 bookToc: true
 ---
 

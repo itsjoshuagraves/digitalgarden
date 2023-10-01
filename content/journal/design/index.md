@@ -3,7 +3,7 @@ date: 2023-07-30
 title: Design & Problem Solving
 tags: ["Wisdom"]
 bookToc: true
-summary: "Collection of insights on mind, focus, and ethics."
+summary: "Collection of insights on how to approach problems."
 ---
 
 ## Design & Thinking

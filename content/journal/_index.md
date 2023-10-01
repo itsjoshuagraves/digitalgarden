@@ -2,5 +2,5 @@
 title: Journal
 type: docs
 bookToc: false
-summary: "I'm intentionally not calling this a blog, as that comes with expectations of constant updates. Instead, this is a place to store thoughts on topics that matter to me."
+summary: "A place to collect thoughts on topics that matter to me."
 ---
