@@ -4,12 +4,12 @@ type: home
 bookToc: false
 ---
 {{< columns >}}
-## Hi there.
+## Hello there!
 I'm working to put more humanity and kindness into the world through my design work, human-centered leadership, and writing. 
 
 I love spooky stuff, animals of all kinds, and exploring the interconnectedness we all share.
 
-Here you'll find a wiki of my [professional](/professional) and [personal](/personal) life. This (fairly expansive) type of site is expansive and is also known as a [digital garden](/about/digital-gardening/). 
+Here you'll find a wiki of my [professional](/professional) and [personal](/personal) life. This (fairly expansive) type of site is also known as a [digital garden](/about/digital-gardening/). 
 
 Enjoy your time here!
 
