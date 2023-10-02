@@ -9,7 +9,7 @@ article {
 
 .post-date {
 	margin: 1rem 0 !important;
-	font-family: "PT Mono", 'pt_monoregular', monospace;
+	font-family: "PT Mono", monospace;
 	font-size: 12px;
 	font-weight: normal !important;
 	letter-spacing: 0 !important;
@@ -52,12 +52,13 @@ h1 {
 
 
 h2, h3, h4, h5, h6 {
-	font-family: "PT Sans Bold", "pt_sansbold", sans-serif;
+	font-family: "PT Sans Bold", "Bahnschrift", "pt_sansbold", sans-serif;
+	font-weight: bold;
 }
 
 body {
-  	font-family: "PT Sans", "pt_sansregular", sans-serif;
-  	font-weight: 500;
+  	font-family: "PT Sans", "Bahnschrift", "pt_sansregular", sans-serif;
+  	font-weight: normal;
   	font-style: normal;
   	p {
   	margin-top: 0;
@@ -66,7 +67,7 @@ body {
 }
 
 code {
-  font-family: "PT Mono", 'pt_monoregular', monospace;
+  font-family: "PT Mono", monospace;
 }
 
 .book-post p{
@@ -196,7 +197,7 @@ blockquote.page-summary {
 		padding-top: .33rem;
 	}
 	h5, ul, li {
-	font-family: "PT Mono", 'pt_monoregular', monospace;
+	font-family: "PT Mono", monospace;
 	display: inline;
 	font-size: .667rem;
 	padding-left: 0;
@@ -301,7 +302,7 @@ figcaption {
 	padding-left: 0;
 	font-size: .667rem;
 	color: var(--gray-500);
-	font-family: "PT Mono", 'pt_monoregular', monospace;
+	font-family: "PT Mono", monospace;
 	li {
 		display: block;
 		margin-bottom: .75rem;
