@@ -13,11 +13,11 @@ This is something a recruiter or first-line person would ask.
 
 ## How would you define user experience design?
 - Looking for the candidate to articulate that UX puts the user's needs in the core of what is designed and how.
-- Design is not just what it looks like but how it works
+- Design is not just what it looks like but how it works.
 - Describe your design process. How does it change depending on the project?
 - Candidate should be able to articulate how different tools and parts of the process answer different questions. 
-- Candidate puts user needs and business needs in balance in their design process
-- Candidate demonstrates the ability to work backwards from desired outcomes towards design solutions
+- Candidate puts user needs and business needs in balance in their design process.
+- Candidate demonstrates the ability to work backwards from desired outcomes towards design solutions.
 - How do you know that what you're designing works for the user?
 - Candidate should be able to articulate a clear path to user research, discovery of new issues and how they make changes based on that.
 
@@ -31,4 +31,4 @@ This is something a recruiter or first-line person would ask.
 ## Tell them about next steps
 - What's moving forward look like?
 - How many interviews are there?
-- Discuss salary
+- Discuss salary.
