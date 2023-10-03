@@ -4,9 +4,17 @@ type: summary-page
 bookToc: false
 summary: "A catalog of my artwork and creative endeavors, my personal journal, and other miscellaneous things I’ve enjoyed."
 ---
-
+<article class="markdown book-post feature-block">
+<figure>
+  <img src="broad2.webp">
+  <figcaption>
+  	Me at the Broad Museum.
+  </figcaption>
+</figure>
+</article>
 
 {{< columns >}}
+
 Creations
 : ## [Visual Art](/art)
 	Mixed media collages, glitch art and skulls (not real ones!). Lots of darker themes exploring identity, loneliness, memento moris. Also, tinkering.
