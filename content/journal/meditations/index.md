@@ -1,6 +1,6 @@
 ---
 date: 2021-02-01
-title: Meditations For The Overstimulated 
+title: Meditations For The Over-stimulated 
 summary: "A short meditation for when things get overwhelming."
 tags: ["Meditation", "Burnout"]
 bookToc: false
