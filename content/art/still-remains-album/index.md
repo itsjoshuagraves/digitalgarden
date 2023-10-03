@@ -1,5 +1,5 @@
 ---
-title: Still Remains Album
+title: Still Remains
 tags: [Music Industry]
 date: 2008-01-01
 image: still-cov.webp

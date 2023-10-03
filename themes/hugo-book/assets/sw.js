@@ -17,6 +17,11 @@ self.addEventListener("install", function (event) {
 
 self.addEventListener("fetch", (event) => {
   const request = event.request;
+  // Bypass the service worker for video files.
+  if (request.url.endsWith('.mp4')) {
+    return;
+  }
+
   if (request.method !== "GET") {
     return;
   }
@@ -35,7 +40,6 @@ self.addEventListener("fetch", (event) => {
       return response;
     }
   }
-
   /**
    * @param {Error} error
    */

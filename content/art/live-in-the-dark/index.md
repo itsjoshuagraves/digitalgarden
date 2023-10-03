@@ -1,5 +1,5 @@
 ---
-title: De-enlightenment [Series]
+title: Live In The Dark
 tags: [Digital]
 date: 2019-01-01
 image: de-enlightenment-00002.webp

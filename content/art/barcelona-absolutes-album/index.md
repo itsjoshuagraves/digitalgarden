@@ -1,9 +1,9 @@
 ---
-title: Barcelona “Absolutes” Album
+title: Barcelona 
 tags: [Music Industry]
 date: 2008-01-01
 image: barcelona-00005.webp
-summary: "Design and art direction."
+summary: "Design and art direction for Absolutes."
 bookToc: false
 ---
 

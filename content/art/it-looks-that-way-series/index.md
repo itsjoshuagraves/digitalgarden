@@ -1,5 +1,5 @@
 ---
-title: It looks that way [Series]
+title: Not Alive
 tags: [Digital]
 date: 2019-01-01
 image: looks-that-way.webp

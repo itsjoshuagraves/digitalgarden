@@ -1,18 +1,14 @@
 ---
-title: Autolux “Future Perfect” Album
+title: Autolux
 tags: [Music Industry]
 date: 2008-01-01
 image: "autolux-00006.webp"
 bookToc: false
-summary: "Unused album comps. "
+summary: "Unused album comps for Future Perfect."
 ---
 
 ![](autolux-00001.webp)
-0
 ![](autolux-00002.webp)
-0
 ![](autolux-00003.webp)
-0
 ![](autolux-00004.webp)
-0
 ![](autolux-00005.webp)

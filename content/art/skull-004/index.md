@@ -1,10 +1,10 @@
 ---
-title: Skulls [Series-004]
+title: Skulls-004
 tags: [Analog]
 date: 2021-01-01
 bookToc: false
 image: skull-series-004-a.webp
-summary: "Integrating a blackout painted skull with a vintage 1900s typewriter."
+summary: "Series. Integrating a blackout painted skull with a vintage 1900s typewriter."
 ---
 My cat wanted in on the photo, who am I to say no?
 

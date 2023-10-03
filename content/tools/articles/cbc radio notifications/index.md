@@ -1,7 +1,6 @@
 ---
 date: 2017-12-22
-link title: Notifications stress me out. How I cut them down to improve my well-being
-title: Notifications stress me out. How I cut them down to improve my well-being
+title: CBC Interview on Push Notifi-cations
 tags: ["CBC Radio"]
 type: docs
 bookToc: true

@@ -1,10 +1,10 @@
 ---
-title: When It’s Over [Series]
+title: When It’s Over
 tags: [Digital]
 date: 2019-01-01
 image: over-00001.webp
 bookToc: false
-summary: "Made with processing.js, Photoshop, and other pixel ruiners."
+summary: "Series. Made with processing.js, Photoshop, and other pixel ruiners."
 ---
 {{< columns >}}
 ![](over-00006.webp)

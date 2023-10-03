@@ -1,6 +1,6 @@
 ---
 date: 2023-08-02
-title: On Site Interview Email Template
+title: On Site Interview Template
 tags: ["Hiring", "Interviews"]
 type: docs
 bookToc: true

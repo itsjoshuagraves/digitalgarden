@@ -1,5 +1,5 @@
 ---
-title: an endless echo
+title: An Endless Echo
 tags: [Digital]
 date: 2019-01-01
 image: echo.webp

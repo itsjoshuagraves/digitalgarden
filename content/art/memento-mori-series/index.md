@@ -1,10 +1,10 @@
 ---
-title: Mementos Mori [Series]
+title: Mementos Mori
 tags: [Digital]
 date: 2019-01-01
 image: memento-mori-00002.webp
 bookToc: false
-summary: "A combination of something lively and organic with something ... not lively."
+summary: "Series. A combination of something lively and organic with something ... not lively."
 ---
 
 {{< video "memento-mori-0001.mp4" >}}

@@ -1,5 +1,5 @@
 ---
-title: Medications “Good” Album
+title: Medications
 tags: [Music Industry]
 date: 2008-01-01
 image: med-cov.webp

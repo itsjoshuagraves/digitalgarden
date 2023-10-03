@@ -1,6 +1,6 @@
 ---
 title: Articles
-summary: "A collection of things I've written that were published elsewhere."
+summary: "A collection of articles I've published or been mentioned in."
 bookToc: false
 type: docs
 ---

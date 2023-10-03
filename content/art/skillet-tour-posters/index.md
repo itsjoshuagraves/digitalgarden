@@ -1,5 +1,5 @@
 ---
-title: Skillet Tour Posters
+title: Skillet
 tags: [Music Industry]
 date: 2008-01-01
 image: skillet2.webp

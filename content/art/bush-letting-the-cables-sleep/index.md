@@ -1,9 +1,9 @@
 ---
-title: Bush - Letting the Cables Sleep
+title: Bush
 tags: [Music Industry]
 date: 2008-01-01
 image: cables.webp
-summary: "Unused concept commissioned by Interscope Records."
+summary: "Unused concept commissioned by Interscope Records for Letting the Cables Sleep."
 bookToc: false
 ---
 

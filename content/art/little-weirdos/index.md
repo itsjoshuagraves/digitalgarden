@@ -1,10 +1,10 @@
 ---
-title: Little Weirdos [Series]
+title: Little Weirdos
 tags: [Digital]
 date: 2019-01-01
 image: weirdos.webp
 bookToc: false
-summary: "I have no justification for any of this, except that it was weird and fun."
+summary: "Series. I have no justification for any of this, except that it was weird and fun."
 ---
 {{< columns >}}
 {{< video "little-weirdos-00001.mp4" >}}

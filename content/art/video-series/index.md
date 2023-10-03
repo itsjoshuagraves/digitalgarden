@@ -1,10 +1,10 @@
 ---
-title: Videotypes [Series]
+title: Videotypes
 tags: [Digital]
 date: 2019-01-01
 bookToc: false
 image: videotypes.webp
-summary: "Some video experiments I did with apps on my phone, weird TVs, and other found footage."
+summary: "Series. Some video experiments I did with apps on my phone, weird TVs, and other found footage."
 ---
 
 {{< columns >}}

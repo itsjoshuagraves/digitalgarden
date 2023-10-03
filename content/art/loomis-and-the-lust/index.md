@@ -1,5 +1,5 @@
 ---
-title: Loomis and the Lust Album & EP
+title: Loomis and the Lust
 tags: [Music Industry]
 date: 2008-01-01
 image: cover-04.webp

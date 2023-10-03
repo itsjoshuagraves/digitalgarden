@@ -1,10 +1,10 @@
 ---
-title: Holograph [Series]
+title: Holograph
 tags: [Digital]
 date: 2022-01-01
 bookToc: false
 image: holograph.webp
-summary: "A series that revisited some older works and tried seeing them in a new light."
+summary: "Series. Oil slicks and holograms."
 ---
 
 {{< columns >}}

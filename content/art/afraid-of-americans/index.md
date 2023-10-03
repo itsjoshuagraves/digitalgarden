@@ -1,5 +1,5 @@
 ---
-title: i’m afraid of americans
+title: I’m Afraid of Americans
 tags: [Digital]
 date: 2019-01-01
 image: americans.webp

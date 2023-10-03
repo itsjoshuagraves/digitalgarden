@@ -1,10 +1,10 @@
 ---
-title: Little Fears [Series]
+title: Little Fears
 tags: [Digital]
 date: 2019-01-01
 bookToc: false
 image: fears.webp
-summary: "A series dedicated to automatic writing and textural experiments."
+summary: "Series. Exploration of automatic writing and textural experiments."
 ---
 
 {{< columns >}}

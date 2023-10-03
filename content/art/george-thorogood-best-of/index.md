@@ -1,5 +1,5 @@
 ---
-title: George Thorogood “Best Of” Album
+title: George Thorogood
 tags: [Music Industry]
 date: 2008-01-01
 image: thorogood_cover.webp

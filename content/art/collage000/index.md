@@ -1,5 +1,5 @@
 ---
-title: New York Collage
+title: New York
 tags: [Digital]
 date: 2020-01-01
 image: collage.webp

@@ -1,10 +1,10 @@
 ---
-title: Skulls [Series-003]
+title: Skulls-003
 tags: [Analog]
 date: 2021-01-01
 bookToc: false
 image: skull-series-003-b.webp
-summary: "Experiment with unicorn skeleton and color-sensitive paint."
+summary: "Series. Experiment with unicorn skeleton and color-sensitive paint."
 ---
 
 {{< columns >}}

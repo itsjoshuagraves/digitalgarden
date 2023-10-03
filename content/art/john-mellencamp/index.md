@@ -1,5 +1,5 @@
 ---
-title: John Mellencamp Site
+title: John Mellencamp
 tags: [Music Industry]
 date: 2008-01-01
 image: mellencamp.webp

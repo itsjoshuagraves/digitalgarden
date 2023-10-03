@@ -1,6 +1,6 @@
 ---
 date: 2023-08-02
-title: Pre-screen Review for Product Design Candidates
+title: Product Designer Pre-screen
 tags: ["Hiring", "Interviews"]
 type: docs
 bookToc: true

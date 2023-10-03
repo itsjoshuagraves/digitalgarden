@@ -1,5 +1,5 @@
 ---
-title: Kristian Leontiou Tour Merch
+title: Kristian Leontiou
 tags: [Music Industry]
 date: 2008-01-01
 image: kristian-0000.webp

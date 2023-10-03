@@ -1,7 +1,7 @@
 ---
 date: 2017-04-21
 bookToc: true
-title: Push Notifications, the good, the bad, and the wtf could u not
+title: Push Notif-ications, the good, the bad, and the wtf could u not
 tags: ["UX Collective"]
 type: docs
 

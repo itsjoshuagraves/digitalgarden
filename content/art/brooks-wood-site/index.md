@@ -1,5 +1,5 @@
 ---
-title: Brooks Wood Site
+title: Brooks Wood
 tags: [Music Industry]
 date: 2008-01-01
 image: brooks-wood.webp

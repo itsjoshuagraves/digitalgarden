@@ -18,3 +18,5 @@ summary: "A quick checklist to make sure designers have what they need to get go
     - Account creation (e.g. Webflow)
     - Content
         - We won’t need it all initially, we’ll give you space to fill in what you need
+- Stakeholder list
+- Any important dates

@@ -1,10 +1,10 @@
 ---
-title: Thoughts and Prayers [Series]
+title: Thoughts and Prayers
 tags: [Digital]
 date: 2019-01-01
 bookToc: false
 image: prayers-00001.webp
-summary: "I started remixing this every time I saw a school shooting on the news. I ran out of ideas pretty quickly. :-("
+summary: "Series. I started remixing this every time I saw a school shooting on the news. I ran out of ideas pretty quickly. :-("
 ---
 
 ![](prayers-00002.webp)

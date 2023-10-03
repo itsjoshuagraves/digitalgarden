@@ -1,10 +1,10 @@
 ---
-title: The Black Tape [Series]
+title: The Black Tape
 tags: [Digital]
 date: 2019-01-01
 image: black-tape-00004.webp
 bookToc: false
-summary: "Transparency paper, cutouts, tape, ruined scans."
+summary: "Series. Transparency paper, cutouts, tape, ruined scans."
 ---
 ![Lyrics: Run the Jewels](black-tape-00005.webp)
 

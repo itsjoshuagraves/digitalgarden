@@ -1,5 +1,5 @@
 ---
-title: Is everything speeding up
+title: Speeding Up
 tags: [Digital]
 date: 2019-01-01
 image: speeding-up.webp
