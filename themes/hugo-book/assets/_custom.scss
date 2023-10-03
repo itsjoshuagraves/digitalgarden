@@ -1,87 +1,45 @@
-/* You can add custom styles here. */
-
-// @import "plugins/numbered";
-article aside { background: #fff000; padding: 10px; color: #033233}
+$mono: "PT Mono", monospace;
+$primary: "PT Sans", "Bahnschrift", "pt_sansregular", sans-serif;
+$bold: "PT Sans Bold", "Bahnschrift", "pt_sansbold", sans-serif;
+$okkult: "Okkult-Black", sans-serif;
 
 article {
-	margin-bottom: 36px !important;
-}
-
-.post-date {
-	margin: 1rem 0 !important;
-	font-family: "PT Mono", monospace;
-	font-size: 12px;
-	font-weight: normal !important;
-	letter-spacing: 0 !important;
-		a{
-			text-decoration: none;
-			&:hover{
-			text-decoration: underline;
-			}
-		}
-}
-
-//.post-title, 
-.page-title {
-	margin-top: 0 !important;
-	line-height: 1.0;
-	padding-bottom: 8px;
-	font-size: 48px;
-}
-
-.post-title, article h2 {
-	margin-bottom: 8px !important;
-}
-
-h1 {
-  font-family: "Okkult-Black", sans-serif;
-  font-weight: 900;
-}
-
-@media (min-width: 500px) {
-.page-title {
-	font-size: 64px;
-	margin-top: 0 !important;
+	margin-bottom: 2rem !important;
+	aside { 
+		background: #fff000; padding: 10px; color: #033233;
 	}
-	article h1 {
-	font-size: 64px;
 }
-
-}
-
-
-
-h2, h3, h4, h5, h6 {
-	font-family: "PT Sans Bold", "Bahnschrift", "pt_sansbold", sans-serif;
-	font-weight: bold;
-}
-
 body {
-  	font-family: "PT Sans", "Bahnschrift", "pt_sansregular", sans-serif;
+  	font-family: $primary;
   	font-weight: normal;
   	font-style: normal;
-  	p {
-  	margin-top: 0;
-  		line-height: 166%;
-  	}
 }
-
-code {
-  font-family: "PT Mono", monospace;
-}
-
-.book-post p{
-	line-height: 166%;
-}
-
-.book-menu-content {
-	border-right: 1px solid;
-	border-color: var(--border-color);
-	a{
-		letter-spacing: normal;
+h1 {
+  font-family: $okkult;
+  font-weight: 900;
+	font-size: 3rem;
+		@media (min-width: 500px) {
+			font-size: 4rem;
 	}
 }
-
+h2, h3, h4, h5, h6 {
+	font-family: $bold;
+	font-weight: bold;
+}
+p {
+ 	margin-top: 0;
+ 	line-height: 166% !important;
+}
+code {
+  font-family: $mono;
+}
+figcaption {
+	text-align: center;
+	padding: .25rem;
+	font-size: $font-size-14;
+	font-style: italic;
+	line-height: 133%;
+}
 blockquote {
 	font-size: 18px;
 	padding: 20px !important;
@@ -89,33 +47,29 @@ blockquote {
   box-shadow: 15px 15px 0 0 var(--color-link);
   margin-bottom: 24px !important;
 }
-
+dt {
+	margin-bottom: -24px !important;
+}
+a[target="_blank"]{
+	&:after {
+	content: " ⇢"; 
+	}
+}
 .book-menu a:hover{
 		color: var(--color-link);
 		text-decoration: underline;
 }
-
+.book-menu-content {
+	border-right: 1px solid;
+	border-color: var(--border-color);
+}
 
 .post-summary {
 	margin-top: 0 !important;
 }
-
-.journal-title {
-	margin-bottom: 0;
-}
-
-blockquote.page-summary {
-	margin-left: 0;
-	margin-bottom: 24px;
-	font-size: 24px;
-
-}
-
-
 .book-brand {
-	font-family: "Okkult-Black", sans-serif;
+	font-family: $okkult;
 }
-
 .book-btn {
 	margin-bottom: 12px;
 	color: var(--color-link);
@@ -133,8 +87,6 @@ blockquote.page-summary {
 		}
 	}
 }
-
-
 .main-header {
 	display: block;
 	align-items: center;
@@ -144,7 +96,7 @@ blockquote.page-summary {
 			height: 6rem;
 		}
 		h1 {
-			margin-bottom: 4px;
+			margin-bottom: 0;
 			font-size: 3.5rem;
 		}
 		@media (min-width: 500px) {
@@ -157,9 +109,8 @@ blockquote.page-summary {
 			}
 		}
 }
-
 .main-summary {
-	margin-top: 1rem;
+	// margin-top: 1rem;
 	font-size: 20px;
 	line-height: 140%;
 	@media (min-width: 500px) {
@@ -172,25 +123,22 @@ blockquote.page-summary {
 			}
 		}
 }
-
-
 .art-summary {
 	margin-top: 4px !important;
 	margin-bottom: 8px;
 	line-height: 140% !important;
 }
 .tags {
+		font-family: $mono;
 	ul{
 		border-top: 1px solid var(--gray-200);
 		padding-top: .33rem;
 	}
 	h5, ul, li {
-	font-family: "PT Mono", monospace;
 	display: inline;
 	font-size: .667rem;
 	padding-left: 0;
 		li {
-    // margin-right: .5rem;
     &:after{
     	content: ", ";
     }
@@ -200,41 +148,35 @@ blockquote.page-summary {
 		}
 	}
 }
-
-
-.art-title{
-	margin-bottom: 8px !important;
-	p{
-	margin-bottom: 8px;
-	}
+.page-title {
+	margin-top: 0 !important;
+	line-height: 1.0;
+	padding-bottom: .75rem;
 }
-
-
+.post-title, .art-title, article h2 {
+	margin-bottom: 8px !important;
+}
+.journal-title {
+	margin-bottom: 0;
+}
+.art-title p{
+	margin-bottom: 8px;
+}
 .active a{
 	border: 1px solid var(--color-link);
-
 	}
-
 .page-item a{ 
 	text-decoration: none;
-}
-.page-item a:hover{
+	&:hover{
 	text-decoration: underline;
+	}
 }
-
 .site-title {
 display:none;
 }
-
-.site-brand {
-	width: 100px !important;
-	height: 100px !important;
-}
-
 .navigation-layout {
 	display: flex;
 }
-
 .feature-block{
 	font-size: 18px;
 	padding: 20px !important;
@@ -245,33 +187,9 @@ display:none;
   margin-top: 8px;
   }
 }
-
-dt {
-	margin-bottom: -24px !important;
-
-}
-
-a[target="_blank"]{
-	&:after {
-	content: " ⇢"; 
-	}
-}
-
-
-figcaption {
-	text-align: center;
-	padding: .25rem;
-	font-size: $font-size-14;
-	font-style: italic;
-	line-height: 133%;
-}
-
 .page-nav {
 	margin-top: 5rem;
 	border-top: 1px solid var(--gray-500);
-
-	h5 {
-	}
 	ul{
 		display: block;
 	}
@@ -282,15 +200,25 @@ figcaption {
 		text-decoration: none;
 		padding-left: 0 !important;
 	}
-
-
 }
-
+.post-date {
+	margin: 1rem 0 !important;
+	font-family: $mono;
+	font-size: 12px;
+	font-weight: normal !important;
+	letter-spacing: 0 !important;
+		a{
+			text-decoration: none;
+			&:hover{
+			text-decoration: underline;
+			}
+		}
+}
 .meta {
 	padding-left: 0;
 	font-size: .667rem;
 	color: var(--gray-500);
-	font-family: "PT Mono", monospace;
+	font-family: $mono;
 	li {
 		display: block;
 		margin-bottom: .75rem;
@@ -317,10 +245,7 @@ figcaption {
 	text-decoration: none;	
 	}
 }
-
-
 .seperator {
 	border-color: var(--gray-200);
 	margin-bottom: 2rem;
-
 }
