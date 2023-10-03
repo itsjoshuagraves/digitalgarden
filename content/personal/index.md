@@ -2,7 +2,7 @@
 title: Personal Sphere
 type: summary-page
 bookToc: false
-summary: "A catalog of my artwork and creative endeavors, my personal journal, and other miscellaneous things I’ve enjoyed."
+summary: "A catalog of artwork and creative endeavors, my personal journal, and more."
 ---
 <article class="markdown book-post feature-block">
 <figure>
@@ -26,5 +26,7 @@ Writing & Readings
 	A place where collect thoughts on topics that matter to me. (I'm intentionally not calling this a blog, as that comes with expectations of constant updates.)
 : ## [Read & Watch List](/media)
 	I watch and read a lot. Here’s some of it.
+: ## [Log](/log)
+	Weekly-ish log.
 
 {{< /columns >}}

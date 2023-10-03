@@ -20,6 +20,7 @@ summary: "A list of sites I like or find useful."
 - [Imagemagick](https://imagemagick.org/index.php)
 - [Nextcloud](https://nextcloud.com)
 - [Hugo](https://gohugo.io)
+- [Bullets to Table Converter](https://bulletstotable.com)
 
 ## Fun
 - [It's Nice That](https://www.itsnicethat.com/)

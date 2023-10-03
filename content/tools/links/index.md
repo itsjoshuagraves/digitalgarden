@@ -8,7 +8,7 @@ summary: "Links, templates, and reference material."
 ## Templates
 Templates for keeping organized.
 - [Figma Design Ops Template](https://www.figma.com/community/file/1287099937231452013/sample-design-ops-file)
-- [Figma Feedback Template](https://www.figma.com/community/file/1288586025702023281/design-critique-template)
+- [Figma Feedback Template](https://www.figma.com/community/file/1288926234565599973/remote-design-critique-template)
 
 ## Design 
 Typography and visuals. You gotta keep it fresh.
