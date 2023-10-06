@@ -44,13 +44,13 @@ These likely won't get imagery as I'm way too picky. :-)
 {{< tab "Books" >}}
 
 ### Incoming
-- <mark>Outrage Machine</mark>
 - <mark>Silver Nitrate</mark>
 - <mark>The Black Spider</mark>
-- <mark>Sister, Maiden, Monster</mark>
-- Tomorrow, and Tomorrow, and Tomorrow: A novel
 
 ### 2023
+- Halloween Season
+- Sister, Maiden, Monster ❤️❤️
+- Outrage Machine
 - Little Eve
 - The Last House on Needless Street ❤️❤️
 - Looking Glass Sound ❤️❤️
@@ -94,17 +94,15 @@ These likely won't get imagery as I'm way too picky. :-)
 ### Incoming
 - Talk to Me
 - Poor Things
-- Asteroid City
 - Command Z
 - Significant Other
 - Saltburn
 - Careful How You Go
-- Bottoms
-- Skinamarink
 - Last Voyage of the Demeter
 - TMNT
 
 ### 2023
+- Asteroid City
 - What We Do In the Shadows (s5) ❤️
 - Foundation (s2) ❤️
 - River ❤️
