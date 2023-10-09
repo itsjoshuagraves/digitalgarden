@@ -46,6 +46,7 @@ These likely won't get imagery as I'm way too picky. :-)
 ### Incoming
 - <mark>Silver Nitrate</mark>
 - <mark>The Black Spider</mark>
+- Design as an Attitude
 
 ### 2023
 - Halloween Season
@@ -92,16 +93,18 @@ These likely won't get imagery as I'm way too picky. :-)
 
 {{< tab "Film & TV" >}}
 ### Incoming
-- Talk to Me
 - Poor Things
 - Command Z
 - Significant Other
 - Saltburn
 - Careful How You Go
 - Last Voyage of the Demeter
-- TMNT
+
 
 ### 2023
+- Escaping Twin Flames ❤️
+- Talk to Me ❤️❤️
+- TMNT: Mutant Mayhem ❤️❤️
 - Asteroid City
 - What We Do In the Shadows (s5) ❤️
 - Foundation (s2) ❤️
@@ -382,7 +385,6 @@ These likely won't get imagery as I'm way too picky. :-)
 ### Incoming
 - Horizon Forbidden West
 - Starfield
-- Elden Ring 3
 
 ### 2023
 
