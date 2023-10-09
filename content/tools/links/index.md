@@ -2,7 +2,7 @@
 title: Links
 type: docs
 bookToc: true
-summary: "Links, templates, and reference material."
+summary: "Links, templates, and reference material for designers."
 ---
 
 ## Templates
