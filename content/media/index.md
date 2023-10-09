@@ -380,21 +380,6 @@ These likely won't get imagery as I'm way too picky. :-)
 
 {{< /tab >}}
 
-{{< tab "Games" >}}
-
-### Incoming
-- Horizon Forbidden West
-- Starfield
-
-### 2023
-
-- Mario Kart 8
-- Gran Turismo 7
-- Zelda: Tears of the Kingdom
-- Metroid Prime Remastered
-- Cyberpunk 2077
-- Go
-{{< /tab >}}
 {{< /tabs >}}
 
 ### See also
