@@ -293,7 +293,7 @@ These likely won't get imagery as I'm way too picky. :-)
 - The Social Dilemma
 - The Hunt
 - Decision to Leave
-### 2021
+### 2021 and before
 - The Wailing ❤️
 - The Perfection
 - Ravenous
@@ -363,8 +363,6 @@ These likely won't get imagery as I'm way too picky. :-)
 - Animal House
 - The Host
 - Jennifer's Body
-
-### 2020
 - Resident Evil: Afterlife
 - Rubber
 - Resident Evil: The Final Chapter

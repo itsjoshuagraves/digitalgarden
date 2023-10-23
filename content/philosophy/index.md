@@ -1,5 +1,5 @@
 ---
-title: Philosophy of Design
+title: Design Philosophy
 type: docs
 bookToc: true
 summary: "What underpins everything I do as a designer and leader."
