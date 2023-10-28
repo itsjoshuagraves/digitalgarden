@@ -10,6 +10,5 @@ I spent a lot of this week looking into retro horror and mapping out a story I w
 
 Misc thoughts:
 - You can’t trust what you don’t test. 
-- If you’re fearing rejection, you can either risk it and try or guarantee it by not trying.
-- There are two forms of rejection. The first comes from taking a risk and failing. The other occurs when one takes no risks at all, guaranteeing the rejection.
+- There are two forms of rejection. The first comes from taking a risk and failing. The other occurs when one takes no risks at all, guaranteeing the rejection they seek to avoid.
 - Don't confuse the description of a thing with the thing itself. Maps aren't the terrain, menus aren't the meal. 
