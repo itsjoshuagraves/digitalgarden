@@ -11,9 +11,11 @@ What is design? And what is a designer? Practicioners are surprisingly protectiv
 
 Let me instead offer a practical definition that is accessible to anyone. Because design is better when there are more of us and we all feel welcomed.
 
-Design is this: a practice and a mindset focused on solving a problem. That's it. If you have a problem and you make something to fix it, you have practiced design. You are a designer.
+> Design is the practice and mindset focused on solving problems. 
 
-Are you a designer if you make an app interface? Yes. What about an physical object? Also yes. Doesn't it require training? Sometimes, but not really. Don't you have to be creative to design? Absolutely not. You see a problem, address it, and that's design.
+That's it. If you have a problem and you make something to fix it, you have practiced design. You are a designer.
+
+Are you a designer if you make an app interface? Yes. What about an physical object? Also yes. Doesn't it require training? Sometimes, but not really. Don't you have to be creative to design? Absolutely not. You see a problem, build something to address it, and that's design.
 
 Now that you are free from the cloud of uncertainty, what is _good_ design? It's taking that problem-solving mindset and realizing that not all problems have the same solution, even though they might look like it on the surface. Again, that's it.
 
