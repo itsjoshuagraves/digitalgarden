@@ -3,7 +3,6 @@ title: Pandemic
 tags: [Digital]
 date: 2020-01-01
 bookToc: false
-draft: true
 image: pandemic-00001.webp
 summary: "Series. Comparing the events of the 1918 flu pandemic with 2019's COVID-19."
 ---
