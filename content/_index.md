@@ -6,12 +6,11 @@ bookToc: false
 ---
 {{< columns >}}
 ## New in Personal
+`November 13, 2023`\
+Added a [Photos](/photos) section, including recent visits to Dia De Los Muertos at Hollywood Forever. 
+
 `September 10, 2023`\
 Launched [The Nevermore](https://nevermore.rip), dedicated to the works of Edgar Allan Poe! It's goal is to give people a beautiful reading experience. Hope you'll enjoy!
-
-`August 31, 2023`\
-Posted a guide in Tinkering about how I [modified a kegerator](/tinkering/sparkling-water/) to make sparkling mineral water.
-
 
 <--->
 ## New in Professional
