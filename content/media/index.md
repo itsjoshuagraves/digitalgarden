@@ -44,50 +44,50 @@ These likely won't get imagery as I'm way too picky. :-)
 {{< tab "Books" >}}
 
 ### Incoming
-- <mark>Silver Nitrate</mark>
-- <mark>The Black Spider</mark>
-- Design as an Attitude
+- <mark>The Black Spider (Jeremias Gotthelf)</mark>
+- <mark>Last Days (Adam Nevill)</mark>
+- Design as an Attitude (Alice Rawsthorn)
 
 ### 2023
-- Halloween Season
-- Sister, Maiden, Monster ❤️❤️
-- Outrage Machine
-- Little Eve
-- The Last House on Needless Street ❤️❤️
-- Looking Glass Sound ❤️❤️
-- Dark Delicacies Vol. 1
-- Notes on Complexity
-- The Handyman Method
-- Salem's Lot
-- The Destroyer of Worlds (A Return Lovecraft Country)
-- Little Heaven
-- The Deep
-- The Troop
-- ~~Unbury Carol~~
-- ~~Dead of Night: A Zombie Novel (Dead of Night Series Book 1)~~
-- Queen of Teeth
-- The Butcher
-- How minds are changed
-- ~~Chaos Machine~~
-- Mind Gut Connection ❤️
-- Brain Energy
-- Pretty Marys All in a Row
-- Boneset & Feathers
-- The Rust Maidens
-- Reluctant Immortals
-- Old Souls: The Sages and Mystics of Our World
-- ~~Sundial~~
-- ~~The Paris Apartment~~
-- Come As You Are
-- ~~Even The Worm Will Turn~~
-- No Gods for Drowning
-- The Worm and His Kings
-- Your Mind Is a Terrible Thing
-- Echo ❤️
-- Hex ❤️
-- Malorie: A Bird Box Novel
-- The Living Dead ❤️
-- How Minds Change
+- Silver Nitrate (Silvia Moreno-Garcia) ❤️
+- Halloween Season (Lucy Snyder)
+- Sister, Maiden, Monster (Lucy Snyder) ❤️❤️
+- Outrage Machine (Tobias Rose-Stockwell)
+- Little Eve (Catriona Ward)
+- The Last House on Needless Street (Catriona Ward) ❤️❤️
+- Looking Glass Sound (Catriona Ward) ❤️❤️
+- Dark Delicacies Vol. 1 (Various)
+- Notes on Complexity (Neil Theise)
+- The Handyman Method (Nick Cutter and Andrew F. Sullivan)
+- Salem's Lot (Stephen King)
+- The Destroyer of Worlds (A Return Lovecraft Country) (Matt Ruff)
+- Little Heaven (Nick Cutter)
+- The Deep (Nick Cutter)
+- The Troop (Nick Cutter)
+- ~~Unbury Carol (Josh Malerman)~~
+- ~~Dead of Night: A Zombie Novel (Dead of Night Series Book 1) (Jonathan Maberry)~~
+- Queen of Teeth (Hailey Piper)
+- The Butcher (Jennifer Hillier)
+- ~~Chaos Machine (Max Fisher)~~
+- Mind Gut Connection (Emeran Mayer) ❤️
+- Brain Energy (Christopher M. Palmer MD)
+- Pretty Marys All in a Row (Gwendolyn Kiste)
+- Boneset & Feathers (Gwendolyn Kiste)
+- The Rust Maidens (Gwendolyn Kiste)
+- Reluctant Immortals (Gwendolyn Kiste)
+- Old Souls: The Sages and Mystics of Our World (Aletheia Luna )
+- ~~Sundial (Catriona Ward)~~
+- ~~The Paris Apartment (Lucy Foley)~~
+- Come As You Are (Emily Nagoski Ph.D.)
+- ~~Even The Worm Will Turn (Hailey Piper)~~
+- No Gods for Drowning (Hailey Piper)
+- The Worm and His Kings (Hailey Piper)
+- Your Mind Is a Terrible Thing (Hailey Piper)
+- Echo (Thomas Olde Heuvelt) ❤️
+- Hex (Thomas Olde Heuvelt) ❤️
+- Malorie: A Bird Box Novel (Josh Malerman)
+- The Living Dead (George Romero) ❤️
+- How Minds Change (David McRaney)
 
 {{< /tab >}}
 
