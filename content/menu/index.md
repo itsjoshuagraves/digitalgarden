@@ -1,7 +1,6 @@
 ---
 headless: true
 ---
-- [**Home**](/)
 - [**Personal Sphere**](/personal)
   - [Journal](/journal)
   - [Visual Art](/art)

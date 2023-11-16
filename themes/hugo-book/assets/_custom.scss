@@ -67,8 +67,21 @@ a[target="_blank"]{
 .post-summary {
 	margin-top: 0 !important;
 }
+
+@media screen and (min-width: 500px) {
+
+#Home .book-brand {
+	display: none !important;
+}
+}
 .book-brand {
 	font-family: $okkult;
+	a {
+		text-decoration: none;
+		&:hover{ 
+			text-decoration: none;
+		}
+	}
 }
 .book-btn {
 	margin-bottom: 12px;
@@ -170,9 +183,6 @@ a[target="_blank"]{
 	&:hover{
 	text-decoration: underline;
 	}
-}
-.site-title {
-display:none;
 }
 .navigation-layout {
 	display: flex;
