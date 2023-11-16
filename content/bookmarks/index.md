@@ -6,7 +6,7 @@ aliases:
 bookTOC: true
 summary: "A list of sites I like or find useful."
 ---
-
+{{< columns >}}
 ## Tech
 - [Elite Obsolete Electronics](https://eoe.works/)
 - [No Tech Magazine](https://www.notechmagazine.com/)
@@ -29,7 +29,7 @@ summary: "A list of sites I like or find useful."
 - [This is Colossal](https://www.thisiscolossal.com/)
 - [Design Milk](https://design-milk.com/)
 - [Poorly Drawn Lines](https://poorlydrawnlines.com/)
-
+<--->
 ## Art & Design
 - [Typetura](https://typetura.com/)
 - [Norma Design](https://normadesign.it/en/)
@@ -51,3 +51,5 @@ summary: "A list of sites I like or find useful."
 - [Lean Logic](https://leanlogic.online/introduction-david-fleming/)
 - [Minimizing Computing Maximizes Labor](http://digitalhumanities.org/dhq/vol/16/2/000594/000594.html)
 - ['Jugaad' innovation](https://www.theguardian.com/sustainable-business/jugaad-innovation-business-creativity-scarcity)
+
+{{< /columns >}}

@@ -131,7 +131,7 @@ a[target="_blank"]{
 .tags {
 		font-family: $mono;
 	ul{
-		border-top: 1px solid var(--gray-200);
+		border-top: 1px solid var(--gray-500);
 		padding-top: .33rem;
 	}
 	h5, ul, li {
@@ -246,6 +246,6 @@ display:none;
 	}
 }
 .seperator {
-	border-color: var(--gray-200);
+	border-color: var(--border-color);
 	margin-bottom: 2rem;
 }

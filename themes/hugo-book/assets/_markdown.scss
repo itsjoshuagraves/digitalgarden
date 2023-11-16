@@ -95,7 +95,7 @@
     margin: $padding-16 0;
     padding: $padding-8 $padding-16 $padding-8 ($padding-16 - $padding-4); //to keep total left space 16dp
 
-    border-inline-start: $padding-4 solid var(--gray-200);
+    border-inline-start: $padding-4 solid var(--border-color);
     border-radius: $border-radius;
 
     :first-child {
@@ -114,13 +114,13 @@
     margin-top: $padding-16;
     margin-bottom: $padding-16;
     font-size: .875rem;
-    border-color: var(--gray-200); 
+    border-color: var(--border-color); 
 
     tr th,
     tr td {
       padding: $padding-8 $padding-16;
-      border-top: $padding-1 solid var(--gray-200); 
-      border-bottom: $padding-1 solid var(--gray-200); 
+      border-top: $padding-1 solid var(--border-color); 
+      border-bottom: $padding-1 solid var(--border-color); 
 
       // border: $padding-1 solid var(--gray-200);
     }
@@ -133,7 +133,7 @@
   hr {
     height: $padding-1;
     border: none;
-    background: var(--gray-500);
+    background: var(--border-color);
   }
 
   ul,
@@ -168,7 +168,7 @@
 
   details {
     padding: $padding-16;
-    border: $padding-1 solid var(--gray-200);
+    border: $padding-1 solid var(--border-color);
     border-radius: $border-radius;
 
     summary {
