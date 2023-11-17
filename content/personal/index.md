@@ -6,7 +6,7 @@ summary: "A catalog of artwork and creative endeavors, my personal journal, and 
 ---
 <article class="markdown book-post feature-block">
 <figure>
-  <img src="broad2.webp">
+  <img src="joshua.webp">
 </figure>
 </article>
 
