@@ -3,13 +3,15 @@ date: 2021-02-01
 title: Insight Systems
 summary: "Explorations on how tangential thinking can lead to deep insights. Includes information on astrology, tarot, and more."
 tags: ["Mind"]
+aliases:
+  - /houses
 bookToc: true
 ---
 I'm interested in how people try to make sense and gain insight about themselves, their lives and the world around them via outside patterns. Tarot and astrology are certainly two of the most accessible ways of doing that, but other things such as I Ching, palmistry, and other folk beliefs hold fascination.
 
 Is this stuff real, you wonder? Who knows, I suppose it is if you believe it to be so. That doesn't interest me so much as how the act of focusing on these systems elicits insight about a particular part of your life. 
 
-Say you are looking to make a big move in life, but are stuck on what to do. What if you pulled a Tarot card and thought about it for a moment? Maybe you spot something unexpected that leads to an insight. 
+Say you are looking to make a big move in life, but are stuck on what to do. What if you pulled a Tarot card and thought about it for a moment? Maybe you spot something unexpected on it—a look on someone's face, a detail—that sparks a new approach to your question. Maybe that leads to the insight you needed.
 
 That such tangential thinking can help you sidle up to a real solution that might've been eluding you is really the notion which holds my attention.
 
