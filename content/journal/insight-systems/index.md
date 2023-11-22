@@ -36,7 +36,11 @@ But also, they're fun.
 |11th House | Your social world, friends & acquaintances, how you relate to groups of people |
 |12th House | Your unconscious, dreams, fantasies |
 
-## Scapulimancer
-After watching [The Story of China](https://www.pbs.org/video/discovery-first-chinese-writing-0nuw50/) to fill some gaps in my world history knowledge, I caught a segment on reading "dragon bones,"" which led to the discovery of the earliest form writing in China: animal bones which had holes burned in one side of them with the intent to fracture the other and give the reader an answer to a question. 
+## Scapulimancy
+[![Oracle Bone Inscription, c. 1300 BCE](oracle-bones.webp)](https://culturachina.net/historia-de-china/dinastias-chinas/shang/)
 
-Further reading: [How to Read the Bones Like a Scapulimancer, JSTOR](https://daily.jstor.org/how-to-read-bones-like-a-scapulimancer/)
+After watching [The Story of China](https://www.pbs.org/video/discovery-first-chinese-writing-0nuw50/) to fill some gaps in my world history knowledge, I caught a segment on reading "dragon bones." This is actually how historians uncovered the earliest form writing in China: they found burned animal bones with characters scratched onto them from the Shang Dynasty.
+
+In this method of divination, holes were burned in one side of a bone with the intent to fracture the other side and give the reader an answer to a question. Questions like "will it rain" or "will our enemies attack" were common.
+
+Further reading from JSTOR: [How to Read the Bones Like a Scapulimancer](https://daily.jstor.org/how-to-read-bones-like-a-scapulimancer/)
