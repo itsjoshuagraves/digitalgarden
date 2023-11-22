@@ -35,3 +35,8 @@ But also, they're fun.
 |10th House | Your public self and commitments, career, how you wanted to be remembered, your legacy |
 |11th House | Your social world, friends & acquaintances, how you relate to groups of people |
 |12th House | Your unconscious, dreams, fantasies |
+
+## Scapulimancer
+After watching [The Story of China](https://www.pbs.org/video/discovery-first-chinese-writing-0nuw50/) to fill some gaps in my world history knowledge, I caught a segment on reading "dragon bones,"" which led to the discovery of the earliest form writing in China: animal bones which had holes burned in one side of them with the intent to fracture the other and give the reader an answer to a question. 
+
+Further reading: [How to Read the Bones Like a Scapulimancer, JSTOR](https://daily.jstor.org/how-to-read-bones-like-a-scapulimancer/)
