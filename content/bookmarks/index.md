@@ -1,9 +1,9 @@
 ---
 title: Bookmarks
 type: docs
+bookToc: false
 aliases:
   - /links
-bookTOC: true
 summary: "A list of sites I like or find useful."
 ---
 {{< columns >}}

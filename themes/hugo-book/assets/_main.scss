@@ -163,7 +163,8 @@ body[dir="rtl"] .book-menu {
   min-width: $body-min-width;
   flex-grow: 1;
   padding: $padding-16;
-  // max-width: 800px;
+  margin: 0 auto;
+  max-width: 800px;
 }
 
 .book-post {
@@ -229,7 +230,6 @@ body[dir="rtl"] .book-menu {
 .book-toc {
   flex: 0 0 $toc-width;
   font-size: $font-size-12;
-
   .book-toc-content {
     width: $toc-width;
     padding: $padding-16;
