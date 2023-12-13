@@ -143,6 +143,12 @@ a[target="_blank"]{
 }
 .tags {
 		font-family: $mono;
+		a {
+		border-top: 1px solid var(--gray-500);
+		padding-top: .33rem;
+		font-size: .667rem;
+
+		}
 	ul{
 		border-top: 1px solid var(--gray-500);
 		padding-top: .33rem;
