@@ -265,3 +265,11 @@ a[target="_blank"]{
 	border-color: var(--border-color);
 	margin-bottom: 2rem;
 }
+
+@media (min-width: 500px) {
+	.two-column-layout {
+  display: grid;
+  grid-template-columns: 1fr 1fr; /* Creates two columns */
+  grid-gap: 20px; /* Adjust the gap between columns */
+	}
+}

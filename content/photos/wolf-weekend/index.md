@@ -2,12 +2,12 @@
 title: Wolf Weekend 2023
 type: docs
 date: 2019-01-01
-image: wolf-00001.webp
+image: wolf-00003.webp
 summary: "Meeting real wolves for the first time."
 bookToc: false
 ---
 ![](wolf-00002.webp)
-![](wolf-00003.webp)
+![](wolf-00001.webp)
 ![](wolf-00004.webp)
 ![](wolf-00005.webp)
 ![](wolf-00006.webp)

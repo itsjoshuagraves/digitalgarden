@@ -1,6 +1,6 @@
 ---
 title: Photos
-type: docs
+type: photos
 summary: "Photosets from various adventures."
 bookToc: false
 ---
