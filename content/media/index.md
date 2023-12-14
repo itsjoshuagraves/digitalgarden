@@ -44,11 +44,13 @@ These likely won't get imagery as I'm way too picky. :-)
 {{< tab "Books" >}}
 
 ### Incoming
-- <mark>The Black Spider (Jeremias Gotthelf)</mark>
 - <mark>Last Days (Adam Nevill)</mark>
+- <mark>Feeding Your Demons (Tsultrim Allione)</mark>
 - Design as an Attitude (Alice Rawsthorn)
+- A Light Most Hateful (Hailey Piper)
 
 ### 2023
+- The Black Spider (Jeremias Gotthelf)
 - Silver Nitrate (Silvia Moreno-Garcia) ❤️
 - Halloween Season (Lucy Snyder)
 - Sister, Maiden, Monster (Lucy Snyder) ❤️❤️
