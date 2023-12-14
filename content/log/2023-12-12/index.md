@@ -1,8 +1,10 @@
 ---
 date: 2023-12-12
-title: 2023-12-12
+title: Feeding your demons
 bookToc: false
 image: thought.webp
+aliases:
+  - /2023-12-12
 ---
 I’ve long wondered if fighting off your demons, waging battle after battle against your problems, is the best approach. It’s energy intensive and often feels like you’re fighting the tide. 
 

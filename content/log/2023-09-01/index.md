@@ -1,7 +1,9 @@
 ---
 date: 2023-09-01
-title: 2023-09-01
+title: Astrolabes, iMac G4s
 bookToc: false
+aliases:
+  - /2023-09-01
 ---
  
 Really interested in [this doc](https://www.pbs.org/wgbh/nova/video/star-chasers-of-senegal/) I saw on how we measure time. Astrolabes are beautiful pieces work. Why don't we make things that beautiful anymore? Everyone's obsessed with rectangles and silly minimalism, we could be obsessed over beautifully crafted things.

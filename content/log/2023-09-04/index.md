@@ -1,7 +1,9 @@
 ---
 date: 2023-09-04
-title: 2023-09-04
+title: Markdown to Word Doc, Writing, Notes on Complexity
 bookToc: false
+aliases:
+  - /2023-09-04
 ---
 
 ## Writing

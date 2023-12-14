@@ -1,8 +1,10 @@
 ---
 date: 2023-08-16
-title: 2023-08-16
+title: Plato's Cave, Norma Design
 bookToc: false
 image: cave.jpeg
+aliases:
+  - /2023-08-16
 ---
 
 ## Tech

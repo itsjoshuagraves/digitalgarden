@@ -1,8 +1,10 @@
 ---
 date: 2023-10-28
-title: 2023-10-28
+title: Retro horror
 bookToc: false
 image: Goat.webp
+aliases:
+  - /2023-10-28
 ---
 Solo week. My wife was out shooting the first short that she wrote and directed. I’m so excited for her, and it’s baffling how talented she, the cast and crew are. The stills I've seen look incredible. More on this when it's ready.
 

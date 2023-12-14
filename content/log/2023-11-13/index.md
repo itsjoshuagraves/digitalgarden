@@ -1,8 +1,10 @@
 ---
 date: 2023-11-13
-title: 2023-11-13
+title: Limpiar Sus Huesos
 bookToc: false
 image: ddlm-00002.webp
+aliases:
+  - /2023-11-13
 ---
 
 I posted a couple new pieces of [art](/art), one inspired by Oppenheimer and the other by old horror films.

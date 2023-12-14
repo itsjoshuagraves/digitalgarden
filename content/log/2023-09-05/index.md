@@ -1,8 +1,10 @@
 ---
 date: 2023-09-05
-title: 2023-09-05
+title: Sculpture and LACMA
 bookToc: false
 image: clay.webp
+aliases:
+  - /2023-09-05
 ---
 
 ## Art

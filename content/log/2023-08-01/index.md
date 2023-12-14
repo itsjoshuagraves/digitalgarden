@@ -1,7 +1,9 @@
 ---
 date: 2023-08-01
-title: 2023-08-01
+title: Python, LLMs, and new gigs
 bookToc: false
+aliases:
+  - /2023-08-01
 ---
 Recently started a contract gig, aimed at helping the prison system in California. It’s a slow start and unlike any other job I’ve taken on. 
 

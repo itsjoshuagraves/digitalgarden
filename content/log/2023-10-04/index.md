@@ -1,8 +1,10 @@
 ---
 date: 2023-10-04
-title: 2023-10-04
+title: Let's get spooky!
 bookToc: false
 image: spooky.png
+aliases:
+  - /2023-10-04
 ---
 
 My favorite time of year is here. Hooray for spooky season! I updated the site with spooky Halloween colors, too.

@@ -1,8 +1,10 @@
 ---
 date: 2023-08-21
-title: 2023-08-21
+title: Personal LLM explorations
 bookToc: false
 image: weird-cia.png
+aliases:
+  - /2023-08-21
 ---
 ## Tech
 Lots more fun to be had on the LLM front. 

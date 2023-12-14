@@ -1,8 +1,10 @@
 ---
 date: 2023-10-18
-title: 2023-10-18
+title: Silver Nitrate, Design as an Attitude
 bookToc: false
 image: JM-skull.gif
+aliases:
+  - /2023-10-18
 ---
 It was a good weekend for movies. TMNT was so good, like it had no business being so good. I have seen way too many "revivals" of nostalgic shows that were boring or lifeless and this wasn't one of them.
 

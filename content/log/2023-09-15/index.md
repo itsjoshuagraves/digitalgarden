@@ -1,7 +1,9 @@
 ---
 date: 2023-09-15
-title: 2023-09-15
+title: Reorganization and ePubs
 bookToc: false
+aliases:
+  - /2023-09-15
 ---
 Did some reorganization to take advantage of Hugo's page bundles, which will make updates a little smoother and keep the site tidy. 
 

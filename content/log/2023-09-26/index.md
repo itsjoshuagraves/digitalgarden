@@ -1,7 +1,9 @@
 ---
 date: 2023-09-26
-title: 2023-09-26
+title: Why I redid my site
 bookToc: false
+aliases:
+  - /2023-09-26
 ---
 I had a few reasons for redoing my site. Turns out said reasons fold up nicely inside the concept of something called web sustainability. I learned about this after seeing a W3C's working group publish a [sustainability guidelines report](https://w3c.github.io/sustyweb/) in September of 2023. It resonates deeply and is worth a read.
 

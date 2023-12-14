@@ -1,8 +1,10 @@
 ---
 date: 2023-08-02
-title: 2023-08-02
+title: Tech reviews for my book, horror writing
 image: output.png
 bookToc: false
+aliases:
+  - /2023-08-02
 ---
 
 Survived my first round of tech review for We Need to Talk. It was a cognitive powerlift to work through all of it. But the book is better for said feedback, which I received with joy. Just a few more, then final edits. 
