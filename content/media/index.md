@@ -44,12 +44,13 @@ These likely won't get imagery as I'm way too picky. :-)
 {{< tab "Books" >}}
 
 ### Incoming
-- <mark>Last Days (Adam Nevill)</mark>
+- <mark>A Light Most Hateful (Hailey Piper)</mark>
 - <mark>Feeding Your Demons (Tsultrim Allione)</mark>
 - Design as an Attitude (Alice Rawsthorn)
-- A Light Most Hateful (Hailey Piper)
+- Lilith's Brood (Octavia E. Butler)
 
 ### 2023
+- Last Days (Adam Nevill)
 - The Black Spider (Jeremias Gotthelf)
 - Silver Nitrate (Silvia Moreno-Garcia) ❤️
 - Halloween Season (Lucy Snyder)
@@ -104,6 +105,8 @@ These likely won't get imagery as I'm way too picky. :-)
 
 
 ### 2023
+- The Rocky Horror Picture Show
+- Anna and the Apocalypse
 - Bottoms
 - Escaping Twin Flames ❤️
 - Talk to Me ❤️❤️
