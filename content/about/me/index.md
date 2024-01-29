@@ -11,7 +11,7 @@ I'm ever curious. Always looking for connections, always trying something new.
 
 In my spare time, I tinker with restoring old iPods and making art with skulls (not real ones, which would be weird). I absolutely adore typography and have designed multiple typefaces, including [Cosmata](/cosmata) and Uptown Sans. I [read a lot](/media).
 
-I live in Los Angeles.
+I call Joshua Tree home, but split time between there and Los Angeles.
 
 
 ## Professional Biography
@@ -36,7 +36,7 @@ My values are important, and they’ll enrich both your product and company:
 ![Photo by Sarah DeShields](/IMG_0159.webp)
 {{< /columns >}}
 
-I'm currently writing a book called [“We Need to Talk: How to Have Hard Conversations with Anyone”](https://rosenfeldmedia.com/books/we-need-to-talk-a-survival-guide-for-tough-conversations/) for Rosenfeld Media. It’s due out in 2023.
+I'm currently writing a book called [“We Need to Talk: How to Have Hard Conversations with Anyone”](https://rosenfeldmedia.com/books/we-need-to-talk-a-survival-guide-for-tough-conversations/) for Rosenfeld Media.
 
 Talk to me if you want to discuss:
 
@@ -45,7 +45,4 @@ Talk to me if you want to discuss:
 - How to be the best, most supportive leader you can to your team
 - How to get people to care about accessibility
 - Exactly how annoyed to get when a designer detaches a component in Figma
-- Looking for my resume? [Here you go.](https://uploads-ssl.webflow.com/6096f56a012ab25efa5d5f79/6493360f5861dcd9e4521b1b_2023%20Resume-min.pdf)
-
-
-
+- Looking for my resume? [Here you go.](/resume.pdf)
