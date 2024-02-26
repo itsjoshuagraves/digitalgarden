@@ -2,10 +2,11 @@
 headless: true
 ---
 - [**Personal Sphere**](/personal)
-  - [Journal](/journal)
   - [Visual Art](/art)
-  - [Read & Watch List](/media)
   - [Tinkering](/tinkering)
+  - [Journal](/journal)
+  - [Photos](/photos)
+  - [Read & Watch List](/media)
   - [Log](/log)
 - [**Professional Sphere**](/professional)
   - [We Need to Talk](/we-need-to-talk)
