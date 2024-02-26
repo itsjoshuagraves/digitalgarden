@@ -13,7 +13,6 @@ In my spare time, I tinker with restoring old iPods and making art with skulls (
 
 I call Joshua Tree home, but split time between there and Los Angeles.
 
-
 ## Professional Biography
 {{< columns >}}
 I’m not like other design leaders.

@@ -44,10 +44,16 @@ These likely won't get imagery as I'm way too picky. :-)
 {{< tab "Books" >}}
 
 ### Incoming
-- <mark>A Light Most Hateful (Hailey Piper)</mark>
+
 - <mark>Feeding Your Demons (Tsultrim Allione)</mark>
+- <mark>Ripe: Tales of Hunger & Desire (Various)</mark>
+- Gone to the Wolves (John Wray)
+- Witches, Witch-hunting, and Women (Silvia Federici)
+
+### 2024
 - Design as an Attitude (Alice Rawsthorn)
 - Lilith's Brood (Octavia E. Butler)
+- A Light Most Hateful (Hailey Piper)
 
 ### 2023
 - Last Days (Adam Nevill)
@@ -97,12 +103,13 @@ These likely won't get imagery as I'm way too picky. :-)
 {{< tab "Film & TV" >}}
 ### Incoming
 - Poor Things
-- Command Z
 - Significant Other
 - Saltburn
 - Careful How You Go
 - Last Voyage of the Demeter
 
+### 2024
+- Fall of the House of Usher
 
 ### 2023
 - The Rocky Horror Picture Show

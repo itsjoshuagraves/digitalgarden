@@ -4,17 +4,29 @@ type: home
 bookToc: false
 ---
 ---
-{{< columns >}}
 ## New Art
-[![Bonecrawler](/art/bonecrawler/bonecrawler.webp)](/art/bonecrawler)
+{{< columns >}}
+[![Better World](/art/better-world/better-world.webp)](/art/better-world)
 <--->
+[![My Right Mind](/art/right-mind/my-right-mind.webp)](/art/right-mind)
+
+{{< /columns >}}
+
+---
+
+{{< columns >}}
 
 ## New in Personal
+`February 26, 2024`\
+Lots of new [Art](/art) using a found old typewriter.
+
 `November 13, 2023`\
 Added a [Photos](/photos) section, including recent visits to Dia De Los Muertos at Hollywood Forever. 
 
 `September 10, 2023`\
 Launched [The Nevermore](https://nevermore.rip), dedicated to the works of Edgar Allan Poe! It's goal is to give people a beautiful reading experience. Hope you'll enjoy!
+
+<--->
 
 ## New in Professional
 `September 24, 2023`\
