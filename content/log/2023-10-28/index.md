@@ -2,6 +2,7 @@
 date: 2023-10-28
 title: Retro horror
 bookToc: false
+draft: true
 image: Goat.webp
 aliases:
   - /2023-10-28
