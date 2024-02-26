@@ -16,9 +16,17 @@ After all, these demons exist for a reason, why not see if you can understand th
 
 It was a few weeks ago that book called Feeding Your Demons came across my screen that articulates such a concept. It’s by a Tibetan yogi, Milarepa (1052–1135), and it’s exactly what I was seeking. She describes the idea like this:
 
+{{< columns >}}
+
+
 > The malignant [...] demons Who create myriad troubles and obstructions Seem real before one has reached enlightenment. But when one realizes their true nature, They become Protectors, And through their help and assistance One attains numerous accomplishments.
 
+<--->
+
 > The alternative to feeding our demons is to engage in a conflict we can never win: our unfed demons only become more and more powerful and monstrous as we either openly battle them or remain ignorant of their undercover operations.
+
+{{< /columns >}}
+
 
 If you’re wondering, these demons aren’t little imps with pitchforks. Turns out around 1200 CE they took on a different meaning as the Church began to gain more influence around the world. Machig describes them like this:
 
