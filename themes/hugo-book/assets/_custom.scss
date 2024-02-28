@@ -273,3 +273,9 @@ a[target="_blank"]{
   grid-gap: 20px; /* Adjust the gap between columns */
 	}
 }
+
+/* Home specific */
+
+#Home .book-columns * {
+	margin-top: 0 !important;
+}
