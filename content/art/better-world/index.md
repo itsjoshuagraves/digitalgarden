@@ -8,4 +8,4 @@ summary: "Old typewriter, collage, minimal process, maximum texture."
 ---
 {{< video "better-world.mp4" >}}
 
-Words: Joshua Mauldin
+Words: Joshua Graves

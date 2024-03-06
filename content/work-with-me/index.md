@@ -22,7 +22,7 @@ You can learn more about [my process](/process) and the [philosophy](/philosophy
 
 If you’d like to work together, visit [my portfolio](/portfolio) to see some recent examples of my work. Or better yet:
 
-{{< button class="filled" href="https://calendly.com/joshmauldin/office-hours" >}}Book time with me to talk{{< /button >}}
+{{< button class="filled" href="https://calendly.com/joshGraves/office-hours" >}}Book time with me to talk{{< /button >}}
 
 
 ## Coaching
@@ -53,7 +53,7 @@ My values are important, and they’ll enrich both your product and company:
 - Talking it out
 
 <--->
-![Hi there! It&rsquo;s me, Joshua.](joshua-mauldin.webp)
+![Hi there! It&rsquo;s me, Joshua.](joshua-Graves.webp)
 
 I'm currently writing a book called [“We Need to Talk: How to Have Hard Conversations with Anyone”](https://rosenfeldmedia.com/books/we-need-to-talk-a-survival-guide-for-tough-conversations/) for Rosenfeld Media. It’s due out in 2023.
 

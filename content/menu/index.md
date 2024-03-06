@@ -14,6 +14,6 @@ headless: true
   - [Tools for Designers & Leaders](/tools)
   - [Work With Me](/work-with-me)
 - [**About & More**](/about)
-  - [Joshua Mauldin](/about/me)
+  - [Joshua Graves](/about/me)
   - [Digital Gardening](/about/digital-gardening)
   - [Bookmarks](/bookmarks)
