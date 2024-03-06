@@ -1,7 +1,7 @@
-baseURL = 'https://joshuagraves.me/'
-title = 'Joshua Graves'
+baseURL = 'https://joshuamauldin.com/'
+title = 'Joshua Mauldin'
 theme = 'hugo-book'
-copyright = '2024, Joshua Graves'
+copyright = '2024, Joshua Mauldin'
 enableRobotsTXT = true
 removePathAccents = true
 

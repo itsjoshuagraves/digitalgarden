@@ -8,4 +8,4 @@ summary: "Collage, typewriters, found imagery."
 ---
 {{< video "you-running.mp4" >}}
 
-Words, art: Joshua Graves
+Words, art: Joshua Mauldin

@@ -1,6 +1,6 @@
 ---
 date: 2017-12-22
-title: CBC Interview on Push Notifi-cations
+title: CBC Interview on Push Notifications
 tags: ["CBC Radio"]
 type: docs
 bookToc: true
@@ -42,9 +42,9 @@ Naturally that distraction keeps us from being fully present in what we're doing
 
 I admit, over the past six months, my relationship to notifications has changed. Often, I ignore them, deleting them from my home screen sometime late at night without reading them. Other times, I'll feel the buzz or hear the chirp of a message and choose to ignore it.
 
-Joshua Graves is a designer based in Charlotte, North Carolina. (Enowen Photography)
+Joshua Mauldin is a designer based in Charlotte, North Carolina. (Enowen Photography)
 
-"It's a lot like when someone at work comes up to your desk and asks you, 'Hey! Did you see that email that I sent you?'," says [Josh Graves](http://joshuaGraves.com/), an app designer.
+"It's a lot like when someone at work comes up to your desk and asks you, 'Hey! Did you see that email that I sent you?'," says [Josh Mauldin](http://joshuaMauldin.com/), an app designer.
 
 "The more often that happens, the more we're going to start ignoring that person or moving our desk."
 
