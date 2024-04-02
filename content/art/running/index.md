@@ -3,6 +3,7 @@ title: Running
 tags: [Analog]
 date: 2024-02-26
 bookToc: false
+type: video
 image: you-running.webp
 summary: "Collage, typewriters, found imagery."
 ---

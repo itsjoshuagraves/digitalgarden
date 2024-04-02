@@ -3,7 +3,6 @@ title: Medications
 tags: [Music Industry]
 date: 2008-01-01
 image: med-cov.webp
-draft: true
 summary: "Album design and art direction."
 bookToc: false
 ---

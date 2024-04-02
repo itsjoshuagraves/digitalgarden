@@ -5,6 +5,7 @@ date: 2019-01-01
 bookToc: false
 image: fears.webp
 summary: "Series. Exploration of automatic writing and textural experiments."
+type: video
 ---
 
 {{< columns >}}

@@ -5,6 +5,7 @@ date: 2019-01-01
 image: de-enlightenment-00002.webp
 summary: Disillusionment visualized.
 bookToc: false
+type: video
 ---
 {{< columns >}}
 ![](de-enlightenment-00003.webp)

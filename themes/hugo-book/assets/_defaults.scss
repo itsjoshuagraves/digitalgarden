@@ -76,13 +76,16 @@ $hint-colors: (
   --gray-200: rgba(255, 255, 255, 0.2);
   --gray-500: rgba(255, 255, 255, 0.5);
 
-  --color-link: #6DDE00;
-  --color-visited-link: #6DDE00;
+  --color-link: #6cde03;
+  --color-visited-link: #6cde03;
+
+  // --color-link: #F3FF0C;
+  // --color-visited-link: #F3FF0C;
 
   --color-stripe: rgba(109,222,0,.15);
 
   --body-background: #000000;
-  --body-font-color: #FBFBFB;
+  --body-font-color: #e6e7df;
 
   --icon-filter: brightness(0) invert(1);
 

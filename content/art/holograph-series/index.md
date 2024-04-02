@@ -5,6 +5,7 @@ date: 2022-01-01
 bookToc: false
 image: holograph.webp
 summary: "Series. Oil slicks and holograms."
+type: video
 ---
 
 {{< columns >}}

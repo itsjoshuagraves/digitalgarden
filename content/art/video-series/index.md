@@ -5,6 +5,7 @@ date: 2019-01-01
 bookToc: false
 image: videotypes.webp
 summary: "Series. Some video experiments I did with apps on my phone, weird TVs, and other found footage."
+type: video
 ---
 
 {{< columns >}}

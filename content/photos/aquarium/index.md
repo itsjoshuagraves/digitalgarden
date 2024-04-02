@@ -5,6 +5,7 @@ date: 2019-01-01
 image: aquarium-00001.webp
 summary: "Long Beach, CA"
 bookToc: false
+type: photos
 ---
 ![](aquarium-00002.webp)
 ![](aquarium-00003.webp)

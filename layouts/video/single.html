@@ -1,0 +1,32 @@
+{{ define "main" }}
+<h5 class="post-date"><a href="/art/">← Back</a></h5>
+<h1 class="page-title journal-title">
+{{ partial "docs/title.html" . }}
+</h1>
+<article class="markdown book-post">
+    <p class="main-summary">{{ partial "docs/summary.html" . }}
+  </p>
+
+  {{- .Content -}}
+</article>
+<div class="page-nav">
+    <h5 class="post-date">More</h5>
+    <ul class="pagination">
+        {{ if .NextInSection }}
+        <li class="page-item">
+            <a href="{{ .NextInSection.RelPermalink }}" class="next">⇡ {{ .NextInSection.Title }} </a>
+        </li>
+        {{ end }}
+
+        {{ if .PrevInSection }}
+        <li class="page-item">
+            <a href="{{ .PrevInSection.RelPermalink }}" class="prev">⇣ {{ .PrevInSection.Title }}</a>
+        </li>
+        {{ end }}
+        
+    </ul>
+</div>
+{{ end }}
+{{ define "toc" }}
+{{ partial "docs/toc" . }}
+{{ end }}

@@ -1,9 +1,9 @@
 ---
 title: Black Lives Matter
 tags: [Process]
-date: 2023-08-
+date: 2023-08-01
+image: black-lives-00001.webp
 draft: true
-image: /black-lives-00001.webp
 summary: "Process for making Black Lives Matter image."
 ---
 {{< columns >}}

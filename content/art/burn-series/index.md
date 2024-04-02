@@ -5,6 +5,7 @@ date: 2021-01-01
 bookToc: false
 image: mantra.webp
 summary: "What if we burned mantras into our brains?"
+type: video
 ---
 A series focusing on pushing type legibility to the limits and repeating phrases like a mantra.
 

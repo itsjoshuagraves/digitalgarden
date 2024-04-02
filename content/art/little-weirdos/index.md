@@ -5,6 +5,7 @@ date: 2019-01-01
 image: weirdos.webp
 bookToc: false
 summary: "Series. I have no justification for any of this, except that it was weird and fun."
+type: video
 ---
 {{< columns >}}
 {{< video "little-weirdos-00001.mp4" >}}

@@ -5,6 +5,7 @@ date: 2019-01-01
 image: memento-mori-00002.webp
 bookToc: false
 summary: "Series. A combination of something lively and organic with something ... not lively."
+type: video
 ---
 
 {{< video "memento-mori-0001.mp4" >}}

@@ -39,7 +39,54 @@ These likely won't get imagery as I'm way too picky. :-)
 - Gonjiam: Haunted Asylum
 - The Dark and the Wicked
 - The Wailing
+
 {{< /tab >}}
+
+{{< tab "Superlatives">}}
+## Superlatives
+
+### Weirdest
+- Possession: weirdest squid pro quo in cinematic history
+
+### Best soundtrack
+- It Follows
+- A Girl Walks Home Alone at Night
+
+### Most surprising
+- Bones and All: surprisingly easy to stomach
+- Titane: hear me out, Rosemary's baby, but a car
+
+### Most comforting
+- The Big Lebowski: yes, that’s like, my opinion, man.
+- Addams Family: if your relationship goals aren’t Morticia and Gomez, then please rethink your life
+- Shaun of the Dead: needs no further explanation 
+
+### Watch on a loop forever with no audio
+- The Tragedy of Macbeth
+- Blade Runner 2049
+- Eternal Sunshine of the Spotless Mind
+- Mad Max Fury Road (black and chrome)
+
+### Best “If I feel like hearing the same nirvana song over and over in a movie”
+- The Batman 
+
+### Most relatable superhero origin story
+- John Wick
+
+### Most “Good for her”
+- Midsommar
+- Carrie
+- The Witch
+
+### Best vibes
+- Atomic Blonde
+- The Hunger
+- Sleepy Hollow
+
+### Most “Why did this get made?”
+- Mandy (Someone live tweeted an acid trip
+
+{{< /tab>}}
 
 {{< tab "Books" >}}
 
