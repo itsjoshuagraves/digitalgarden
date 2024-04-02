@@ -84,7 +84,7 @@ These likely won't get imagery as I'm way too picky. :-)
 - Sleepy Hollow
 
 ### Most “Why did this get made?”
-- Mandy (Someone live tweeted an acid trip
+- Mandy: Someone live tweeted an acid trip
 
 {{< /tab>}}
 
