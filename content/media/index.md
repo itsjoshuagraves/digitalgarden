@@ -153,7 +153,7 @@ summary: "I watch and read a lot. Here's some of it."
 <--->
 ![John Wick](./wick.webp)
 <--->
-![Romeo & Juliet (1996)](./romeo.webp)
+![Romeo + Juliet (1996)](./romeo.webp)
 {{< /columns >}}
 
 ---
