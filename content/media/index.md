@@ -1,14 +1,61 @@
 ---
-title: Media
+title: Media Diary
 type: docs
 bookToc: false
 summary: "I watch and read a lot. Here's some of it."
 ---
 {{< tabs "media" >}}
 
-{{< tab "Favs" >}}
+{{< tab "Superlatives">}}
 
-### Fiction
+## Weirdest overall
+- <strong>Possession:</strong> weirdest squid pro quo in cinematic history.
+
+## Best soundtrack
+- <strong>It Follows:</strong> my synthwave obsession started here.
+- <strong>A Girl Walks Home Alone at Night:</strong> if I've gotta die, I want it to be to this soundtrack.
+
+## Most surprising
+- <strong>Bones and All:</strong> surprisingly easy to stomach
+- <strong>Titane:</strong> hear me out, Rosemary's baby, but a car.
+
+## Most comforting
+- <strong>The Big Lebowski:</strong> yes, that’s like, my opinion, man.
+- <strong>Addams Family:</strong> if your relationship goals aren’t Morticia and Gomez, then please rethink your life.
+- <strong>Shaun of the Dead:</strong> needs no further explanation.
+
+## Best vibes
+- <strong>Atomic Blonde:</strong> HEALTH's Blue Monday cover is as good as the original, and I will accept no counter arguments.
+- <strong>The Hunger:</strong> David Bowie as a vampire plus Peter Murphy doing a performance? Yes, please.
+- <strong>Sleepy Hollow:</strong> It's here that Christina Ricci secured forever her grown as goth queen.
+
+## Most “Why did this get made?”
+- <strong>Mandy:</strong> I swear someone just transcribed an acid trip and said "hell yeah let's just make this movie" and they actually did it.
+
+## Most “Good for her”
+- <strong>Midsommar:</strong> best way to get rid of a toxic ex. Also, is Ari Aster okay? How does someone write this?
+- <strong>The Witch:</strong> may we all live so deliciously.
+
+## Watch on a loop forever with no audio
+- The Tragedy of Macbeth
+- Blade Runner 2049
+- Eternal Sunshine of the Spotless Mind
+- Mad Max Fury Road (black and chrome)
+
+## Best “If I feel like hearing the same nirvana song over and over in a movie”
+- The Batman 
+
+## Most relatable superhero origin story
+- John Wick
+
+## Most likely to send me back to therapy if I ever see it again
+- Dream Scenario
+
+{{< /tab>}}
+
+{{< tab "Books" >}}
+
+## Fiction Picks
 {{< columns >}}
 
 ![The Last House on Needless Street by Catriona Ward](./needless.webp)
@@ -18,8 +65,7 @@ summary: "I watch and read a lot. Here's some of it."
 ![Queen of Teeth by Hailey Piper](./queen.webp)
 {{< /columns >}}
 
-### Nonfiction
-
+## Nonfiction Picks
 {{< columns >}}
 ![Digital Minimalism by Cal Newport](./digital-minimalism.webp)
 <--->
@@ -30,79 +76,19 @@ summary: "I watch and read a lot. Here's some of it."
 ![Surviving Death by Leslie Kean](./surviving.webp)
 {{< /columns >}}
 
+---
 
-### Films
-These likely won't get imagery as I'm way too picky. :-)
-
-- You Won't Be Alone
-- It Follows
-- Gonjiam: Haunted Asylum
-- The Dark and the Wicked
-- The Wailing
-
-{{< /tab >}}
-
-{{< tab "Superlatives">}}
-## Superlatives
-
-### Weirdest
-- Possession: weirdest squid pro quo in cinematic history
-
-### Best soundtrack
-- It Follows
-- A Girl Walks Home Alone at Night
-
-### Most surprising
-- Bones and All: surprisingly easy to stomach
-- Titane: hear me out, Rosemary's baby, but a car
-
-### Most comforting
-- The Big Lebowski: yes, that’s like, my opinion, man.
-- Addams Family: if your relationship goals aren’t Morticia and Gomez, then please rethink your life
-- Shaun of the Dead: needs no further explanation 
-
-### Watch on a loop forever with no audio
-- The Tragedy of Macbeth
-- Blade Runner 2049
-- Eternal Sunshine of the Spotless Mind
-- Mad Max Fury Road (black and chrome)
-
-### Best “If I feel like hearing the same nirvana song over and over in a movie”
-- The Batman 
-
-### Most relatable superhero origin story
-- John Wick
-
-### Most “Good for her”
-- Midsommar
-- Carrie
-- The Witch
-
-### Best vibes
-- Atomic Blonde
-- The Hunger
-- Sleepy Hollow
-
-### Most “Why did this get made?”
-- Mandy: Someone live tweeted an acid trip
-
-{{< /tab>}}
-
-{{< tab "Books" >}}
-
-### Incoming
+## 2024
 
 - <mark>Feeding Your Demons (Tsultrim Allione)</mark>
 - <mark>Ripe: Tales of Hunger & Desire (Various)</mark>
-- Gone to the Wolves (John Wray)
-- Witches, Witch-hunting, and Women (Silvia Federici)
-
-### 2024
+- <mark>Gone to the Wolves (John Wray)</mark>
+- <mark>Witches, Witch-hunting, and Women (Silvia Federici)</mark>
 - Design as an Attitude (Alice Rawsthorn)
 - Lilith's Brood (Octavia E. Butler)
 - A Light Most Hateful (Hailey Piper)
 
-### 2023
+## 2023
 - Last Days (Adam Nevill)
 - The Black Spider (Jeremias Gotthelf)
 - Silver Nitrate (Silvia Moreno-Garcia) ❤️
@@ -148,17 +134,39 @@ These likely won't get imagery as I'm way too picky. :-)
 {{< /tab >}}
 
 {{< tab "Film & TV" >}}
-### Incoming
+## Horror Picks
+{{< columns >}}
+![You Won’t Be Alone](./alone.webp)
+<--->
+![It Follows](./it-follows.webp)
+<--->
+![The Dark and the Wicked](./wicked.webp)
+<--->
+![The Wailing](./wailing.webp)
+{{< /columns >}}
+
+## Overall Picks
+{{< columns >}}
+![The Big Lebowski](./lebowski.webp)
+<--->
+![Annihilation](./annihilation.webp)
+<--->
+![John Wick](./wick.webp)
+<--->
+![Romeo & Juliet (1996)](./romeo.webp)
+{{< /columns >}}
+
+---
+
+## 2024
 - Poor Things
 - Significant Other
 - Saltburn
 - Careful How You Go
 - Last Voyage of the Demeter
-
-### 2024
 - Fall of the House of Usher
 
-### 2023
+## 2023
 - The Rocky Horror Picture Show
 - Anna and the Apocalypse
 - Bottoms
@@ -233,7 +241,7 @@ These likely won't get imagery as I'm way too picky. :-)
 - Halloween Kills
 - The Menu
 
-### 2022
+## 2022
 - The French Dispatch
 - Antlers
 - Texas Chainsaw Massacre
@@ -353,7 +361,7 @@ These likely won't get imagery as I'm way too picky. :-)
 - The Social Dilemma
 - The Hunt
 - Decision to Leave
-### 2021 and before
+## 2021 and before
 - The Wailing ❤️
 - The Perfection
 - Ravenous

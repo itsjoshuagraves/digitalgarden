@@ -6,7 +6,7 @@ headless: true
   - [Tinkering](/tinkering)
   - [Journal](/journal)
   - [Photos](/photos)
-  - [Read & Watch List](/media)
+  - [Media Diary](/media)
   - [Log](/log)
 - [**Professional Sphere**](/professional)
   - [We Need to Talk](/we-need-to-talk)
