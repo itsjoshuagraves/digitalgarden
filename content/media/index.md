@@ -1,4 +1,4 @@
-/---
+---
 title: Media Diary
 type: docs
 bookToc: false
