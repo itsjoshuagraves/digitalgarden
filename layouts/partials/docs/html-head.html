@@ -1,10 +1,6 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-{{ if .IsHome }}
-  <meta name="description" content="A multidisciplinary product designer, visual artist, and author of We Need to Talk.">
-{{ else }}
-  <meta name="description" content="{{ default .Summary .Description }}">
-{{ end }}
+<meta name="description" content="{{ default .Summary .Description }}">
 <meta name="color-scheme" content="light dark">
 <meta name="theme-color" content="">
 

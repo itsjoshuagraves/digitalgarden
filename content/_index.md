@@ -1,8 +1,11 @@
 ---
-title: Home
+title: Joshua Graves • Design Leader & Author
 type: home
 bookToc: false
+summary: "Multidisciplinary product designer, visual artist, and author of We Need to Talk."
+# image: /opengraph.png
 ---
+
 ---
 ## New Art
 {{< columns >}}
