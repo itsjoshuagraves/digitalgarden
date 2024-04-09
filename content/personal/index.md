@@ -12,20 +12,26 @@ summary: "A catalog of artwork and creative endeavors, my personal journal, and 
 
 {{< columns >}}
 
-Creations
-: ## [Visual Art](/art)
-	Mixed media collages, glitch art and skulls (not real ones!). Lots of darker themes exploring identity, loneliness, memento moris.
-: ## [Tinkering](/tinkering)
-	I like to take things apart and put them back together again. Sometimes I get lucky and something cooler comes out the other end.
-: ## [Photos](/photos)
-	Photosets from various adventures.
+## Creations
+
+[Visual Art](/art)
+:	Mixed media collages, glitch art and skulls (not real ones!). Lots of darker themes exploring identity, loneliness, memento moris.
+
+[Tinkering](/tinkering)
+:	I like to take things apart and put them back together again. Sometimes I get lucky and something cooler comes out the other end.
+
+[Photos](/photos)
+:	Photosets from various adventures.
 <--->
-Writing & Readings
-: ## [Journal](/journal)
-	A place where collect thoughts on topics that matter to me. (I'm intentionally not calling this a blog, as that comes with expectations of constant updates.)
-: ## [Read & Watch List](/media)
-	I watch and read a lot. Here’s some of it.
-: ## [Log](/log)
-	Weekly-ish log.
+## Writing & Readings
+
+[Journal](/journal)
+:	A place where collect thoughts on topics that matter to me. (I'm intentionally not calling this a blog, as that comes with expectations of constant updates.)
+
+[Read & Watch List](/media)
+:	I watch and read a lot. Here’s some of it.
+
+[Log](/log)
+:	Weekly-ish log.
 
 {{< /columns >}}

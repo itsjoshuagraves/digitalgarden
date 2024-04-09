@@ -19,20 +19,26 @@ bookToc: false
 
 {{< columns >}}
 
-Artifacts
-: ## [Portfolio](/portfolio)
-	I'm a human-centered designer with over 15 years under my belt. As a player-coach, I've led teams for 5+ years. This is a collection of award-winning iOS, Android, and web designs.
-: ## [Guides & Articles](/tools/)
-	A collection of things I've written, plus guides for leaders, workshop facilitators, and other curious people.
-: ## [Design Philosophy](/philosophy/)
-	The why behind how I do it.
-: ## [Design Process](/process/)
-	How I do what I do.
+## Artifacts
+
+[Portfolio](/portfolio)
+:	I'm a human-centered designer with over 15 years under my belt. As a player-coach, I've led teams for 5+ years. This is a collection of award-winning iOS, Android, and web designs.
+
+[Guides & Articles](/tools/)
+:	A collection of things I've written, plus guides for leaders, workshop facilitators, and other curious people.
+
+[Design Philosophy](/philosophy/)
+:	The why behind how I do it.
+
+[Design Process](/process/)
+:	How I do what I do.
+
 <--->
-Services
-: ## [Work With Me](/work-with-me)
-	Let's talk about how I can help your team.
-: ## [Workshops & Speaking](/workshops/)
-	Places I've spoken at and workshops I offer.
+## Services
+[Work With Me](/work-with-me)
+:	Let's talk about how I can help your team.
+
+[Workshops & Speaking](/workshops/)
+:	Places I've spoken at and workshops I offer.
 {{< /columns >}}
 

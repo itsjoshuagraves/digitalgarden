@@ -8,48 +8,85 @@ summary: "I watch and read a lot. Here's some of it."
 
 {{< tab "Superlatives">}}
 
-## Weirdest overall
-- <strong>Possession:</strong> weirdest squid pro quo in cinematic history.
+## Weirdest
+
+Possession
+: Weirdest squid pro quo in cinematic history.
 
 ## Best soundtrack
-- <strong>It Follows:</strong> my synthwave obsession started here.
-- <strong>A Girl Walks Home Alone at Night:</strong> if I've gotta die, I want it to be to this soundtrack.
+
+It Follows
+: My synthwave obsession started here.
+
+A Girl Walks Home Alone at Night
+: If I've gotta die, I want it to be to this soundtrack.
 
 ## Most surprising
-- <strong>Bones and All:</strong> surprisingly easy to stomach
-- <strong>Titane:</strong> hear me out, Rosemary's baby, but a car.
+
+Bones and All
+: Surprisingly easy to stomach
+
+Titane
+: Hear me out, Rosemary's baby, but a car.
 
 ## Most comforting
-- <strong>The Big Lebowski:</strong> yes, that’s like, my opinion, man.
-- <strong>Addams Family:</strong> if your relationship goals aren’t Morticia and Gomez, then please rethink your life.
-- <strong>Shaun of the Dead:</strong> needs no further explanation.
+
+The Big Lebowski
+: Yes, that’s like, my opinion, man.
+
+Addams Family
+: If your relationship goals aren’t Morticia and Gomez, then please rethink your life.
+
+Shaun of the Dead
+: Needs no further explanation.
 
 ## Best vibes
-- <strong>Atomic Blonde:</strong> HEALTH's Blue Monday cover is as good as the original, and I will accept no counter arguments.
-- <strong>The Hunger:</strong> David Bowie as a vampire plus Peter Murphy doing a performance? Yes, please.
-- <strong>Sleepy Hollow:</strong> It's here that Christina Ricci secured forever her grown as goth queen.
+
+Atomic Blonde
+: HEALTH's Blue Monday cover is as good as the original, and I will accept no counter arguments.
+
+The Hunger
+: David Bowie as a vampire plus Peter Murphy doing a performance? Yes, please.
+
+Sleepy Hollow
+: It's here that Christina Ricci secured forever her grown as goth queen.
 
 ## Most “Why did this get made?”
-- <strong>Mandy:</strong> I swear someone just transcribed an acid trip and said "hell yeah let's just make this movie" and they actually did it.
+
+Mandy
+: I swear someone just transcribed an acid trip and said "hell yeah let's just make this movie" and they actually did it.
 
 ## Most “Good for her”
-- <strong>Midsommar:</strong> best way to get rid of a toxic ex. Also, is Ari Aster okay? How does someone write this?
-- <strong>The Witch:</strong> may we all live so deliciously.
+
+Midsommar:
+Best way to get rid of a toxic ex. Also, is Ari Aster okay? How does someone write this?
+
+The Witch
+: May we all live so deliciously.
 
 ## Watch on a loop forever with no audio
-- The Tragedy of Macbeth
-- Blade Runner 2049
-- Eternal Sunshine of the Spotless Mind
-- Mad Max Fury Road (black and chrome)
+
+The Tragedy of Macbeth
+: Every frame of this is a painting.
+
+Blade Runner 2049
+: It's the cyberpunk dystopia I most want to inhabit.
+
+Eternal Sunshine of the Spotless Mind
+: The use of color and cute 00's vibes are beautiful.
+
+Mad Max Fury Road (black and chrome)
+: At least I don't have to worry about trying to hear Tom Hardy like I do in literally every other movie.
 
 ## Best “If I feel like hearing the same nirvana song over and over in a movie”
-- The Batman 
+
+The Batman
+: Am I mad? No. Not one bit.
 
 ## Most relatable superhero origin story
-- John Wick
 
-## Most likely to send me back to therapy if I ever see it again
-- Dream Scenario
+John Wick
+: There would be cataclysmic chaos and horror if someone messed with my dog.
 
 {{< /tab>}}
 
