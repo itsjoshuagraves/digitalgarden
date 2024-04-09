@@ -9,7 +9,7 @@
  -->  {{ end }}
 {{ end }}
 
-{{ if .Params.image }}
+{{ if and .Params.image (ne .Type "home") }}
 <p>
   {{ with .Resources.GetMatch .Params.image }}
     <img src={{ .RelPermalink }} />
