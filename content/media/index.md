@@ -1,4 +1,4 @@
----
+/---
 title: Media Diary
 type: docs
 bookToc: false
@@ -13,7 +13,7 @@ summary: "I watch and read a lot. Here's some of it."
 Possession
 : Weirdest squid pro quo in cinematic history.
 
-## Best soundtrack
+## Best Soundtrack
 
 It Follows
 : My synthwave obsession started here.
@@ -21,15 +21,15 @@ It Follows
 A Girl Walks Home Alone at Night
 : If I've gotta die, I want it to be to this soundtrack.
 
-## Most surprising
+## Most Surprising
 
 Bones and All
-: Surprisingly easy to stomach
+: Surprisingly easy to stomach.
 
 Titane
 : Hear me out, Rosemary's baby, but a car.
 
-## Most comforting
+## Most Comforting
 
 The Big Lebowski
 : Yes, that’s like, my opinion, man.
@@ -40,7 +40,7 @@ Addams Family
 Shaun of the Dead
 : Needs no further explanation.
 
-## Best vibes
+## Best Vibes
 
 Atomic Blonde
 : HEALTH's Blue Monday cover is as good as the original, and I will accept no counter arguments.
@@ -51,12 +51,8 @@ The Hunger
 Sleepy Hollow
 : It's here that Christina Ricci secured forever her grown as goth queen.
 
-## Most “Why did this get made?”
 
-Mandy
-: I swear someone just transcribed an acid trip and said "hell yeah let's just make this movie" and they actually did it.
-
-## Most “Good for her”
+## Most “Good for Her”
 
 Midsommar:
 Best way to get rid of a toxic ex. Also, is Ari Aster okay? How does someone write this?
@@ -64,7 +60,7 @@ Best way to get rid of a toxic ex. Also, is Ari Aster okay? How does someone wri
 The Witch
 : May we all live so deliciously.
 
-## Watch on a loop forever with no audio
+## Most Visually Stunning
 
 The Tragedy of Macbeth
 : Every frame of this is a painting.
@@ -78,12 +74,7 @@ Eternal Sunshine of the Spotless Mind
 Mad Max Fury Road (black and chrome)
 : At least I don't have to worry about trying to hear Tom Hardy like I do in literally every other movie.
 
-## Best “If I feel like hearing the same nirvana song over and over in a movie”
-
-The Batman
-: Am I mad? No. Not one bit.
-
-## Most relatable superhero origin story
+## Most Relatable Origin Story
 
 John Wick
 : There would be cataclysmic chaos and horror if someone messed with my dog.
