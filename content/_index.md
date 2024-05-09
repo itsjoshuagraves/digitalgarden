@@ -10,9 +10,9 @@ images:
 ---
 ## New Art
 {{< columns >}}
-[![Better World](/art/better-world/better-world.webp)](/art/better-world)
+[![Memento Mori](/art/memento/memento.webp)](/art/memento-mori)
 <--->
-[![My Right Mind](/art/right-mind/my-right-mind.webp)](/art/right-mind)
+[![Oracles](/art/oracles/moon-snake.webp)](/art/oracles)
 
 {{< /columns >}}
 

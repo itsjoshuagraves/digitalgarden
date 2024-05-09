@@ -5,7 +5,7 @@ date: 2024-02-26
 bookToc: false
 type: video
 image: you-running.webp
-summary: "Collage, typewriters, found imagery."
+summary: "Symmetrical poetry, collage, typewriters, found imagery."
 ---
 {{< video "you-running.mp4" >}}
 

@@ -5,15 +5,11 @@
     {{- $date := partial "docs/date" (dict "Date" .GitInfo.AuthorDate.Local "Format" .Site.Params.BookDateFormat) -}}
     {{- $commitPath := default "commit" .Site.Params.BookCommitPath -}}
       Updated & © {{ $date }}</li> 
-      <li><a class="meta-rss" href="https://www.websitecarbon.com/website/joshuaMauldin-me/" target="blank">0.03g/CO2 generated</a> 
-        </li>
   </ul>
 {{ end }}
 <ul class="meta">
   <li class="bottomline"><a href="http://hooray.computer/@josh" title="Find me on Mastodon">Mastodon</a></li>
-  <li class="bottomline"><a href="http://linkedin.com/in/joshuamauldin/" title="Find me on LinkedIn">LinkedIn</a></li>
   <li class="bottomline"><a href="http://instagram.com/_thejoshuary/" title="Find me on Instagram">Instagram</a></li>
-  <li class="bottomline"><a href="mailto:hi@joshuagraves.me" title="Email Me">Email</a></li>
   <li class="bottomline"><a class="meta-rss" href="/index.xml">RSS</a></li>
 
 </ul>
