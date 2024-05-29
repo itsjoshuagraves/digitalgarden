@@ -10,7 +10,7 @@ images:
 ---
 ## New Art
 {{< columns >}}
-[![Memento Mori](/art/memento/memento.webp)](/art/memento-mori)
+[![Memento Mori](/art/memento/memento.webp)](/art/memento)
 <--->
 [![Oracles](/art/oracles/moon-snake.webp)](/art/oracles)
 
