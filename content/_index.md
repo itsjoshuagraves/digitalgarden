@@ -12,7 +12,7 @@ images:
 {{< columns >}}
 [![Memento Mori](/art/memento/memento.webp)](/art/memento)
 <--->
-[![Oracles](/art/oracles/moon-snake.webp)](/art/oracles)
+[![Oracles](/art/oracles/missing.webp)](/art/oracles)
 
 {{< /columns >}}
 
@@ -21,6 +21,9 @@ images:
 {{< columns >}}
 
 ## New in Personal
+
+`February 26, 2024`
+: There will be some prints for you to buy soon. :) 
 
 `February 26, 2024`
 : Lots of new [Art](/art) using a found old typewriter.
