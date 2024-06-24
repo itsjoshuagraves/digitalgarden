@@ -53,7 +53,7 @@ My values are important, and they’ll enrich both your product and company:
 - Talking it out
 
 <--->
-![Hi there! It&rsquo;s me, Joshua.](joshua-graves.webp)
+![Hi there! It&rsquo;s me, Joshua.](/joshua-graves.webp)
 
 I'm currently writing a book called [“We Need to Talk: How to Have Hard Conversations with Anyone”](https://rosenfeldmedia.com/books/we-need-to-talk-a-survival-guide-for-tough-conversations/) for Rosenfeld Media. It’s due out in 2023.
 

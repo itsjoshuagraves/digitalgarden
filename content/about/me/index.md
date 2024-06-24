@@ -32,7 +32,7 @@ My values are important, and they’ll enrich both your product and company:
 - Kindness, fairness, and equity
 - Talking it out
 <--->
-![Photo by Sarah DeShields](/IMG_0159.webp)
+![](/joshua-graves.webp)
 {{< /columns >}}
 
 I'm currently writing a book called [“We Need to Talk: How to Have Hard Conversations with Anyone”](https://rosenfeldmedia.com/books/we-need-to-talk-a-survival-guide-for-tough-conversations/) for Rosenfeld Media.
