@@ -22,7 +22,7 @@ images:
 
 ## New in Personal
 
-`February 26, 2024`
+`July 4, 2024`
 : There will be some prints for you to buy soon. :) 
 
 `February 26, 2024`

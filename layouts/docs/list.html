@@ -5,8 +5,7 @@
     {{ partial "docs/summary.html" . }}
   </p>
 </article>
-
-  {{ range sort .Paginator.Pages }}
+  {{ range sort (where .Paginator.Pages "Params.unlisted" "ne" true) }}
   <article class="markdown book-post">
     <h2 class="art-title">
       <a href="{{ .RelPermalink }}">
