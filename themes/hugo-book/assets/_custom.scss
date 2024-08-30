@@ -1,7 +1,9 @@
-$mono: "PT Mono", monospace;
-$primary: "PT Sans", "Bahnschrift", "pt_sansregular", sans-serif;
-$bold: "PT Sans Bold", "Bahnschrift", "pt_sansbold", sans-serif;
-$okkult: "Okkult-Black", sans-serif;
+// $mono: "PT Mono", monospace;
+$mono: "Atlas Grotesk Web", sans-serif;
+$primary: "RoslindaleText", Georgia, serif;
+$display: "Roslindale Variable", Georgia, serif;
+$bold: "Atlas Grotesk Web", sans-serif;
+$okkult: "Roslindale Variable";
 
 article {
 	margin-bottom: 2rem !important;
@@ -15,23 +17,30 @@ body {
   	font-style: normal;
 }
 h1 {
-  font-family: $okkult;
-  font-weight: 900;
+  font-family: $display;
+  font-style: normal;
+  font-weight: 300;
 	font-size: 3.33rem;
+	color: var(--body-font-color);
 		@media (min-width: 500px) {
 			font-size: 4rem;
 	}
 }
 h2, h3, h4, h5, h6 {
-	font-family: $bold;
-	font-weight: bold;
+	font-family: $display;
+	font-weight: 300;
+	color: var(--body-font-color);
 }
 p {
  	margin-top: 0;
- 	line-height: 166% !important;
+ 	line-height: 135% !important;
 }
 code {
   font-family: $mono;
+  padding: 0 !important;
+  text-transform: uppercase;
+  font-size: 12px !important;
+letter-spacing: 0.6px;
 }
 figcaption {
 	text-align: center;
@@ -48,7 +57,10 @@ blockquote {
   margin-bottom: 24px !important;
 }
 dt {
-	// margin-bottom: -24px !important;
+	font-family: $mono;
+}
+dd {
+	line-height: 135%;
 }
 a[target="_blank"]{
 	&:after {
@@ -225,9 +237,11 @@ a[target="_blank"]{
 	margin: 1rem 0 !important;
 	font-family: $mono;
 	font-size: 12px;
-	font-weight: normal !important;
-	letter-spacing: 0 !important;
-		a{
+     text-transform: uppercase;
+      font-size: 12px;
+      font-weight: 700;
+      letter-spacing: .6px;
+ 		a{
 			text-decoration: none;
 			&:hover{
 			text-decoration: underline;

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UX Collective on Joshua Graves</title>
+    <link>http://localhost:1313/tags/UX-Collective/</link>
+    <description>Recent content in UX Collective on Joshua Graves</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>2024, Joshua Graves</copyright>
+    <lastBuildDate>Tue, 03 Oct 2023 13:05:04 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/UX-Collective/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Black Mirror Brainstorms</title>
+      <link>http://localhost:1313/tools/articles/black-mirror-brainstorms/</link>
+      <pubDate>Mon, 26 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tools/articles/black-mirror-brainstorms/</guid>
+      <description>I want to have more ethical products. I feel like we all do. Sometimes, though, we don’t consider how this amazing thing we’re working on might have some unintended and negative consequences.</description>
+    </item>
+    <item>
+      <title>Push Notif-ications, the good, the bad, and the wtf could u not</title>
+      <link>http://localhost:1313/tools/articles/push-notifications/</link>
+      <pubDate>Fri, 21 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tools/articles/push-notifications/</guid>
+      <description>Why you should give people more control over the notifications they receive from you.</description>
+    </item>
+  </channel>
+</rss>

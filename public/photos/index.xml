@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Photos on Joshua Graves</title>
+    <link>http://localhost:1313/photos/</link>
+    <description>Recent content in Photos on Joshua Graves</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>2024, Joshua Graves</copyright>
+    <atom:link href="http://localhost:1313/photos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WNDR &amp; Health</title>
+      <link>http://localhost:1313/photos/wndr/</link>
+      <pubDate>Mon, 08 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/photos/wndr/</guid>
+      <description>San Deigo, CA</description>
+    </item>
+    <item>
+      <title>Lunar Halos</title>
+      <link>http://localhost:1313/photos/lunar-halo/</link>
+      <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/photos/lunar-halo/</guid>
+      <description>Big Bear, CA</description>
+    </item>
+    <item>
+      <title>Of Black</title>
+      <link>http://localhost:1313/photos/of-black/</link>
+      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/photos/of-black/</guid>
+      <description>Black and White</description>
+    </item>
+    <item>
+      <title>At the Aquarium</title>
+      <link>http://localhost:1313/photos/aquarium/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/photos/aquarium/</guid>
+      <description>Long Beach, CA</description>
+    </item>
+    <item>
+      <title>Dia De Los Muertos 2023</title>
+      <link>http://localhost:1313/photos/dia-de-los-muertos/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/photos/dia-de-los-muertos/</guid>
+      <description>Hollywood Forever Cemetery</description>
+    </item>
+    <item>
+      <title>Muir Woods</title>
+      <link>http://localhost:1313/photos/muir-woods/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/photos/muir-woods/</guid>
+      <description>Infrared photos</description>
+    </item>
+    <item>
+      <title>Wolf Weekend 2023</title>
+      <link>http://localhost:1313/photos/wolf-weekend/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/photos/wolf-weekend/</guid>
+      <description>Meeting real wolves for the first time.</description>
+    </item>
+  </channel>
+</rss>

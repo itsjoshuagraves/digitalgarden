@@ -1,0 +1,369 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Why we observe users in their environment, the benefits, and a script for getting started.">
+<meta name="color-scheme" content="light dark">
+<meta name="theme-color" content=""><meta property="og:url" content="http://localhost:1313/tools/guides/user-interviews-and-tests/">
+  <meta property="og:site_name" content="Joshua Graves">
+  <meta property="og:title" content="User Interviews &amp; Tests">
+  <meta property="og:description" content="Why we observe users in their environment, the benefits, and a script for getting started.">
+  <meta property="og:locale" content="en">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="tools">
+    <meta property="article:published_time" content="2023-07-23T00:00:00+00:00">
+    <meta property="article:modified_time" content="2023-09-19T19:21:17-07:00">
+    <meta property="article:tag" content="Template">
+    <meta property="article:tag" content="User Research">
+<title>User Interviews &amp; Tests | Joshua Graves</title>
+<link rel="manifest" href="/manifest.json">
+<link rel="icon" href="/favicon.png" type="image/x-icon">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="stylesheet" href="/book.min.5db6a0752f48948ec457fed7a628ff46594498ebb2f3b8ee2a88d7d5648bf65b.css" integrity="sha256-XbagdS9IlI7EV/7Xpij/RllEmOuy87juKojX1WSL9ls=" crossorigin="anonymous">
+  <script defer src="/flexsearch.min.js"></script>
+  <script defer src="/en.search.min.2d2d2c4a295cb5f1cf76f03b28647b010c188145049711c09e7ed13e7f70a359.js" integrity="sha256-LS0sSilctfHPdvA7KGR7AQwYgUUElxHAnn7RPn9wo1k=" crossorigin="anonymous"></script>
+
+  <script defer src="/sw.min.6f6f90fcb8eb1c49ec389838e6b801d0de19430b8e516902f8d75c3c8bd98739.js" integrity="sha256-b2&#43;Q/LjrHEnsOJg45rgB0N4ZQwuOUWkC&#43;NdcPIvZhzk=" crossorigin="anonymous"></script>
+<!--
+Made with Book Theme
+https://github.com/alex-shpak/hugo-book
+-->
+  
+</head>
+
+<body id="User Interviews &amp; Tests" dir="ltr">
+  <input type="checkbox" class="hidden toggle" id="menu-control" />
+  <input type="checkbox" class="hidden toggle" id="toc-control" />
+  <main class="container flex">
+    <aside class="book-menu">
+      <div class="book-menu-content">
+        
+  <nav>
+<h2 class="book-brand">
+  <a class="flex align-center" href="/">
+  <img class="site-brand" src="/skull.svg">
+    <span class="site-title">Joshua Graves</span>
+  </a>
+</h2>
+
+
+<div class="book-search">
+  <input type="text" id="book-search-input" placeholder="Search" aria-label="Search" maxlength="64" data-hotkeys="s/" />
+  <div class="book-search-spinner hidden"></div>
+  <ul id="book-search-results"></ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+  <ul>
+<li><a href="/personal"><strong>Personal Sphere</strong></a>
+<ul>
+<li><a href="/art">Visual Art</a></li>
+<li><a href="/tinkering">Tinkering</a></li>
+<li><a href="/journal">Journal</a></li>
+<li><a href="/photos">Photos</a></li>
+<li><a href="/media">Media Diary</a></li>
+<li><a href="/log">Log</a></li>
+</ul>
+</li>
+<li><a href="/professional"><strong>Professional Sphere</strong></a>
+<ul>
+<li><a href="/we-need-to-talk">We Need to Talk</a></li>
+<li><a href="/portfolio">Portfolio</a></li>
+<li><a href="/tools">Tools for Designers &amp; Leaders</a></li>
+<li><a href="/work-with-me">Work With Me</a></li>
+</ul>
+</li>
+<li><a href="/about"><strong>About &amp; More</strong></a>
+<ul>
+<li><a href="/about/me">Joshua Graves</a></li>
+<li><a href="/about/digital-gardening">Digital Gardening</a></li>
+<li><a href="/bookmarks">Bookmarks</a></li>
+</ul>
+</li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+</nav>
+
+
+
+
+  <script>(function(){var e=document.querySelector("aside .book-menu-content");addEventListener("beforeunload",function(){localStorage.setItem("menu.scrollTop",e.scrollTop)}),e.scrollTop=localStorage.getItem("menu.scrollTop")})()</script>
+
+
+ 
+      </div>
+    </aside>
+
+    <div class="book-page">
+      <header class="book-header">
+        
+  <div class="flex align-center justify-between">
+  <label for="menu-control">
+    <img src="/svg/menu.svg" class="book-icon" alt="Menu" />
+  </label>
+
+  
+
+  <label for="toc-control">
+    
+    <img src="/svg/toc.svg" class="book-icon" alt="Table of Contents" />
+    
+  </label>
+</div>
+
+
+  
+  <aside class="hidden clearfix">
+    
+<h5 class="post-date">On This Page</h5>
+<nav id="TableOfContents">
+  <ul>
+    <li><a href="#desired-mindset">Desired mindset</a></li>
+    <li><a href="#best-practices">Best practices</a></li>
+    <li><a href="#script">Script</a>
+      <ul>
+        <li><a href="#overview">Overview</a></li>
+        <li><a href="#pre-test-interview">Pre-test Interview</a></li>
+        <li><a href="#the-scenario">The Scenario</a></li>
+        <li><a href="#post-test-follow-up">Post-test follow up</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+
+
+
+  </aside>
+  
+ 
+      </header>
+
+  
+
+      
+
+      
+      
+
+      
+
+
+    
+        <h5 class="post-date"><a href="/tools/">← Back</a></h5>
+    
+
+
+<h1 class="page-title journal-title">
+User Interviews &amp; Tests
+</h1>
+<article class="markdown book-post">
+  <p class="main-summary">Why we observe users in their environment, the benefits, and a script for getting started.
+  </p>
+  
+  
+
+  
+  
+
+
+
+<p>We observe users in their environment so that we fully understand the problem and the context in which they work.</p>
+<p>We want everything we design to be to the direct benefit of everyone involved. There’s no better way to see how you can help someone than hearing them say it in their own words.</p>
+<h2 id="desired-mindset">
+  Desired mindset
+  <a class="anchor" href="#desired-mindset">#</a>
+</h2>
+<p>Stay curious and have a genuine commitment to learning. Increase our understanding of users and challenge our assumptions.</p>
+<ul>
+<li>Guess less and work from a position of being informed and confident.</li>
+<li>Does not have to be cumbersome, expensive or take up a lot of time. Minimal Viable Ethnography can be accomplished in 3 days!</li>
+<li>Research can be easy, we can fold into any workflow; sprints, agile or lean.</li>
+<li>Most likely there is already data on hand that we just need to bring to the surface!</li>
+<li>Rather than making assumptions about users, we want to learn from them.</li>
+<li>By guessing less we can reduce the potential for wasted time and resources.</li>
+<li>Does not have to feel stale, monolithic or like an academic exercise.</li>
+</ul>
+<h2 id="best-practices">
+  Best practices
+  <a class="anchor" href="#best-practices">#</a>
+</h2>
+<p>Above all, be genuine, engaged and positive. Listen significantly more than you speak. While conducting an interview (user or stakeholder), it’s important to be genuinely interested and non-judgmental. People will notice this and be more willing to reveal themselves, particularly their anxieties, prejudices and insecurities.</p>
+<p>We are burdened with biases and it is tough to sense one’s own. We can combat this by referring to an external standard and work to check each other in an environment that fosters psychological safety and mutual respect. Having a knowledge of common biases also helps to recognize when they appear.</p>
+<p>Focus on asking open-ended questions, which invite conversation and insight. For example:</p>
+<ul>
+<li>What led you to that?</li>
+<li>Could you say more?</li>
+<li>How are you seeing it?</li>
+<li>What’s missing?</li>
+</ul>
+<p>We intentionally avoid leading questions as well as questions which elicit simple responses such as yes or no.</p>
+<hr>
+<h2 id="script">
+  Script
+  <a class="anchor" href="#script">#</a>
+</h2>
+<p>Here&rsquo;s a script you can follow. Be sure to adapt it.</p>
+<h3 id="overview">
+  Overview
+  <a class="anchor" href="#overview">#</a>
+</h3>
+<p>Hi, my name is <mark>name</mark>. I work with <mark>company</mark>. I am doing some research to improve our product by better getting insights from people like you. This should take no more than <mark>15 minutes</mark>.</p>
+<p>Do you mind if we record this call for notetaking purposes only? The recording will not be published or shared outside our team.</p>
+<p>As you go along, I’m going to ask you to try to <strong>think out loud</strong> as much as possible: <strong>describe what you’re looking at</strong>, what you’re trying to do/accomplish, and <strong>what you’re thinking</strong>. This will be a big help to us.</p>
+<p>Also, please be as <strong>honest and unfiltered</strong> as possible. Don’t worry that you’re going to hurt our feelings; we’re doing this to improve our customers’ experience, so we need to hear your honest reactions.</p>
+<p>If you need to take a break at any point, just let me know.</p>
+<blockquote>
+<p>Optional: NDA
+We have a non-disclosure agreement that states you will not discuss what we’re showing you today, any ideas or opinions, or anything shared during the time we are together with anyone outside of the session. Would you be willing to sign this? Please take all the time you need to review it.*[Hand over paper copy. Get signature.]*Optional: Recording Permission
+With your permission, we’d like to record this conversation. This will only be used to transcribe what you said and won’t be seen by anyone outside of our project.</p>
+</blockquote>
+<h3 id="pre-test-interview">
+  Pre-test Interview
+  <a class="anchor" href="#pre-test-interview">#</a>
+</h3>
+<p>These are questions designed to build rapport. This is also a good spot to fit in any questions that give greater context to you or the team about the users&rsquo; behavior.</p>
+<p>Before we get to the test, I have a few quick questions for you:</p>
+<ul>
+<li>e.g. what sites or apps do you find yourself using on a daily basis?</li>
+<li>e.g. after work, how much time would you say you spend on screens?</li>
+</ul>
+<h3 id="the-scenario">
+  The Scenario
+  <a class="anchor" href="#the-scenario">#</a>
+</h3>
+<p>Lay out the scenario for them, give them clear, attainable goals and don&rsquo;t lead them. You can write a complex scenario below or you can keep it to just a few bullet points. The main goal here is <strong>consistency</strong>.</p>
+<p>Here&rsquo;s the scenario:</p>
+<p>Task 0</p>
+<pre>Visit this URL in your browser. 
+Before you click on anything,
+tell me what you see. </pre>
+<p>Task 1</p>
+<pre>We want to see if you're able to 
+sign up for an account.</pre>
+<p>Task 2</p>
+<pre>Can you add a new payment method to your account?</pre>
+<h3 id="post-test-follow-up">
+  Post-test follow up
+  <a class="anchor" href="#post-test-follow-up">#</a>
+</h3>
+<p>If you&rsquo;ve offered an incentive to do this interview, get their email or mailing address so that you can send it out. Tell them when they can expect it.</p>
+<p>That is all we need from you today. Thank you so much for giving us some time and attention!</p>
+</article>
+
+<div class="page-nav">
+    <h5 class="post-date">More</h5>
+    <ul class="pagination">
+        
+        <li class="page-item">
+            <a href="/tools/guides/quick-start/" class="next">⇡ Quick Start Guide </a>
+        </li>
+        
+        
+        <li class="page-item">
+            <a href="/tools/guides/user-recruiting-script/" class="prev">⇣ User Recruiting Script</a>
+        </li>
+        
+        
+    </ul>
+</div>
+ 
+      
+
+      <footer class="book-footer">
+        
+  <ul class="meta">
+
+
+  <li class="meta-update">Updated & © September 19, 2023</li> 
+  </ul>
+
+<ul class="meta">
+  <li class="bottomline"><a href="http://hooray.computer/@josh" title="Find me on Mastodon">Mastodon</a></li>
+  <li class="bottomline"><a href="http://instagram.com/_thejoshuary/" title="Find me on Instagram">Instagram</a></li>
+  <li class="bottomline"><a class="meta-rss" href="/index.xml">RSS</a></li>
+
+</ul>
+
+
+
+  <script>(function(){function e(e){const t=window.getSelection(),n=document.createRange();n.selectNodeContents(e),t.removeAllRanges(),t.addRange(n)}document.querySelectorAll("pre code").forEach(t=>{t.addEventListener("click",function(){if(window.getSelection().toString())return;e(t.parentElement),navigator.clipboard&&navigator.clipboard.writeText(t.parentElement.textContent)})})})()</script>
+
+
+
+ 
+        
+      </footer>
+
+
+      <label for="menu-control" class="hidden book-menu-overlay"></label>
+    </div>
+
+    
+    <aside class="book-toc">
+      <div class="book-toc-content">
+        
+<h5 class="post-date">On This Page</h5>
+<nav id="TableOfContents">
+  <ul>
+    <li><a href="#desired-mindset">Desired mindset</a></li>
+    <li><a href="#best-practices">Best practices</a></li>
+    <li><a href="#script">Script</a>
+      <ul>
+        <li><a href="#overview">Overview</a></li>
+        <li><a href="#pre-test-interview">Pre-test Interview</a></li>
+        <li><a href="#the-scenario">The Scenario</a></li>
+        <li><a href="#post-test-follow-up">Post-test follow up</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+
+
+ 
+      </div>
+    </aside>
+    
+  </main>
+
+  <script>
+if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+    document.querySelector('meta[name="theme-color"]').setAttribute("content", "#000000");  
+} else {
+    document.querySelector('meta[name="theme-color"]').setAttribute("content", "#FFFCFA");  
+}
+
+</script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+

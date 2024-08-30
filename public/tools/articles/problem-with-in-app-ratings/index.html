@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Early work on in-app rating modules and how I made them better. This was before Apple launched their own in-app rating system.">
+<meta name="color-scheme" content="light dark">
+<meta name="theme-color" content=""><meta property="og:url" content="http://localhost:1313/tools/articles/problem-with-in-app-ratings/">
+  <meta property="og:site_name" content="Joshua Graves">
+  <meta property="og:title" content="My real problem with in-app rating modules">
+  <meta property="og:description" content="Early work on in-app rating modules and how I made them better. This was before Apple launched their own in-app rating system.">
+  <meta property="og:locale" content="en">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="tools">
+    <meta property="article:published_time" content="2013-04-12T00:00:00+00:00">
+    <meta property="article:modified_time" content="2023-09-27T11:54:03-07:00">
+    <meta property="article:tag" content="Medium">
+<title>My real problem with in-app rating modules | Joshua Graves</title>
+<link rel="manifest" href="/manifest.json">
+<link rel="icon" href="/favicon.png" type="image/x-icon">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="stylesheet" href="/book.min.5db6a0752f48948ec457fed7a628ff46594498ebb2f3b8ee2a88d7d5648bf65b.css" integrity="sha256-XbagdS9IlI7EV/7Xpij/RllEmOuy87juKojX1WSL9ls=" crossorigin="anonymous">
+  <script defer src="/flexsearch.min.js"></script>
+  <script defer src="/en.search.min.2d2d2c4a295cb5f1cf76f03b28647b010c188145049711c09e7ed13e7f70a359.js" integrity="sha256-LS0sSilctfHPdvA7KGR7AQwYgUUElxHAnn7RPn9wo1k=" crossorigin="anonymous"></script>
+
+  <script defer src="/sw.min.6f6f90fcb8eb1c49ec389838e6b801d0de19430b8e516902f8d75c3c8bd98739.js" integrity="sha256-b2&#43;Q/LjrHEnsOJg45rgB0N4ZQwuOUWkC&#43;NdcPIvZhzk=" crossorigin="anonymous"></script>
+<!--
+Made with Book Theme
+https://github.com/alex-shpak/hugo-book
+-->
+  
+</head>
+
+<body id="My real problem with in-app rating modules" dir="ltr">
+  <input type="checkbox" class="hidden toggle" id="menu-control" />
+  <input type="checkbox" class="hidden toggle" id="toc-control" />
+  <main class="container flex">
+    <aside class="book-menu">
+      <div class="book-menu-content">
+        
+  <nav>
+<h2 class="book-brand">
+  <a class="flex align-center" href="/">
+  <img class="site-brand" src="/skull.svg">
+    <span class="site-title">Joshua Graves</span>
+  </a>
+</h2>
+
+
+<div class="book-search">
+  <input type="text" id="book-search-input" placeholder="Search" aria-label="Search" maxlength="64" data-hotkeys="s/" />
+  <div class="book-search-spinner hidden"></div>
+  <ul id="book-search-results"></ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+  <ul>
+<li><a href="/personal"><strong>Personal Sphere</strong></a>
+<ul>
+<li><a href="/art">Visual Art</a></li>
+<li><a href="/tinkering">Tinkering</a></li>
+<li><a href="/journal">Journal</a></li>
+<li><a href="/photos">Photos</a></li>
+<li><a href="/media">Media Diary</a></li>
+<li><a href="/log">Log</a></li>
+</ul>
+</li>
+<li><a href="/professional"><strong>Professional Sphere</strong></a>
+<ul>
+<li><a href="/we-need-to-talk">We Need to Talk</a></li>
+<li><a href="/portfolio">Portfolio</a></li>
+<li><a href="/tools">Tools for Designers &amp; Leaders</a></li>
+<li><a href="/work-with-me">Work With Me</a></li>
+</ul>
+</li>
+<li><a href="/about"><strong>About &amp; More</strong></a>
+<ul>
+<li><a href="/about/me">Joshua Graves</a></li>
+<li><a href="/about/digital-gardening">Digital Gardening</a></li>
+<li><a href="/bookmarks">Bookmarks</a></li>
+</ul>
+</li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+</nav>
+
+
+
+
+  <script>(function(){var e=document.querySelector("aside .book-menu-content");addEventListener("beforeunload",function(){localStorage.setItem("menu.scrollTop",e.scrollTop)}),e.scrollTop=localStorage.getItem("menu.scrollTop")})()</script>
+
+
+ 
+      </div>
+    </aside>
+
+    <div class="book-page">
+      <header class="book-header">
+        
+  <div class="flex align-center justify-between">
+  <label for="menu-control">
+    <img src="/svg/menu.svg" class="book-icon" alt="Menu" />
+  </label>
+
+  
+
+  <label for="toc-control">
+    
+    <img src="/svg/toc.svg" class="book-icon" alt="Table of Contents" />
+    
+  </label>
+</div>
+
+
+  
+  <aside class="hidden clearfix">
+    
+<h5 class="post-date">On This Page</h5>
+<nav id="TableOfContents">
+  <ul>
+    <li><a href="#like-this-app-give-us-5-stars-ugh-stop-plz">“Like this app? Give us 5 stars! UGH STOP PLZ.”</a></li>
+    <li><a href="#feedback-modules-not-rate-this-app-modules">Feedback modules, not ‘Rate this App’ modules</a></li>
+    <li><a href="#what-i-did-to-solve-the-problem">What I did to solve the problem</a></li>
+    <li><a href="#darth-vader-or-why-feedback-modules-arent-the-problem">Darth Vader, or why feedback modules aren’t the problem</a></li>
+    <li><a href="#im-ok-youre-ok">I’m ok, you’re ok.</a></li>
+  </ul>
+</nav>
+
+
+
+  </aside>
+  
+ 
+      </header>
+
+  
+
+      
+
+      
+      
+
+      
+
+
+    
+        <h5 class="post-date"><a href="/tools/">← Back</a></h5>
+    
+
+
+<h1 class="page-title journal-title">
+My real problem with in-app rating modules
+</h1>
+<article class="markdown book-post">
+  <p class="main-summary">Early work on in-app rating modules and how I made them better. This was before Apple launched their own in-app rating system.
+  </p>
+  
+  
+
+  
+  
+
+
+
+<h2 id="like-this-app-give-us-5-stars-ugh-stop-plz">
+  “Like this app? Give us 5 stars! UGH STOP PLZ.”
+  <a class="anchor" href="#like-this-app-give-us-5-stars-ugh-stop-plz">#</a>
+</h2>
+<p>The conversation where folks are growing collectively tired of being asked to rate apps has been interesting to watch.</p>
+<p>Some tech folks want to encourage users to rate an app 1 star because they asked for a rating. I think that’s unfair, because that doesn’t seem like a real review at all to me. It doesn’t tell me that the app is buggy, that it steals my data, or <a href="http://xkcd.com/937/">doesn’t alert me to a tornado</a>. It just tells me someone was bothered by being asked to rate an app.</p>
+<p>To be clear, I think <em>just</em> asking for ratings isn’t the right thing, but I don’t think asking for them is wrong in and of itself. What I think is missing is this:  asking for negative feedback.</p>
+<p>My biggest problem with App Store reviews are this: they’re a one-way conversation. There should be something better, more conversational. I think that’s where feedback modules can be improved over the standard.</p>
+<h2 id="feedback-modules-not-rate-this-app-modules">
+  Feedback modules, not ‘Rate this App’ modules
+  <a class="anchor" href="#feedback-modules-not-rate-this-app-modules">#</a>
+</h2>
+<p>I believe a solid way to approach asking for feedback and ratings is to ask for feedback, both good and bad. If it’s positive, send them to the App Store to write a review, because you likely don’t have much to talk about. If the feedback’s negative, open a dialog.</p>
+<p>The App Store (for better or worse) doesn’t yet offer a way to interact with a customer. I can’t think of many people that’d leave their contact information on a public spot like that, myself included. I believe we should open an email and have a conversation with that person. That lets the developer find out what the problem is, and gives them an opportunity to solve it with the person experiencing it.</p>
+<h2 id="what-i-did-to-solve-the-problem">
+  What I did to solve the problem
+  <a class="anchor" href="#what-i-did-to-solve-the-problem">#</a>
+</h2>
+<p>I implemented this pattern in a medium-sized news app with thousands of users, and read every single email that came in (there were a lot). Here’s how it worked:</p>
+<ul>
+<li>After 3 days from launch, each person saw a dialog box asking how their experience was</li>
+<li>Positive feedback asked people to leave a review</li>
+<li>Negative feedback asked people to contact us</li>
+<li>After telling us how you felt, you could dismiss this without emailing or rating us</li>
+</ul>
+<p>We later amended this to let people dismiss this instead of prompting a positive or negative response, and let folks see this after an accumulated usage time. We found some users would launch the app (say on a Friday afternoon), quit it, and return a few days later (like Monday morning), which made it harder to get a good idea of how the app was.</p>
+<p>Each person got a reply from the support team attempting to help with their problem. Some were angry, most confused because they lost a password, and some experienced legitimate problems that we couldn’t find on our own.  Ultimately, these emails were directly responsible for improving the product, and ultimately turned its health around.</p>
+<p>PS: if you go all Darth Vader here, you’re basically doing some real shady work and deserve all the karmic flack you catch for that. Death Star icon designed by</p>
+<p><figure>
+    <img src="vader.gif" alt="Darth Vader holding out an iPhone demanding you give some good ratings." />
+<figcaption>Darth Vader holding out an iPhone demanding you give some good ratings.</figcaption>
+  </figure></p>
+<h2 id="darth-vader-or-why-feedback-modules-arent-the-problem">
+  Darth Vader, or why feedback modules aren’t the problem
+  <a class="anchor" href="#darth-vader-or-why-feedback-modules-arent-the-problem">#</a>
+</h2>
+<p>The first thing I hear when talking about app ratings and this approach is that some would call it a <a href="http://darkpatterns.org/">dark pattern</a>. I don’t think of it that way—it’s a tool, just like The Force.</p>
+<p>One could argue that this fits the definition of a dark pattern, since it directs positive feedback one way and negative another, but it doesn’t feel that way to me: it’s more about how it’s used.</p>
+<p>Sure, it could be used for evil and silence all dissent. Just don a black outfit with a sweet cape, build a Death Star and Force Choke all those reviews to death by sending them to a never-checked inbox (see above image with caption). Or you can use it for good to get meaningful feedback from real users and help them with their problem to make your product better.</p>
+<p>It’s been my experience that if folks are motivated to complain, they will do it to you, the App Store, and anyone else who will listen, regardless of what types of barriers you introduce for deterring that kind of feedback. More so if your app is a real stinker. If your customers have a problem, you’re doing them a service by being there to talk to them.</p>
+<p>Why not just have a support link?</p>
+<p>I prefer to have a proactive approach when it comes to feedback. I look at feedback modules as someone checking in on you to make sure things meet your expectations. If they don’t, let’s figure out what we can do to make it better. I’d rather it be me asking how things are going rather than someone coming to find me and tell me about a problem.</p>
+<h2 id="im-ok-youre-ok">
+  I’m ok, you’re ok.
+  <a class="anchor" href="#im-ok-youre-ok">#</a>
+</h2>
+<p>In closing, I don’t think app feedback modules aren’t bad. I’d just encourage developers to not be shady and try to inflate ratings. Talk to your customers, and it’ll help make this whole thing better.</p>
+<p><a href="https://medium.com/@joshuamauldin/my-real-problem-with-in-app-rating-modules-b2c0df494783">Original post</a></p>
+</article>
+
+<div class="page-nav">
+    <h5 class="post-date">More</h5>
+    <ul class="pagination">
+        
+        <li class="page-item">
+            <a href="/tools/articles/ios-grid-system-fireworks/" class="next">⇡ iOS Grid System, A Free Extension For Adobe Fireworks </a>
+        </li>
+        
+        
+        <li class="page-item">
+            <a href="/tools/articles/smartphones-texting-emergency-servies/" class="prev">⇣ How smartphones could improve texting emergency services</a>
+        </li>
+        
+        
+    </ul>
+</div>
+ 
+      
+
+      <footer class="book-footer">
+        
+  <ul class="meta">
+
+
+  <li class="meta-update">Updated & © September 27, 2023</li> 
+  </ul>
+
+<ul class="meta">
+  <li class="bottomline"><a href="http://hooray.computer/@josh" title="Find me on Mastodon">Mastodon</a></li>
+  <li class="bottomline"><a href="http://instagram.com/_thejoshuary/" title="Find me on Instagram">Instagram</a></li>
+  <li class="bottomline"><a class="meta-rss" href="/index.xml">RSS</a></li>
+
+</ul>
+
+
+
+  <script>(function(){function e(e){const t=window.getSelection(),n=document.createRange();n.selectNodeContents(e),t.removeAllRanges(),t.addRange(n)}document.querySelectorAll("pre code").forEach(t=>{t.addEventListener("click",function(){if(window.getSelection().toString())return;e(t.parentElement),navigator.clipboard&&navigator.clipboard.writeText(t.parentElement.textContent)})})})()</script>
+
+
+
+ 
+        
+      </footer>
+
+
+      <label for="menu-control" class="hidden book-menu-overlay"></label>
+    </div>
+
+    
+    <aside class="book-toc">
+      <div class="book-toc-content">
+        
+<h5 class="post-date">On This Page</h5>
+<nav id="TableOfContents">
+  <ul>
+    <li><a href="#like-this-app-give-us-5-stars-ugh-stop-plz">“Like this app? Give us 5 stars! UGH STOP PLZ.”</a></li>
+    <li><a href="#feedback-modules-not-rate-this-app-modules">Feedback modules, not ‘Rate this App’ modules</a></li>
+    <li><a href="#what-i-did-to-solve-the-problem">What I did to solve the problem</a></li>
+    <li><a href="#darth-vader-or-why-feedback-modules-arent-the-problem">Darth Vader, or why feedback modules aren’t the problem</a></li>
+    <li><a href="#im-ok-youre-ok">I’m ok, you’re ok.</a></li>
+  </ul>
+</nav>
+
+
+ 
+      </div>
+    </aside>
+    
+  </main>
+
+  <script>
+if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+    document.querySelector('meta[name="theme-color"]').setAttribute("content", "#000000");  
+} else {
+    document.querySelector('meta[name="theme-color"]').setAttribute("content", "#FFFCFA");  
+}
+
+</script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+

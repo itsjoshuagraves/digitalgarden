@@ -1,0 +1,469 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="I designed a lot of mobile apps in the 2010s, here&rsquo;s how I did it with Sketch.">
+<meta name="color-scheme" content="light dark">
+<meta name="theme-color" content=""><meta property="og:url" content="http://localhost:1313/tools/articles/prototyping-ios-and-android-apps-with-sketch/">
+  <meta property="og:site_name" content="Joshua Graves">
+  <meta property="og:title" content="Prototyping iOS And Android Apps With Sketch">
+  <meta property="og:description" content="I designed a lot of mobile apps in the 2010s, here’s how I did it with Sketch.">
+  <meta property="og:locale" content="en">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="tools">
+    <meta property="article:published_time" content="2015-01-01T00:00:00+00:00">
+    <meta property="article:modified_time" content="2023-09-27T11:54:03-07:00">
+    <meta property="article:tag" content="Smashing Magazine">
+<title>Prototyping iOS And Android Apps With Sketch | Joshua Graves</title>
+<link rel="manifest" href="/manifest.json">
+<link rel="icon" href="/favicon.png" type="image/x-icon">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="stylesheet" href="/book.min.5db6a0752f48948ec457fed7a628ff46594498ebb2f3b8ee2a88d7d5648bf65b.css" integrity="sha256-XbagdS9IlI7EV/7Xpij/RllEmOuy87juKojX1WSL9ls=" crossorigin="anonymous">
+  <script defer src="/flexsearch.min.js"></script>
+  <script defer src="/en.search.min.2d2d2c4a295cb5f1cf76f03b28647b010c188145049711c09e7ed13e7f70a359.js" integrity="sha256-LS0sSilctfHPdvA7KGR7AQwYgUUElxHAnn7RPn9wo1k=" crossorigin="anonymous"></script>
+
+  <script defer src="/sw.min.6f6f90fcb8eb1c49ec389838e6b801d0de19430b8e516902f8d75c3c8bd98739.js" integrity="sha256-b2&#43;Q/LjrHEnsOJg45rgB0N4ZQwuOUWkC&#43;NdcPIvZhzk=" crossorigin="anonymous"></script>
+<!--
+Made with Book Theme
+https://github.com/alex-shpak/hugo-book
+-->
+  
+</head>
+
+<body id="Prototyping iOS And Android Apps With Sketch" dir="ltr">
+  <input type="checkbox" class="hidden toggle" id="menu-control" />
+  <input type="checkbox" class="hidden toggle" id="toc-control" />
+  <main class="container flex">
+    <aside class="book-menu">
+      <div class="book-menu-content">
+        
+  <nav>
+<h2 class="book-brand">
+  <a class="flex align-center" href="/">
+  <img class="site-brand" src="/skull.svg">
+    <span class="site-title">Joshua Graves</span>
+  </a>
+</h2>
+
+
+<div class="book-search">
+  <input type="text" id="book-search-input" placeholder="Search" aria-label="Search" maxlength="64" data-hotkeys="s/" />
+  <div class="book-search-spinner hidden"></div>
+  <ul id="book-search-results"></ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+  <ul>
+<li><a href="/personal"><strong>Personal Sphere</strong></a>
+<ul>
+<li><a href="/art">Visual Art</a></li>
+<li><a href="/tinkering">Tinkering</a></li>
+<li><a href="/journal">Journal</a></li>
+<li><a href="/photos">Photos</a></li>
+<li><a href="/media">Media Diary</a></li>
+<li><a href="/log">Log</a></li>
+</ul>
+</li>
+<li><a href="/professional"><strong>Professional Sphere</strong></a>
+<ul>
+<li><a href="/we-need-to-talk">We Need to Talk</a></li>
+<li><a href="/portfolio">Portfolio</a></li>
+<li><a href="/tools">Tools for Designers &amp; Leaders</a></li>
+<li><a href="/work-with-me">Work With Me</a></li>
+</ul>
+</li>
+<li><a href="/about"><strong>About &amp; More</strong></a>
+<ul>
+<li><a href="/about/me">Joshua Graves</a></li>
+<li><a href="/about/digital-gardening">Digital Gardening</a></li>
+<li><a href="/bookmarks">Bookmarks</a></li>
+</ul>
+</li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+</nav>
+
+
+
+
+  <script>(function(){var e=document.querySelector("aside .book-menu-content");addEventListener("beforeunload",function(){localStorage.setItem("menu.scrollTop",e.scrollTop)}),e.scrollTop=localStorage.getItem("menu.scrollTop")})()</script>
+
+
+ 
+      </div>
+    </aside>
+
+    <div class="book-page">
+      <header class="book-header">
+        
+  <div class="flex align-center justify-between">
+  <label for="menu-control">
+    <img src="/svg/menu.svg" class="book-icon" alt="Menu" />
+  </label>
+
+  
+
+  <label for="toc-control">
+    
+    <img src="/svg/toc.svg" class="book-icon" alt="Table of Contents" />
+    
+  </label>
+</div>
+
+
+  
+  <aside class="hidden clearfix">
+    
+<h5 class="post-date">On This Page</h5>
+<nav id="TableOfContents">
+  <ul>
+    <li><a href="#why-prototype">Why Prototype?</a></li>
+    <li><a href="#the-sketch-blueprint-file">The Sketch Blueprint File</a></li>
+    <li><a href="#how-i-organize-my-sketch-app-files">How I Organize My Sketch App Files</a></li>
+    <li><a href="#exporting-into-my-prototyping-tool-of-choice">Exporting Into My Prototyping Tool Of Choice</a></li>
+    <li><a href="#some-handy-tips-and-tricks">Some Handy Tips And Tricks</a></li>
+    <li><a href="#other-prototyping-tools">Other Prototyping Tools</a></li>
+    <li><a href="#conclusion">Conclusion</a></li>
+    <li><a href="#further-reading">Further Reading</a></li>
+  </ul>
+</nav>
+
+
+
+  </aside>
+  
+ 
+      </header>
+
+  
+
+      
+
+      
+      
+
+      
+
+
+    
+        <h5 class="post-date"><a href="/tools/">← Back</a></h5>
+    
+
+
+<h1 class="page-title journal-title">
+Prototyping iOS And Android Apps With Sketch
+</h1>
+<article class="markdown book-post">
+  <p class="main-summary">I designed a lot of mobile apps in the 2010s, here&rsquo;s how I did it with Sketch.
+  </p>
+  
+  
+
+  
+  
+
+
+
+<p>After the untimely (and still kind of sad) <a href="https://www.smashingmagazine.com/2013/12/19/present-future-adobe-fireworks/">demise of Fireworks</a>, I found myself looking for other ways to design apps and websites. I also had the desire to produce something more interactive for when I talk about my work with stakeholders. It turned out that <a href="https://bohemiancoding.com/sketch/">Sketch</a>, when paired with some other neat tools, would be a big part of this workflow.</p>
+<p>In this article, I’ll talk you through why you should prototype and how you can do it with Sketch and prototyping tools such as Flinto and InVision. You’ll also get a nicely documented freebie Sketch file to help you.</p>
+<ul>
+<li><a href="https://www.smashingmagazine.com/sketch-handbook/">Getting The Sketch Workflow Right: Meet “The Sketch Handbook”</a></li>
+<li><a href="https://www.smashingmagazine.com/2015/05/sketch-with-material-design/">Sketch With Material Design</a></li>
+<li><a href="https://www.smashingmagazine.com/2015/04/using-sketch-for-responsive-web-design-case-study/">Using Sketch For Responsive Web Design (A Case Study)</a></li>
+</ul>
+<p>Before we get started, here are a few articles, in case you‘re curious about why I am using Sketch for UI design:</p>
+<ul>
+<li>“<a href="https://alistapart.com/blog/post/design-tools-for-todays-web">Design Tools for Today’s Web</a>,” <a href="https://twitter.com/acolangelo">Anthony Colangelo</a></li>
+<li>“<a href="https://medium.com/@ahow/fireworks-refugees-welcome-to-the-open-arms-of-sketch-3-3241b7f972af">Fireworks Refugees! Welcome to the Open Arms of Sketch 3</a>,” <a href="https://twitter.com/ahow">Adam Howell</a></li>
+<li>“<a href="https://medium.com/@jm_denis/discovering-sketch-25545f6cb161">Discovering Sketch</a>,” <a href="https://twitter.com/jm_denis">Jean-Marc Denis</a></li>
+</ul>
+<h2 id="why-prototype">
+  Why Prototype?
+  <a class="anchor" href="#why-prototype">#</a>
+</h2>
+<p>When it comes to showing an app’s design to a team, a client or a stakeholder, I’ve found that an ugly-but-functional prototype beats the static bitmap of one state of a screen that I’d get from Sketch, Photoshop or the like. I’ve found that communicating things like user flow and hierarchy is tougher in static mockups (especially when dealing with responsive websites, but that’s a topic for another day).</p>
+<p>Increasingly, animation is playing a stronger role in design. I like how <a href="https://twitter.com/vlh">Val Head</a> puts it in “All the Right Moves: Putting Your UIs in Motion” (emphasis mine):</p>
+<blockquote>
+<p>Motion has meaning in UX design</p>
+</blockquote>
+<p>Motion provides meaning and is also central to the functioning of all native mobile apps — and increasingly for the web as well (see “<a href="https://www.google.com/design/spec/material-design/introduction.html#introduction-principles">Material Design</a>” and the <a href="https://www.polymer-project.org/">Polymer</a> project from Google). So, it’s critical to prototype for and to show motion and animation for all digital design work, but especially for mobile apps.</p>
+<p><strong>Side note:</strong> You can create pretty robust interactive prototypes right in Adobe Fireworks, including <a href="https://www.smashingmagazine.com/2012/07/03/interactive-prototypes-timesavers-adobe-fireworks/">mobile prototypes</a>, <a href="https://www.smashingmagazine.com/2012/06/25/create-interactive-prototypes-with-adobe-fireworks/">web prototypes</a> and <a href="https://www.smashingmagazine.com/2013/01/11/ios-prototyping-with-tap-and-adobe-fireworks-part-1/">iOS prototypes</a>. However, since Fireworks won’t be further developed by Adobe, finding an alternative workflow was vital for me.</p>
+<p>I’ve tried several methods of showing mockups to clients. There are a ton of them, and so many look amazing. I ended up trying flat images, clickable PDF wireframes and even prototypes built in <a href="https://en.wikipedia.org/wiki/Interface_Builder">Interface Builder</a>. Here’s how they worked out:</p>
+<ul>
+<li>Flat images left people wondering how we’d ever get to SuperAmazingFeature 3000™. This surely wasn’t the right way to go.</li>
+<li>Clickable PDF wireframes upset the scale of our designs by fitting the PDF to whatever size my screen was — clearly, not the right way, either. (There is a way in Adobe Acrobat to specify the zoom level of a page that is the destination of a link within a PDF file so that all pages have a consistent zoom level. But if you do not create the links carefully, then you will need to manually change the zoom level and scroll point on the destination page, because Acrobat usually sets the zoom level for each page to maximize the view of that page, and app screens and web pages often have different lengths and will be displayed at different zoom levels.)</li>
+<li>Interface Builder (part of <a href="https://developer.apple.com/xcode/">Xcode</a>) is fun, although it comes with a considerable learning curve and investment of time compared to the others. Not everyone designs on Mac OS X or for iOS, either.</li>
+</ul>
+<p>While things built in Interface Builder showed animations, neither flat images nor clickable PDFs did. That’s a bummer, because animation communicates what a flat image can’t: transitions, which are another critical part of good design. Here’s an example of why animation is key: That really cool alert you designed to slide up from the bottom of the screen will most likely get lost in a flat mockup. If you can show it animating in, you’re more likely to get your point across to someone.</p>
+<p>It wasn’t until recently that I found a happy medium: building a wireframe kit and making interactive prototypes in services such as <a href="https://www.flinto.com/">Flinto</a> and <a href="https://www.invisionapp.com/">InVision</a>. I’ve been able to create designs that people view in context, on their devices and on their time. I’ve found that context is important: Showing a screenshot of a mobile app on someone’s computer invites confusion, and we generally want to avoid that.</p>
+<p>Flinto has a 30-day trial, while InVision offers a free tier that works with one project. Both have paid plans with more features.</p>
+<p>In keeping with the idea of staying lean, I adapted a wireframe kit for iOS (I’m still working on the Android bit!), so that people can focus on structure rather than pixels. I did get a couple of folks asking if that’s how the app would look, but most understood the concept pretty well. I use the metaphor of building a house: Wireframes are the foundation of the house, and painting and moving in the furniture come after we’ve ordered everything just right.</p>
+<p>Let’s talk a little about the freebie Sketch file next.</p>
+<h2 id="the-sketch-blueprint-file">
+  The Sketch Blueprint File
+  <a class="anchor" href="#the-sketch-blueprint-file">#</a>
+</h2>
+<p>The <code>iOS 7 Blueprint.sketch</code> template file is free to use (I put it under the MIT license), and is intended to help you focus on making interactive prototypes.</p>
+<ul>
+<li><a href="https://github.com/joshuamauldin/sketch-blueprint/archive/master.zip">Sketch Blueprint</a> (ZIP file, 1.5 MB)</li>
+<li><a href="https://github.com/joshuamauldin/sketch-blueprint">Sketch Blueprint</a>, GitHub</li>
+</ul>
+<p>Please note that the template requires Sketch version 3.1+. (The folks at Bohemian Coding changed Sketch’s file format in that version, and versions older than 3.1 won’t be able to open the file correctly.)</p>
+<p>I’ve included several elements to get you started:</p>
+<ul>
+<li>tab bar,</li>
+<li>menu bar,</li>
+<li>segmented controller,</li>
+<li>search bar,</li>
+<li>tables (with and without icons),</li>
+<li>images of varying proportions,</li>
+<li>alerts,</li>
+<li>various buttons and icons.</li>
+</ul>
+<p>You’ll also find linked color and text styles, so you can color and style it as you see fit.</p>
+<p>The Sketch file has even been updated for the latest iPhones, 6 and 6 Plus, so it should be up to date as of the publication of this article.</p>
+<p>I thought about what the color scheme could be and considered reverting to a grayscale gamma, but that felt too flat to me. Then, I thought more about <a href="https://www.smashingmagazine.com/2014/10/09/front-end-development-ode-to-specifications/">blueprints</a> and how I use that metaphor when talking about building designs, and I decided to go with the monochromatic blue palette.</p>
+<p><strong>Note:</strong> You can also download the sample <a href="https://smashingmagazine.com/provide/Prototyping-iOS-and-Android-Apps-with-Sketch-Freebie-prototype.sketch">Sketch Blueprint file</a> that I used to build the demo prototype shown in this article, complete with pages and artboards and ready for exporting. You may wonder why I have two Sketch files? My plan is to regularly update the <a href="https://github.com/joshuamauldin/sketch-blueprint">GitHub-hosted Sketch Blueprint</a> file for new mobile devices, and I’m providing the other file in the hope that it is useful to you (although I won’t be maintaining it after this article is published), because you could learn more from it about pages and artboards and how to set up slices for easy image exporting.</p>
+<h2 id="how-i-organize-my-sketch-app-files">
+  How I Organize My Sketch App Files
+  <a class="anchor" href="#how-i-organize-my-sketch-app-files">#</a>
+</h2>
+<p>I use a separate <strong>page</strong> in Sketch for each section. Let’s say we’re talking about a log-in screen. I’ll give each variation of the log-in screen (registration, lost password, incorrect password, etc.) its own <strong>artboard</strong>. If I’m making an app that requires a log-in or sign-up process, I’ll put the log-in view on its own page with each state (like showing registration and error states).</p>
+<p>Speaking of all of those views, you’ll find it helpful to name your artboards, especially when you export them. Your naming conventions will probably vary, and maybe your team already has one. If not, here’s how I name my pages and artboards, by following a <em>page name – artboard name</em> convention.</p>
+<ul>
+<li>Log In – Main</li>
+<li>Log In – Sign Up</li>
+<li>Log In – Forgot Password</li>
+<li>Log In – Error</li>
+</ul>
+<p>I try to use <strong>symbols</strong> for repeating elements such as menu bars, images and icons when designing these views. It makes life easier because I can change a symbol once and see its instances update everywhere.</p>
+<p><strong>Note:</strong> Are you new to Sketch? Learn the basics of <a href="https://bohemiancoding.com/sketch/support/documentation/09-grouping/2-artboards.html">artboards</a>, <a href="https://bohemiancoding.com/sketch/support/documentation/03-layer-basics/">layers</a>, <a href="https://bohemiancoding.com/sketch/support/documentation/09-grouping/3-pages.html">pages</a>, <a href="https://bohemiancoding.com/sketch/support/documentation/09-grouping/1-groups.html">groups</a>, <a href="https://bohemiancoding.com/sketch/support/documentation/07-symbols/">symbols</a> and <a href="https://bohemiancoding.com/sketch/support/documentation/08-styling/8-shared-styles.html">styles</a> (resources that are part of the <a href="https://bohemiancoding.com/sketch/support/documentation/">official documentation</a>).</p>
+<p>Sketch also lets you do this with colors, buttons and text styles, which is neat. I can create one style for headlines, body copy and subheadings that will link throughout every other screen in the document. If I change the color in one spot, every other element that shares the style will be updated. Not having to make the same update manually in 20 other places is nice.</p>
+<p><strong>Note:</strong> I’ll draw a quick parallel with Adobe Fireworks. Symbols and styles in Sketch work similarly to the way they do in Fireworks, so the concept should be easy to understand. This topic has been covered in depth in the following articles on Smashing Magazine:</p>
+<ul>
+<li>“<a href="https://www.smashingmagazine.com/2014/04/28/collaborating-with-adobe-fireworks-on-large-design-teams/">Collaborating With Adobe Fireworks on Large Design Teams</a>,” Dan Nisbet</li>
+<li>“<a href="https://www.smashingmagazine.com/2014/02/17/effective-style-guides-with-adobe-fireworks/">How to Make an Effective Style Guide With Adobe Fireworks</a>,” Joshua Mauldin</li>
+<li>“<a href="https://www.smashingmagazine.com/2013/01/11/ios-prototyping-with-tap-and-adobe-fireworks-part-1/">iOS Prototyping With TAP and Adobe Fireworks</a>,” Shlomo Goltz</li>
+<li>“<a href="https://www.smashingmagazine.com/2012/10/12/adobe-fireworks-enterprise/">Useful Fireworks Techniques and Features for Large Design Teams</a>,” Kris Niles</li>
+</ul>
+<p>Fireworks doesn’t have the artboards feature, but it does have pages just like Sketch. So, moving from one app to the other shouldn’t be very hard for experienced Fireworks users.</p>
+<p>Also, note that symbols in Sketch aren’t 100% the same as they are in Adobe Fireworks. Fireworks has both symbols and <a href="https://www.adobe.com/devnet/fireworks/articles/enhancing_rich_symbols.html">rich symbols</a>. Rich symbols in Fireworks allow a symbol’s instance properties to be edited independently — this means that you can make changes to the <em>instances</em> of a rich symbol without affecting the <em>master</em> symbol. This is a very useful feature for designing user interfaces — think of a button with multiple states, for example, or a text label that you can edit without affecting the design of the UI element itself.</p>
+<p>Sketch, on the other hand, doesn’t have the concept of <em>states</em> inside a symbol (yet), so be cautious if you’re trying to make a button with multiple states; in this case, breaking your active and inactive states into separate symbols is probably best.</p>
+<h2 id="exporting-into-my-prototyping-tool-of-choice">
+  Exporting Into My Prototyping Tool Of Choice
+  <a class="anchor" href="#exporting-into-my-prototyping-tool-of-choice">#</a>
+</h2>
+<p>For this example, I’ll use <a href="https://www.flinto.com/">Flinto</a>. It isn’t the only option out there (I’ll review a few other prototyping solutions later in the article), but it sure is simple. And super-speedy, too.</p>
+<p>Using <a href="https://bohemiancoding.com/sketch/support/documentation/11-exporting/2-slices.html">slices</a> in Sketch is easy, and you can export everything as a webp or JPG to the desktop and drag those files right into Flinto. (Alternatively, you can click on your artboard’s name on the canvas and choose “Make Exportable,” define the export optimization settings and export the images.)</p>
+<p>Linking the exported images together in Flinto is easy, as is keeping parts fixed to the top or bottom of the window; for example, you can place a fixed menu bar at the top and a toolbar at the bottom. More on that in a moment.</p>
+<p>When I’m finished with my design, I’ll create a new project in Flinto and use the iPhone 6 Plus with a white transparent menu bar. In our case, I’ve been dragging my files from the desktop in the order that I want them presented. I’ll make my menu bar fixed, as well as the tab bar.</p>
+<p>If you need, you can also fix elements to the top and bottom of the page. Just drag these icons down to your desired placement.</p>
+<p>Flinto will create an interactive prototype in HTML, CSS and JavaScript. You’ll receive a link via email or SMS to add it to your device’s home screen, and it will look and feel like a real app. Flinto allows you to have the standard transitions of iOS and Android (iOS has a few more than Android does at this point, but they’re all there!). Flinto doen’t support Windows Phone, though.</p>
+<p>This is awesome because it lets designers who might not have experience with Xcode or responsive frameworks such as Twitter’s <a href="https://getbootstrap.com/">Bootstrap</a> or Zurb’s <a href="https://foundation.zurb.com/">Foundation</a> to communicate their ideas and user flows more clearly than by sharing a simple flat image.</p>
+<p>If you’re making a responsive website, you could argue that getting into HTML is the way to go, and I wouldn’t necessarily disagree. It’s up to you to find out the right approach for your project and team.</p>
+<h2 id="some-handy-tips-and-tricks">
+  Some Handy Tips And Tricks
+  <a class="anchor" href="#some-handy-tips-and-tricks">#</a>
+</h2>
+<p>You can show screens for a certain amount of time, like you would an alert or tooltip. This is helpful if you want to show an alert view that pops up for a short amount of time.</p>
+<p>Flinto also lets you duplicate links from one screen to another, which is super-helpful. Just drag the hotspot that you made on one screen on top of the next. Voilà!</p>
+<p>Before looking at our prototype, let’s take a peek at the workspace. You should see some of the things we discussed, like where the fixed menu bars and tab bars live, as well as how the link groups look.</p>
+<p>Now for the fun part: previewing! Let’s give it a shot. Here’s a <a href="https://vimeo.com/114618884">screen recording</a> of what it looks like on my iPhone:</p>
+<p><a href="https://vimeo.com/114618884">https://vimeo.com/114618884</a></p>
+<p>Hey, that looks pretty nice! We’re ready to show it to other people and get feedback to move forward.</p>
+<p>One other neat thing is that you don’t have to create a new project once you’re ready to add more design elements — you can keep building it up and changing it as the design evolves. If you’re using the same Sketch file, then you’ll be able to replace the images in your current prototype with higher-fidelity ones; export those artboards from Sketch and drag them into the editor. And if you want to keep it, you could simply duplicate your current project by going to “Settings” → “Actions” → “Duplicate This Prototype.”</p>
+<h2 id="other-prototyping-tools">
+  Other Prototyping Tools
+  <a class="anchor" href="#other-prototyping-tools">#</a>
+</h2>
+<p>I mentioned earlier that Flinto isn’t the only prototyping service on the market. In fact, there are too many of them! Before I settled on my Sketch and Flinto workflow, I explored a few alternatives.</p>
+<p>There’s <a href="https://invisionapp.com/">InVision</a>, which is absolutely lovely. You can prototype a design in a similar way to Flinto, from phone-sized all the way up to desktop-sized. It has a free tier (Yay!), and it offers <a href="https://www.invisionapp.com/new-features/28/invision-now-supports-sketch-files-high-fives">native support for Sketch files</a>. It also offers gesture support, so you can show people what happens when a user swipes through to the next screen. You can also have fixed headers and footers and a web app that users can install on their devices. It’s pretty neat.</p>
+<p>Another thing I enjoy about InVision is that you can add comments directly on a design, so there’s no confusion about whom feedback is coming from.</p>
+<p>I recently also looked closely into one other tool, <a href="https://pixate.com/">Pixate</a>, which is made specifically for iOS and Android apps. It gives you a lot more control over animation and gestures. I like it because it allows a designer to show more realistic interactions than Flinto or InVision. Say you have a table that you’d like to scroll horizontally, but you want the rest of the screen to remain static. Pixate lets you get that deep when creating the prototype, which is neat. (A terrific demo video that you should watch is on its website.)</p>
+<p>There’s also the good old <a href="https://developer.apple.com/xcode/interface-builder/">Interface Builder</a>. It’s part of Xcode (a Mac-only tool), and it allows you to prototype iOS apps — as well as <a href="https://www.apple.com/watch/">Apple Watch</a> apps as a matter of fact (but that’s a discussion for another time). Interface Builder has got a considerably steeper learning curve, but it will produce higher-quality results than Flinto and InVision. Keep in mind that Interface Builder will make an app prototype that runs directly on an iOS device.</p>
+<p>If you need to prototype for iOS specifically, you could also use <strong><a href="https://keynotopia.com/guides/">Keynote</a></strong>, because it includes nearly all of the native transitions and animations in iOS, and it’s easy to drop in bitmap images and some live text to create something that behaves like your intended design. Its limitation is that it can make prototypes only for iOS (no Android or Windows Phone support).</p>
+<p>It’s worth noting here that most of these prototyping tools require the use of flat images and/or slices, and they do not generate any code or framework for a responsive website. The prototypes they create have certain limitations and are intended for discussion only (although Interface Builder could be taken a little further in making an app).</p>
+<p>Here’s a table comparing some of the prototyping apps that I’ve tried and their features:</p>
+<table>
+<thead>
+<tr>
+<th>Product</th>
+<th>Ease of use</th>
+<th>Platforms</th>
+<th>Animation support</th>
+<th>Gesture support</th>
+<th>Comments</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Interface Builder</td>
+<td>Difficult</td>
+<td>iOS</td>
+<td>OS, custom</td>
+<td>Yes</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Flinto</td>
+<td>Easy</td>
+<td>iOS, Android</td>
+<td>OS</td>
+<td>No</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Pixate</td>
+<td>Moderate</td>
+<td>iOS, Android</td>
+<td>OS, custom</td>
+<td>Yes</td>
+<td>No</td>
+</tr>
+<tr>
+<td>InVision</td>
+<td>Easy</td>
+<td>iOS, Android, web</td>
+<td>OS</td>
+<td>Yes</td>
+<td>Yes</td>
+</tr>
+</tbody>
+</table>
+<h2 id="conclusion">
+  Conclusion
+  <a class="anchor" href="#conclusion">#</a>
+</h2>
+<p>I hope this article has persuaded you to start experimenting with prototypes (if you haven’t already). Something <strong>interactive</strong> will almost always communicate more than a <strong>picture</strong> ever could, and you’ll have better conversations because of it. On the other hand, Sketch is an excellent UI design tool, lightweight and quite powerful, and it works great with Flinto, InVision and the like because they live in the borderlands of flat images and HTML or native code; this approach lets you whip up something to discuss in minutes. Prototyping services like these are lightweight enough to help you if you can’t code a prototype yourself.</p>
+<p>If you have questions, let me know in the comments!</p>
+<h2 id="further-reading">
+  Further Reading
+  <a class="anchor" href="#further-reading">#</a>
+</h2>
+<ul>
+<li>“<a href="https://uxdesign.cc/ux-tools/">UX Tools</a>,” User Experience Design Resources Some great resources on prototyping options.</li>
+<li><a href="https://prototypingtools.co/">Prototyping Tools</a> A detailed list of prototyping tools for web and mobile, maintained by <a href="https://twitter.com/millonestarde">Javier Cuello</a>.</li>
+<li>“<a href="https://blog.mengto.com/quick-ios-prototyping-flinto/">Quick iOS Prototyping in Flinto</a>,” <a href="https://twitter.com/mengto">Meng To</a> A decent exploration of how to get prototyping in short order with Flinto. It even has classic iOS 6-style designs. (Ahh, nostalgia!)</li>
+<li>“<a href="https://viget.com/inspire/prototyping-mobile-animations-with-pixate">Prototyping Mobile Animations With Pixate</a>,” Kate Studwell, Viget A good writeup on how to use Pixate.</li>
+<li>“<a href="https://blog.invisionapp.com/11-tips-for-prototyping-with-sketch/">11 Tips for Prototyping With Sketch</a>,” Andy Orsow A list of excellent tips on how to optimally use Sketch for prototyping.</li>
+<li>“<a href="https://www.smashingmagazine.com/2012/07/03/interactive-prototypes-timesavers-adobe-fireworks/">Interactive Prototypes and Time-Savers With Adobe Fireworks</a>,” Trevor Kay, Smashing Magazine This tutorial explains how to easily set up Fireworks to create live prototypes. (And if you need it for iOS prototyping, <a href="https://www.smashingmagazine.com/2013/01/11/ios-prototyping-with-tap-and-adobe-fireworks-part-1/">I’ve got you covered</a>!)</li>
+<li><a href="https://keynotopia.com/guides/">Creating Interactive Prototypes With Keynote</a>, Keynotopia A pretty detailed guide about how to use Keynote for iOS prototyping.</li>
+</ul>
+<p><a href="https://www.smashingmagazine.com/2015/01/prototyping-ios-android-apps-sketch-freebie/">Original post</a></p>
+</article>
+
+<div class="page-nav">
+    <h5 class="post-date">More</h5>
+    <ul class="pagination">
+        
+        <li class="page-item">
+            <a href="/tools/articles/awesomegifs/" class="next">⇡ Requiem for a side project, quitting AwesomeGIFs </a>
+        </li>
+        
+        
+        <li class="page-item">
+            <a href="/tools/articles/designers-and-engineers/" class="prev">⇣ Spock, Kirk, and the ideal designer/engineer relationship</a>
+        </li>
+        
+        
+    </ul>
+</div>
+ 
+      
+
+      <footer class="book-footer">
+        
+  <ul class="meta">
+
+
+  <li class="meta-update">Updated & © September 27, 2023</li> 
+  </ul>
+
+<ul class="meta">
+  <li class="bottomline"><a href="http://hooray.computer/@josh" title="Find me on Mastodon">Mastodon</a></li>
+  <li class="bottomline"><a href="http://instagram.com/_thejoshuary/" title="Find me on Instagram">Instagram</a></li>
+  <li class="bottomline"><a class="meta-rss" href="/index.xml">RSS</a></li>
+
+</ul>
+
+
+
+  <script>(function(){function e(e){const t=window.getSelection(),n=document.createRange();n.selectNodeContents(e),t.removeAllRanges(),t.addRange(n)}document.querySelectorAll("pre code").forEach(t=>{t.addEventListener("click",function(){if(window.getSelection().toString())return;e(t.parentElement),navigator.clipboard&&navigator.clipboard.writeText(t.parentElement.textContent)})})})()</script>
+
+
+
+ 
+        
+      </footer>
+
+
+      <label for="menu-control" class="hidden book-menu-overlay"></label>
+    </div>
+
+    
+    <aside class="book-toc">
+      <div class="book-toc-content">
+        
+<h5 class="post-date">On This Page</h5>
+<nav id="TableOfContents">
+  <ul>
+    <li><a href="#why-prototype">Why Prototype?</a></li>
+    <li><a href="#the-sketch-blueprint-file">The Sketch Blueprint File</a></li>
+    <li><a href="#how-i-organize-my-sketch-app-files">How I Organize My Sketch App Files</a></li>
+    <li><a href="#exporting-into-my-prototyping-tool-of-choice">Exporting Into My Prototyping Tool Of Choice</a></li>
+    <li><a href="#some-handy-tips-and-tricks">Some Handy Tips And Tricks</a></li>
+    <li><a href="#other-prototyping-tools">Other Prototyping Tools</a></li>
+    <li><a href="#conclusion">Conclusion</a></li>
+    <li><a href="#further-reading">Further Reading</a></li>
+  </ul>
+</nav>
+
+
+ 
+      </div>
+    </aside>
+    
+  </main>
+
+  <script>
+if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+    document.querySelector('meta[name="theme-color"]').setAttribute("content", "#000000");  
+} else {
+    document.querySelector('meta[name="theme-color"]').setAttribute("content", "#FFFCFA");  
+}
+
+</script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+

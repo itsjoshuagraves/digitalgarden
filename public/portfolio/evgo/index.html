@@ -1,0 +1,337 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Designing a cross-platform mobile app and design system for EV charging.">
+<meta name="color-scheme" content="light dark">
+<meta name="theme-color" content=""><meta property="og:url" content="http://localhost:1313/portfolio/evgo/">
+  <meta property="og:site_name" content="Joshua Graves">
+  <meta property="og:title" content="EVgo">
+  <meta property="og:description" content="Designing a cross-platform mobile app and design system for EV charging.">
+  <meta property="og:locale" content="en">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="portfolio">
+    <meta property="article:published_time" content="2020-03-02T00:00:00+00:00">
+    <meta property="article:modified_time" content="2023-09-16T12:31:20-07:00">
+    <meta property="article:tag" content="Product Design">
+    <meta property="article:tag" content="Android">
+    <meta property="article:tag" content="IOS">
+<title>EVgo | Joshua Graves</title>
+<link rel="manifest" href="/manifest.json">
+<link rel="icon" href="/favicon.png" type="image/x-icon">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="stylesheet" href="/book.min.5db6a0752f48948ec457fed7a628ff46594498ebb2f3b8ee2a88d7d5648bf65b.css" integrity="sha256-XbagdS9IlI7EV/7Xpij/RllEmOuy87juKojX1WSL9ls=" crossorigin="anonymous">
+  <script defer src="/flexsearch.min.js"></script>
+  <script defer src="/en.search.min.2d2d2c4a295cb5f1cf76f03b28647b010c188145049711c09e7ed13e7f70a359.js" integrity="sha256-LS0sSilctfHPdvA7KGR7AQwYgUUElxHAnn7RPn9wo1k=" crossorigin="anonymous"></script>
+
+  <script defer src="/sw.min.6f6f90fcb8eb1c49ec389838e6b801d0de19430b8e516902f8d75c3c8bd98739.js" integrity="sha256-b2&#43;Q/LjrHEnsOJg45rgB0N4ZQwuOUWkC&#43;NdcPIvZhzk=" crossorigin="anonymous"></script>
+<!--
+Made with Book Theme
+https://github.com/alex-shpak/hugo-book
+-->
+  
+</head>
+
+<body id="EVgo" dir="ltr">
+  <input type="checkbox" class="hidden toggle" id="menu-control" />
+  <input type="checkbox" class="hidden toggle" id="toc-control" />
+  <main class="container flex">
+    <aside class="book-menu">
+      <div class="book-menu-content">
+        
+  <nav>
+<h2 class="book-brand">
+  <a class="flex align-center" href="/">
+  <img class="site-brand" src="/skull.svg">
+    <span class="site-title">Joshua Graves</span>
+  </a>
+</h2>
+
+
+<div class="book-search">
+  <input type="text" id="book-search-input" placeholder="Search" aria-label="Search" maxlength="64" data-hotkeys="s/" />
+  <div class="book-search-spinner hidden"></div>
+  <ul id="book-search-results"></ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+  <ul>
+<li><a href="/personal"><strong>Personal Sphere</strong></a>
+<ul>
+<li><a href="/art">Visual Art</a></li>
+<li><a href="/tinkering">Tinkering</a></li>
+<li><a href="/journal">Journal</a></li>
+<li><a href="/photos">Photos</a></li>
+<li><a href="/media">Media Diary</a></li>
+<li><a href="/log">Log</a></li>
+</ul>
+</li>
+<li><a href="/professional"><strong>Professional Sphere</strong></a>
+<ul>
+<li><a href="/we-need-to-talk">We Need to Talk</a></li>
+<li><a href="/portfolio">Portfolio</a></li>
+<li><a href="/tools">Tools for Designers &amp; Leaders</a></li>
+<li><a href="/work-with-me">Work With Me</a></li>
+</ul>
+</li>
+<li><a href="/about"><strong>About &amp; More</strong></a>
+<ul>
+<li><a href="/about/me">Joshua Graves</a></li>
+<li><a href="/about/digital-gardening">Digital Gardening</a></li>
+<li><a href="/bookmarks">Bookmarks</a></li>
+</ul>
+</li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+</nav>
+
+
+
+
+  <script>(function(){var e=document.querySelector("aside .book-menu-content");addEventListener("beforeunload",function(){localStorage.setItem("menu.scrollTop",e.scrollTop)}),e.scrollTop=localStorage.getItem("menu.scrollTop")})()</script>
+
+
+ 
+      </div>
+    </aside>
+
+    <div class="book-page">
+      <header class="book-header">
+        
+  <div class="flex align-center justify-between">
+  <label for="menu-control">
+    <img src="/svg/menu.svg" class="book-icon" alt="Menu" />
+  </label>
+
+  
+
+  <label for="toc-control">
+    
+    <img src="/svg/toc.svg" class="book-icon" alt="Table of Contents" />
+    
+  </label>
+</div>
+
+
+  
+  <aside class="hidden clearfix">
+    
+<h5 class="post-date">On This Page</h5>
+<nav id="TableOfContents">
+  <ul>
+    <li><a href="#role">Role</a></li>
+    <li><a href="#challenge">Challenge</a>
+      <ul>
+        <li><a href="#reduce-range-anxiety-and-safety-issues">Reduce “Range Anxiety” and Safety Issues</a></li>
+        <li><a href="#create-clarity-on-chargers">Create Clarity on Chargers</a></li>
+        <li><a href="#create-a-scalable-design-system-and-workflow">Create a Scalable Design System and Workflow</a></li>
+      </ul>
+    </li>
+    <li><a href="#results">Results</a></li>
+  </ul>
+</nav>
+
+
+
+  </aside>
+  
+ 
+      </header>
+
+  
+
+      
+
+      
+      
+
+      
+<h5 class="post-date"><a href="/portfolio/">← Back</a></h5>
+<h1 class="page-title journal-title">
+EVgo
+</h1>
+<article class="markdown book-post">
+  <p class="main-summary">Designing a cross-platform mobile app and design system for EV charging.
+  </p>
+  
+  
+
+  
+  
+
+
+
+<p>
+  
+    <img src=/portfolio/evgo/evgo.webp />
+  
+</p>
+
+<h2 id="role">
+  Role
+  <a class="anchor" href="#role">#</a>
+</h2>
+<p>In 2019 at Artium, I helped EVgo gain the capability to design and manage the production of their own mobile apps. I led the design side of this engagement, enabling one of their designers to do the work along the way. I also collaborated with product managers and engineers on both Artium and EVgo’s side. Our goal was to launch and iterate on both apps to ensure their product was the best it could be.</p>
+<h2 id="challenge">
+  Challenge
+  <a class="anchor" href="#challenge">#</a>
+</h2>
+<p>The challenge was interesting: help a team that has never designed for mobile create a seamless cross-platform mobile app that interfaces with EVGo’s chargers. Additionally, EVgo’s current app caused the customer support team lots of headaches. (We sat right next to them and heard first-hand). Their App Store reviews reflected this, too.</p>
+<p>Coming into the situation, the first thing we did was begin to gather context and learn from users so that we could form a solid plan. I and the team sat with EVgo&rsquo;s customer support staff, who bore the brunt of complaints, and began conducting structured user interviews. We noticed a few issues: range anxiety with drivers, ambiguity around which types chargers are available where, and no discernible design system behind EVgo’s efforts.</p>
+<h3 id="reduce-range-anxiety-and-safety-issues">
+  Reduce “Range Anxiety” and Safety Issues
+  <a class="anchor" href="#reduce-range-anxiety-and-safety-issues">#</a>
+</h3>
+<p><figure>
+    <img src="evgo-maps.webp" alt="Maps showed the nearest chargers with availability." />
+<figcaption>Maps showed the nearest chargers with availability.</figcaption>
+  </figure></p>
+<p>EV batteries don’t always have the best range. And chargers aren’t always easy to find or are nearby. An EV driver needs to plan their route with more care than drivers of  gas-powered cars. EVgo wanted to show all chargers available to the user, even ones outside of their own network.</p>
+<p>My discussions and interviews with both EVgo&rsquo;s customer support team and their users showed that finding chargers is difficult enough, but I discovered some charging locations left drivers feeling unsafe. I worked with the team and implemented a review system and custom directions to chargers. directions were especially helpful in malls or parking decks where chargers may be tricky to find. The customer support team already spent a lot of time helping drivers with this problem.</p>
+<p>Another issue was the tendency of other EV drivers to overstay their allotted time at a charging station, preventing someone who needed a charge from getting one. After researching this with users, I devised and tested a notification system to alert drivers who may have parked in error, as well as alerts when a driver&rsquo;s charge was almost complete. (We explored messaging other drivers, but decided against that, as it could lead to more frustration and potential harassment.)</p>
+<p>The final issue was availability. Some drivers drove to an open charger only to find it’s in use. This increased range anxiety. After working through a few ideas, I and the team implemented a reservation system. To prevent users from gaming the system and reserving multiple spots at once, we let drivers reserve one charging spot at a time and gave them a 10 minute grace period to arrive. After that, the network releases the reservation.</p>
+<h3 id="create-clarity-on-chargers">
+  Create Clarity on Chargers
+  <a class="anchor" href="#create-clarity-on-chargers">#</a>
+</h3>
+<p><figure>
+    <img src="evgo-filters.webp" alt="Filters made sure drivers never went to sites chargers that did not march their vehicles." />
+<figcaption>Filters made sure drivers never went to sites chargers that did not march their vehicles.</figcaption>
+  </figure></p>
+<p>I found that it wasn’t always clear what types of chargers fit which car, and drivers didn’t always know what type of charger they had. Every company had different names for their chargers. Additionally, not all charger types were available at every location.</p>
+<p>First, I ensured the app’s UI was crystal clear on which kinds of chargers were at what locations. I was a part of six design sessions on this issue, and it changed between the time I left and the app’s launch.</p>
+<p>Second, and because it’s difficult for drivers to keep in mind what kind of charger they have, our client contributed a stellar idea: this information can be derived from scanning a vehicle&rsquo;s VIN (vehicle identification number). After researching the possibilities, I recommended we include this during driver onboarding. This process identified the types of chargers a vehicle needed and hid incompatible chargers on the map.</p>
+<h3 id="create-a-scalable-design-system-and-workflow">
+  Create a Scalable Design System and Workflow
+  <a class="anchor" href="#create-a-scalable-design-system-and-workflow">#</a>
+</h3>
+<p><figure>
+    <img src="evgo-system.webp" alt="The design system was flexible and respectful of iOS and Android design patterns." />
+<figcaption>The design system was flexible and respectful of iOS and Android design patterns.</figcaption>
+  </figure></p>
+<p>I wanted EVgo to have a consistent experience for their drivers, so I and the other designers (including the ones who designed interfaces for the hardware) got together and harmonized the typefaces and general design patterns. While each type of charger model had some variations, we were able to find a good, consistent path forward that maintained consistency with the EVgo brand.</p>
+<p>I also built a design system for Figma. (The team liked cooking, so we called this the EVgo Cookbook). The Cookbook took into account EVgo’s unique need to give both iOS and Android users experiences that felt native to their operating system.</p>
+<p>To ensure we got the best results, we took a page from Extreme Programming and sat beside our engineers as they developed the app. Collaborating this way ensured what we had in Figma matched what the engineers could do.</p>
+<h2 id="results">
+  Results
+  <a class="anchor" href="#results">#</a>
+</h2>
+<p>One of the downsides of consulting is that you don’t always get to see things through to launch and beyond. While that was the plan, COVID changed things and I wasn&rsquo;t able to see that happen. I was, however, told that the team built a healthy culture of collaboration with PM and engineering and that they continue to build on the design system we created before I left.</p>
+</article>
+<div class="page-nav">
+    <h5 class="post-date">More</h5>
+    <ul class="pagination">
+        
+        <li class="page-item">
+            <a href="/portfolio/aperture-health/" class="next">⇡ Aperture Health </a>
+        </li>
+        
+
+        
+        <li class="page-item">
+            <a href="/portfolio/assembled-financial/" class="prev">⇣ Assembled Financial</a>
+        </li>
+        
+        
+    </ul>
+</div>
+ 
+      
+
+      <footer class="book-footer">
+        
+  <ul class="meta">
+
+
+  <li class="meta-update">Updated & © September 16, 2023</li> 
+  </ul>
+
+<ul class="meta">
+  <li class="bottomline"><a href="http://hooray.computer/@josh" title="Find me on Mastodon">Mastodon</a></li>
+  <li class="bottomline"><a href="http://instagram.com/_thejoshuary/" title="Find me on Instagram">Instagram</a></li>
+  <li class="bottomline"><a class="meta-rss" href="/index.xml">RSS</a></li>
+
+</ul>
+
+
+
+  <script>(function(){function e(e){const t=window.getSelection(),n=document.createRange();n.selectNodeContents(e),t.removeAllRanges(),t.addRange(n)}document.querySelectorAll("pre code").forEach(t=>{t.addEventListener("click",function(){if(window.getSelection().toString())return;e(t.parentElement),navigator.clipboard&&navigator.clipboard.writeText(t.parentElement.textContent)})})})()</script>
+
+
+
+ 
+        
+      </footer>
+
+
+      <label for="menu-control" class="hidden book-menu-overlay"></label>
+    </div>
+
+    
+    <aside class="book-toc">
+      <div class="book-toc-content">
+        
+<h5 class="post-date">On This Page</h5>
+<nav id="TableOfContents">
+  <ul>
+    <li><a href="#role">Role</a></li>
+    <li><a href="#challenge">Challenge</a>
+      <ul>
+        <li><a href="#reduce-range-anxiety-and-safety-issues">Reduce “Range Anxiety” and Safety Issues</a></li>
+        <li><a href="#create-clarity-on-chargers">Create Clarity on Chargers</a></li>
+        <li><a href="#create-a-scalable-design-system-and-workflow">Create a Scalable Design System and Workflow</a></li>
+      </ul>
+    </li>
+    <li><a href="#results">Results</a></li>
+  </ul>
+</nav>
+
+
+ 
+      </div>
+    </aside>
+    
+  </main>
+
+  <script>
+if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+    document.querySelector('meta[name="theme-color"]').setAttribute("content", "#000000");  
+} else {
+    document.querySelector('meta[name="theme-color"]').setAttribute("content", "#FFFCFA");  
+}
+
+</script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
