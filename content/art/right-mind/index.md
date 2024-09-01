@@ -10,5 +10,6 @@ summary: "Collage, typewriters, found imagery."
 {{< video "right-mind.mp4" >}}
 
 Lyrics: The Kills
-Words: Joshua Graves
+
+Art: Joshua Graves
 

@@ -4,14 +4,14 @@
   font-weight: 400;
   font-display: swap;
   src: local(''),
-       url('/fonts/Okkult-Black.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-       url('/fonts/Okkult-Black.eot') format('eot'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+       url('Okkult-Black.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('Okkult-Black.eot') format('eot'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 
 @font-face {
     font-family: 'pt_monoregular';
-    src: url('/fonts/ptmono-regular-webfont.woff2') format('woff2'),
-         url('/fonts/ptmono-regular-webfont.woff') format('woff');
+    src: url('ptmono-regular-webfont.woff2') format('woff2'),
+         url('ptmono-regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -20,8 +20,8 @@
 @font-face {
     font-family: 'Atlas Grotesk Web';
       src: local(''),
-      url('/fonts/AtlasGrotesk-Regular-Web.woff2') format('woff2'),
-      url('/fonts/AtlasGrotesk-Regular-Web.woff') format('woff');
+      url('AtlasGrotesk-Regular-Web.woff2') format('woff2'),
+      url('AtlasGrotesk-Regular-Web.woff') format('woff');
     font-weight: 400;
     font-style: normal;
     }
@@ -30,8 +30,8 @@
     font-family: 'Atlas Grotesk Web';
   font-display: swap;
   src: local(''),
-  url('/fonts/AtlasGrotesk-RegularItalic-Web.woff2') format('woff2'),
-  url('/fonts/AtlasGrotesk-RegularItalic-Web.woff') format('woff');
+  url('AtlasGrotesk-RegularItalic-Web.woff2') format('woff2'),
+  url('AtlasGrotesk-RegularItalic-Web.woff') format('woff');
     font-weight: 400;
     font-style: italic;
     }
@@ -39,17 +39,17 @@
 @font-face {
   font-display: swap;
     src: local(''),
-    url('/fonts/RoslindaleVariableDisplayNormal[slnt,wght].woff2') format("woff2"),
-    url('/fonts/RoslindaleVariableDisplayNormal[slnt,wght].woff') format("woff");
-  font-family: 'Roslindale Variable';
+    url('RoslindaleVariableDisplayNormal[slnt,wght].woff2') format("woff2"),
+    url('RoslindaleVariableDisplayNormal[slnt,wght].woff') format("woff");
+  font-family: 'Roslindale Variable Display';
   font-style: normal;
   font-weight: normal;
 }
 
 @font-face {
   font-display: swap;
-  src: url('/fonts/RoslindaleVariableText[slnt,wght].woff2') format("woff2"),
-       url('/fonts/RoslindaleVariableText[slnt,wght].woff') format("woff");
+  src: url('RoslindaleVariableText[slnt,wght].woff2') format("woff2"),
+       url('RoslindaleVariableText[slnt,wght].woff') format("woff");
   font-family: 'Roslindale Variable';
   font-style: normal;
   font-weight: normal;

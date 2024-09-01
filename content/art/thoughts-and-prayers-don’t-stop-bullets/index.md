@@ -4,8 +4,9 @@ tags: [Digital]
 date: 2019-01-01
 bookToc: false
 image: prayers-00001.webp
-summary: "Series. I started remixing this every time I saw a school shooting on the news. I ran out of ideas pretty quickly. :-("
+summary: "Series on gun violence."
 ---
+ I started remixing this every time I saw a school shooting on the news. I ran out of ideas pretty quickly. :-(
 
 ![](prayers-00002.webp)
 

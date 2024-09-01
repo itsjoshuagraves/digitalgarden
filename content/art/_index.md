@@ -1,6 +1,6 @@
 ---
 title: Visual Art
 type: docs
-summary: "Mixed media collages, glitch art and skulls. Lots of dark, yet hopeful themes exploring identity, loneliness, and memento moris."
+summary: "A collection of mixed media work with dark, yet hopeful themes that explore identity, loneliness, and memento moris."
 bookToc: false
 ---

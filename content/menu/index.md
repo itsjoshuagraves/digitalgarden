@@ -1,14 +1,14 @@
 ---
 headless: true
 ---
-- [**Personal Sphere**](/personal)
+- [**Personal**](/personal)
   - [Visual Art](/art)
   - [Tinkering](/tinkering)
   - [Journal](/journal)
   - [Photos](/photos)
   - [Media Diary](/media)
   - [Log](/log)
-- [**Professional Sphere**](/professional)
+- [**Professional**](/professional)
   - [We Need to Talk](/we-need-to-talk)
   - [Portfolio](/portfolio)
   - [Tools for Designers & Leaders](/tools)

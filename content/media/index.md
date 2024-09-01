@@ -12,7 +12,7 @@ summary: "I watch and read a lot. Here's some of it."
 
 Possession
 : Weirdest squid pro quo in cinematic history.
-
+---
 ## Best Soundtrack
 
 It Follows
@@ -20,6 +20,7 @@ It Follows
 
 A Girl Walks Home Alone at Night
 : If I've gotta die, I want it to be to this soundtrack.
+---
 
 ## Most Surprising
 
@@ -28,6 +29,7 @@ Bones and All
 
 Titane
 : Hear me out, Rosemary's baby, but a car.
+---
 
 ## Most Comforting
 
@@ -39,6 +41,7 @@ Addams Family
 
 Shaun of the Dead
 : Needs no further explanation.
+---
 
 ## Best Vibes
 
@@ -51,6 +54,7 @@ The Hunger
 Sleepy Hollow
 : It's here that Christina Ricci secured forever her grown as goth queen.
 
+---
 
 ## Most “Good for Her”
 
@@ -60,6 +64,7 @@ Best way to get rid of a toxic ex. Also, is Ari Aster okay? How does someone wri
 The Witch
 : May we all live so deliciously.
 
+---
 ## Most Visually Stunning
 
 The Tragedy of Macbeth
@@ -73,6 +78,7 @@ Eternal Sunshine of the Spotless Mind
 
 Mad Max Fury Road (black and chrome)
 : At least I don't have to worry about trying to hear Tom Hardy like I do in literally every other movie.
+---
 
 ## Most Relatable Origin Story
 

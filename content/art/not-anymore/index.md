@@ -4,7 +4,7 @@ tags: [Analog]
 date: 2023-10-28
 bookToc: false
 image: not-anymore.webp
-summary: "Not anymore."
+summary: "Mixed media collage. Exploring the idea of home."
 type: video
 ---
 

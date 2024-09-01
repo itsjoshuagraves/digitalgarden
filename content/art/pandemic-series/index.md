@@ -4,9 +4,9 @@ tags: [Digital]
 date: 2020-01-01
 bookToc: false
 image: pandemic-00001.webp
-summary: "Series. Comparing the events of the 1918 flu pandemic with 2019's COVID-19."
+summary: "Series. Historical mixed media collage."
 ---
-The similarities were striking, and also equally horrifying. History doesn't repeat, but it rhymes. 
+This series compares the events of the 1918 flu pandemic with 2019's COVID-19 highlighting the striking similarities.
 
 ![](pandemic-00002.webp)
 

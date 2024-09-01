@@ -76,7 +76,7 @@ ul.pagination {
 
 .container {
   max-width: $container-max-width;
-  margin: 0 auto;
+  margin: 5vh auto;
 }
 
 .book-icon {
@@ -97,7 +97,6 @@ ul.pagination {
 .book-menu {
   flex: 0 0 $menu-width;
   font-size: $font-size-14;
-
   .book-menu-content {
     width: $menu-width;
     padding: $padding-16;
@@ -234,12 +233,6 @@ body[dir="rtl"] .book-menu {
     width: $toc-width;
     padding: $padding-16;
     @include fixed;
-    .post-date {
-      text-transform: uppercase;
-      font-size: 12px;
-      font-weight: 700;
-      letter-spacing: .6px;
-    }
     nav a {
       text-decoration: underline;
     }

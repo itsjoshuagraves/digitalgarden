@@ -16,26 +16,23 @@ images:
 
 {{< /columns >}}
 
----
+
 
 {{< columns >}}
-
+---
 ## New in Personal
+
+`September 1, 2024`
+: Meet [The Joshuary](https://www.thejoshuary.shop). A place filled with curious goods and wonderful things. There you can get art prints, shirts, and more.
 
 `July 4, 2024`
 : There will be some prints for you to buy soon. :) 
-
-`February 26, 2024`
-: Lots of new [Art](/art) using a found old typewriter.
-
-`November 13, 2023`
-: Added a [Photos](/photos) section, including recent visits to Dia De Los Muertos at Hollywood Forever. 
 
 `September 10, 2023`
 : Launched [The Nevermore](https://nevermore.rip), dedicated to the works of Edgar Allan Poe! It's goal is to give people a beautiful reading experience. Hope you'll enjoy!
 
 <--->
-
+---
 ## New in Professional
 
 `September 24, 2023`

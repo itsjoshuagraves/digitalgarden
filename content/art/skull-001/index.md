@@ -4,9 +4,9 @@ tags: [Analog]
 date: 2021-01-01
 bookToc: false
 image: skull-series-001-a.webp
-summary: "Series. Experiment in applying an iron oxide coating to a resin skull, then letting it rust. I also rusted the nails in a solution of vinegar and hydrogen peroxide."
+summary: "Series. Experiments with timepieces and resin. "
 ---
-
+Applying an iron oxide coating to a resin skull, then letting it rust. I also rusted the nails in a solution of vinegar and hydrogen peroxide.
 {{< columns >}}
 ![](skull-series-001-b.webp)
 <--->

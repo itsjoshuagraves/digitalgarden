@@ -4,5 +4,7 @@ tags: [Analog]
 date: 2023-10-28
 bookToc: false
 image: anything.webp
-summary: "Inspired by Oppenheimer."
+summary: "Mixed media collage. Exploring the nuclear disasters of the mid 1900s."
 ---
+
+Inspired by Oppenheimer.
