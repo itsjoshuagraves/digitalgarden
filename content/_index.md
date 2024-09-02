@@ -10,9 +10,10 @@ images:
 ---
 ## New Art
 {{< columns >}}
-[![Memento Mori](/art/memento/memento.webp)](/art/memento)
+[![Oracles](/art/oracles/night-flyer.webp)](/art/oracles)
 <--->
-[![Oracles](/art/oracles/missing.webp)](/art/oracles)
+[![Memento Mori](/art/memento/memento.webp)](/art/memento)
+
 
 {{< /columns >}}
 
