@@ -237,6 +237,7 @@ body[dir="rtl"] .book-menu {
     width: $toc-width;
     padding: $padding-16;
     @include fixed;
+    top: 32px;
     nav a {
       text-decoration: underline;
     }
