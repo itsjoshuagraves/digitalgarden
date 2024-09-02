@@ -74,9 +74,13 @@ a[target="_blank"]{
 	}
 }
 .book-menu {
-	font-family: $display;
-	font-size: 1em;
+	font-family: $bold;
+	font-size: 12px;
 	line-height: 135%;
+
+	strong {
+		letter-spacing: .6px;
+	}
 }
 
 .book-menu a:hover{
@@ -87,6 +91,13 @@ a[target="_blank"]{
 	border-right: 1px solid;
 	border-color: var(--border-color);
 }
+
+.book-search{
+  font-family: $bold;
+  font-size: 12px;
+}
+
+
 
 .post-summary {
 	margin-top: 0 !important;

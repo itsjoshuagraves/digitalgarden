@@ -49,8 +49,12 @@ aside nav ul {
   list-style: none;
 
   li {
-    margin: 1em 1em;
+    margin: 1em .25em;
     position: relative;
+  }
+
+  ul li, ul li {
+    margin-left: 1em !important;
   }
 
   a {
@@ -58,9 +62,6 @@ aside nav ul {
     text-decoration: none;
   }
 
-  ul {
-    // padding-inline-start: $padding-16;
-  }
 }
 
 ul.pagination {
