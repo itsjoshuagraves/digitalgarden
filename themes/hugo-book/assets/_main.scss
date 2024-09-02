@@ -49,7 +49,7 @@ aside nav ul {
   list-style: none;
 
   li {
-    margin: 1em 0;
+    margin: 1em 1em;
     position: relative;
   }
 
@@ -59,7 +59,7 @@ aside nav ul {
   }
 
   ul {
-    padding-inline-start: $padding-16;
+    // padding-inline-start: $padding-16;
   }
 }
 
@@ -76,7 +76,10 @@ ul.pagination {
 
 .container {
   max-width: $container-max-width;
-  margin: 5vh auto;
+  margin: 0 auto;
+  @media (min-width: 500px) {
+    margin: 5vh auto;
+  }
 }
 
 .book-icon {
@@ -108,6 +111,7 @@ ul.pagination {
   a,
   label {
     color: inherit;
+
     cursor: pointer;
     word-wrap: break-word;
   }
@@ -188,7 +192,7 @@ body[dir="rtl"] .book-menu {
   position: relative;
   margin: $padding-16 0;
   border-radius: $border-radius;
-  border-bottom: 1px solid var(--gray-500);
+  border: 1px solid var(--color-link);
 
   input {
     width: 100%;

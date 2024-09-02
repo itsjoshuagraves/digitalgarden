@@ -1,19 +1,19 @@
 ---
 headless: true
 ---
-- [**Personal**](/personal)
+- [Personal](/personal)
   - [Visual Art](/art)
   - [Tinkering](/tinkering)
   - [Journal](/journal)
   - [Photos](/photos)
   - [Media Diary](/media)
   - [Log](/log)
-- [**Professional**](/professional)
+- [Professional](/professional)
   - [We Need to Talk](/we-need-to-talk)
   - [Portfolio](/portfolio)
   - [Tools for Designers & Leaders](/tools)
   - [Work With Me](/work-with-me)
-- [**About & More**](/about)
+- [About & More](/about)
   - [Joshua Graves](/about/me)
   - [Digital Gardening](/about/digital-gardening)
   - [Bookmarks](/bookmarks)
