@@ -37,23 +37,16 @@ I created a coaching company, Nice Weather, in 2022 because I saw a need for a d
 {{< columns >}}
 I’m not like other design leaders.
 
-My ideal day isn’t sitting in strategy meetings all day, managing managers. Instead, I find joy in working at both the strategic tactical level. Some call it a player-coach, I call it my happy place.
+My ideal day isn’t spent sitting in strategy meetings, managing managers. Instead, I thrive at both the strategic and tactical levels. There's joy for me in getting my hands dirty and leading teams while practicing my craft.
 
-Since starting my career, I've built high-performing, deeply collaborative design teams from scratch and designed 5-star mobile apps. Being a leader who loves being hands-on and practicing my craft gives me my edge.
+Since the start of my career, I’ve built high-performing, deeply collaborative design teams from scratch, and I’ve designed 5-star mobile apps that people love. My focus has been on healthcare, fintech, and other consumer-facing industries, but the most rewarding projects are those that help people improve their mental and physical health.
 
-I work with companies in healthcare, fintech, and other consumer-facing industries. My most rewarding projects are those which help people lead better lives through improving their mental and physical health.
-
-I’ve managed directly for over 5 years of management and have over 15 years experience in practicing design. My start came from being a visual artist that created websites for bands.
-
-My values are important, and they’ll enrich both your product and company:
-
-- Being responsible for what we put into the world
-- Being principle-driven, not process-shackled
-- Kindness, fairness, and equity
-- Talking it out
+With over 15 years of design experience and 5+ years in direct leadership, I’ve learned what it takes to guide teams and help companies grow. My journey started as a visual artist creating websites for bands, and it’s evolved into something far more impactful.
 
 <--->
-![Hi there! It&rsquo;s me, Joshua.](/joshua-graves.webp)
+![Hi there! It&rsquo;s me, Joshua. Photo: Stephen LaMarche](/jg1.webp)
+{{< /columns >}}
+
 
 I'm currently writing a book called [“We Need to Talk: How to Have Hard Conversations with Anyone”](https://rosenfeldmedia.com/books/we-need-to-talk-a-survival-guide-for-tough-conversations/) for Rosenfeld Media. It’s due out in 2023.
 
@@ -65,4 +58,3 @@ Talk to me if you want to discuss:
 - How to get people to care about accessibility
 - Exactly how annoyed to get when a designer detaches a component in Figma
 - Looking for my resume? [Here you go.](/resume.pdf)
-{{< /columns >}}

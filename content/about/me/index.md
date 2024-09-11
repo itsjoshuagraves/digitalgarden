@@ -17,25 +17,21 @@ I call Joshua Tree home, but split time between there and Los Angeles.
 {{< columns >}}
 I’m not like other design leaders.
 
-My ideal day isn’t sitting in strategy meetings all day, managing managers. Instead, I find joy in working at both the strategic tactical level. Some call it a player-coach, I call it my happy place.
+My ideal day isn’t spent sitting in strategy meetings, managing managers. Instead, I thrive at both the strategic and tactical levels. There's joy for me in getting my hands dirty and leading teams while practicing my craft.
 
-Since starting my career, I've built high-performing, deeply collaborative design teams from scratch and designed 5-star mobile apps. Being a leader who loves being hands-on and practicing my craft gives me my edge.
+Since the start of my career, I’ve built high-performing, deeply collaborative design teams from scratch, and I’ve designed 5-star mobile apps that people love. My focus has been on healthcare, fintech, and other consumer-facing industries, but the most rewarding projects are those that help people improve their mental and physical health.
 
-I work with companies in healthcare, fintech, and other consumer-facing industries. My most rewarding projects are those which help people lead better lives through improving their mental and physical health.
+With over 15 years of design experience and 5+ years in direct leadership, I’ve learned what it takes to guide teams and help companies grow. My journey started as a visual artist creating websites for bands, and it’s evolved into something far more impactful.
 
-I’ve managed directly for over 5 years of management and have over 15 years experience in practicing design. My start came from being a visual artist that created websites for bands.
-
-My values are important, and they’ll enrich both your product and company:
-
-- Being responsible for what we put into the world
-- Being principle-driven, not process-shackled
-- Kindness, fairness, and equity
-- Talking it out
 <--->
-![](/joshua-graves.webp)
+![Photo: Stephen LaMarche](/jg1.webp)
+
 {{< /columns >}}
 
-I'm currently writing a book called [“We Need to Talk: How to Have Hard Conversations with Anyone”](https://rosenfeldmedia.com/books/we-need-to-talk-a-survival-guide-for-tough-conversations/) for Rosenfeld Media.
+I believe in being responsible for what we put into the world, and I bring that principle into every project. My values—kindness, fairness, equity, and being principle-driven, not process-shackled—are more than words; they shape how I approach design, leadership, and the relationships I build with clients. I believe in talking things out, even when the conversation is hard, because that’s how we grow and create the best outcomes together.
+
+
+My book, [“We Need to Talk: How to Have Hard Conversations with Anyone”](https://rosenfeldmedia.com/books/we-need-to-talk-a-survival-guide-for-tough-conversations/) is due for release in 2025 for Rosenfeld Media.
 
 Talk to me if you want to discuss:
 
