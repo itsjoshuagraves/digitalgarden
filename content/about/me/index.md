@@ -28,10 +28,11 @@ With over 15 years of design experience and 5+ years in direct leadership, I’v
 
 {{< /columns >}}
 
-I believe in being responsible for what we put into the world, and I bring that principle into every project. My values—kindness, fairness, equity, and being principle-driven, not process-shackled—are more than words; they shape how I approach design, leadership, and the relationships I build with clients. I believe in talking things out, even when the conversation is hard, because that’s how we grow and create the best outcomes together.
+I believe in being responsible for what we put into the world, and I bring that principle into every project. 
 
+I value kindness (not niceness), principle-driven thinking, and being curious about everything I do.
 
-My book, [“We Need to Talk: How to Have Hard Conversations with Anyone”](https://rosenfeldmedia.com/books/we-need-to-talk-a-survival-guide-for-tough-conversations/) is due for release in 2025 for Rosenfeld Media.
+I also believe in talking things out, even when the conversation is hard, so much so that I wrote a book about it. [“We Need to Talk: How to Have Hard Conversations with Anyone”](https://rosenfeldmedia.com/books/we-need-to-talk-a-survival-guide-for-tough-conversations/) is due for release in 2025 for Rosenfeld Media.
 
 Talk to me if you want to discuss:
 

@@ -48,7 +48,11 @@ With over 15 years of design experience and 5+ years in direct leadership, I’v
 {{< /columns >}}
 
 
-I'm currently writing a book called [“We Need to Talk: How to Have Hard Conversations with Anyone”](https://rosenfeldmedia.com/books/we-need-to-talk-a-survival-guide-for-tough-conversations/) for Rosenfeld Media. It’s due out in 2023.
+I believe in being responsible for what we put into the world, and I bring that principle into every project. 
+
+I value kindness (not niceness), principle-driven thinking, and being curious about everything I do.
+
+I also believe in talking things out, even when the conversation is hard, so much so that I wrote a book about it. [“We Need to Talk: How to Have Hard Conversations with Anyone”](https://rosenfeldmedia.com/books/we-need-to-talk-a-survival-guide-for-tough-conversations/) is due for release in 2025 for Rosenfeld Media.
 
 Talk to me if you want to discuss:
 
@@ -57,4 +61,4 @@ Talk to me if you want to discuss:
 - How to be the best, most supportive leader you can to your team
 - How to get people to care about accessibility
 - Exactly how annoyed to get when a designer detaches a component in Figma
-- Looking for my resume? [Here you go.](/resume.pdf)
+- Looking for my resume? [Here you go](/resume.pdf)
