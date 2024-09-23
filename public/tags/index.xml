@@ -7,8 +7,22 @@
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>2024, Joshua Graves</copyright>
-    <lastBuildDate>Tue, 03 Sep 2024 12:03:47 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 23 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Design Systems</title>
+      <link>http://localhost:1313/tags/Design-Systems/</link>
+      <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/Design-Systems/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Product Design</title>
+      <link>http://localhost:1313/tags/Product-Design/</link>
+      <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/Product-Design/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Digital</title>
       <link>http://localhost:1313/tags/Digital/</link>
@@ -112,20 +126,6 @@
       <link>http://localhost:1313/tags/User-Research/</link>
       <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/User-Research/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Design Systems</title>
-      <link>http://localhost:1313/tags/Design-Systems/</link>
-      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/Design-Systems/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Product Design</title>
-      <link>http://localhost:1313/tags/Product-Design/</link>
-      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/Product-Design/</guid>
       <description></description>
     </item>
     <item>
