@@ -9,10 +9,18 @@ bookToc: true
 ---
 
 ## Overview 
-The California Department of Corrections and Rehabilitation (CDCR) required a comprehensive design system to streamline engineering workflows while improving transparency and fairness within their parole system. At the core of my approach was embedding human-centered design into CDCR’s processes, ensuring that every decision was rooted in understanding user needs, minimizing harm, and making informed, empathetic choices.
+The California Department of Corrections and Rehabilitation (CDCR) required a comprehensive design system to streamline engineering workflows while improving transparency and fairness within their parole system. Given the high stakes environment CDCR operates under, they also needed to teach their organization how to practice human-centered design.
 
 ## Approach
-My work emphasized the importance of user research, frequent testing, and rapid iterations to avoid unintended consequences and mistakes. I delivered a design system that supported both Vuetify and PrimeVue frameworks, enabling engineers to easily implement designs while maintaining a consistent visual language across platforms. This bridged the gap between design and code, allowing teams to focus on delivering solutions without worrying about technical inconsistencies.
+At the core of my approach was embedding human-centered design into CDCR’s processes, ensuring that every decision was rooted in understanding user needs, minimizing harm, and making informed, empathetic choices. My work emphasized the importance of user research, frequent testing, and rapid iterations to avoid unintended consequences and mistakes. 
+
+## Design system
+
+I delivered a design system that supported both Vuetify and PrimeVue frameworks, enabling engineers to easily implement designs while maintaining a consistent visual language across platforms. This bridged the gap between design and code, allowing teams to focus on delivering solutions without worrying about technical inconsistencies.
+
+![Sample documentation from the design system.](design-system-00.webp)
+
+Collaboration between engineers and designers was key to the success of this effort. By fostering mutual understanding and clear communication, I was able to launch products in weeks that would have previously taken years. This was not achieved by my efforts alone—CDCR has been cultivating a highly capable team, and together developed a workflow that maximized efficiency and minimized friction between departments.
 
 {{< columns >}}
 ![](vimo-01.webp)
@@ -23,12 +31,8 @@ My work emphasized the importance of user research, frequent testing, and rapid 
 {{< /columns >}}
 
 
-Collaboration between engineers and designers was key to the success of this project. By fostering mutual understanding and clear communication, I was able to launch products in weeks that would have previously taken years. This was not achieved by Lost Horse's efforts alone—CDCR has been cultivating a highly capable team, and together developed a workflow that maximized efficiency and minimized friction between departments.
-
-![Sample documentation from the design system.](design-system-00.webp)
-
 ## Human-centered design training
-In addition to building the design system, I provided in-depth training that covered human-centered design methodologies, user interviews, prototyping, and testing strategies. This empowered the CDCR team to conduct user research, rapidly validate ideas, and iterate on designs to ensure they met real user needs.
+In addition to building the design system, I provided in-depth training that covered human-centered design methodologies, user interviews, prototyping, and testing strategies. This empowered the CDCR team to conduct user research, rapidly validate ideas, and iterate on designs to ensure they met real user needs. There are both self-guided and instructor-led courses. Both were created exclusively by me and included one-on-one time with me for tailored coaching and live working sessions.
 
 ![Some of the materials covered in the course.](training.webp)
 
