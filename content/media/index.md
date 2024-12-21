@@ -121,7 +121,6 @@ John Wick
 - <mark>Feeding Your Demons (Tsultrim Allione)</mark>
 - <mark>Witches, Witch-hunting, and Women (Silvia Federici)</mark>
 - Design as an Attitude (Alice Rawsthorn)
-- ~Lilith's Brood (Octavia E. Butler)~
 - A Light Most Hateful (Hailey Piper)
 
 ## 2023
@@ -197,10 +196,10 @@ John Wick
 ## 2024
 - Poor Things
 - Significant Other
-- ~Saltburn~
-- ~Careful How You Go~
-- ~Last Voyage of the Demeter~
-- ~Fall of the House of Usher~
+- ~~Saltburn~~
+- ~~Careful How You Go~~
+- ~~Last Voyage of the Demeter~~
+- ~~Fall of the House of Usher~~
 - Longlegs
 - Maxxxine
 - Heretic
@@ -415,6 +414,7 @@ John Wick
 - The Social Dilemma
 - The Hunt
 - Decision to Leave
+
 ## 2021 and before
 - The Wailing ❤️
 - The Perfection
