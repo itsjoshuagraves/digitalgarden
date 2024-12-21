@@ -1,8 +1,8 @@
 ---
-title: Joshua Graves • Design Leader & Author
+title: Joshua Graves • Designer, Author, Curious Person
 type: home
 bookToc: false
-summary: "Multidisciplinary product designer, visual artist, and author of We Need to Talk."
+summary: "Multidisciplinary product designer, founder, visual artist, and author of We Need to Talk."
 images: 
  - /opengraph.png
 ---
@@ -10,39 +10,36 @@ images:
 ---
 ## New Art
 {{< columns >}}
-[![Oracles](/art/oracles/night-flyer.webp)](/art/oracles)
+[![Black and Gold Series](/art/black-and-gold/reconstruction.webp)](/art/black-and-gold)
 <--->
-[![Memento Mori](/art/memento/memento.webp)](/art/memento)
-
-
+[![Black and Gold Series](/art/black-and-gold/snake.webp)](/art/black-and-gold)
 {{< /columns >}}
 
 
-
-{{< columns >}}
 ---
-## New in Personal
+## Latest Updates
+{{< columns >}}
 
-`September 1, 2024`
+
+`December 2024`
+: My forthcoming book, [We Need to Talk](/we-need-to-talk), is going into production.
+
+`September 2024`
 : Meet [The Joshuary](https://www.thejoshuary.shop). A place filled with curious goods and wonderful things. There you can get art prints, shirts, and more.
 
-`July 4, 2024`
+`July 2024`
 : There will be some prints for you to buy soon. :) 
 
-`September 10, 2023`
-: Launched [The Nevermore](https://nevermore.rip), dedicated to the works of Edgar Allan Poe! It's goal is to give people a beautiful reading experience. Hope you'll enjoy!
 
 <--->
----
-## New in Professional
 
-`September 24, 2023`
+`September 2023`
+: Launched [The Nevermore](https://nevermore.rip), dedicated to the works of Edgar Allan Poe! It's goal is to give people a beautiful reading experience. Hope you'll enjoy!
+
+
+`September 2023`
 : Made significant updates to my [design philosophy](/philosophy).
 
-`August 17, 2023`
+`August 2023`
 : Added a [bookshelf](/docs/guides/bookshelf) which contains recommendations for newcomers to design.
-
-`August 4, 2023`
-: My forthcoming book, [We Need to Talk](/we-need-to-talk), is officially in editing mode!
-
 {{< /columns >}}
