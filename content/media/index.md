@@ -114,12 +114,14 @@ John Wick
 
 ## 2024
 
+- What It Takes to Heal (Prentis Hemphill)
+- The Four Agreements (Don Miguel Ruiz)
+- CPTSD: From Surviving to Thriving (Pete Walker)
+- Radical Compassion (Tara Brach)
 - <mark>Feeding Your Demons (Tsultrim Allione)</mark>
-- <mark>Ripe: Tales of Hunger & Desire (Various)</mark>
-- <mark>Gone to the Wolves (John Wray)</mark>
 - <mark>Witches, Witch-hunting, and Women (Silvia Federici)</mark>
 - Design as an Attitude (Alice Rawsthorn)
-- Lilith's Brood (Octavia E. Butler)
+- ~Lilith's Brood (Octavia E. Butler)~
 - A Light Most Hateful (Hailey Piper)
 
 ## 2023
@@ -195,10 +197,28 @@ John Wick
 ## 2024
 - Poor Things
 - Significant Other
-- Saltburn
-- Careful How You Go
-- Last Voyage of the Demeter
-- Fall of the House of Usher
+- ~Saltburn~
+- ~Careful How You Go~
+- ~Last Voyage of the Demeter~
+- ~Fall of the House of Usher~
+- Longlegs
+- Maxxxine
+- Heretic
+- Godzilla VS Kong
+- The Princess Bride
+- Rocky Horror Picture Show
+- Doctor Sleep
+- Donnie Darko
+- Grandma's Boy
+- Everything Everywhere All At Once
+- It Follows
+- Letterkenny (s1–s11)
+- The Mighty Boosh (s1–s3)
+- What We Do In The Shadows (s6)
+- John Wick
+- Alien Romulus
+- Furiosa
+- Deadpool and Wolverine
 
 ## 2023
 - The Rocky Horror Picture Show
