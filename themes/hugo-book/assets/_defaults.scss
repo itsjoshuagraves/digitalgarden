@@ -51,7 +51,7 @@ $hint-colors: (
 @mixin theme-light {
   --gray-100: #f8f9fa;
   --gray-200: #FBFBFB;
-  --gray-500: #adb5bd;
+  --gray-500: #777777;
 
   --color-link: #8F00FF;
   --color-visited-link: #8F00FF;
@@ -74,7 +74,7 @@ $hint-colors: (
 @mixin theme-dark {
   --gray-100: rgba(255, 255, 255, 0.1);
   --gray-200: rgba(255, 255, 255, 0.2);
-  --gray-500: rgba(255, 255, 255, 0.5);
+  --gray-500: rgba(255, 255, 255, 0.777);
 
   --color-link: #6cde03;
   --color-visited-link: #6cde03;
