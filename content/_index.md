@@ -22,7 +22,7 @@ images:
 
 
 `December 2024`
-: My forthcoming book, [We Need to Talk](/we-need-to-talk), is going into production.
+: My forthcoming book, [We Need to Talk](/we-need-to-talk), is going into production! 
 
 `September 2024`
 : Meet [The Joshuary](https://www.thejoshuary.shop). A place filled with curious goods and wonderful things. There you can get art prints, shirts, and more.
