@@ -117,5 +117,3 @@ Intentions are powerful. They’ve unquestionably changed my life. But remember,
 That’s why declarations like “I face life’s challenges with peace and strength” matter. They don’t eliminate problems—they help you face them without needless suffering.
 
 Intentions aren’t magic. They’re a permission slip to be your authentic self. Write yours down. Post it somewhere visible. Let it be a touchstone in your mindfulness practice.
-
-Your text has been polished for readability and impact while maintaining your thoughtful tone. Let me know if further edits are needed!
