@@ -35,6 +35,7 @@ After listing your losses, take a moment to offer yourself compassion. If you’
 Start by asking yourself: “Which parts of me are here?”
 
 If you’re going through something difficult—like a divorce or a loss—you might notice parts such as:
+
 -	The hurt one
 -	The ruminating one
 -	The scared one
@@ -57,7 +58,9 @@ Treat these parts with loving-kindness. Pushing them away only strengthens their
 
 While kindness is essential, not every part of you requires gentleness. Sometimes, you must be firm—what the instructors called “fierce compassion.”
 
-Like when a beloved pet is in danger and you shout “No,” some aspects of yourself need decisive boundaries. Parts that might need this include:
+Consider when a beloved pet is doing something potentially destructive to them or something else. You may shout to make them stop. It isn't because you don't love them, but sometimes gentleness doesn't cut it.
+
+Some aspects of yourself need similar decisive boundaries. Parts that might need this include:
 
 - The hurtful one
 - The hateful one
@@ -71,7 +74,7 @@ Anything destructive to yourself or others doesn’t deserve the spotlight. Fier
 Synthesize your victories, losses, and insights from self-compassion. Here are two examples from my own list:
 
 - “You can give all your love and sacrifice everything for someone, but it’s not guaranteed to fix the situation. Love is limitless, but its power isn’t.”
-- “Hold your boundaries.”
+“Hold your boundaries.”
 
 Avoid clichés or Hallmark-style sentiments. This is for you, not for show.
 
@@ -106,14 +109,16 @@ List a few. Keep it to five or fewer.
 
 ## 9. Create an Antidote
 
-Turn a limiting belief into a declaration. For instance, if your belief is “Working hard enough can solve any problem,” the antidote might be: “I face life’s challenges with peace and strength.”
+Turn a limiting belief into a declaration. For instance, if your belief is “Working hard enough can solve any problem,” the antidote might be: I meet all that life presents me from a place of peace and strength.” 
 
-Write it as if it’s already true. Avoid negative motivators or wishful thinking. Here’s another example: “I allow myself to be seen and loved as I am.”
+Here’s another example. If your limiting belief is that you won't be accepted for who you are unless you hide the flaws, your declaration may be “I allow myself to be seen and loved as I am.”
+
+Write it as if it’s already true. Avoid negative motivators or wishful thinking. 
 
 ## Closing
 
 Intentions are powerful. They’ve unquestionably changed my life. But remember, they can’t guarantee outcomes. You can’t wish yourself out of hardship, nor fake it until you make it.
 
-That’s why declarations like “I face life’s challenges with peace and strength” matter. They don’t eliminate problems—they help you face them without needless suffering.
+That’s why declarations like “I meet all that life presents me from a place of peace and strength" matter. They don’t eliminate problems—they help you face them without needless suffering.
 
 Intentions aren’t magic. They’re a permission slip to be your authentic self. Write yours down. Post it somewhere visible. Let it be a touchstone in your mindfulness practice.
