@@ -6,38 +6,40 @@ summary: “How to create intentions that are authentic. Insights from a meditat
 bookToc: true
 ---
 
-To come up with intentions, ones that stick and aren’t laced with negative motivators, isn’t as tough as it sounds. 
+To come up with intentions—ones that stick and aren’t laced with negative motivators—isn’t as tough as it sounds.
 
-At some point in your life you will find yourself wanting to set intentions. Maybe it’s a new year’s resolution. Or maybe you’ve ended one chapter of your life to start another and want to shift your mindset. 
+At some point in your life, you’ll find yourself wanting to set intentions. Maybe it’s a New Year’s resolution. Or perhaps you’ve ended one chapter of your life to start another and want to shift your mindset.
 
-Advice on this is all over the map, and most of it is bad. You’ll hear that intentions can manifest your dreams, that you can will yourself out of a bad situation. Others will tell you that if you don’t believe it hard enough, it won’t happen. 
+Advice on this is all over the map, and much of it is bad. You’ll hear that intentions can manifest your dreams or that you can will yourself out of a bad situation. Others will tell you that if you don’t believe hard enough, it won’t happen.
 
-In 2024, I attended a meditation retreat with Eden Tull and Enriqué. Both teachers are well practiced, and have a deep source of wisdom to pull from. They offered the most sound advice on creating intentions I’ve ever heard. And while it took place over 4 days, I will attempt to distill it into this post.
+In 2024, I attended a meditation retreat with Eden Tull and Enrique Collazo. Both teachers are deeply practiced and have a wealth of wisdom to draw from. They offered the most sound advice on creating intentions I’ve ever encountered. While the process unfolded over four days, I’ll attempt to distill it into this post.
 
-The process has you listing your victories, losses, and lessons learned. It encourages self-compassion and to conduct a thoughtful inquiry into any limiting beliefs you hold as well as understanding the impact of those beliefs. Where this was the most powerful is when they turned those limiting into an antidote, and a declaration that you can take with you. 
+The process begins with listing your victories, losses, and lessons learned. It encourages self-compassion and thoughtful inquiry into any limiting beliefs you hold, along with understanding the impact of those beliefs. The most powerful aspect of the process was turning those limiting beliefs into an antidote—a declaration you can carry with you.
 
-## List your victories. 
-Don’t think about the order or obsess over whether or not it should be there. Once you’re done, consider which were the most impactful to you.
+## List Your Victories
 
-I had a lot going on in 2024, and I filled seven pages of bullet points. They were things I’ve always wanted to do, and in many ways that year was full of achievements. 
+Don’t worry about the order or whether something “deserves” to be on the list. Once you’re done, reflect on which ones were the most impactful to you.
 
-## List your losses. 
-Alongside your wins are your losses. Those were personally very difficult to list. But it is important to take an objective look at them and not attach any story to them. Just stick with the facts. It might hard, but you’ll see that it’s worth it.
+In 2024, I had a lot going on, and I filled seven pages of bullet points. That year was full of achievements—things I’d always wanted to do.
+
+## List Your Losses
+
+Alongside your wins are your losses. These can be challenging to list, but it’s important to take an objective look and avoid attaching a narrative. Stick to the facts. It might be hard, but you’ll find it worthwhile.
 
 My list took up about two pages.
 
-## Create some self-compassion. 
-What follows listing your losses is an encouraging moment, one where you offer compassion to yourself. If you’re like me, you don’t offer that to yourself often, even if you offer it to others all the time.
+## Create Some Self-Compassion
 
-Start by asking yourself this question: “which parts of me are here?” 
+After listing your losses, take a moment to offer yourself compassion. If you’re like me, you may not do this often, even if you’re quick to offer it to others.
 
-If you’re going through something nasty like a divorce or death, you may find that these parts show up:
+Start by asking yourself: “Which parts of me are here?”
 
-- The hurt one
-- The ruminating one
-- The scared one
+If you’re going through something difficult—like a divorce or a loss—you might notice parts such as:
+-	The hurt one
+-	The ruminating one
+-	The scared one
 
-I call these and every role you play in your life your inner family, complete with complicated family dynamics. But they really are just aspects of your personality. Here are some other examples of parts of you that might show up:
+I think of these as my “inner family,” each part playing a role in my life, complete with its own dynamics. They’re aspects of your personality, not your entire identity. Other examples might include:
 
 - The doer
 - The fixer
@@ -45,71 +47,75 @@ I call these and every role you play in your life your inner family, complete wi
 - The parent
 - The child
 
-> In a session with the instructors, I mentioned my drive to do, achieve, solve. And how those sometimes steal joy from my present moment. They offered a kinder reframing that had me consider those as parts of me, not my entire identity. The difference is subtle, but important: what you lost, what you went through is *not* your identity. You may be a survivor, but you’re also much more than that. If you choose to define your personality by those things, you will have a much more difficult time when other emotions and parts of you want to get some attention. 
+During a session, I shared how my drive to achieve and solve sometimes steals joy from the present moment. The instructors reframed this kindly, reminding me these are parts of me—not my whole identity. The distinction is subtle but profound: what you’ve lost or gone through is not your identity. You may be a survivor, but you’re also much more. Defining yourself solely by these things can make it harder to embrace other aspects of who you are.
 
-Next, ask yourself what would you say to those parts of you that need some compassion. To the hurt one you might say that “you did your best. You did incredible work. I love you. Keep going.” Or you may say to the ruminating one that “you can have my attention for 5 minutes. Say whatever you want. And then we’re moving on.” 
+Next, ask yourself what you’d say to these parts if they were loved ones. To the hurt one, you might say: “You did your best. I love you. Keep going.” To the ruminating one: “You have five minutes of my attention. Say what you need to, and then we’re moving on.”
 
-Treat these parts of you with loving kindness, because the more you push something away, the harder it snaps back.
+Treat these parts with loving-kindness. Pushing them away only strengthens their hold.
 
-### Not all compassion is gentle.
-We want to be kind to ourselves, but don’t want to treat every aspect of our personality the same. Sometimes you must be firm, and you must speak decisively. The instructors called this “fierce compassion.” 
+## Not All Compassion Is Gentle
 
-Much like a beloved pet is doing something they shouldn’t or is dangerous, you will be loud and tell them no. You will not allow this behavior, this thought pattern, to continue. Some common ways to identify what part of you might need some fierce compassion:
+While kindness is essential, not every part of you requires gentleness. Sometimes, you must be firm—what the instructors called “fierce compassion.”
+
+Like when a beloved pet is in danger and you shout “No,” some aspects of yourself need decisive boundaries. Parts that might need this include:
 
 - The hurtful one
 - The hateful one
 - The destructive one
 - The vengeful one
 
-Anything that is destructive to self or others does not get the spotlight. It is shunned, because you don’t need to live with guilt, shame, and resentment.
+Anything destructive to yourself or others doesn’t deserve the spotlight. Fierce compassion ensures guilt, shame, or resentment don’t take root.
 
-## List your major lessons from 2024. 
-It’s a synthesis of your victories, losses, and outcomes from your self compassion. Here are some examples, both of which were my own:
+## List Your Major Lessons From 2024
 
-- “You can give all your love and sacrifice everything all the time for someone, but it isn’t guaranteed to fix the situation. Love is limitless, but its power isn’t.”
-- “Hold your boundaries.” 
+Synthesize your victories, losses, and insights from self-compassion. Here are two examples from my own list:
 
-What’s important here is to steer clear of story and trite sayings. This is for you, not a Hallmark card. Sometimes the lessons are brutal, and that requires facing it head on with a neutral approach.
+- “You can give all your love and sacrifice everything for someone, but it’s not guaranteed to fix the situation. Love is limitless, but its power isn’t.”
+- “Hold your boundaries.”
 
-## Identify your limiting beliefs.
-The best way I’ve found to identify these beliefs is by asking this question: does this limit my agency, intelligence, or autonomy? 
+Avoid clichés or Hallmark-style sentiments. This is for you, not for show.
 
-This is where things get harder, as you’ve got to really look at your limiting beliefs. Some of them might be: 
+## Identify Your Limiting Beliefs
 
-- “To be loved and accepted, you must hide those flaws with lies and justifications.” 
-- “I am broken by default.” 
-- “Working hard enough can overcome any problem.”
+To uncover these beliefs, ask: “Does this limit my agency, intelligence, or autonomy?”
 
-## Address the impact of that belief. 
-Ask yourself how that belief impacts your relationship to yourself, to others, to your work. 
+This step requires deep reflection. Examples of limiting beliefs might include:
 
-Let’s say that you’re someone who has has a very active problem solver whose obsession over working you out of a bad situation steals the joy from your then-present moments (I speak that from experience).
+- “To be loved, I must hide my flaws.”
+- “I am broken by default.”
+- “Working hard enough can solve any problem.”
 
-## What’s your heart’s desire?
-You’ve identified your lessons, your losses, your victories. You learned the impact of those limiting beliefs you carry. Now ask yourself what you really want. What feels best to you, what rings as most authentically you. Here are a couple of examples:
+### Address the Impact of These Beliefs
+
+Examine how each belief affects your relationships—with yourself, others, and your work. For example: does a hyperactive problem-solver in you sap joy from the present moment? (I speak from experience.)
+
+## What’s Your Heart’s Desire?
+
+Having identified your lessons, losses, and limiting beliefs, ask yourself: What do I truly want? What feels most authentic? Examples might include:
 
 - “To be free, safe, and light.”
 - “To show up in the spirit of collective transformation.”
 
-These can be tender, profound, or even mundane. What’s important is to inquire about what feels most authentic to you.
+Tender, profound, or even mundane—what matters is its authenticity.
 
-### Ask what you need to let go of
-Look at your losses and your limiting beliefs. And ask how they get in the way of your heart’s desire.
+## Ask What You Need to Let Go Of
 
-Is it attachment to outcomes? Expectations? The idea that you can solve your problems without accepting that they might never go away?
+Reflect on your losses and limiting beliefs. What blocks your heart’s desire? Is it attachment to outcomes? Unrealistic expectations? The idea that problems are solvable without acceptance?
 
-List out a few. Keep it to less than five.
+List a few. Keep it to five or fewer.
 
-## Create an antidote.
-Next, you take a limiting belief and change it around into a declaration. Let’s go back to the example of you  ruminating and obsessing over a bad situation you’re in. Your limiting belief is that “Working hard enough can overcome any problem.” 
+## Create an Antidote
 
-Make sure to avoid any negative motivators or things that avert loss. Write it as if you have achieved it, not that you will, or you might, or you want to. You’ve done it.
+Turn a limiting belief into a declaration. For instance, if your belief is “Working hard enough can solve any problem,” the antidote might be: “I face life’s challenges with peace and strength.”
 
-The example I’ll give is “I face all that life presents me from a place of peace and strength.” You might also say that if you’re unsure if someone will love you for who you are, you might say “I allow myself to be seen and loved as I am.”
+Write it as if it’s already true. Avoid negative motivators or wishful thinking. Here’s another example: “I allow myself to be seen and loved as I am.”
 
 ## Closing
-Intentions are powerful and they have unquestionably changed my life. But what’s important to take away here is that no matter what intention you set, they can’t guarantee outcomes. You can’t wish yourself out of a bad situation, nor can you fake it until you make it.
 
-This is why the declaration about facing what life presents you from a place of strength and peace is written the way it is—it doesn’t mean those problems won’t happen anymore. It does mean that you won’t suffer needlessly from worry.
+Intentions are powerful. They’ve unquestionably changed my life. But remember, they can’t guarantee outcomes. You can’t wish yourself out of hardship, nor fake it until you make it.
 
-It’s easy to say what an intention isn’t, but it’s not as easy to say what they are without resorting to platitudes. I believe that intentions and declarations are an extra push. They’re permission to do the thing you desire. They’re empowering you to be your most authentic self. You know that declaration is real, and it’s tailored to you. So post it in a place where you see it often. If you have a sitting or other mindfulness practice, give it presence in those moments.
+That’s why declarations like “I face life’s challenges with peace and strength” matter. They don’t eliminate problems—they help you face them without needless suffering.
+
+Intentions aren’t magic. They’re a permission slip to be your authentic self. Write yours down. Post it somewhere visible. Let it be a touchstone in your mindfulness practice.
+
+Your text has been polished for readability and impact while maintaining your thoughtful tone. Let me know if further edits are needed!
