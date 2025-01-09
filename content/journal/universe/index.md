@@ -1,5 +1,5 @@
 ---
-date: 2021-02-01
+date: 2024-08-01
 title: Listening to the Universe
 summary: "It reveals strange and mysterious things to those who listen. Here are some it shared with me."
 tags: ["Mind"]

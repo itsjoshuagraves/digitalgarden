@@ -1,5 +1,5 @@
 ---
-date: 2024-12-23
+date: 2025-01-08
 title: On Intentions
 tags: [“Intentions”]
 summary: “How to create intentions that are authentic. Insights from a meditation retreat focusing on setting meaningful intentions for yourself.”
