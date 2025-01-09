@@ -16,19 +16,19 @@ In 2024, I attended a meditation retreat with Eden Tull and Enrique Collazo. Bot
 
 The process begins with listing your victories, losses, and lessons learned. It encourages self-compassion and thoughtful inquiry into any limiting beliefs you hold, along with understanding the impact of those beliefs. The most powerful aspect of the process was turning those limiting beliefs into an antidote—a declaration you can carry with you.
 
-## List Your Victories
+## 1. List Your Victories
 
 Don’t worry about the order or whether something “deserves” to be on the list. Once you’re done, reflect on which ones were the most impactful to you.
 
 In 2024, I had a lot going on, and I filled seven pages of bullet points. That year was full of achievements—things I’d always wanted to do.
 
-## List Your Losses
+## 2. List Your Losses
 
 Alongside your wins are your losses. These can be challenging to list, but it’s important to take an objective look and avoid attaching a narrative. Stick to the facts. It might be hard, but you’ll find it worthwhile.
 
 My list took up about two pages.
 
-## Create Some Self-Compassion
+## 3. Create Some Self-Compassion
 
 After listing your losses, take a moment to offer yourself compassion. If you’re like me, you may not do this often, even if you’re quick to offer it to others.
 
@@ -53,7 +53,7 @@ Next, ask yourself what you’d say to these parts if they were loved ones. To t
 
 Treat these parts with loving-kindness. Pushing them away only strengthens their hold.
 
-## Not All Compassion Is Gentle
+## 4. Not All Compassion Is Gentle
 
 While kindness is essential, not every part of you requires gentleness. Sometimes, you must be firm—what the instructors called “fierce compassion.”
 
@@ -66,7 +66,7 @@ Like when a beloved pet is in danger and you shout “No,” some aspects of you
 
 Anything destructive to yourself or others doesn’t deserve the spotlight. Fierce compassion ensures guilt, shame, or resentment don’t take root.
 
-## List Your Major Lessons From 2024
+## 5. List Your Major Lessons From 2024
 
 Synthesize your victories, losses, and insights from self-compassion. Here are two examples from my own list:
 
@@ -75,7 +75,7 @@ Synthesize your victories, losses, and insights from self-compassion. Here are t
 
 Avoid clichés or Hallmark-style sentiments. This is for you, not for show.
 
-## Identify Your Limiting Beliefs
+## 6. Identify Your Limiting Beliefs
 
 To uncover these beliefs, ask: “Does this limit my agency, intelligence, or autonomy?”
 
@@ -89,7 +89,7 @@ This step requires deep reflection. Examples of limiting beliefs might include:
 
 Examine how each belief affects your relationships—with yourself, others, and your work. For example: does a hyperactive problem-solver in you sap joy from the present moment? (I speak from experience.)
 
-## What’s Your Heart’s Desire?
+## 7. What’s Your Heart’s Desire?
 
 Having identified your lessons, losses, and limiting beliefs, ask yourself: What do I truly want? What feels most authentic? Examples might include:
 
@@ -98,13 +98,13 @@ Having identified your lessons, losses, and limiting beliefs, ask yourself: What
 
 Tender, profound, or even mundane—what matters is its authenticity.
 
-## Ask What You Need to Let Go Of
+## 8. Ask What You Need to Let Go Of
 
 Reflect on your losses and limiting beliefs. What blocks your heart’s desire? Is it attachment to outcomes? Unrealistic expectations? The idea that problems are solvable without acceptance?
 
 List a few. Keep it to five or fewer.
 
-## Create an Antidote
+## 9. Create an Antidote
 
 Turn a limiting belief into a declaration. For instance, if your belief is “Working hard enough can solve any problem,” the antidote might be: “I face life’s challenges with peace and strength.”
 
