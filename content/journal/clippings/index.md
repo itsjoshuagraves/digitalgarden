@@ -7,13 +7,17 @@ weight: 10
 summary: "Quotes and insights from books and other sources on mind, focus, and ethics."
 ---
 
-## Mind
+## Mind & Spirit
 
 {{< columns >}}
 
 > We hope to find meaning by fitting ourselves into some ready-made story about the universe, but according to the liberal interpretation of the world, the truth is exactly the opposite. The universe does not give me meaning. I give meaning to the universe. This is my cosmic vocation. I have no fixed destiny or dharma.\
 > \
 > _-21 Lessons for the 21st Century, Yuval Noah Harari_
+
+> Abuse and neglect negate love.
+> \
+> _- What It Takes to Heal, Prentis Hemphill_
 <--->
 > Eventually, striving to improve yourself brings diminishing returns and prevents you from accepting yourself and living with what you’ve got.\
 > \

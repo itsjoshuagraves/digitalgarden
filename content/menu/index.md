@@ -10,7 +10,7 @@ headless: true
   - [Log](/log)
 - [**PROFESSIONAL**](/professional)
   - [We Need to Talk](/we-need-to-talk)
-  - [Portfolio](/portfolio)
+  - [Lost Horse Labs](/lost-horse)
   - [Tools for Designers & Leaders](/tools)
   - [Work With Me](/work-with-me)
 - [**ABOUT & MORE**](/about)
