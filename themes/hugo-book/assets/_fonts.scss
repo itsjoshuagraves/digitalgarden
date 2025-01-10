@@ -1,14 +1,4 @@
 @font-face {
-  font-family: 'Okkult-Black';
-  font-style: normal;
-  font-weight: 400;
-  font-display: swap;
-  src: local(''),
-       url('Okkult-Black.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-       url('Okkult-Black.eot') format('eot'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
-}
-
-@font-face {
     font-family: 'pt_monoregular';
     src: url('ptmono-regular-webfont.woff2') format('woff2'),
          url('ptmono-regular-webfont.woff') format('woff');
@@ -35,6 +25,15 @@
     font-weight: 400;
     font-style: italic;
     }
+
+@font-face {
+  font-family: 'Atlas Grotesk Web';
+  src: url('AtlasGrotesk-Bold-Web.woff2') format('woff2'),
+     url('AtlasGrotesk-Bold-Web.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+  }
+
 
 @font-face {
   font-display: swap;

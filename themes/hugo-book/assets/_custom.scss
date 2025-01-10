@@ -13,8 +13,6 @@ article {
 }
 body {
   	font-family: $primary;
-  	font-weight: normal;
-  	font-style: normal;
 }
 h1 {
   font-family: $display;
@@ -28,7 +26,7 @@ h1 {
 }
 h2, h3, h4, h5, h6 {
 	font-family: $display;
-	font-weight: 300;
+	font-weight: 400;
 	color: var(--body-font-color);
 }
 p {
@@ -52,12 +50,12 @@ figcaption {
 	line-height: 133%;
 }
 blockquote {
-	font-size: 18px;
 	padding: 20px !important;
 	border: solid 1px var(--color-link) !important;
-  box-shadow: 15px 15px 0 0 var(--color-link);
   margin-bottom: 24px !important;
+  box-shadow: -2px 5px 0 0 var(--color-link);
 }
+
 dt {
 	font-family: $primary;
 
@@ -74,10 +72,9 @@ a[target="_blank"]{
 	font-family: $bold;
 	font-size: 12px;
 	line-height: 135%;
+			color: var(--gray-700);
 
-	strong {
-		letter-spacing: .6px;
-	}
+
 }
 
 .book-menu a:hover{
@@ -192,11 +189,9 @@ a[target="_blank"]{
 	}
 	h5, ul, li, a {
 		display: inline;
-		font-size: 10px;
+		font-size: 12px;
 		padding-left: 0;
-		text-transform: uppercase;
-		letter-spacing: .666px;
-		font-weight: 400;
+		font-weight: 700;
 		padding-top: .1rem;
 		li {
 			color: var(--gray-700);

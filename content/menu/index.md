@@ -1,19 +1,19 @@
 ---
 headless: true
 ---
-- [**PERSONAL**](/personal)
+- [**Personal**](/personal)
   - [Visual Art](/art)
   - [Tinkering](/tinkering)
   - [Journal](/journal)
   - [Photos](/photos)
   - [Media Diary](/media)
   - [Log](/log)
-- [**PROFESSIONAL**](/professional)
+- [**Professional**](/professional)
   - [We Need to Talk Book](/we-need-to-talk)
   - [Lost Horse Labs](/lost-horse)
   - [Tools for Designers & Leaders](/tools)
   - [Work With Me](/work-with-me)
-- [**ABOUT & MORE**](/about)
+- [**About & More**](/about)
   - [Joshua Graves](/about/me)
   - [Digital Gardening](/about/digital-gardening)
   - [Bookmarks](/bookmarks)
