@@ -9,7 +9,7 @@ headless: true
   - [Media Diary](/media)
   - [Log](/log)
 - [**PROFESSIONAL**](/professional)
-  - [We Need to Talk](/we-need-to-talk)
+  - [We Need to Talk Book](/we-need-to-talk)
   - [Lost Horse Labs](/lost-horse)
   - [Tools for Designers & Leaders](/tools)
   - [Work With Me](/work-with-me)

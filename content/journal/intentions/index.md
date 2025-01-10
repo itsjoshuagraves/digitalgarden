@@ -74,7 +74,7 @@ Anything destructive to yourself or others doesn’t deserve the spotlight. Fier
 Synthesize your victories, losses, and insights from self-compassion. Here are two examples from my own list:
 
 - “You can give all your love and sacrifice everything for someone, but it’s not guaranteed to fix the situation. Love is limitless, but its power isn’t.”
-“Hold your boundaries.”
+- “Hold your boundaries.”
 
 Avoid clichés or Hallmark-style sentiments. This is for you, not for show.
 
