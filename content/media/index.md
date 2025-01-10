@@ -8,12 +8,12 @@ summary: "I watch and read a lot. Here's some of it."
 
 {{< tab "Superlatives">}}
 
-## Weirdest
+## 1. Weirdest
 
 Possession
 : Weirdest squid pro quo in cinematic history.
 ---
-## Best Soundtrack
+## 2. Best Soundtrack
 
 It Follows
 : My synthwave obsession started here.
@@ -22,7 +22,7 @@ A Girl Walks Home Alone at Night
 : If I've gotta die, I want it to be to this soundtrack.
 ---
 
-## Most Surprising
+## 3. Most Surprising
 
 Bones and All
 : Surprisingly easy to stomach.
@@ -31,7 +31,7 @@ Titane
 : Hear me out, Rosemary's baby, but a car.
 ---
 
-## Most Comforting
+## 4. Most Comforting
 
 The Big Lebowski
 : Yes, that’s like, my opinion, man.
@@ -43,7 +43,7 @@ Shaun of the Dead
 : Needs no further explanation.
 ---
 
-## Best Vibes
+## 5. Best Vibes
 
 Atomic Blonde
 : HEALTH's Blue Monday cover is as good as the original, and I will accept no counter arguments.
@@ -56,7 +56,7 @@ Sleepy Hollow
 
 ---
 
-## Most “Good for Her”
+## 6. Most “Good for Her”
 
 Midsommar:
 Best way to get rid of a toxic ex. Also, is Ari Aster okay? How does someone write this?
@@ -65,7 +65,7 @@ The Witch
 : May we all live so deliciously.
 
 ---
-## Most Visually Stunning
+## 7. Most Visually Stunning
 
 The Tragedy of Macbeth
 : Every frame of this is a painting.
@@ -80,7 +80,7 @@ Mad Max Fury Road (black and chrome)
 : At least I don't have to worry about trying to hear Tom Hardy like I do in literally every other movie.
 ---
 
-## Most Relatable Origin Story
+## 8. Most Relatable Origin Story
 
 John Wick
 : There would be cataclysmic chaos and horror if someone messed with my dog.
@@ -169,6 +169,16 @@ John Wick
 {{< /tab >}}
 
 {{< tab "Film & TV" >}}
+## Overall Picks
+{{< columns >}}
+![Nosferatu](./nosferatu.webp)
+<--->
+![The Big Lebowski](./lebowski.webp)
+<--->
+![Annihilation](./annihilation.webp)
+
+{{< /columns >}}
+
 ## Horror Picks
 {{< columns >}}
 ![You Won’t Be Alone](./alone.webp)
@@ -180,20 +190,17 @@ John Wick
 ![The Wailing](./wailing.webp)
 {{< /columns >}}
 
-## Overall Picks
-{{< columns >}}
-![The Big Lebowski](./lebowski.webp)
-<--->
-![Annihilation](./annihilation.webp)
-<--->
-![John Wick](./wick.webp)
-<--->
-![Romeo + Juliet (1996)](./romeo.webp)
-{{< /columns >}}
 
 ---
 
+## 2025
+- What We Do In The Shadows (s6)
+- What We Do In The Shadows
+- The Mighty Boosh (s1–s3)
+
 ## 2024
+- Nosferatu 🖤
+- The Princess Bride
 - Poor Things
 - Significant Other
 - ~~Saltburn~~
@@ -203,7 +210,7 @@ John Wick
 - Longlegs
 - Maxxxine
 - Heretic
-- Godzilla VS Kong
+- Godzilla VS Kong: The New Empire
 - The Princess Bride
 - Rocky Horror Picture Show
 - Doctor Sleep

@@ -21,9 +21,6 @@ bookToc: false
 
 ## Artifacts
 
-[Portfolio](/portfolio)
-:	I'm a human-centered designer with over 15 years under my belt. As a player-coach, I've led teams for 5+ years. This is a collection of award-winning iOS, Android, and web designs.
-
 [Guides & Articles](/tools/)
 :	A collection of things I've written, plus guides for leaders, workshop facilitators, and other curious people.
 
@@ -33,8 +30,14 @@ bookToc: false
 [Design Process](/process/)
 :	How I do what I do.
 
+[Portfolio](/portfolio)
+:	I'm a human-centered designer with over 15 years under my belt. As a player-coach, I've led teams for 5+ years. This is a collection of award-winning iOS, Android, and web designs.
+
 <--->
 ## Services
+[Lost Horse Labs](/lost-horse)
+:	I founded a digital design agency focused on human-centered design and sustainability.
+
 [Work With Me](/work-with-me)
 :	Let's talk about how I can help your team.
 
