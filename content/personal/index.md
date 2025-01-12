@@ -34,4 +34,7 @@ summary: "A catalog of artwork and creative endeavors, my personal journal, and 
 [Log](/log)
 :	Weekly-ish log.
 
+[Book Notes](/book-notes)
+: A collection of highlights from books I’ve read.
+
 {{< /columns >}}

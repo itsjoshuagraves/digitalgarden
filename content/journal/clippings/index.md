@@ -4,7 +4,7 @@ title: Clippings
 tags: ["Wisdom"]
 bookToc: true
 weight: 10
-summary: "Quotes and insights from books and other sources on mind, focus, and ethics."
+summary: Quotes and insights from books and other sources on mind, focus, and ethics.
 ---
 
 ## Mind & Spirit
