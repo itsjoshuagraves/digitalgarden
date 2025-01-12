@@ -1,10 +1,10 @@
 ---
 date: 2025-01-10
 title: CPTSD, From Surviving to Thriving
-tags: ["Trauma"]
+tags: [Trauma]
 bookToc: true
 type: docs
-summary: On integrating and healing from trauma from complex post traumatic stress disorder. Focuses on inner child work, reparenting, and facing your shadow. By Pete Walker
+summary: Focuses on inner child work, reparenting, and facing your shadow as ways to recover from CPTSD. By Pete Walker.
 ---
 
 

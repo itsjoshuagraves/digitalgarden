@@ -1,6 +1,6 @@
 {{ define "main" }}
 
-{{ if and (ne .Kind "section") (in (slice "art" "docs" "portfolio" "photos" "tinkering" "tools" "about") .Section) }}
+{{ if and (ne .Kind "section") (in (slice "art" "docs" "portfolio" "photos" "tinkering" "tools" "about" "book-notes") .Section) }}
     {{ with .Site.GetPage "section" .Section }}
         <h5 class="post-date"><a href="{{ .RelPermalink }}">← Back</a></h5>
     {{ end }}

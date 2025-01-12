@@ -1,10 +1,10 @@
 ---
 date: 2025-01-10
 title: Designing Your Life
-tags: [“Life”]
+tags: [Mindful Living, Life]
 bookToc: true
 type: docs
-summary: 
+summary: Using Design Thinking to create a more meaningful life. By Bill Burnett and Dave Evans.
 ---
 - Reframing is one of the most important mind-sets of a designer. Many great innovations get started in a reframe. In design thinking we always say, “Don’t start with the problem, start with the people, start with empathy.”
 - But before you can figure out which direction to head in, you need to know where you are and what design problems you are trying to solve.

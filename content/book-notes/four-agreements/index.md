@@ -3,7 +3,7 @@ date: 2023-07-30
 title: The Four Agreements
 bookToc: true
 type: docs
-tags: ["Mindful Living"]
+tags: [Mindful Living]
 summary: Four principles for living an authentic life. By Don Miguel Ruiz.
 ---
 
@@ -11,6 +11,7 @@ Based on Toltec teachings, these deceptively simple notions have deep implicatio
 
 This book focuses on four principles for living an authentic life. Based on Toltec teachings, these deceptively simple notions have deep implications, specifically in how you relate to yourself.
 
+## The Four Agreements
 > 1. Be impeccable with your word.
 > 2. Don’t take it personally.
 > 3. Don’t make assumptions.
