@@ -3,5 +3,5 @@ title: Log
 type: log
 bookToc: false
 bookCollapseSection: true
-summary: "Semi-frequent updates about life and exploration."
+summary: Infrequent notes about life and what I’m exploring.
 ---

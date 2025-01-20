@@ -1,7 +1,7 @@
 ---
 title: We Need to Talk
 type: docs
-summary: "My forthcoming book for Rosenfeld Media, due out in 2023. It's about how to have hard conversations with anyone at work."
+summary: "My forthcoming book for Rosenfeld Media, due out in 2025. It's about how to have hard conversations with anyone at work."
 image: book.webp
 ---
 {{< button href="https://joshuamauldin.substack.com" >}}Get Notified When It's Ready{{< /button >}}
@@ -28,4 +28,4 @@ My workshops give you tools you can use immediately in your next tough conversat
 - Understand the best ways to address gender and power dynamicsU
 - Learn how to have cross-cultural conflict that isn’t based on stereotypes.
 
-[Read more about it on Rosenfeld's site](https://rosenfeldmedia.com/books/we-need-to-talk-a-survival-guide-for-tough-conversations/), or [sign up for updates](https://joshuamauldin.substack.com).
+[Read more about it on Rosenfeld's site](https://rosenfeldmedia.com/books/we-need-to-talk-a-survival-guide-for-tough-conversations/).

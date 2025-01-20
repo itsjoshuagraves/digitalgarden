@@ -23,6 +23,20 @@
       <description>On craftsmanship, curiosity, and the love of know-how.</description>
     </item>
     <item>
+      <title>On Intentions</title>
+      <link>http://localhost:1313/journal/intentions/</link>
+      <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/journal/intentions/</guid>
+      <description>How to create intentions that are authentic. Insights from a meditation retreat focusing on setting meaningful intentions for yourself.</description>
+    </item>
+    <item>
+      <title>Listening to the Universe</title>
+      <link>http://localhost:1313/journal/universe/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/journal/universe/</guid>
+      <description>It reveals strange and mysterious things to those who listen. Here are some it shared with me.</description>
+    </item>
+    <item>
       <title>Design &amp; Problem Solving</title>
       <link>http://localhost:1313/journal/design/</link>
       <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
@@ -42,13 +56,6 @@
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/journal/insight-systems/</guid>
       <description>Explorations on how tangential thinking can lead to deep insights. Includes information on astrology, tarot, and more.</description>
-    </item>
-    <item>
-      <title>Listening to the Universe</title>
-      <link>http://localhost:1313/journal/universe/</link>
-      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/journal/universe/</guid>
-      <description>It reveals strange and mysterious things to those who listen. Here are some it shared with me.</description>
     </item>
     <item>
       <title>Low Power Mode for Humans</title>

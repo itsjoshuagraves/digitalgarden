@@ -1,7 +1,7 @@
 ---
 bookToc: false
-date: My intention for this new site
-title: 2023-07-31
+date: 2023-07-31
+title: My intention for this new site 
 aliases:
   - /2023-07-31
 ---

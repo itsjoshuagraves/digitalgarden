@@ -7,8 +7,71 @@
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>2024, Joshua Graves</copyright>
-    <lastBuildDate>Mon, 23 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jan 2025 13:21:19 -0800</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Communication</title>
+      <link>http://localhost:1313/tags/Communication/</link>
+      <pubDate>Sun, 12 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/Communication/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Conflict Resolution</title>
+      <link>http://localhost:1313/tags/Conflict-Resolution/</link>
+      <pubDate>Sun, 12 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/Conflict-Resolution/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Empathy</title>
+      <link>http://localhost:1313/tags/Empathy/</link>
+      <pubDate>Sun, 12 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/Empathy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Life</title>
+      <link>http://localhost:1313/tags/Life/</link>
+      <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/Life/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mindful Living</title>
+      <link>http://localhost:1313/tags/Mindful-Living/</link>
+      <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/Mindful-Living/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Trauma</title>
+      <link>http://localhost:1313/tags/Trauma/</link>
+      <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/Trauma/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>“Intentions”</title>
+      <link>http://localhost:1313/tags/Intentions/</link>
+      <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/Intentions/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Print</title>
+      <link>http://localhost:1313/tags/Print/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/Print/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Digital</title>
+      <link>http://localhost:1313/tags/Digital/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/Digital/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Design Systems</title>
       <link>http://localhost:1313/tags/Design-Systems/</link>
@@ -24,10 +87,10 @@
       <description></description>
     </item>
     <item>
-      <title>Digital</title>
-      <link>http://localhost:1313/tags/Digital/</link>
-      <pubDate>Thu, 09 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/Digital/</guid>
+      <title>Mind</title>
+      <link>http://localhost:1313/tags/Mind/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/Mind/</guid>
       <description></description>
     </item>
     <item>
@@ -150,13 +213,6 @@
       <description></description>
     </item>
     <item>
-      <title>Mind</title>
-      <link>http://localhost:1313/tags/Mind/</link>
-      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/Mind/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Artium</title>
       <link>http://localhost:1313/tags/Artium/</link>
       <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
@@ -175,13 +231,6 @@
       <link>http://localhost:1313/tags/iOS/</link>
       <pubDate>Mon, 02 Mar 2020 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/iOS/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Conflict Resolution</title>
-      <link>http://localhost:1313/tags/Conflict-Resolution/</link>
-      <pubDate>Tue, 16 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/Conflict-Resolution/</guid>
       <description></description>
     </item>
     <item>

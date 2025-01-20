@@ -20,7 +20,9 @@ bookToc: false
 | Batch 29, Russian Imperial Stout | 29 Beer Co. | 10/10 | 
 | Arrogant Bastard | Stone Brewing | 4/10 |
 | Double Bastard | Stone Brewing | ? |
-| Imperial Russian stout | Stone Brewing  | 9/10 |
+| Imperial Russian Stout | Stone Brewing  | 9/10 |
 | Ruination | Stone Brewing | 9/10 |
 | Unnamed Coffee Stout | Stone Liberty Station | 10/10 |
 | Old Gregg IPA | Pizza Port Ocean Beach | 9/10 |
+| RnD Series: IPA #44 | Russian River | 8/10 |
+| Light | Societie | 3/10 |

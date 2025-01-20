@@ -9,6 +9,13 @@
     <copyright>2024, Joshua Graves</copyright>
     <atom:link href="http://localhost:1313/log/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>New Beginnings</title>
+      <link>http://localhost:1313/log/2025-01-20/</link>
+      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/log/2025-01-20/</guid>
+      <description>I spent the last year living in Joshua Tree, CA. It was wonderful. The landscape is incredible, the energy invigorating. But now I’m splitting my time between there and somewhere else. So it’s as if I have two homes now.&#xA;Dahlia I adopted a perfect little tuxedo cat who is so very sweet to me. I had heart eyes when I held her for the first time. It’s been over a year since I’ve had pets in my life, and I’m so happy they’re back.</description>
+    </item>
+    <item>
       <title>Feeding your demons</title>
       <link>http://localhost:1313/log/2023-12-12/</link>
       <pubDate>Tue, 12 Dec 2023 00:00:00 +0000</pubDate>
@@ -114,9 +121,9 @@
       <description>Recently started a contract gig, aimed at helping the prison system in California. It’s a slow start and unlike any other job I’ve taken on.&#xA;There wasn’t a big, or any, welcome. At first it was depressing but now it feels right. Past jobs have been a little too heavy on “culture” and for someone who is recovering from being in shitty environments that at first seemed great, I welcome it.</description>
     </item>
     <item>
-      <title>2023-07-31</title>
+      <title>My intention for this new site</title>
       <link>http://localhost:1313/log/2023-07-31/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 31 Jul 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/log/2023-07-31/</guid>
       <description>I intend to keep this wiki going for at least five years. Longer if it’s fruitful for me, but I don’t want to be chained to this forever.&#xA;Intentions are everything to me, as success usually doesn’t come without them.</description>
     </item>

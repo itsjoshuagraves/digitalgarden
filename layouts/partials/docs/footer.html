@@ -1,16 +1,16 @@
 <ul class="meta">
 
 {{ if and .GitInfo .Site.Params.BookRepo }}
+  <li class="bottomline"><a class="meta-rss" href="/index.xml">RSS Feed</a></li>
+  
   <li class="meta-update">
     {{- $date := partial "docs/date" (dict "Date" .GitInfo.AuthorDate.Local "Format" .Site.Params.BookDateFormat) -}}
     {{- $commitPath := default "commit" .Site.Params.BookCommitPath -}}
       Updated & © {{ $date }}</li> 
-  </ul>
+    </ul>
 {{ end }}
 <ul class="meta">
-  <li class="bottomline"><a href="http://losthorse.design/" title="Visit Lost Horse">Lost Horse</a></li>
-  <li class="bottomline"><a href="http://instagram.com/_thejoshuary/" title="Find me on Instagram">Instagram</a></li>
-  <li class="bottomline"><a class="meta-rss" href="/index.xml">RSS</a></li>
+
 
 </ul>
 

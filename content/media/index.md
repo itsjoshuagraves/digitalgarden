@@ -197,6 +197,7 @@ John Wick
 - What We Do In The Shadows (s6)
 - What We Do In The Shadows
 - The Mighty Boosh (s1–s3)
+- The Good Place (s1–s3)
 
 ## 2024
 - Nosferatu 🖤

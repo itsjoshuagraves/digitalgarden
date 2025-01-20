@@ -3,25 +3,76 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/journal/clippings/</loc>
-    <lastmod>2023-09-21T09:47:01-07:00</lastmod>
+    <lastmod>2025-01-12T09:42:42-08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/journal/self-reliant-tech/</loc>
     <lastmod>2023-09-20T12:22:26-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/portfolio/cdcr/</loc>
-    <lastmod>2024-09-23T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/log/2025-01-20/</loc>
+    <lastmod>2025-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/Design-Systems/</loc>
-    <lastmod>2024-09-23T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/Communication/</loc>
+    <lastmod>2025-01-12T13:21:19-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/Product-Design/</loc>
-    <lastmod>2024-09-23T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/Conflict-Resolution/</loc>
+    <lastmod>2025-01-12T13:21:19-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/Empathy/</loc>
+    <lastmod>2025-01-12T13:21:19-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/book-notes/nonviolent-communication/</loc>
+    <lastmod>2025-01-12T13:21:19-08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-09-23T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-12T13:21:19-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/book-notes/cptsd/</loc>
+    <lastmod>2025-01-12T13:21:19-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/book-notes/designing-your-life/</loc>
+    <lastmod>2025-01-12T13:21:19-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/Life/</loc>
+    <lastmod>2025-01-12T13:21:19-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/Mindful-Living/</loc>
+    <lastmod>2025-01-12T13:21:19-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/Trauma/</loc>
+    <lastmod>2025-01-12T13:21:19-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/Intentions/</loc>
+    <lastmod>2025-01-10T10:03:24-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/journal/intentions/</loc>
+    <lastmod>2025-01-10T10:03:24-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/Print/</loc>
+    <lastmod>2024-12-21T14:09:00-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/art/joshuary-shirts/</loc>
+    <lastmod>2024-12-21T14:09:00-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/art/black-and-gold/</loc>
+    <lastmod>2024-12-21T14:09:00-08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/Digital/</loc>
-    <lastmod>2024-09-01T07:38:01-07:00</lastmod>
+    <lastmod>2024-12-21T14:09:00-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/cdcr/</loc>
+    <lastmod>2024-09-23T15:08:19-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/Design-Systems/</loc>
+    <lastmod>2024-09-23T15:08:19-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/Product-Design/</loc>
+    <lastmod>2024-09-23T15:08:19-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/journal/universe/</loc>
+    <lastmod>2025-01-09T08:57:44-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/Mind/</loc>
+    <lastmod>2025-01-09T08:57:44-08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/art/memento/</loc>
     <lastmod>2024-09-01T07:38:01-07:00</lastmod>
@@ -185,8 +236,14 @@
     <loc>http://localhost:1313/journal/evaluation/</loc>
     <lastmod>2023-10-01T13:43:05-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/book-notes/four-agreements/</loc>
+    <lastmod>2025-01-12T13:21:19-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/book-notes/what-it-takes-to-heal/</loc>
+    <lastmod>2025-01-12T09:42:42-08:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/Wisdom/</loc>
-    <lastmod>2023-10-28T17:03:47-07:00</lastmod>
+    <lastmod>2025-01-12T09:42:42-08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/tech/</loc>
     <lastmod>2023-09-20T12:22:26-07:00</lastmod>
@@ -254,9 +311,6 @@
     <loc>http://localhost:1313/journal/insight-systems/</loc>
     <lastmod>2023-11-22T12:11:34-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/journal/universe/</loc>
-    <lastmod>2024-06-28T11:34:59-07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/journal/low-power-mode/</loc>
     <lastmod>2023-09-20T12:22:26-07:00</lastmod>
   </url><url>
@@ -265,9 +319,6 @@
   </url><url>
     <loc>http://localhost:1313/journal/meditations/</loc>
     <lastmod>2023-10-05T11:34:53-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/Mind/</loc>
-    <lastmod>2024-06-28T11:34:59-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/portfolio/aperture-health/</loc>
     <lastmod>2023-09-16T12:31:20-07:00</lastmod>
@@ -325,9 +376,6 @@
   </url><url>
     <loc>http://localhost:1313/portfolio/corelogic/</loc>
     <lastmod>2023-09-16T12:31:20-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/Conflict-Resolution/</loc>
-    <lastmod>2023-09-27T11:54:03-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tools/articles/cranky-conclusions/</loc>
     <lastmod>2023-09-27T11:54:03-07:00</lastmod>
@@ -551,6 +599,12 @@
     <loc>http://localhost:1313/tools/articles/</loc>
     <lastmod>2023-10-03T13:05:04-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/beer/</loc>
+    <lastmod>2025-01-12T13:21:19-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/book-notes/</loc>
+    <lastmod>2025-01-12T09:42:42-08:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/bookmarks/</loc>
     <lastmod>2023-11-30T13:28:45-08:00</lastmod>
   </url><url>
@@ -575,13 +629,13 @@
     <lastmod>2023-09-16T12:31:20-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/about/me/</loc>
-    <lastmod>2024-09-11T15:59:27-07:00</lastmod>
+    <lastmod>2025-01-09T08:57:44-08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-09-02T12:24:44-07:00</lastmod>
+    <lastmod>2024-12-30T14:20:05-08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/journal/</loc>
-    <lastmod>2023-10-01T13:43:05-07:00</lastmod>
+    <lastmod>2025-01-12T09:42:42-08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tools/links/</loc>
     <lastmod>2023-10-09T14:27:08-07:00</lastmod>
@@ -589,14 +643,20 @@
     <loc>http://localhost:1313/log/</loc>
     <lastmod>2023-12-13T16:52:59-08:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/lost-horse/</loc>
+    <lastmod>2025-01-09T19:05:32-08:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/media/</loc>
-    <lastmod>2024-09-01T07:38:01-07:00</lastmod>
+    <lastmod>2025-01-09T19:05:32-08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/about/meta/</loc>
-    <lastmod>2023-09-21T09:47:01-07:00</lastmod>
+    <lastmod>2025-01-10T16:02:36-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/nice-weather/</loc>
+    <lastmod>2025-01-09T19:05:32-08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/personal/</loc>
-    <lastmod>2024-04-08T21:58:38-07:00</lastmod>
+    <lastmod>2025-01-12T09:42:42-08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/photos/</loc>
     <lastmod>2023-12-13T12:46:02-08:00</lastmod>
@@ -605,7 +665,7 @@
     <lastmod>2023-09-05T21:06:19-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/professional/</loc>
-    <lastmod>2024-04-08T21:58:38-07:00</lastmod>
+    <lastmod>2025-01-09T19:05:32-08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tinkering/</loc>
     <lastmod>2023-08-16T12:59:27-07:00</lastmod>
@@ -623,7 +683,7 @@
     <lastmod>2024-01-04T09:34:11-08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/work-with-me/</loc>
-    <lastmod>2024-09-11T15:59:27-07:00</lastmod>
+    <lastmod>2025-01-09T08:57:44-08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/workshops/</loc>
     <lastmod>2023-09-18T13:20:37-07:00</lastmod>
