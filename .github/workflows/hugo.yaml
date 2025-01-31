@@ -28,10 +28,10 @@ jobs:
         run: hugo --gc --minify --baseURL="/"
 
       - name: Upload artifact
-        uses: actions/upload-artifact@v4  # ✅ NO MORE DEPRECATED v3
+        uses: actions/upload-artifact@v4
         with:
-          name: github-pages  # ✅ CORRECT ARTIFACT NAME
-          path: ./public      # ✅ HUGO'S OUTPUT DIRECTORY
+          name: github-pages  # ✅ ARTIFACT NAME MATCHES DEPLOY STEP
+          path: ./public      # ✅ ENSURE HUGO'S OUTPUT DIR IS USED
 
   deploy:
     runs-on: ubuntu-latest
@@ -41,11 +41,16 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - name: Download artifact
-        uses: actions/download-artifact@v4  # ✅ NO MORE DEPRECATED v3
+        uses: actions/download-artifact@v4
         with:
           name: github-pages
-          path: ./public
+          path: ./public  # ✅ SETS THE SAME PATH AS HUGO OUTPUT
+
+      - name: Ensure artifact is present
+        run: ls -la ./public  # 🔍 DEBUGGING: SEE IF FILES EXIST
 
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
+        with:
+          artifact_name: github-pages  # ✅ EXPLICITLY REFERENCE THE ARTIFACT
