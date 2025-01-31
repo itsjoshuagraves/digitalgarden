@@ -28,10 +28,10 @@ jobs:
         run: hugo --gc --minify --baseURL="/"
 
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v2  # ✅ Use correct upload action for GitHub Pages
+        uses: actions/upload-artifact@v4 # ✅ Correct version
         with:
-          name: github-pages  # ✅ REQUIRED: GitHub Pages expects "github-pages"
-          path: ./public      # ✅ Make sure it's the correct Hugo output directory
+          name: github-pages  # ✅ Ensure correct artifact name
+          path: ./public      # ✅ Make sure Hugo output is stored here
 
   deploy:
     runs-on: ubuntu-latest
@@ -40,6 +40,12 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
+      - name: Download artifact
+        uses: actions/download-artifact@v4 # ✅ Correct version
+        with:
+          name: github-pages
+          path: ./public
+
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
