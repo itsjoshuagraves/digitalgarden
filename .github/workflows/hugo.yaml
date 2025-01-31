@@ -27,11 +27,16 @@ jobs:
       - name: Build site
         run: hugo --gc --minify --baseURL="/"
 
+      - name: Ensure public directory exists
+        run: |
+          mkdir -p public
+          ls -la public
+
       - name: Upload artifact
-        uses: actions/upload-artifact@v4 # ✅ Correct version
+        uses: actions/upload-pages-artifact@v2  # ✅ Uses the correct upload action for GitHub Pages
         with:
-          name: github-pages  # ✅ Ensure correct artifact name
-          path: ./public      # ✅ Make sure Hugo output is stored here
+          name: github-pages
+          path: public
 
   deploy:
     runs-on: ubuntu-latest
@@ -41,10 +46,13 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - name: Download artifact
-        uses: actions/download-artifact@v4 # ✅ Correct version
+        uses: actions/download-artifact@v4
         with:
           name: github-pages
-          path: ./public
+          path: public
+
+      - name: Verify artifact contents
+        run: ls -la public
 
       - name: Deploy to GitHub Pages
         id: deployment
