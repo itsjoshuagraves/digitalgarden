@@ -14,4 +14,4 @@ As of `August 17, 2023` I've added a [bookshelf](/docs/guides/bookshelf) which c
 
 As of `August 4, 2023`, my forthcoming book, [We Need to Talk](/we-need-to-talk), is officially in editing mode!
 
-On `July 28, 2023`, I launched a new version of this site with an [entirely different vision](/about/site). So excited. :)  
+On `July 28, 2023`, I launched a new version of this site with an [entirely different vision](/about/site). So excited. :) 
