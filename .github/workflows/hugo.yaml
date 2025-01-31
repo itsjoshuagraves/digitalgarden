@@ -1,4 +1,3 @@
-# Deploy Hugo site to GitHub Pages
 name: Deploy Hugo Site to Pages
 
 on:
@@ -66,9 +65,9 @@ jobs:
           fi
 
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v4
+        uses: actions/upload-pages-artifact@v2
         with:
-          path: ./public
+          path: public
 
   deploy:
     environment:
@@ -79,4 +78,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v2
