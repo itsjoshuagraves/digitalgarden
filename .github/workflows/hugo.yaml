@@ -16,10 +16,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@main
 
       - name: Install Hugo
-        uses: peaceiris/actions-hugo@v3
+        uses: peaceiris/actions-hugo@main
         with:
           hugo-version: "latest"
           extended: true
@@ -31,7 +31,7 @@ jobs:
         run: ls -la public
 
       - name: Upload artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@main
         with:
           name: github-pages
           path: public
@@ -44,7 +44,7 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - name: Download artifact
-        uses: actions/download-artifact@v4
+        uses: actions/download-artifact@main
         with:
           name: github-pages
           path: public
@@ -54,4 +54,4 @@ jobs:
 
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v2
+        uses: actions/deploy-pages@main
