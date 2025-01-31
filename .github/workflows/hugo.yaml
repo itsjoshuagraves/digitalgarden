@@ -25,7 +25,10 @@ jobs:
           extended: true
 
       - name: Build site
-        run: hugo --gc --minify --baseURL="/"
+        run: hugo --gc --minify --baseURL="${{ secrets.BASE_URL }}"
+
+      - name: Verify build output
+        run: ls -la public
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
@@ -46,7 +49,7 @@ jobs:
           name: github-pages
           path: public
 
-      - name: Verify artifact contents
+      - name: Verify downloaded artifact
         run: ls -la public
 
       - name: Deploy to GitHub Pages
