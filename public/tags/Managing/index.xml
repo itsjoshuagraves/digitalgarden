@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Managing on Joshua Graves</title>
+    <link>http://localhost:1313/tags/Managing/</link>
+    <description>Recent content in Managing on Joshua Graves</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>2025, Joshua Graves</copyright>
+    <lastBuildDate>Tue, 03 Oct 2023 15:33:35 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/Managing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Manager&#39;s Guide to Your First One-on-One</title>
+      <link>http://localhost:1313/tools/guides/first-one-on-one/</link>
+      <pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tools/guides/first-one-on-one/</guid>
+      <description>First time meeting someone you&amp;rsquo;re managing? Here&amp;rsquo;s how to set things up for success.</description>
+    </item>
+    <item>
+      <title>One-on-One Guide</title>
+      <link>http://localhost:1313/tools/guides/one-on-ones/</link>
+      <pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tools/guides/one-on-ones/</guid>
+      <description>Template for one-on-one interviews</description>
+    </item>
+  </channel>
+</rss>

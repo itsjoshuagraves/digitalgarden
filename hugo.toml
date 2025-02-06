@@ -1,7 +1,7 @@
 baseURL = 'https://joshuagraves.me/'
 title = 'Joshua Graves'
 theme = 'hugo-book'
-copyright = '2024, Joshua Graves'
+copyright = '2025, Joshua Graves'
 enableRobotsTXT = true
 removePathAccents = true
 

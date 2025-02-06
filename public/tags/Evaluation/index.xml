@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Evaluation on Joshua Graves</title>
+    <link>http://localhost:1313/tags/Evaluation/</link>
+    <description>Recent content in Evaluation on Joshua Graves</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>2025, Joshua Graves</copyright>
+    <lastBuildDate>Sun, 01 Oct 2023 13:43:05 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/Evaluation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Evaluation &amp; Clear Thinking</title>
+      <link>http://localhost:1313/journal/evaluation/</link>
+      <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/journal/evaluation/</guid>
+      <description>Rubric for making decisions, coming to terms with an idea or choice, or seeing through the muck.</description>
+    </item>
+  </channel>
+</rss>

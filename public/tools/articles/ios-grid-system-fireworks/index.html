@@ -1,0 +1,461 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="One of my first ever published articles, extolling my love for grids.">
+<meta name="color-scheme" content="light dark">
+<meta name="theme-color" content=""><meta property="og:url" content="http://localhost:1313/tools/articles/ios-grid-system-fireworks/">
+  <meta property="og:site_name" content="Joshua Graves">
+  <meta property="og:title" content="iOS Grid System, A Free Extension For Adobe Fireworks">
+  <meta property="og:description" content="One of my first ever published articles, extolling my love for grids.">
+  <meta property="og:locale" content="en">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="tools">
+    <meta property="article:published_time" content="2013-05-05T00:00:00+00:00">
+    <meta property="article:modified_time" content="2023-09-27T11:54:03-07:00">
+    <meta property="article:tag" content="Smashing Magazine">
+<title>iOS Grid System, A Free Extension For Adobe Fireworks | Joshua Graves</title>
+<link rel="manifest" href="/manifest.json">
+<link rel="icon" href="/favicon-favicon.png" type="image/x-icon">
+<link rel="apple-touch-icon" sizes="180x180" href="/favicon-apple.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-favicon.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-tiny.png">
+<link rel="stylesheet" href="/book.min.7fdc3a2683756e3679cbc16ae379e05896a5f8df1e98d0abe947741b5f54e3ee.css" integrity="sha256-f9w6JoN1bjZ5y8Fq43ngWJal&#43;N8emNCr6Ud0G19U4&#43;4=" crossorigin="anonymous">
+  <script defer src="/flexsearch.min.js"></script>
+  <script defer src="/en.search.min.f6abca1c03fec1a2a7539db006777ca9a468da7dd93cb804899206450855cd0b.js" integrity="sha256-9qvKHAP&#43;waKnU52wBnd8qaRo2n3ZPLgEiZIGRQhVzQs=" crossorigin="anonymous"></script>
+
+  <script defer src="/sw.min.6f6f90fcb8eb1c49ec389838e6b801d0de19430b8e516902f8d75c3c8bd98739.js" integrity="sha256-b2&#43;Q/LjrHEnsOJg45rgB0N4ZQwuOUWkC&#43;NdcPIvZhzk=" crossorigin="anonymous"></script>
+<!--
+Made with Book Theme
+https://github.com/alex-shpak/hugo-book
+-->
+  
+</head>
+
+<body id="iOS Grid System, A Free Extension For Adobe Fireworks" dir="ltr">
+  <input type="checkbox" class="hidden toggle" id="menu-control" />
+  <input type="checkbox" class="hidden toggle" id="toc-control" />
+  <main class="container flex">
+    <aside class="book-menu">
+      <div class="book-menu-content">
+        
+  <nav>
+<h2 class="book-brand">
+  <a class="flex align-center" href="/">
+  
+    <span class="site-title">Joshua Graves</span>
+  </a>
+</h2>
+
+
+<div class="book-search">
+  <input type="text" id="book-search-input" placeholder="Search" aria-label="Search" maxlength="64" data-hotkeys="s/" />
+  <div class="book-search-spinner hidden"></div>
+  <ul id="book-search-results"></ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+  <ul>
+<li><a href="/personal"><strong>Personal</strong></a>
+<ul>
+<li><a href="/art">Visual Art</a></li>
+<li><a href="/tinkering">Tinkering</a></li>
+<li><a href="/journal">Journal</a></li>
+<li><a href="/photos">Photos</a></li>
+<li><a href="/media">Media Diary</a></li>
+<li><a href="/log">Log</a></li>
+</ul>
+</li>
+<li><a href="/professional"><strong>Professional</strong></a>
+<ul>
+<li><a href="/we-need-to-talk">We Need to Talk Book</a></li>
+<li><a href="/lost-horse">Lost Horse Labs</a></li>
+<li><a href="/tools">Tools for Designers &amp; Leaders</a></li>
+<li><a href="/work-with-me">Work With Me</a></li>
+</ul>
+</li>
+<li><a href="/about"><strong>About &amp; More</strong></a>
+<ul>
+<li><a href="/about/me">Joshua Graves</a></li>
+<li><a href="/about/digital-gardening">Digital Gardening</a></li>
+<li><a href="/bookmarks">Bookmarks</a></li>
+</ul>
+</li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+</nav>
+
+
+
+
+  <script>(function(){var e=document.querySelector("aside .book-menu-content");addEventListener("beforeunload",function(){localStorage.setItem("menu.scrollTop",e.scrollTop)}),e.scrollTop=localStorage.getItem("menu.scrollTop")})()</script>
+
+
+ 
+      </div>
+    </aside>
+
+    <div class="book-page">
+      <header class="book-header">
+        
+  <div class="flex align-center justify-between">
+  <label for="menu-control">
+    <img src="/svg/menu.svg" class="book-icon" alt="Menu" />
+  </label>
+
+  
+
+  <label for="toc-control">
+    
+    <img src="/svg/toc.svg" class="book-icon" alt="Table of Contents" />
+    
+  </label>
+</div>
+
+
+  
+  <aside class="hidden clearfix">
+    
+<h5 class="post-date">On This Page</h5>
+<nav id="TableOfContents">
+  <ul>
+    <li><a href="#why-are-grids-useful">Why Are Grids Useful?</a></li>
+    <li><a href="#why-make-an-ios-grid-extension-for-adobe-fireworks">Why Make An iOS Grid Extension For Adobe Fireworks?</a></li>
+    <li><a href="#about-the-ios-grid-extension">About The iOS Grid Extension</a></li>
+    <li><a href="#how-ios-grid-system-works">How iOS Grid System Works</a>
+      <ul>
+        <li><a href="#1-guides">1. Guides</a></li>
+        <li><a href="#2-grid-layer">2. Grid Layer</a></li>
+      </ul>
+    </li>
+    <li><a href="#further-notes">Further Notes</a>
+      <ul>
+        <li><a href="#can-the-commands-be-run-on-pages-with-existing-content">Can The Commands Be Run On Pages With Existing Content?</a></li>
+        <li><a href="#size-of-canvas-and-cropping-of-objects">Size Of Canvas And Cropping Of Objects</a></li>
+        <li><a href="#running-the-commands-multiple-times">Running The Commands Multiple Times</a></li>
+      </ul>
+    </li>
+    <li><a href="#download-install-and-use-ios-grid-system">Download, Install And Use iOS Grid System</a></li>
+    <li><a href="#roadmap-and-final-thoughts">Roadmap And Final Thoughts</a>
+      <ul>
+        <li><a href="#other-resources">Other Resources</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+
+
+
+  </aside>
+  
+ 
+      </header>
+
+  
+
+      
+
+      
+      
+
+      
+
+
+    
+        <h5 class="post-date"><a href="/tools/">← Back</a></h5>
+    
+
+
+<h1 class="page-title journal-title">
+iOS Grid System, A Free Extension For Adobe Fireworks
+</h1>
+<article class="markdown book-post">
+  <p class="main-summary">One of my first ever published articles, extolling my love for grids.
+  </p>
+  
+  
+
+  
+  
+
+
+
+<p>I’ll come right out and say it. I think the grid is the unsung hero of a good design. It gives structure and lets the design fall perfectly into place on the canvas. With a grid, adapting and building something new into your design is easy. <strong>Think of it like a house’s foundation.</strong> With a solid foundation, the house is stable, and building on it is easy. With a solid grid, your design can easily be adapted to accommodate whatever changes come along.</p>
+<p>Today, we’ll share iOS Grid System, which I’ve been using when designing apps in Adobe Fireworks. The extension is free for both personal and commercial use, and it works with all iOS devices as of the beginning May 2013.</p>
+<p>Installing and using the iOS grid extension in Fireworks is pretty easy. We’ll explain the process in detail, but you can jump to the <a href="https://www.smashingmagazine.com/?p=114159#download">download</a> section and try the extension right away.</p>
+<h2 id="why-are-grids-useful">
+  Why Are Grids Useful?
+  <a class="anchor" href="#why-are-grids-useful">#</a>
+</h2>
+<p>Before we continue, a bit about grids.</p>
+<p>I like consistency. It helps me feel like I can trust whatever I’m using at the moment. At a deeper level, users appreciate consistency because it <strong>builds trust</strong> — trust that you aren’t going to pull the rug out from under them in the middle of whatever they’re doing. They know what they’re going to get, and they’ll be more comfortable with you if everything lines up just right, rather than if elements look like spaghetti thrown against a wall. In the end, consistency improves trust and credibility through better design quality, and it improves usability by making a website or application more understandable, predictable and findable.</p>
+<p>As a designer, I like figuring out a system that <strong>makes updating easy</strong> for me. Grids help here because I don’t always have to worry about how a particular element should align with another; I’ve thought ahead and done that work already.</p>
+<p>Learning about grids helps you put out better designs. Grids — specifically, how to apply them so that a design can be consistent and grow into itself — are an essential topic for designers.</p>
+<p>Actually, they’re only essential if you want an interface that is:</p>
+<ul>
+<li>consistent,</li>
+<li>easy to update,</li>
+<li>polished even after you’ve finished working on the interface. (I guess we needed to make that clear first.)</li>
+</ul>
+<p>Whether you work with clients or are on an internal team, grids are especially useful when those last-minute “Hey, can you just add this little button in somewhere? It’ll take only a second, I swear!” changes come in. Accommodating that request becomes much less trouble simply because a good grid is in place. Just pick the appropriate column (or columns), and boom — you’re done. <strong>Happy client, happy you!</strong></p>
+<p>I like what Khoi Vinh has to say about grids in this short (but great) interview:</p>
+<p><em>“<a href="https://vimeo.com/31355402">Khoi Vinh: On the Grid</a>,” from <a href="https://vimeo.com/thecolormachine">The Color Machine</a></em></p>
+<blockquote>
+<p>&ldquo;The grid is a tool for me to impose order and logic and law. There’s a framework. If you remove all subjectivity, then you get some essential truth, some core idea that’s not clouded by inaccuracies or approximations or subjective feelings.&rdquo;</p></blockquote>
+<h2 id="why-make-an-ios-grid-extension-for-adobe-fireworks">
+  Why Make An iOS Grid Extension For Adobe Fireworks?
+  <a class="anchor" href="#why-make-an-ios-grid-extension-for-adobe-fireworks">#</a>
+</h2>
+<p>The easy answer is that most of my designs these days are for iOS, and a grid system is essential to every design I craft. I start using it early on in the design process, and having a solid grid in place when I design makes sense for me.</p>
+<p>I decided to build it after noticing how much time I spent making decisions that I could have easily automated. With this extension, I don’t have to spend time tediously clicking and dragging around to make sure my grid’s shapes and guides are pixel-perfect. This extension <strong>allows me spend more time on other important parts of the process</strong> (such as how the design works and looks).</p>
+<p>Now, I just open Adobe Fireworks, create a new project, and then select what iOS device I’ll be designing for and the number of columns I’ll need. Then, the grid appears on my canvas, along with some nicely sized gutters, which help my design breathe a little easier.</p>
+<p>Here’s what it looks like (notice the green overlay):</p>
+<p><figure>
+    <img src="iOS%20Grid%20System,%20A%20Free%20Extension%20For%20Adobe%20Firewo%202be8a23aacb845589de3f3ee8a63045e/ios-grid-system-grid-overlay.gif" alt="iOS%20Grid%20System,%20A%20Free%20Extension%20For%20Adobe%20Firewo%202be8a23aacb845589de3f3ee8a63045e/ios-grid-system-grid-overlay.gif" />
+<figcaption>iOS%20Grid%20System,%20A%20Free%20Extension%20For%20Adobe%20Firewo%202be8a23aacb845589de3f3ee8a63045e/ios-grid-system-grid-overlay.gif</figcaption>
+  </figure></p>
+<p><em>The iOS grid in practice. (<a href="https://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/005a2d90-8f7b-4e8d-acf3-031b63253c6c/ios-grid-system-grid-overlay.jpg">Large version</a>)</em></p>
+<h2 id="about-the-ios-grid-extension">
+  About The iOS Grid Extension
+  <a class="anchor" href="#about-the-ios-grid-extension">#</a>
+</h2>
+<p>The extension is made for Adobe Fireworks and is optimized to help you create designs for all of Apple’s mobile devices (in both portrait and landscape modes) as of May 2013. It will be updated as new iOS devices and resolutions arrive.</p>
+<p><a href="iOS%20Grid%20System,%20A%20Free%20Extension%20For%20Adobe%20Firewo%202be8a23aacb845589de3f3ee8a63045e/grid-full.thumbnail">iOS%20Grid%20System,%20A%20Free%20Extension%20For%20Adobe%20Firewo%202be8a23aacb845589de3f3ee8a63045e/grid-full.thumbnail</a></p>
+<p><em>iOS Grid System will build your grid automatically on any page in Adobe Fireworks. (<a href="https://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ced8124f-216a-498f-afbd-1fa05d556031/grid-full.jpg">Large version</a>)</em></p>
+<p><strong>Here’s what’s included in the extension package:</strong></p>
+<ul>
+<li>Non-Retina iPhone (3GS) grid command Grid size: 320 × 480 pixels</li>
+<li>Retina iPhone (4, 4S) grid command Grid size: 640 × 960 pixels</li>
+<li>Retina iPhone (5) grid command Grid size: 640 × 1136 pixels</li>
+<li>Non-Retina iPad (1, 2, Mini (2012)) grid command Grid size: 1024 × 768 pixels</li>
+<li>Retina iPad (3, 4) grid command Grid size: 2048 × 1536 pixels</li>
+</ul>
+<p><strong>Note:</strong> Apple doesn’t allow designers to specifically target the screen of the iPad Mini. To work on a design for iPad Mini, you can simply use the non-Retina iPad resolution, which is 1024 × 768 pixels.</p>
+<p>You’ll notice that all of these grids have a few things in common:</p>
+<ul>
+<li>Both the landscape and portrait versions of the grid for each device share the same column and gutter widths.</li>
+<li>On each side of the grid is a mini-column that helps your layout align with the leftmost and rightmost icons in the status bar. What good is a grid if everything doesn’t align properly, right?</li>
+</ul>
+<p>For the iPhone, each column is 30 pixels wide, with a 10-pixel gutter (the Retina iPhone is 60 and 20 pixels, respectively). The iPad versions use 44-pixel-wide columns with a 20-pixel gutter (the Retina iPad is 88 and 40 pixels, respectively).</p>
+<p>These exact dimensions make it easy for you to have adequate space between each column, while giving you flexibility in structuring the design. This is the best combination I’ve found from experimenting with different column and gutter sizes, because I’m able to keep the same dimensions while adding or subtracting columns as I change device orientations.</p>
+<h2 id="how-ios-grid-system-works">
+  How iOS Grid System Works
+  <a class="anchor" href="#how-ios-grid-system-works">#</a>
+</h2>
+<p>When a command from iOS Grid System is run, it automatically creates two things: “guides” and “shapes.”</p>
+<p><figure>
+    <img src="iOS%20Grid%20System,%20A%20Free%20Extension%20For%20Adobe%20Firewo%202be8a23aacb845589de3f3ee8a63045e/select-grid.jpg" alt="iOS%20Grid%20System,%20A%20Free%20Extension%20For%20Adobe%20Firewo%202be8a23aacb845589de3f3ee8a63045e/select-grid.jpg" />
+<figcaption>iOS%20Grid%20System,%20A%20Free%20Extension%20For%20Adobe%20Firewo%202be8a23aacb845589de3f3ee8a63045e/select-grid.jpg</figcaption>
+  </figure></p>
+<p><em>Here’s how to access the iOS Grid System commands from the “Commands” menu.</em></p>
+<h3 id="1-guides">
+  1. Guides
+  <a class="anchor" href="#1-guides">#</a>
+</h3>
+<p>A set of guides will be placed directly on the page.</p>
+<p>You can lock them (in the menu, <code>View → Guides → Lock Guides</code>); you can activate snap-to-guides (<code>View → Guides → Snap to Guides</code>), which can make moving and resizing objects on the page easier; and you can temporarily hide or show the guides (<code>View → Guides → Show Guides</code>).</p>
+<h3 id="2-grid-layer">
+  2. Grid Layer
+  <a class="anchor" href="#2-grid-layer">#</a>
+</h3>
+<p>The shapes (which will serve as columns) will be placed on their own locked layer in the page, named “Grid,” and combined into one symbol. Because the shapes are added as a symbol, reusing them anywhere else in the document is easy, if that’s your thing.</p>
+<p><figure>
+    <img src="iOS%20Grid%20System,%20A%20Free%20Extension%20For%20Adobe%20Firewo%202be8a23aacb845589de3f3ee8a63045e/layers-pallete-grids.webp" alt="iOS%20Grid%20System,%20A%20Free%20Extension%20For%20Adobe%20Firewo%202be8a23aacb845589de3f3ee8a63045e/layers-pallete-grids.webp" />
+<figcaption>iOS%20Grid%20System,%20A%20Free%20Extension%20For%20Adobe%20Firewo%202be8a23aacb845589de3f3ee8a63045e/layers-pallete-grids.webp</figcaption>
+  </figure></p>
+<p><em>After you run a command from iOS Grid System, in the Layers panel you’ll notice that a new layer with the grid on it (contained within a single symbol) has been added. The “Grid” layer is initially locked, to prevent you from accidentally making changes to it.</em></p>
+<p>The columns in the “Grid” layer have 33% transparency, and objects in your design placed on layers underneath it will be visible. But you can move the “Grid” layer to the bottom of the stack, if you prefer.</p>
+<p>And when you don’t need the “Grid” layer to be visible, simply toggle its visibility in the Layers panel.</p>
+<h2 id="further-notes">
+  Further Notes
+  <a class="anchor" href="#further-notes">#</a>
+</h2>
+<h3 id="can-the-commands-be-run-on-pages-with-existing-content">
+  Can The Commands Be Run On Pages With Existing Content?
+  <a class="anchor" href="#can-the-commands-be-run-on-pages-with-existing-content">#</a>
+</h3>
+<p>Yes, absolutely!</p>
+<p>When the extension is used on a page with existing content, it will create a new “Grid” layer, move it to the top of the layers stack, lock it automatically, and then return focus to the original layer on which you were working. Smart!</p>
+<p>It will also resize the canvas automatically (read more about that in the next section).</p>
+<h3 id="size-of-canvas-and-cropping-of-objects">
+  Size Of Canvas And Cropping Of Objects
+  <a class="anchor" href="#size-of-canvas-and-cropping-of-objects">#</a>
+</h3>
+<p>Here’s another thing to keep in mind. When running a command from the set on a page that already has some objects placed on the canvas, and if the canvas is larger than the iOS device you are designing for, then some of the objects may be cropped or deleted when the canvas is made smaller. This won’t happen in all cases, though, because in Fireworks there’s a setting (in <code>Edit → Preferences → Edit</code>) that controls the behavior of canvas cropping:</p>
+<ul>
+<li>If “Delete objects when cropping” is checked, then the objects will be cropped with the canvas.</li>
+<li>If “Delete objects when cropping” is unchecked, then all objects will be preserved when cropping the canvas.</li>
+</ul>
+<p><em>The “Delete objects when cropping” preference can be toggled on and off by going to <code>Edit → Preferences → Edit</code>.</em></p>
+<p>When you run the command on a page with some existing artwork on it, <strong>this preference is important to remember!</strong></p>
+<h3 id="running-the-commands-multiple-times">
+  Running The Commands Multiple Times
+  <a class="anchor" href="#running-the-commands-multiple-times">#</a>
+</h3>
+<p>You can use any of these commands multiple times in one document. Just create a new page and select the command you wish to run, and a new set of guides and grids will be created.</p>
+<p>(Just be careful when you try to run them multiple times on the same page. This is not recommended — things can get weird.)</p>
+<h2 id="download-install-and-use-ios-grid-system">
+  Download, Install And Use iOS Grid System
+  <a class="anchor" href="#download-install-and-use-ios-grid-system">#</a>
+</h2>
+<p>Want to try iOS Grid System for yourself? Follow these simple steps:</p>
+<ol>
+<li><a href="https://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8328b562-7345-4f4d-9a2b-4ffd3b239699/ios-grid-system.zip">Download the iOS Grid System</a> extension (the ZIP contains an MXP file and is around 20 KB). Alternatively, you can download it from its <a href="https://github.com/joshuamauldin/ios-grid-system">GitHub page</a>, because this project is also maintained there, if you’re that kind of geek.</li>
+<li>Unzip and then run the MXP file, and it’ll launch Adobe Extension Manager. Follow the on-screen instructions, and you’ll be ready to use it in Fireworks! (For general information on installing and working with extensions in Fireworks, I highly recommend the article “<a href="https://www.smashingmagazine.com/2012/08/28/fireworks-extensions-for-better-workflow/">Optimizing the Design Workflow With Extensions</a>”.)</li>
+<li>Open Fireworks and create a new document. As mentioned, the size of the canvas doesn’t matter, because the command will resize the canvas automatically.</li>
+<li>Go to <code>Commands → iOS Grid System</code> and select an iOS device. Then, iOS Grid System will go to work building your grid!</li>
+</ol>
+<p>Alternatively, you can apply the extension to existing pages as well. But keep in mind that, while existing artwork won’t be touched, the canvas will be resized (unless, of course, you run a command that matches the dimensions of the current page).</p>
+<h2 id="roadmap-and-final-thoughts">
+  Roadmap And Final Thoughts
+  <a class="anchor" href="#roadmap-and-final-thoughts">#</a>
+</h2>
+<p>You’ve probably already figured out that I love grids and find them very useful. If you use Adobe Fireworks for iOS design, I hope that this grid system will help your design grow as you maintain it.</p>
+<p>I’m also curious to see how and where you use it. Share a link to your app or mobile website. <strong>We’d love to see it in action!</strong></p>
+<p>Now let’s open it up to your suggestions for improvements. This idea has existed (mostly) in a vacuum up until now, and these kinds of things always benefit from other people’s suggestions. For example, I’m curious if anyone would prefer to use templates, instead of commands that run on a per-page basis. Or perhaps you’ve found a bug somewhere.</p>
+<p>I would greatly appreciate all kinds of feedback!</p>
+<p>Of course, any questions about how to use this extension are welcome, too. Just leave a comment — I’d be happy to help.</p>
+<h3 id="other-resources">
+  Other Resources
+  <a class="anchor" href="#other-resources">#</a>
+</h3>
+<ul>
+<li>“Interview With Khoi Vinh,” The Grid System</li>
+<li>“<a href="https://www.amazon.com/Thinking-Type-2nd-revised-expanded/dp/1568989695">Grid</a>,” <em>Thinking With Type</em>, Ellen Lupton We didn’t talk about typography here, but this is great resource to learn more about the fundamentals of good typography, too!</li>
+<li>“<a href="https://www.smashingmagazine.com/2012/12/03/design-ios-apps-with-adobe-fireworks/">Design Cutting-Edge iOS Apps With Adobe Fireworks</a>,” Ivo Mynttinen, Smashing Magazine</li>
+<li>“<a href="https://www.smashingmagazine.com/2012/08/28/fireworks-extensions-for-better-workflow/">Optimizing the Design Workflow With Extensions</a>,” Ashish Bogawat, Smashing Magazine</li>
+<li>“<a href="https://www.smashingmagazine.com/2012/09/13/create-pattern-library-with-evernote-fireworks/">Creating a Pattern Library With Evernote and Fireworks</a>,” Kris Niles, Smashing Magazine</li>
+<li><a href="https://www.smashingmagazine.com/2011/11/09/establishing-your-grid-in-photoshop/">Establishing Your Grid In Photoshop</a></li>
+<li><a href="https://www.smashingmagazine.com/2011/08/23/the-semantic-grid-system-page-layout-for-tomorrow/">The Semantic Grid System: Page Layout For Tomorrow</a></li>
+<li><a href="https://www.smashingmagazine.com/2012/12/03/design-ios-apps-with-adobe-fireworks/">Design Cutting Edge iOS Apps With Adobe Fireworks</a></li>
+</ul>
+<p><a href="https://www.smashingmagazine.com/2013/05/ios-grid-system-free-extension-adobe-fireworks/">Original post</a></p>
+</article>
+
+<div class="page-nav">
+    <h5 class="post-date">More</h5>
+    <ul class="pagination">
+        
+        <li class="page-item">
+            <a href="/tools/articles/effective-style-guide-fireworks/" class="next">⇡ How To Make An Effective Style Guide With Adobe Fireworks </a>
+        </li>
+        
+        
+        <li class="page-item">
+            <a href="/tools/articles/problem-with-in-app-ratings/" class="prev">⇣ My real problem with in-app rating modules</a>
+        </li>
+        
+        
+    </ul>
+</div>
+ 
+      
+
+      <footer class="book-footer">
+        
+  <ul class="meta">
+
+
+  <li class="bottomline"><a class="meta-rss" href="/index.xml">RSS Feed</a></li>
+  
+  <li class="meta-update">Updated & © September 27, 2023</li> 
+    </ul>
+
+<ul class="meta">
+
+
+</ul>
+
+
+
+  <script>(function(){function e(e){const t=window.getSelection(),n=document.createRange();n.selectNodeContents(e),t.removeAllRanges(),t.addRange(n)}document.querySelectorAll("pre code").forEach(t=>{t.addEventListener("click",function(){if(window.getSelection().toString())return;e(t.parentElement),navigator.clipboard&&navigator.clipboard.writeText(t.parentElement.textContent)})})})()</script>
+
+
+
+ 
+        
+      </footer>
+
+
+      <label for="menu-control" class="hidden book-menu-overlay"></label>
+    </div>
+
+    
+    <aside class="book-toc">
+      <div class="book-toc-content">
+        
+<h5 class="post-date">On This Page</h5>
+<nav id="TableOfContents">
+  <ul>
+    <li><a href="#why-are-grids-useful">Why Are Grids Useful?</a></li>
+    <li><a href="#why-make-an-ios-grid-extension-for-adobe-fireworks">Why Make An iOS Grid Extension For Adobe Fireworks?</a></li>
+    <li><a href="#about-the-ios-grid-extension">About The iOS Grid Extension</a></li>
+    <li><a href="#how-ios-grid-system-works">How iOS Grid System Works</a>
+      <ul>
+        <li><a href="#1-guides">1. Guides</a></li>
+        <li><a href="#2-grid-layer">2. Grid Layer</a></li>
+      </ul>
+    </li>
+    <li><a href="#further-notes">Further Notes</a>
+      <ul>
+        <li><a href="#can-the-commands-be-run-on-pages-with-existing-content">Can The Commands Be Run On Pages With Existing Content?</a></li>
+        <li><a href="#size-of-canvas-and-cropping-of-objects">Size Of Canvas And Cropping Of Objects</a></li>
+        <li><a href="#running-the-commands-multiple-times">Running The Commands Multiple Times</a></li>
+      </ul>
+    </li>
+    <li><a href="#download-install-and-use-ios-grid-system">Download, Install And Use iOS Grid System</a></li>
+    <li><a href="#roadmap-and-final-thoughts">Roadmap And Final Thoughts</a>
+      <ul>
+        <li><a href="#other-resources">Other Resources</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+
+
+ 
+      </div>
+    </aside>
+    
+  </main>
+
+  <script>
+if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+    document.querySelector('meta[name="theme-color"]').setAttribute("content", "#000000");  
+} else {
+    document.querySelector('meta[name="theme-color"]').setAttribute("content", "#FFFCFA");  
+}
+
+</script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
