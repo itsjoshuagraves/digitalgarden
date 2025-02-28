@@ -2,46 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hiring on Joshua Graves</title>
-    <link>http://localhost:1313/tags/Hiring/</link>
+    <link>https://joshuagraves.me/tags/Hiring/</link>
     <description>Recent content in Hiring on Joshua Graves</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>2025, Joshua Graves</copyright>
     <lastBuildDate>Tue, 03 Oct 2023 16:02:28 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/Hiring/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://joshuagraves.me/tags/Hiring/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hiring Manager Interview</title>
-      <link>http://localhost:1313/tools/guides/hiring-manager-interview/</link>
+      <link>https://joshuagraves.me/tools/guides/hiring-manager-interview/</link>
       <pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tools/guides/hiring-manager-interview/</guid>
+      <guid>https://joshuagraves.me/tools/guides/hiring-manager-interview/</guid>
       <description>How to conduct a hiring manager interview with a candidate.</description>
     </item>
     <item>
       <title>Interviewer Guidelines</title>
-      <link>http://localhost:1313/tools/guides/good-interviewing/</link>
+      <link>https://joshuagraves.me/tools/guides/good-interviewing/</link>
       <pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tools/guides/good-interviewing/</guid>
+      <guid>https://joshuagraves.me/tools/guides/good-interviewing/</guid>
       <description>There&amp;rsquo;s an art to interviewing candidates, mostly focused on listening. Here are some guidelines.</description>
     </item>
     <item>
       <title>On Site Interview Template</title>
-      <link>http://localhost:1313/tools/guides/onsite-template/</link>
+      <link>https://joshuagraves.me/tools/guides/onsite-template/</link>
       <pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tools/guides/onsite-template/</guid>
+      <guid>https://joshuagraves.me/tools/guides/onsite-template/</guid>
       <description>Calling a candidate in for a final round of interviews? Here&amp;rsquo;s how to set expectations.</description>
     </item>
     <item>
       <title>Product Designer Pre-screen</title>
-      <link>http://localhost:1313/tools/guides/pre-screen/</link>
+      <link>https://joshuagraves.me/tools/guides/pre-screen/</link>
       <pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tools/guides/pre-screen/</guid>
+      <guid>https://joshuagraves.me/tools/guides/pre-screen/</guid>
       <description>What to look for before you call a candidate in for an interview.</description>
     </item>
     <item>
       <title>Screener Questions</title>
-      <link>http://localhost:1313/tools/guides/screener-questions/</link>
+      <link>https://joshuagraves.me/tools/guides/screener-questions/</link>
       <pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tools/guides/screener-questions/</guid>
+      <guid>https://joshuagraves.me/tools/guides/screener-questions/</guid>
       <description>Initial recruiting screen geared towards fundamental understanding of design processes and collaboration.</description>
     </item>
   </channel>

@@ -1,14 +1,19 @@
 {{ define "main" }}
 <h5 class="post-date"><a href="/journal/">← Back</a></h5>
-<h1 class="page-title journal-title">
-{{ partial "docs/title.html" . }}
-</h1>
+
+<hgroup>
+    <h1 class="page-title journal-title">
+        {{ partial "docs/title.html" . }}
+    </h1>
+    <p class="main-summary">{{ partial "docs/summary.html" . }}</p>
+</hgroup>
+
 <article class="markdown book-post">
-  <p class="main-summary">{{ partial "docs/summary.html" . }}
-  </p>
   {{ partial "docs/post-meta" . }}
   {{- .Content -}}
 </article>
+
+
 <div class="page-nav">
     <h5 class="post-date">More</h5>
     <ul class="pagination">

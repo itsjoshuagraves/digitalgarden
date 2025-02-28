@@ -2,12 +2,27 @@
 title: Joshua Graves • Designer, Author, Curious Person
 type: home
 bookToc: false
-summary: "Multidisciplinary product designer, founder, visual artist, and author of We Need to Talk."
+summary: "Author of We Need to Talk, multidisciplinary product designer, founder, and visual artist."
 images: 
  - /opengraph.png
 ---
 
+<article class="markdown book-post feature-block book-hint warning">
+	<a href="/we-need-to-talk">
+		<img src="/book-promo.webp">
+		<div class="feature-right">
+	</a>
+    	<p class="post-summary">My first book on how to have and survive hard conversations releases <strong>April 15</strong> through <a href="https://rosenfeldmedia.com/books/we-need-to-talk-a-survival-guide-for-tough-conversations/">Rosenfeld Media</a>! It's been an incredible journey writing this book and I couldn't be happier with the results. I worked for years to hone this book and make it your go-to resource when you have to have a hard conversation. Forward by <a href="https://karencatlin.com" title="Karen Catlin's Site">Karen Catlin</a>.</p>
+    </div>
+
+{{< button href="https://rosenfeldmedia.com/books/we-need-to-talk-a-survival-guide-for-tough-conversations/" >}}Pre-Order Now{{< /button >}}
+
+
+</article>
+
+
 ---
+
 ## New Art
 {{< columns >}}
 [![Black and Gold Series](/art/black-and-gold/reconstruction.webp)](/art/black-and-gold)
@@ -17,29 +32,25 @@ images:
 
 
 ---
-## Latest Updates
+
+## Current Projects
 {{< columns >}}
 
+[`We Need to Talk`](/we-need-to-talk/)
+: My first book on having hard conversations. Releases April 15, 2025.
 
-`December 2024`
-: My forthcoming book, [We Need to Talk](/we-need-to-talk), is going into production! 
-
-`September 2024`
-: Meet [The Joshuary](https://www.thejoshuary.shop). A place filled with curious goods and wonderful things. There you can get art prints, shirts, and more.
-
-`July 2024`
-: There will be some prints for you to buy soon. :) 
-
+[`Lost Horse Labs`](https://losthorse.design)
+: I founded a human-centered design agency that builds incredible software and brands.
 
 <--->
 
-`September 2023`
-: Launched [The Nevermore](https://nevermore.rip), dedicated to the works of Edgar Allan Poe! It's goal is to give people a beautiful reading experience. Hope you'll enjoy!
+[`The Joshuary`](https://www.thejoshuary.shop)
+: A shop filled with curious goods and wonderful things. Namely, prints, objects, and other spooky-inspired items you won't find anywhere else.
 
+[`The Nevermore`](https://nevermore.rip)
+: A site dedicated to the works of Edgar Allan Poe with a focus on a beautiful reading experience.
 
-`September 2023`
-: Made significant updates to my [design philosophy](/philosophy).
-
-`August 2023`
-: Added a [bookshelf](/docs/guides/bookshelf) which contains recommendations for newcomers to design.
 {{< /columns >}}
+
+<a style="display:none" rel="me" href="https://hooray.computer/@joshua">Mastodon</a>
+

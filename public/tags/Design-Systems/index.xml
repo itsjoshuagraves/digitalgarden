@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Design Systems on Joshua Graves</title>
-    <link>http://localhost:1313/tags/Design-Systems/</link>
+    <link>https://joshuagraves.me/tags/Design-Systems/</link>
     <description>Recent content in Design Systems on Joshua Graves</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>2025, Joshua Graves</copyright>
     <lastBuildDate>Mon, 23 Sep 2024 15:08:19 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/Design-Systems/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://joshuagraves.me/tags/Design-Systems/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>California Department of Corrections and Rehabilitation</title>
-      <link>http://localhost:1313/portfolio/cdcr/</link>
+      <link>https://joshuagraves.me/portfolio/cdcr/</link>
       <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/cdcr/</guid>
+      <guid>https://joshuagraves.me/portfolio/cdcr/</guid>
       <description>A comprehensive design system, human-centered design training, and more.</description>
     </item>
     <item>
       <title>Azibo</title>
-      <link>http://localhost:1313/portfolio/azibo/</link>
+      <link>https://joshuagraves.me/portfolio/azibo/</link>
       <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/azibo/</guid>
+      <guid>https://joshuagraves.me/portfolio/azibo/</guid>
       <description>Designing a cohesive, valuable experience for property owners.</description>
     </item>
     <item>
       <title>Candy</title>
-      <link>http://localhost:1313/portfolio/candy/</link>
+      <link>https://joshuagraves.me/portfolio/candy/</link>
       <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/candy/</guid>
+      <guid>https://joshuagraves.me/portfolio/candy/</guid>
       <description>Launching and iterating on a two-sided marketplace for Major League Baseball.</description>
     </item>
     <item>
       <title>US Space Force</title>
-      <link>http://localhost:1313/portfolio/us-space-force/</link>
+      <link>https://joshuagraves.me/portfolio/us-space-force/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/us-space-force/</guid>
+      <guid>https://joshuagraves.me/portfolio/us-space-force/</guid>
       <description>Designing a workflow and interface to help shoot lasers into space.</description>
     </item>
   </channel>

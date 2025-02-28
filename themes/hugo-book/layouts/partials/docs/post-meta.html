@@ -13,11 +13,11 @@
 {{ end }}
 
 {{ if .Params.image }}
-<p>
+<figure>
   {{ with .Resources.GetMatch .Params.image }}
     <img src={{ .RelPermalink }} />
   {{ else }}
     <img src={{ .Params.image | relURL }} />
   {{ end }}
-</p>
+</figure>
 {{ end }}

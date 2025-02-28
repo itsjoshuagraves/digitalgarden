@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head>
   <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="description" content="A list of sites I like or find useful.">
 <meta name="color-scheme" content="light dark">
-<meta name="theme-color" content=""><meta property="og:url" content="http://localhost:1313/bookmarks/">
+<meta name="theme-color" content=""><meta property="og:url" content="https://joshuagraves.me/bookmarks/">
   <meta property="og:site_name" content="Joshua Graves">
   <meta property="og:title" content="Bookmarks">
   <meta property="og:description" content="A list of sites I like or find useful.">
@@ -18,9 +18,9 @@
 <link rel="apple-touch-icon" sizes="180x180" href="/favicon-apple.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-favicon.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-tiny.png">
-<link rel="stylesheet" href="/book.min.7fdc3a2683756e3679cbc16ae379e05896a5f8df1e98d0abe947741b5f54e3ee.css" integrity="sha256-f9w6JoN1bjZ5y8Fq43ngWJal&#43;N8emNCr6Ud0G19U4&#43;4=" crossorigin="anonymous">
+<link rel="stylesheet" href="/book.min.777fc48b231a6ae3498fd8233c1670defc7ce093d34ba5dbb0b1c4755bd5cb2d.css" integrity="sha256-d3/EiyMaauNJj9gjPBZw3vx84JPTS6XbsLHEdVvVyy0=" crossorigin="anonymous">
   <script defer src="/flexsearch.min.js"></script>
-  <script defer src="/en.search.min.f6abca1c03fec1a2a7539db006777ca9a468da7dd93cb804899206450855cd0b.js" integrity="sha256-9qvKHAP&#43;waKnU52wBnd8qaRo2n3ZPLgEiZIGRQhVzQs=" crossorigin="anonymous"></script>
+  <script defer src="/en.search.min.d6f206178502ce7ff70d0aef24211453454b03aa3f9adb384a82497250a582fc.js" integrity="sha256-1vIGF4UCzn/3DQrvJCEUU0VLA6o/mts4SoJJclClgvw=" crossorigin="anonymous"></script>
 
   <script defer src="/sw.min.6f6f90fcb8eb1c49ec389838e6b801d0de19430b8e516902f8d75c3c8bd98739.js" integrity="sha256-b2&#43;Q/LjrHEnsOJg45rgB0N4ZQwuOUWkC&#43;NdcPIvZhzk=" crossorigin="anonymous"></script>
 <!--
@@ -84,8 +84,10 @@ https://github.com/alex-shpak/hugo-book
 </li>
 <li><a href="/about"><strong>About &amp; More</strong></a>
 <ul>
-<li><a href="/about/me">Joshua Graves</a></li>
-<li><a href="/about/digital-gardening">Digital Gardening</a></li>
+<li><a href="/bio">Bio</a></li>
+<li><a href="/uses">Uses</a></li>
+<li><a href="/now">Now</a></li>
+<li><a href="/digital-gardening">Digital Gardening</a></li>
 <li><a href="/bookmarks">Bookmarks</a></li>
 </ul>
 </li>
@@ -124,10 +126,28 @@ https://github.com/alex-shpak/hugo-book
 
   <label for="toc-control">
     
+    <img src="/svg/toc.svg" class="book-icon" alt="Table of Contents" />
+    
   </label>
 </div>
 
 
+  
+  <aside class="hidden clearfix">
+    
+<h5 class="post-date">On This Page</h5>
+<nav id="TableOfContents">
+  <ul>
+    <li><a href="#tech">Tech</a></li>
+    <li><a href="#fun">Fun</a></li>
+    <li><a href="#art--design">Art &amp; Design</a></li>
+    <li><a href="#reference--resources">Reference &amp; Resources</a></li>
+  </ul>
+</nav>
+
+
+
+  </aside>
   
  
       </header>
@@ -143,12 +163,14 @@ https://github.com/alex-shpak/hugo-book
 
 
 
-<h1 class="page-title journal-title">
-Bookmarks
-</h1>
+<hgroup>
+    <h1 class="page-title journal-title">
+        Bookmarks
+    </h1>
+    <p class="main-summary">A list of sites I like or find useful.</p>
+</hgroup>
+
 <article class="markdown book-post">
-  <p class="main-summary">A list of sites I like or find useful.
-  </p>
   
   
 
@@ -156,21 +178,27 @@ Bookmarks
 
 
 
-<div class="book-columns flex flex-wrap">
-
-  <div class="flex-even markdown-inner">
-    <h2 id="tech">
+<h2 id="tech">
   Tech
   <a class="anchor" href="#tech">#</a>
 </h2>
-<ul>
+<p>For all things related to tinkering, reference, and reading.
+<div class="book-columns flex flex-wrap">
+
+  <div class="flex-even markdown-inner">
+    <ul>
 <li><a href="https://eoe.works/">Elite Obsolete Electronics</a></li>
 <li><a href="https://www.notechmagazine.com/">No Tech Magazine</a></li>
 <li><a href="https://solar.lowtechmagazine.com/">Low Tech Magazine</a></li>
 <li><a href="https://arstechnica.com/">Ars Technica</a></li>
 <li><a href="https://esoteric.codes/">Esoteric Codes</a></li>
 <li><a href="https://internet-in-a-box.org">Internet In a Box</a></li>
-<li><a href="https://hooray.computer/">Hooray! Computer</a></li>
+</ul>
+
+  </div>
+
+  <div class="flex-even markdown-inner">
+    <ul>
 <li><a href="https://pandoc.org">Pandoc</a></li>
 <li><a href="https://ffmpeg.org">Ffmpeg</a></li>
 <li><a href="https://imagemagick.org/index.php">Imagemagick</a></li>
@@ -178,10 +206,16 @@ Bookmarks
 <li><a href="https://gohugo.io">Hugo</a></li>
 <li><a href="https://bulletstotable.com">Bullets to Table Converter</a></li>
 </ul>
+
+  </div>
+
+</div>
+</p>
 <h2 id="fun">
   Fun
   <a class="anchor" href="#fun">#</a>
 </h2>
+<p>Where I go for entertainment.</p>
 <ul>
 <li><a href="https://www.itsnicethat.com/">It&rsquo;s Nice That</a></li>
 <li><a href="https://www.fangoria.com/">Fangoria</a></li>
@@ -190,34 +224,55 @@ Bookmarks
 <li><a href="https://design-milk.com/">Design Milk</a></li>
 <li><a href="https://poorlydrawnlines.com/">Poorly Drawn Lines</a></li>
 </ul>
+<h2 id="art--design">
+  Art &amp; Design
+  <a class="anchor" href="#art--design">#</a>
+</h2>
+<p>I love reading about art and design, here are some great artists and resources.
+<div class="book-columns flex flex-wrap">
+
+  <div class="flex-even markdown-inner">
+    <ul>
+<li><a href="https://typetura.com/">Typetura</a></li>
+<li><a href="https://normadesign.it/en/">Norma Design</a></li>
+<li><a href="https://helveticablanc.com/">Helvetica Blanc</a></li>
+</ul>
 
   </div>
 
   <div class="flex-even markdown-inner">
-    <h2 id="art--design">
-  Art &amp; Design
-  <a class="anchor" href="#art--design">#</a>
-</h2>
-<ul>
-<li><a href="https://typetura.com/">Typetura</a></li>
-<li><a href="https://normadesign.it/en/">Norma Design</a></li>
-<li><a href="https://helveticablanc.com/">Helvetica Blanc</a></li>
+    <ul>
 <li><a href="https://processing.org/">Processing.org</a></li>
 <li><a href="https://processing.org/examples/gameoflife.html">Processing.org - Game of LIfe</a></li>
 <li><a href="http://www.generative-gestaltung.de/2/">Generative Gestaltung</a></li>
 <li><a href="https://gitlab.com/velvetyne/velvetyne-libre-friends/-/blob/main/README.md">Beautiful typography</a></li>
 </ul>
+
+  </div>
+
+</div>
+</p>
 <h2 id="reference--resources">
   Reference &amp; Resources
   <a class="anchor" href="#reference--resources">#</a>
 </h2>
-<ul>
+<p>This is a place for general references that didn&rsquo;t fit anywhere else but I really enjoy.
+<div class="book-columns flex flex-wrap">
+
+  <div class="flex-even markdown-inner">
+    <ul>
 <li><a href="https://galaxy.opensyllabus.org">Open Syllabus</a></li>
 <li><a href="https://arkipelago.space/">arkipelago.space</a></li>
 <li><a href="https://archive.org/">Archive.org</a></li>
 <li><a href="http://libgen.rs/">Library Genesis</a></li>
 <li><a href="https://ia.net/">IA</a></li>
 <li><a href="https://patternatlas.com/">Pattern Atlas</a></li>
+</ul>
+
+  </div>
+
+  <div class="flex-even markdown-inner">
+    <ul>
 <li><a href="https://www.drcathicks.com/blog/">Dr. Cat Hicks</a></li>
 <li><a href="https://www.re-des.org/a-solarpunk-manifesto/">Solarpunk</a></li>
 <li><a href="https://leanlogic.online/introduction-david-fleming/">Lean Logic</a></li>
@@ -228,7 +283,7 @@ Bookmarks
   </div>
 
 </div>
-
+</p>
 </article>
 
 <div class="page-nav">
@@ -279,6 +334,24 @@ Bookmarks
       <label for="menu-control" class="hidden book-menu-overlay"></label>
     </div>
 
+    
+    <aside class="book-toc">
+      <div class="book-toc-content">
+        
+<h5 class="post-date">On This Page</h5>
+<nav id="TableOfContents">
+  <ul>
+    <li><a href="#tech">Tech</a></li>
+    <li><a href="#fun">Fun</a></li>
+    <li><a href="#art--design">Art &amp; Design</a></li>
+    <li><a href="#reference--resources">Reference &amp; Resources</a></li>
+  </ul>
+</nav>
+
+
+ 
+      </div>
+    </aside>
     
   </main>
 

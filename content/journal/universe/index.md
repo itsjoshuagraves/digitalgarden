@@ -4,7 +4,7 @@ title: Listening to the Universe
 summary: "It reveals strange and mysterious things to those who listen. Here are some it shared with me."
 tags: ["Mind"]
 bookToc: true
-unlisted: true
+draft: true
 image: universe.webp
 ---
 

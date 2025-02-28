@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Print on Joshua Graves</title>
-    <link>http://localhost:1313/tags/Print/</link>
+    <link>https://joshuagraves.me/tags/Print/</link>
     <description>Recent content in Print on Joshua Graves</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>2025, Joshua Graves</copyright>
     <lastBuildDate>Sat, 21 Dec 2024 14:09:00 -0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/Print/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://joshuagraves.me/tags/Print/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Joshuary Shirts</title>
-      <link>http://localhost:1313/art/joshuary-shirts/</link>
+      <link>https://joshuagraves.me/art/joshuary-shirts/</link>
       <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/art/joshuary-shirts/</guid>
+      <guid>https://joshuagraves.me/art/joshuary-shirts/</guid>
       <description>A collection of shirts I designed for The Joshuary. Lots of fun jokes here.</description>
     </item>
   </channel>

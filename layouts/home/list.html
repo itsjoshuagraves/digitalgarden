@@ -1,12 +1,10 @@
 {{ define "main" }}
 <header class="main-header">
-  <div class="content">
-      <h1 class="page-title">Hello there.</h1>
-  </div>  
-</header>
+<h1 class="page-title">Hello there.</h1> 
 <p class="main-summary">
-  I'm Joshua. This is a (fairly expansive) wiki that encompasses my <a href="/personal">personal</a> and <a href="/professional">professional</a> life as a founder, multidisciplinary designer, artist, author, and curious human. Welcome.
+  I'm Joshua, author of <a href="/we-need-to-talk/" title="We Need to Talk Book">We Need to Talk</a>, founder of <a href="/lost-horse/" title="Lost Horse Labs">Lost Horse</a>, visual artist, and curious human. This is a (fairly expansive) wiki that encompasses my <a href="/personal">personal</a> and <a href="/professional">professional</a> life. Welcome.
 </p>
+</header>
 <article class="markdown">
   {{ partial "docs/post-meta" . }}
   {{- .Content -}}

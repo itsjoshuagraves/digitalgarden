@@ -54,6 +54,8 @@ $hint-colors: (
 
   --nav-color: #FFFCFA;
   --border-color: #adb5bd;
+
+  --reverse-text: #e6e7df;
 }
 
 @mixin theme-dark {
@@ -79,5 +81,6 @@ $hint-colors: (
   --nav-color: #000000;
   --border-color: #3f3f3f;
 
+  --reverse-text: #121212;
 }
 

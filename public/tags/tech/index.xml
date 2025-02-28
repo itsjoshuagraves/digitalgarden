@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tech on Joshua Graves</title>
-    <link>http://localhost:1313/tags/tech/</link>
+    <link>https://joshuagraves.me/tags/tech/</link>
     <description>Recent content in Tech on Joshua Graves</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>2025, Joshua Graves</copyright>
-    <lastBuildDate>Wed, 20 Sep 2023 12:22:26 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/tech/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://joshuagraves.me/tags/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tech Independence</title>
+      <link>https://joshuagraves.me/journal/tech-independence/</link>
+      <pubDate>Sat, 15 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://joshuagraves.me/journal/tech-independence/</guid>
+      <description>How to set up your own iCloud replacement with a cloud CPU that you own.</description>
+    </item>
     <item>
       <title>Self-Reliant Tech</title>
-      <link>http://localhost:1313/journal/self-reliant-tech/</link>
+      <link>https://joshuagraves.me/journal/self-reliant-tech/</link>
       <pubDate>Sat, 29 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/journal/self-reliant-tech/</guid>
+      <guid>https://joshuagraves.me/journal/self-reliant-tech/</guid>
       <description>On craftsmanship, curiosity, and the love of know-how.</description>
     </item>
   </channel>

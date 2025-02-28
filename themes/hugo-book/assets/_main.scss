@@ -79,7 +79,7 @@ ul.pagination {
   max-width: $container-max-width;
   margin: 0 auto;
   @media (min-width: 500px) {
-    margin: 5vh auto;
+    margin: 3vh auto;
   }
 }
 
@@ -88,7 +88,7 @@ ul.pagination {
 }
 
 .book-brand {
-  margin-top: .4rem;
+  margin-top: 3vh;
   margin-bottom: 1.5rem;
   font-size: 1.75rem;
 
@@ -239,9 +239,6 @@ body[dir="rtl"] .book-menu {
     padding: $padding-16;
     @include fixed;
     top: 32px;
-    nav a {
-      text-decoration: underline;
-    }
   }
 
   img {
@@ -366,7 +363,7 @@ body[dir="rtl"] .book-menu {
   .book-page,
   .book-menu .book-menu-content,
   .book-toc .book-toc-content {
-    padding: $padding-16 * 2 $padding-16;
+    // padding: $padding-16 * 2 $padding-16;
   }
 }
 

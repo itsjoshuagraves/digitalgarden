@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tools for Designers &amp; Leaders on Joshua Graves</title>
-    <link>http://localhost:1313/tools/</link>
+    <link>https://joshuagraves.me/tools/</link>
     <description>Recent content in Tools for Designers &amp; Leaders on Joshua Graves</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>2025, Joshua Graves</copyright>
-    <atom:link href="http://localhost:1313/tools/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://joshuagraves.me/tools/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Links</title>
-      <link>http://localhost:1313/tools/links/</link>
+      <link>https://joshuagraves.me/tools/links/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tools/links/</guid>
+      <guid>https://joshuagraves.me/tools/links/</guid>
       <description>Links, templates, and reference material for designers.</description>
     </item>
   </channel>

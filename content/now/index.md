@@ -2,12 +2,12 @@
 title: Now
 type: docs
 summary: "A brief update on what I'm focusing on these days."
-bookToc: false
+bookToc: true
 ---
 
 
 ## Professional
-I’ve just finished my book, [We Need to Talk](/we-need-to-talk). It’s off to production and will launch in the first half of 2025. 
+I’ve just finished my book, [We Need to Talk](/we-need-to-talk). It’s off to production and will launch April 15, 2025.
 
 I saw an opportunity to launch a company that I’d always wanted to, and I did. It’s called [Lost Horse](/lost-horse). It’s software engineering and design with a focus on sustainability and when I hire enough people, employee ownership. 
 

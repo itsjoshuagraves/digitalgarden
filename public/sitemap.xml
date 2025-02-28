@@ -2,693 +2,688 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/journal/clippings/</loc>
+    <loc>https://joshuagraves.me/journal/tech-independence/</loc>
+    <lastmod>2025-02-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://joshuagraves.me/journal/clippings/</loc>
     <lastmod>2025-01-12T09:42:42-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/journal/self-reliant-tech/</loc>
+    <loc>https://joshuagraves.me/journal/self-reliant-tech/</loc>
     <lastmod>2023-09-20T12:22:26-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/log/2025-01-20/</loc>
+    <loc>https://joshuagraves.me/tags/</loc>
+    <lastmod>2025-02-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://joshuagraves.me/tags/tech/</loc>
+    <lastmod>2025-02-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://joshuagraves.me/log/2025-01-20/</loc>
     <lastmod>2025-01-20T12:35:31-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/Communication/</loc>
+    <loc>https://joshuagraves.me/tags/Communication/</loc>
     <lastmod>2025-01-12T13:21:19-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/Conflict-Resolution/</loc>
+    <loc>https://joshuagraves.me/tags/Conflict-Resolution/</loc>
     <lastmod>2025-01-12T13:21:19-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/Empathy/</loc>
+    <loc>https://joshuagraves.me/tags/Empathy/</loc>
     <lastmod>2025-01-12T13:21:19-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/book-notes/nonviolent-communication/</loc>
+    <loc>https://joshuagraves.me/book-notes/nonviolent-communication/</loc>
     <lastmod>2025-01-12T13:21:19-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://joshuagraves.me/book-notes/cptsd/</loc>
     <lastmod>2025-01-12T13:21:19-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/book-notes/cptsd/</loc>
+    <loc>https://joshuagraves.me/book-notes/designing-your-life/</loc>
     <lastmod>2025-01-12T13:21:19-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/book-notes/designing-your-life/</loc>
+    <loc>https://joshuagraves.me/tags/Life/</loc>
     <lastmod>2025-01-12T13:21:19-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/Life/</loc>
+    <loc>https://joshuagraves.me/tags/Mindful-Living/</loc>
     <lastmod>2025-01-12T13:21:19-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/Mindful-Living/</loc>
+    <loc>https://joshuagraves.me/tags/Trauma/</loc>
     <lastmod>2025-01-12T13:21:19-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/Trauma/</loc>
-    <lastmod>2025-01-12T13:21:19-08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/Intentions/</loc>
+    <loc>https://joshuagraves.me/tags/Intentions/</loc>
     <lastmod>2025-01-10T10:03:24-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/journal/intentions/</loc>
+    <loc>https://joshuagraves.me/journal/intentions/</loc>
     <lastmod>2025-01-10T10:03:24-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/Print/</loc>
+    <loc>https://joshuagraves.me/tags/Print/</loc>
     <lastmod>2024-12-21T14:09:00-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/art/joshuary-shirts/</loc>
+    <loc>https://joshuagraves.me/art/joshuary-shirts/</loc>
     <lastmod>2024-12-21T14:09:00-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/art/black-and-gold/</loc>
+    <loc>https://joshuagraves.me/art/black-and-gold/</loc>
     <lastmod>2024-12-21T14:09:00-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/Digital/</loc>
+    <loc>https://joshuagraves.me/tags/Digital/</loc>
     <lastmod>2024-12-21T14:09:00-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/portfolio/cdcr/</loc>
+    <loc>https://joshuagraves.me/portfolio/cdcr/</loc>
     <lastmod>2024-09-23T15:08:19-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/Design-Systems/</loc>
+    <loc>https://joshuagraves.me/tags/Design-Systems/</loc>
     <lastmod>2024-09-23T15:08:19-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/Product-Design/</loc>
+    <loc>https://joshuagraves.me/tags/Product-Design/</loc>
     <lastmod>2024-09-23T15:08:19-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/journal/universe/</loc>
-    <lastmod>2025-01-09T08:57:44-08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/Mind/</loc>
-    <lastmod>2025-01-09T08:57:44-08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/art/memento/</loc>
+    <loc>https://joshuagraves.me/art/memento/</loc>
     <lastmod>2024-09-01T07:38:01-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/photos/wndr/</loc>
+    <loc>https://joshuagraves.me/photos/wndr/</loc>
     <lastmod>2024-04-09T09:48:50-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/photos/lunar-halo/</loc>
+    <loc>https://joshuagraves.me/photos/lunar-halo/</loc>
     <lastmod>2024-04-02T12:18:43-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/Analog/</loc>
+    <loc>https://joshuagraves.me/tags/Analog/</loc>
     <lastmod>2024-09-03T12:03:47-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/art/fantasy/</loc>
+    <loc>https://joshuagraves.me/art/fantasy/</loc>
     <lastmod>2024-09-01T07:38:01-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/art/howl/</loc>
+    <loc>https://joshuagraves.me/art/howl/</loc>
     <lastmod>2024-09-01T07:38:01-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/art/oracles/</loc>
+    <loc>https://joshuagraves.me/art/oracles/</loc>
     <lastmod>2024-09-03T12:03:47-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/art/running/</loc>
+    <loc>https://joshuagraves.me/art/running/</loc>
     <lastmod>2024-05-09T10:14:35-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/art/better-world/</loc>
+    <loc>https://joshuagraves.me/art/better-world/</loc>
     <lastmod>2024-04-02T12:18:43-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/art/right-mind/</loc>
+    <loc>https://joshuagraves.me/art/right-mind/</loc>
     <lastmod>2024-09-01T07:38:01-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/art/woods-were-young/</loc>
+    <loc>https://joshuagraves.me/art/woods-were-young/</loc>
     <lastmod>2024-04-02T12:18:43-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/photos/of-black/</loc>
+    <loc>https://joshuagraves.me/photos/of-black/</loc>
     <lastmod>2024-04-02T12:18:43-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/log/2023-12-12/</loc>
+    <loc>https://joshuagraves.me/log/2023-12-12/</loc>
     <lastmod>2024-02-26T10:33:06-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/log/2023-11-30/</loc>
+    <loc>https://joshuagraves.me/log/2023-11-30/</loc>
     <lastmod>2024-02-26T10:34:10-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/art/bonecrawler/</loc>
+    <loc>https://joshuagraves.me/art/bonecrawler/</loc>
     <lastmod>2024-09-01T07:38:01-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/log/2023-11-13/</loc>
+    <loc>https://joshuagraves.me/log/2023-11-13/</loc>
     <lastmod>2023-12-13T16:31:29-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/art/tore-apart/</loc>
+    <loc>https://joshuagraves.me/art/tore-apart/</loc>
     <lastmod>2024-09-01T07:38:01-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/art/not-anymore/</loc>
+    <loc>https://joshuagraves.me/art/not-anymore/</loc>
     <lastmod>2024-09-01T07:38:01-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/log/2023-10-18/</loc>
+    <loc>https://joshuagraves.me/log/2023-10-18/</loc>
     <lastmod>2023-12-13T16:31:29-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/log/2023-10-04/</loc>
+    <loc>https://joshuagraves.me/log/2023-10-04/</loc>
     <lastmod>2023-12-13T16:31:29-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tools/guides/bookshelf/</loc>
+    <loc>https://joshuagraves.me/tools/guides/bookshelf/</loc>
     <lastmod>2023-09-26T17:47:25-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/Resources/</loc>
+    <loc>https://joshuagraves.me/tags/Resources/</loc>
     <lastmod>2023-09-26T17:47:25-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/log/2023-09-26/</loc>
+    <loc>https://joshuagraves.me/log/2023-09-26/</loc>
     <lastmod>2023-12-13T16:31:29-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/log/2023-09-15/</loc>
+    <loc>https://joshuagraves.me/log/2023-09-15/</loc>
     <lastmod>2023-12-13T16:31:29-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/log/2023-09-12/</loc>
+    <loc>https://joshuagraves.me/log/2023-09-12/</loc>
     <lastmod>2023-12-13T16:31:29-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/log/2023-09-05/</loc>
+    <loc>https://joshuagraves.me/log/2023-09-05/</loc>
     <lastmod>2023-12-13T16:31:29-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/log/2023-09-04/</loc>
+    <loc>https://joshuagraves.me/log/2023-09-04/</loc>
     <lastmod>2023-12-13T16:31:29-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/log/2023-09-01/</loc>
+    <loc>https://joshuagraves.me/log/2023-09-01/</loc>
     <lastmod>2023-12-13T16:31:29-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/log/2023-08-21/</loc>
+    <loc>https://joshuagraves.me/log/2023-08-21/</loc>
     <lastmod>2023-12-13T16:31:29-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/log/2023-08-18/</loc>
+    <loc>https://joshuagraves.me/log/2023-08-18/</loc>
     <lastmod>2023-12-13T16:31:29-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tinkering/sparkling-water/</loc>
+    <loc>https://joshuagraves.me/tinkering/sparkling-water/</loc>
     <lastmod>2023-09-16T12:31:20-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/Tinkering/</loc>
+    <loc>https://joshuagraves.me/tags/Tinkering/</loc>
     <lastmod>2023-09-16T12:31:20-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/Facilitation/</loc>
+    <loc>https://joshuagraves.me/tags/Facilitation/</loc>
     <lastmod>2023-09-19T19:21:17-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/Hiring/</loc>
+    <loc>https://joshuagraves.me/tags/Hiring/</loc>
     <lastmod>2023-10-03T16:02:28-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tools/guides/hiring-manager-interview/</loc>
+    <loc>https://joshuagraves.me/tools/guides/hiring-manager-interview/</loc>
     <lastmod>2023-10-03T16:02:28-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tools/guides/good-interviewing/</loc>
+    <loc>https://joshuagraves.me/tools/guides/good-interviewing/</loc>
     <lastmod>2023-09-19T19:21:17-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/Interviews/</loc>
+    <loc>https://joshuagraves.me/tags/Interviews/</loc>
     <lastmod>2023-10-03T16:02:28-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tools/guides/first-one-on-one/</loc>
+    <loc>https://joshuagraves.me/tools/guides/first-one-on-one/</loc>
     <lastmod>2023-10-03T15:33:35-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/Managing/</loc>
+    <loc>https://joshuagraves.me/tags/Managing/</loc>
     <lastmod>2023-10-03T15:33:35-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tools/guides/onsite-template/</loc>
+    <loc>https://joshuagraves.me/tools/guides/onsite-template/</loc>
     <lastmod>2023-10-03T13:05:04-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tools/guides/one-on-ones/</loc>
+    <loc>https://joshuagraves.me/tools/guides/one-on-ones/</loc>
     <lastmod>2023-10-03T15:33:35-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/Presenting/</loc>
+    <loc>https://joshuagraves.me/tags/Presenting/</loc>
     <lastmod>2023-09-19T19:21:17-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tools/guides/pre-screen/</loc>
+    <loc>https://joshuagraves.me/tools/guides/pre-screen/</loc>
     <lastmod>2023-10-03T13:05:04-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tools/guides/screener-questions/</loc>
+    <loc>https://joshuagraves.me/tools/guides/screener-questions/</loc>
     <lastmod>2023-10-03T16:02:28-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/log/2023-08-02/</loc>
+    <loc>https://joshuagraves.me/log/2023-08-02/</loc>
     <lastmod>2023-12-13T16:31:29-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/Template/</loc>
+    <loc>https://joshuagraves.me/tags/Template/</loc>
     <lastmod>2023-10-03T15:33:35-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tools/guides/workshop-toolkit/</loc>
+    <loc>https://joshuagraves.me/tools/guides/workshop-toolkit/</loc>
     <lastmod>2023-09-19T19:21:17-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tinkering/ipods/</loc>
+    <loc>https://joshuagraves.me/tinkering/ipods/</loc>
     <lastmod>2023-09-16T12:31:20-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tinkering/video-game-cabinet/</loc>
+    <loc>https://joshuagraves.me/tinkering/video-game-cabinet/</loc>
     <lastmod>2023-09-16T12:31:20-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/log/2023-08-01/</loc>
+    <loc>https://joshuagraves.me/log/2023-08-01/</loc>
     <lastmod>2023-12-13T16:31:29-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tinkering/watch/</loc>
+    <loc>https://joshuagraves.me/tinkering/watch/</loc>
     <lastmod>2023-09-16T12:31:20-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/log/2023-07-31/</loc>
+    <loc>https://joshuagraves.me/log/2023-07-31/</loc>
     <lastmod>2025-01-20T12:35:31-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/journal/design/</loc>
+    <loc>https://joshuagraves.me/journal/design/</loc>
     <lastmod>2023-10-28T17:03:47-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/Evaluation/</loc>
+    <loc>https://joshuagraves.me/tags/Evaluation/</loc>
     <lastmod>2023-10-01T13:43:05-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/journal/evaluation/</loc>
+    <loc>https://joshuagraves.me/journal/evaluation/</loc>
     <lastmod>2023-10-01T13:43:05-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/book-notes/four-agreements/</loc>
+    <loc>https://joshuagraves.me/book-notes/four-agreements/</loc>
     <lastmod>2025-01-12T13:21:19-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/book-notes/what-it-takes-to-heal/</loc>
+    <loc>https://joshuagraves.me/book-notes/what-it-takes-to-heal/</loc>
     <lastmod>2025-01-12T09:42:42-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/Wisdom/</loc>
+    <loc>https://joshuagraves.me/tags/Wisdom/</loc>
     <lastmod>2025-01-12T09:42:42-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/tech/</loc>
-    <lastmod>2023-09-20T12:22:26-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/Accessibility/</loc>
+    <loc>https://joshuagraves.me/tags/Accessibility/</loc>
     <lastmod>2023-09-19T19:21:17-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tools/guides/audit/</loc>
+    <loc>https://joshuagraves.me/tools/guides/audit/</loc>
     <lastmod>2023-09-19T19:21:17-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tools/guides/crazy-8s/</loc>
+    <loc>https://joshuagraves.me/tools/guides/crazy-8s/</loc>
     <lastmod>2023-09-19T19:21:17-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tools/guides/design-presentations/</loc>
+    <loc>https://joshuagraves.me/tools/guides/design-presentations/</loc>
     <lastmod>2023-09-19T19:21:17-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tools/guides/ethnographic-interviews/</loc>
+    <loc>https://joshuagraves.me/tools/guides/ethnographic-interviews/</loc>
     <lastmod>2023-09-19T19:21:17-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tools/guides/journey-maps/</loc>
+    <loc>https://joshuagraves.me/tools/guides/journey-maps/</loc>
     <lastmod>2023-09-19T19:21:17-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tools/guides/quick-start/</loc>
+    <loc>https://joshuagraves.me/tools/guides/quick-start/</loc>
     <lastmod>2023-10-03T13:05:04-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tools/guides/user-interviews-and-tests/</loc>
+    <loc>https://joshuagraves.me/tools/guides/user-interviews-and-tests/</loc>
     <lastmod>2023-09-19T19:21:17-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tools/guides/user-recruiting-script/</loc>
+    <loc>https://joshuagraves.me/tools/guides/user-recruiting-script/</loc>
     <lastmod>2023-09-19T19:21:17-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/User-Research/</loc>
+    <loc>https://joshuagraves.me/tags/User-Research/</loc>
     <lastmod>2023-09-19T19:21:17-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tools/guides/user-research-plan/</loc>
+    <loc>https://joshuagraves.me/tools/guides/user-research-plan/</loc>
     <lastmod>2023-09-19T19:21:17-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/art/spirit-acid/</loc>
+    <loc>https://joshuagraves.me/art/spirit-acid/</loc>
     <lastmod>2024-09-01T07:38:01-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/art/spirit-photography/</loc>
+    <loc>https://joshuagraves.me/art/spirit-photography/</loc>
     <lastmod>2024-09-01T07:38:01-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/portfolio/azibo/</loc>
+    <loc>https://joshuagraves.me/portfolio/azibo/</loc>
     <lastmod>2023-09-16T12:31:20-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/art/keep-in-touch/</loc>
+    <loc>https://joshuagraves.me/art/keep-in-touch/</loc>
     <lastmod>2024-09-01T07:38:01-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tools/articles/effective-remote-feedback/</loc>
+    <loc>https://joshuagraves.me/tools/articles/effective-remote-feedback/</loc>
     <lastmod>2023-09-27T11:54:03-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/Smashing-Magazine/</loc>
+    <loc>https://joshuagraves.me/tags/Smashing-Magazine/</loc>
     <lastmod>2023-10-03T13:05:04-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/portfolio/candy/</loc>
+    <loc>https://joshuagraves.me/portfolio/candy/</loc>
     <lastmod>2023-09-17T11:30:08-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/art/holograph-series/</loc>
+    <loc>https://joshuagraves.me/art/holograph-series/</loc>
     <lastmod>2024-04-02T12:18:43-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/Burnout/</loc>
+    <loc>https://joshuagraves.me/tags/Burnout/</loc>
     <lastmod>2023-10-05T11:34:53-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/journal/insight-systems/</loc>
+    <loc>https://joshuagraves.me/journal/insight-systems/</loc>
     <lastmod>2023-11-22T12:11:34-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/journal/low-power-mode/</loc>
+    <loc>https://joshuagraves.me/journal/low-power-mode/</loc>
     <lastmod>2023-09-20T12:22:26-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/Meditation/</loc>
+    <loc>https://joshuagraves.me/tags/Meditation/</loc>
     <lastmod>2023-10-05T11:34:53-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/journal/meditations/</loc>
+    <loc>https://joshuagraves.me/journal/meditations/</loc>
     <lastmod>2023-10-05T11:34:53-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/portfolio/aperture-health/</loc>
+    <loc>https://joshuagraves.me/tags/Mind/</loc>
+    <lastmod>2023-11-22T12:11:34-08:00</lastmod>
+  </url><url>
+    <loc>https://joshuagraves.me/portfolio/aperture-health/</loc>
     <lastmod>2023-09-16T12:31:20-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/art/burn-series/</loc>
+    <loc>https://joshuagraves.me/art/burn-series/</loc>
     <lastmod>2024-09-01T07:38:01-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/art/skull-000/</loc>
+    <loc>https://joshuagraves.me/art/skull-000/</loc>
     <lastmod>2024-09-01T07:38:01-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/art/skull-001/</loc>
+    <loc>https://joshuagraves.me/art/skull-001/</loc>
     <lastmod>2024-09-01T07:38:01-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/art/skull-002/</loc>
+    <loc>https://joshuagraves.me/art/skull-002/</loc>
     <lastmod>2024-09-01T07:38:01-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/art/skull-003/</loc>
+    <loc>https://joshuagraves.me/art/skull-003/</loc>
     <lastmod>2024-09-01T07:38:01-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/art/skull-004/</loc>
+    <loc>https://joshuagraves.me/art/skull-004/</loc>
     <lastmod>2024-09-01T07:38:01-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tools/articles/portfolio/</loc>
+    <loc>https://joshuagraves.me/tools/articles/portfolio/</loc>
     <lastmod>2023-10-03T13:05:04-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/Artium/</loc>
+    <loc>https://joshuagraves.me/tags/Artium/</loc>
     <lastmod>2023-10-03T13:05:04-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tools/articles/deep-work-quarrantine/</loc>
+    <loc>https://joshuagraves.me/tools/articles/deep-work-quarrantine/</loc>
     <lastmod>2023-09-27T11:54:03-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tools/articles/code-of-ethics/</loc>
+    <loc>https://joshuagraves.me/tools/articles/code-of-ethics/</loc>
     <lastmod>2023-09-27T11:54:03-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tools/articles/end-of-day-ceremonies/</loc>
+    <loc>https://joshuagraves.me/tools/articles/end-of-day-ceremonies/</loc>
     <lastmod>2023-09-27T11:54:03-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/Android/</loc>
+    <loc>https://joshuagraves.me/tags/Android/</loc>
     <lastmod>2023-09-17T11:30:08-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/portfolio/evgo/</loc>
+    <loc>https://joshuagraves.me/portfolio/evgo/</loc>
     <lastmod>2023-09-16T12:31:20-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/iOS/</loc>
+    <loc>https://joshuagraves.me/tags/iOS/</loc>
     <lastmod>2023-09-17T11:30:08-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/portfolio/assembled-financial/</loc>
+    <loc>https://joshuagraves.me/portfolio/assembled-financial/</loc>
     <lastmod>2023-09-16T12:31:20-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/art/collage000/</loc>
+    <loc>https://joshuagraves.me/art/collage000/</loc>
     <lastmod>2024-09-01T07:38:01-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/art/pandemic-series/</loc>
+    <loc>https://joshuagraves.me/art/pandemic-series/</loc>
     <lastmod>2024-09-01T07:38:01-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/portfolio/corelogic/</loc>
+    <loc>https://joshuagraves.me/portfolio/corelogic/</loc>
     <lastmod>2023-09-16T12:31:20-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tools/articles/cranky-conclusions/</loc>
+    <loc>https://joshuagraves.me/tools/articles/cranky-conclusions/</loc>
     <lastmod>2023-09-27T11:54:03-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tools/articles/prime-directive/</loc>
+    <loc>https://joshuagraves.me/tools/articles/prime-directive/</loc>
     <lastmod>2023-09-27T11:54:03-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/portfolio/us-space-force/</loc>
+    <loc>https://joshuagraves.me/portfolio/us-space-force/</loc>
     <lastmod>2023-09-17T11:30:08-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tools/articles/video-games-conflict/</loc>
+    <loc>https://joshuagraves.me/tools/articles/video-games-conflict/</loc>
     <lastmod>2023-09-27T11:54:03-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/art/an-endless-echo/</loc>
+    <loc>https://joshuagraves.me/art/an-endless-echo/</loc>
     <lastmod>2024-04-02T12:18:43-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/photos/aquarium/</loc>
+    <loc>https://joshuagraves.me/photos/aquarium/</loc>
     <lastmod>2024-04-02T12:18:43-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/art/delete-me/</loc>
+    <loc>https://joshuagraves.me/art/delete-me/</loc>
     <lastmod>2023-10-03T13:05:04-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/photos/dia-de-los-muertos/</loc>
+    <loc>https://joshuagraves.me/photos/dia-de-los-muertos/</loc>
     <lastmod>2023-12-13T12:46:02-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/art/helvetica-blanc-collab/</loc>
+    <loc>https://joshuagraves.me/art/helvetica-blanc-collab/</loc>
     <lastmod>2023-09-16T12:31:20-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/art/afraid-of-americans/</loc>
+    <loc>https://joshuagraves.me/art/afraid-of-americans/</loc>
     <lastmod>2023-10-03T13:05:04-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/art/little-fears-series/</loc>
+    <loc>https://joshuagraves.me/art/little-fears-series/</loc>
     <lastmod>2024-04-02T12:18:43-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/art/little-weirdos/</loc>
+    <loc>https://joshuagraves.me/art/little-weirdos/</loc>
     <lastmod>2024-04-02T12:18:43-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/art/live-in-the-dark/</loc>
+    <loc>https://joshuagraves.me/art/live-in-the-dark/</loc>
     <lastmod>2024-04-02T12:18:43-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/art/memento-mori-series/</loc>
+    <loc>https://joshuagraves.me/art/memento-mori-series/</loc>
     <lastmod>2024-09-01T07:38:01-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/photos/muir-woods/</loc>
+    <loc>https://joshuagraves.me/photos/muir-woods/</loc>
     <lastmod>2023-11-03T13:47:46-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/art/it-looks-that-way-series/</loc>
+    <loc>https://joshuagraves.me/art/it-looks-that-way-series/</loc>
     <lastmod>2024-04-02T12:18:43-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/art/our-light/</loc>
+    <loc>https://joshuagraves.me/art/our-light/</loc>
     <lastmod>2024-04-02T12:18:43-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/art/processing.js-series/</loc>
+    <loc>https://joshuagraves.me/art/processing.js-series/</loc>
     <lastmod>2023-10-03T13:05:04-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/art/red-tape-series/</loc>
+    <loc>https://joshuagraves.me/art/red-tape-series/</loc>
     <lastmod>2023-10-03T13:05:04-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/art/softly-we-rush-onward/</loc>
+    <loc>https://joshuagraves.me/art/softly-we-rush-onward/</loc>
     <lastmod>2023-09-16T12:31:20-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/art/is-everything-speeding-up/</loc>
+    <loc>https://joshuagraves.me/art/is-everything-speeding-up/</loc>
     <lastmod>2023-10-03T13:05:04-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/art/the-black-tape-series/</loc>
+    <loc>https://joshuagraves.me/art/the-black-tape-series/</loc>
     <lastmod>2023-10-03T13:05:04-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/art/thoughts-and-prayers-dont-stop-bullets/</loc>
+    <loc>https://joshuagraves.me/art/thoughts-and-prayers-dont-stop-bullets/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/art/video-series/</loc>
+    <loc>https://joshuagraves.me/art/video-series/</loc>
     <lastmod>2024-09-01T07:38:01-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/art/voids/</loc>
+    <loc>https://joshuagraves.me/art/voids/</loc>
     <lastmod>2023-09-16T12:31:20-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/art/when-its-over-series/</loc>
+    <loc>https://joshuagraves.me/art/when-its-over-series/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/art/where-is-home/</loc>
+    <loc>https://joshuagraves.me/art/where-is-home/</loc>
     <lastmod>2023-09-16T12:31:20-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/photos/wolf-weekend/</loc>
-    <lastmod>2023-12-13T12:46:02-08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tools/articles/black-mirror-brainstorms/</loc>
+    <loc>https://joshuagraves.me/tools/articles/black-mirror-brainstorms/</loc>
     <lastmod>2023-09-27T11:54:03-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/UX-Collective/</loc>
+    <loc>https://joshuagraves.me/tags/UX-Collective/</loc>
     <lastmod>2023-10-03T13:05:04-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/Prototypr/</loc>
+    <loc>https://joshuagraves.me/tags/Prototypr/</loc>
     <lastmod>2023-09-27T11:54:03-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tools/articles/first-vr-app/</loc>
+    <loc>https://joshuagraves.me/tools/articles/first-vr-app/</loc>
     <lastmod>2023-09-27T11:54:03-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/portfolio/family-dollar/</loc>
+    <loc>https://joshuagraves.me/portfolio/family-dollar/</loc>
     <lastmod>2023-09-17T11:30:08-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tools/articles/turned-off-push-notifications/</loc>
+    <loc>https://joshuagraves.me/tools/articles/turned-off-push-notifications/</loc>
     <lastmod>2023-09-27T11:54:03-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/Medium/</loc>
+    <loc>https://joshuagraves.me/tags/Medium/</loc>
     <lastmod>2023-10-03T13:05:04-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tools/articles/cbc-radio-notifications/</loc>
+    <loc>https://joshuagraves.me/tools/articles/cbc-radio-notifications/</loc>
     <lastmod>2024-03-06T10:52:51-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/CBC-Radio/</loc>
+    <loc>https://joshuagraves.me/tags/CBC-Radio/</loc>
     <lastmod>2024-03-06T10:52:51-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tools/articles/effective-animation/</loc>
+    <loc>https://joshuagraves.me/tools/articles/effective-animation/</loc>
     <lastmod>2023-09-28T11:08:41-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tools/articles/push-notifications/</loc>
+    <loc>https://joshuagraves.me/tools/articles/push-notifications/</loc>
     <lastmod>2023-10-03T13:05:04-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/portfolio/atrium-health/</loc>
+    <loc>https://joshuagraves.me/portfolio/atrium-health/</loc>
     <lastmod>2023-09-17T11:30:08-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tools/articles/giving-your-product-a-soul/</loc>
+    <loc>https://joshuagraves.me/tools/articles/giving-your-product-a-soul/</loc>
     <lastmod>2023-10-03T13:05:04-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tools/articles/harassment/</loc>
+    <loc>https://joshuagraves.me/tools/articles/harassment/</loc>
     <lastmod>2023-09-28T11:08:41-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tools/articles/readability/</loc>
+    <loc>https://joshuagraves.me/tools/articles/readability/</loc>
     <lastmod>2023-09-28T11:08:41-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tools/articles/awesomegifs/</loc>
+    <loc>https://joshuagraves.me/tools/articles/awesomegifs/</loc>
     <lastmod>2023-09-28T11:08:41-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tools/articles/prototyping-ios-and-android-apps-with-sketch/</loc>
+    <loc>https://joshuagraves.me/tools/articles/prototyping-ios-and-android-apps-with-sketch/</loc>
     <lastmod>2023-09-27T11:54:03-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tools/articles/designers-and-engineers/</loc>
+    <loc>https://joshuagraves.me/tools/articles/designers-and-engineers/</loc>
     <lastmod>2023-09-27T11:54:03-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/portfolio/acbj/</loc>
+    <loc>https://joshuagraves.me/portfolio/acbj/</loc>
     <lastmod>2023-09-16T12:31:20-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tools/articles/better-designer/</loc>
+    <loc>https://joshuagraves.me/tools/articles/better-designer/</loc>
     <lastmod>2023-10-03T13:05:04-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tools/articles/effective-style-guide-fireworks/</loc>
+    <loc>https://joshuagraves.me/tools/articles/effective-style-guide-fireworks/</loc>
     <lastmod>2023-09-27T11:54:03-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tools/articles/ios-grid-system-fireworks/</loc>
+    <loc>https://joshuagraves.me/tools/articles/ios-grid-system-fireworks/</loc>
     <lastmod>2023-09-27T11:54:03-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tools/articles/problem-with-in-app-ratings/</loc>
+    <loc>https://joshuagraves.me/tools/articles/problem-with-in-app-ratings/</loc>
     <lastmod>2023-09-27T11:54:03-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tools/articles/smartphones-texting-emergency-servies/</loc>
+    <loc>https://joshuagraves.me/tools/articles/smartphones-texting-emergency-servies/</loc>
     <lastmod>2023-09-27T11:54:03-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/art/cult-of-done-poster/</loc>
+    <loc>https://joshuagraves.me/art/cult-of-done-poster/</loc>
     <lastmod>2023-09-16T12:31:20-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/art/audio-adrenaline/</loc>
+    <loc>https://joshuagraves.me/art/audio-adrenaline/</loc>
     <lastmod>2024-04-02T12:18:43-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/art/autolux-future-perfect/</loc>
+    <loc>https://joshuagraves.me/art/autolux-future-perfect/</loc>
     <lastmod>2023-10-03T13:05:04-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/art/barcelona-absolutes-album/</loc>
+    <loc>https://joshuagraves.me/art/barcelona-absolutes-album/</loc>
     <lastmod>2023-10-03T13:05:04-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/art/brand-new/</loc>
+    <loc>https://joshuagraves.me/art/brand-new/</loc>
     <lastmod>2023-09-16T12:31:20-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/art/brooks-wood-site/</loc>
+    <loc>https://joshuagraves.me/art/brooks-wood-site/</loc>
     <lastmod>2023-10-03T13:05:04-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/art/bush-letting-the-cables-sleep/</loc>
+    <loc>https://joshuagraves.me/art/bush-letting-the-cables-sleep/</loc>
     <lastmod>2024-09-01T07:38:01-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/art/dead-poetic-vices-poster/</loc>
+    <loc>https://joshuagraves.me/art/dead-poetic-vices-poster/</loc>
     <lastmod>2024-04-02T12:18:43-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/art/george-thorogood-best-of/</loc>
+    <loc>https://joshuagraves.me/art/george-thorogood-best-of/</loc>
     <lastmod>2023-10-03T13:05:04-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/art/john-mellencamp/</loc>
+    <loc>https://joshuagraves.me/art/john-mellencamp/</loc>
     <lastmod>2023-10-03T13:05:04-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/art/kristian-leontiou-tour-merch/</loc>
+    <loc>https://joshuagraves.me/art/kristian-leontiou-tour-merch/</loc>
     <lastmod>2023-10-03T13:05:04-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/art/loomis-and-the-lust/</loc>
+    <loc>https://joshuagraves.me/art/loomis-and-the-lust/</loc>
     <lastmod>2023-10-03T13:05:04-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/art/mae-tour-poster/</loc>
+    <loc>https://joshuagraves.me/art/mae-tour-poster/</loc>
     <lastmod>2024-04-02T12:18:43-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/art/medications-good-album/</loc>
+    <loc>https://joshuagraves.me/art/medications-good-album/</loc>
     <lastmod>2024-04-02T12:18:43-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/Music-Industry/</loc>
+    <loc>https://joshuagraves.me/tags/Music-Industry/</loc>
     <lastmod>2024-09-01T07:38:01-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/art/skillet-tour-posters/</loc>
+    <loc>https://joshuagraves.me/art/skillet-tour-posters/</loc>
     <lastmod>2023-10-03T13:05:04-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/art/still-remains-album/</loc>
+    <loc>https://joshuagraves.me/art/still-remains-album/</loc>
     <lastmod>2024-04-02T12:18:43-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/art/the-orchestra-posters/</loc>
+    <loc>https://joshuagraves.me/art/the-orchestra-posters/</loc>
     <lastmod>2023-10-03T13:05:04-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
-    <lastmod>2024-03-06T10:59:52-08:00</lastmod>
+    <loc>https://joshuagraves.me/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/appearances/</loc>
+    <loc>https://joshuagraves.me/appearances/</loc>
     <lastmod>2023-09-21T15:18:59-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tools/articles/</loc>
+    <loc>https://joshuagraves.me/tools/articles/</loc>
     <lastmod>2023-10-03T13:05:04-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/beer/</loc>
+    <loc>https://joshuagraves.me/beer/</loc>
     <lastmod>2025-01-20T12:35:31-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/book-notes/</loc>
+    <loc>https://joshuagraves.me/book-notes/</loc>
     <lastmod>2025-01-12T09:42:42-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/bookmarks/</loc>
+    <loc>https://joshuagraves.me/bookmarks/</loc>
     <lastmod>2023-11-30T13:28:45-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://joshuagraves.me/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/cosmata/</loc>
+    <loc>https://joshuagraves.me/cosmata/</loc>
     <lastmod>2023-09-16T12:31:20-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/philosophy/</loc>
+    <loc>https://joshuagraves.me/philosophy/</loc>
     <lastmod>2023-10-23T14:59:18-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/process/</loc>
+    <loc>https://joshuagraves.me/process/</loc>
     <lastmod>2023-09-19T16:42:16-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/digital-gardening/</loc>
-    <lastmod>2023-09-21T09:47:01-07:00</lastmod>
+    <loc>https://joshuagraves.me/digital-gardening/</loc>
   </url><url>
-    <loc>http://localhost:1313/tools/guides/</loc>
+    <loc>https://joshuagraves.me/tools/guides/</loc>
     <lastmod>2023-09-18T10:35:35-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/interstellar/</loc>
+    <loc>https://joshuagraves.me/interstellar/</loc>
     <lastmod>2023-09-16T12:31:20-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/me/</loc>
-    <lastmod>2025-01-09T08:57:44-08:00</lastmod>
+    <loc>https://joshuagraves.me/bio/</loc>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://joshuagraves.me/</loc>
     <lastmod>2024-12-30T14:20:05-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/journal/</loc>
+    <loc>https://joshuagraves.me/journal/</loc>
     <lastmod>2025-01-12T09:42:42-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tools/links/</loc>
+    <loc>https://joshuagraves.me/tools/links/</loc>
     <lastmod>2023-10-09T14:27:08-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/log/</loc>
+    <loc>https://joshuagraves.me/log/</loc>
     <lastmod>2025-01-20T12:35:31-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/lost-horse/</loc>
+    <loc>https://joshuagraves.me/lost-horse/</loc>
     <lastmod>2025-01-09T19:05:32-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/media/</loc>
+    <loc>https://joshuagraves.me/media/</loc>
     <lastmod>2025-01-20T12:35:31-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/meta/</loc>
-    <lastmod>2025-01-10T16:02:36-08:00</lastmod>
+    <loc>https://joshuagraves.me/meta/</loc>
   </url><url>
-    <loc>http://localhost:1313/nice-weather/</loc>
+    <loc>https://joshuagraves.me/nice-weather/</loc>
     <lastmod>2025-01-09T19:05:32-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/now/</loc>
+    <loc>https://joshuagraves.me/now/</loc>
     <lastmod>2025-01-30T19:29:16-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/personal/</loc>
+    <loc>https://joshuagraves.me/personal/</loc>
     <lastmod>2025-01-12T09:42:42-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/photos/</loc>
+    <loc>https://joshuagraves.me/photos/</loc>
     <lastmod>2023-12-13T12:46:02-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/portfolio/</loc>
+    <loc>https://joshuagraves.me/portfolio/</loc>
     <lastmod>2023-09-05T21:06:19-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/professional/</loc>
+    <loc>https://joshuagraves.me/professional/</loc>
     <lastmod>2025-01-09T19:05:32-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tinkering/</loc>
+    <loc>https://joshuagraves.me/tinkering/</loc>
     <lastmod>2023-08-16T12:59:27-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tools/</loc>
+    <loc>https://joshuagraves.me/tools/</loc>
     <lastmod>2023-09-26T17:47:25-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/uptownsans/</loc>
+    <loc>https://joshuagraves.me/uptownsans/</loc>
     <lastmod>2023-09-16T12:31:20-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/art/</loc>
+    <loc>https://joshuagraves.me/uses/</loc>
+  </url><url>
+    <loc>https://joshuagraves.me/art/</loc>
     <lastmod>2024-09-01T07:38:01-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/we-need-to-talk/</loc>
+    <loc>https://joshuagraves.me/we-need-to-talk/</loc>
     <lastmod>2025-01-20T12:35:31-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/work-with-me/</loc>
+    <loc>https://joshuagraves.me/work-with-me/</loc>
     <lastmod>2025-01-09T08:57:44-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/workshops/</loc>
+    <loc>https://joshuagraves.me/workshops/</loc>
     <lastmod>2023-09-18T13:20:37-07:00</lastmod>
   </url>
 </urlset>

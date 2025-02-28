@@ -2,221 +2,221 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Digital on Joshua Graves</title>
-    <link>http://localhost:1313/tags/Digital/</link>
+    <link>https://joshuagraves.me/tags/Digital/</link>
     <description>Recent content in Digital on Joshua Graves</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>2025, Joshua Graves</copyright>
     <lastBuildDate>Sat, 21 Dec 2024 14:09:00 -0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/Digital/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://joshuagraves.me/tags/Digital/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Black and Gold</title>
-      <link>http://localhost:1313/art/black-and-gold/</link>
+      <link>https://joshuagraves.me/art/black-and-gold/</link>
       <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/art/black-and-gold/</guid>
+      <guid>https://joshuagraves.me/art/black-and-gold/</guid>
       <description>Series. Inspired by tarot decks and kintsugi.</description>
     </item>
     <item>
       <title>Memento Mori</title>
-      <link>http://localhost:1313/art/memento/</link>
+      <link>https://joshuagraves.me/art/memento/</link>
       <pubDate>Thu, 09 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/art/memento/</guid>
+      <guid>https://joshuagraves.me/art/memento/</guid>
       <description>Digital collage.</description>
     </item>
     <item>
       <title>Bonecrawler</title>
-      <link>http://localhost:1313/art/bonecrawler/</link>
+      <link>https://joshuagraves.me/art/bonecrawler/</link>
       <pubDate>Mon, 13 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/art/bonecrawler/</guid>
+      <guid>https://joshuagraves.me/art/bonecrawler/</guid>
       <description>Mixed Media Collage.</description>
     </item>
     <item>
       <title>Spirit Photography</title>
-      <link>http://localhost:1313/art/spirit-photography/</link>
+      <link>https://joshuagraves.me/art/spirit-photography/</link>
       <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/art/spirit-photography/</guid>
+      <guid>https://joshuagraves.me/art/spirit-photography/</guid>
       <description>Mixed media collage.</description>
     </item>
     <item>
       <title>Keep In Touch</title>
-      <link>http://localhost:1313/art/keep-in-touch/</link>
+      <link>https://joshuagraves.me/art/keep-in-touch/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/art/keep-in-touch/</guid>
+      <guid>https://joshuagraves.me/art/keep-in-touch/</guid>
       <description>Mixed media collage.</description>
     </item>
     <item>
       <title>Holograph</title>
-      <link>http://localhost:1313/art/holograph-series/</link>
+      <link>https://joshuagraves.me/art/holograph-series/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/art/holograph-series/</guid>
+      <guid>https://joshuagraves.me/art/holograph-series/</guid>
       <description>Series. Oil slicks and holograms.</description>
     </item>
     <item>
       <title>Burn</title>
-      <link>http://localhost:1313/art/burn-series/</link>
+      <link>https://joshuagraves.me/art/burn-series/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/art/burn-series/</guid>
+      <guid>https://joshuagraves.me/art/burn-series/</guid>
       <description>Series. Later renamed Hypertext.</description>
     </item>
     <item>
       <title>New York</title>
-      <link>http://localhost:1313/art/collage000/</link>
+      <link>https://joshuagraves.me/art/collage000/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/art/collage000/</guid>
+      <guid>https://joshuagraves.me/art/collage000/</guid>
       <description>Mixed media collage.</description>
     </item>
     <item>
       <title>Pandemic</title>
-      <link>http://localhost:1313/art/pandemic-series/</link>
+      <link>https://joshuagraves.me/art/pandemic-series/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/art/pandemic-series/</guid>
+      <guid>https://joshuagraves.me/art/pandemic-series/</guid>
       <description>Series. Historical mixed media collage.</description>
     </item>
     <item>
       <title>An Endless Echo</title>
-      <link>http://localhost:1313/art/an-endless-echo/</link>
+      <link>https://joshuagraves.me/art/an-endless-echo/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/art/an-endless-echo/</guid>
+      <guid>https://joshuagraves.me/art/an-endless-echo/</guid>
       <description>Typographic experiment in visualizing echoes.</description>
     </item>
     <item>
       <title>Delete Me</title>
-      <link>http://localhost:1313/art/delete-me/</link>
+      <link>https://joshuagraves.me/art/delete-me/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/art/delete-me/</guid>
+      <guid>https://joshuagraves.me/art/delete-me/</guid>
       <description>Hand-set typography, mixed media collage.</description>
     </item>
     <item>
       <title>Helvetica Blanc Collab</title>
-      <link>http://localhost:1313/art/helvetica-blanc-collab/</link>
+      <link>https://joshuagraves.me/art/helvetica-blanc-collab/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/art/helvetica-blanc-collab/</guid>
+      <guid>https://joshuagraves.me/art/helvetica-blanc-collab/</guid>
       <description>Spooky creatures and moody landscapes.</description>
     </item>
     <item>
       <title>I’m Afraid of Americans</title>
-      <link>http://localhost:1313/art/afraid-of-americans/</link>
+      <link>https://joshuagraves.me/art/afraid-of-americans/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/art/afraid-of-americans/</guid>
+      <guid>https://joshuagraves.me/art/afraid-of-americans/</guid>
       <description>Who isn&amp;rsquo;t?</description>
     </item>
     <item>
       <title>Little Fears</title>
-      <link>http://localhost:1313/art/little-fears-series/</link>
+      <link>https://joshuagraves.me/art/little-fears-series/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/art/little-fears-series/</guid>
+      <guid>https://joshuagraves.me/art/little-fears-series/</guid>
       <description>Series. Exploration of automatic writing and textural experiments.</description>
     </item>
     <item>
       <title>Little Weirdos</title>
-      <link>http://localhost:1313/art/little-weirdos/</link>
+      <link>https://joshuagraves.me/art/little-weirdos/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/art/little-weirdos/</guid>
+      <guid>https://joshuagraves.me/art/little-weirdos/</guid>
       <description>Series. I have no justification for any of this, except that it was weird and fun.</description>
     </item>
     <item>
       <title>Live In The Dark</title>
-      <link>http://localhost:1313/art/live-in-the-dark/</link>
+      <link>https://joshuagraves.me/art/live-in-the-dark/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/art/live-in-the-dark/</guid>
+      <guid>https://joshuagraves.me/art/live-in-the-dark/</guid>
       <description>Disillusionment visualized.</description>
     </item>
     <item>
       <title>Mementos Mori</title>
-      <link>http://localhost:1313/art/memento-mori-series/</link>
+      <link>https://joshuagraves.me/art/memento-mori-series/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/art/memento-mori-series/</guid>
+      <guid>https://joshuagraves.me/art/memento-mori-series/</guid>
       <description>Series.</description>
     </item>
     <item>
       <title>Not Alive</title>
-      <link>http://localhost:1313/art/it-looks-that-way-series/</link>
+      <link>https://joshuagraves.me/art/it-looks-that-way-series/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/art/it-looks-that-way-series/</guid>
+      <guid>https://joshuagraves.me/art/it-looks-that-way-series/</guid>
       <description>An exploration of life.</description>
     </item>
     <item>
       <title>Our Light</title>
-      <link>http://localhost:1313/art/our-light/</link>
+      <link>https://joshuagraves.me/art/our-light/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/art/our-light/</guid>
+      <guid>https://joshuagraves.me/art/our-light/</guid>
       <description>Whose light is it anyway?</description>
     </item>
     <item>
       <title>Processing</title>
-      <link>http://localhost:1313/art/processing.js-series/</link>
+      <link>https://joshuagraves.me/art/processing.js-series/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/art/processing.js-series/</guid>
+      <guid>https://joshuagraves.me/art/processing.js-series/</guid>
       <description>Series. Made with processing.js, among other things.</description>
     </item>
     <item>
       <title>Red Tape</title>
-      <link>http://localhost:1313/art/red-tape-series/</link>
+      <link>https://joshuagraves.me/art/red-tape-series/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/art/red-tape-series/</guid>
+      <guid>https://joshuagraves.me/art/red-tape-series/</guid>
       <description>Series. Experiments with light, scanners, and tape.</description>
     </item>
     <item>
       <title>Softly we rush onward</title>
-      <link>http://localhost:1313/art/softly-we-rush-onward/</link>
+      <link>https://joshuagraves.me/art/softly-we-rush-onward/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/art/softly-we-rush-onward/</guid>
+      <guid>https://joshuagraves.me/art/softly-we-rush-onward/</guid>
       <description>Craft night exploration.</description>
     </item>
     <item>
       <title>Speeding Up</title>
-      <link>http://localhost:1313/art/is-everything-speeding-up/</link>
+      <link>https://joshuagraves.me/art/is-everything-speeding-up/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/art/is-everything-speeding-up/</guid>
+      <guid>https://joshuagraves.me/art/is-everything-speeding-up/</guid>
       <description>Pixel ruined digital collage.</description>
     </item>
     <item>
       <title>The Black Tape</title>
-      <link>http://localhost:1313/art/the-black-tape-series/</link>
+      <link>https://joshuagraves.me/art/the-black-tape-series/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/art/the-black-tape-series/</guid>
+      <guid>https://joshuagraves.me/art/the-black-tape-series/</guid>
       <description>Series. Transparency paper, cutouts, tape, ruined scans.</description>
     </item>
     <item>
       <title>Thoughts and Prayers</title>
-      <link>http://localhost:1313/art/thoughts-and-prayers-dont-stop-bullets/</link>
+      <link>https://joshuagraves.me/art/thoughts-and-prayers-dont-stop-bullets/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/art/thoughts-and-prayers-dont-stop-bullets/</guid>
+      <guid>https://joshuagraves.me/art/thoughts-and-prayers-dont-stop-bullets/</guid>
       <description>Series on gun violence.</description>
     </item>
     <item>
       <title>Videotypes</title>
-      <link>http://localhost:1313/art/video-series/</link>
+      <link>https://joshuagraves.me/art/video-series/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/art/video-series/</guid>
+      <guid>https://joshuagraves.me/art/video-series/</guid>
       <description>Series. Video experiments with found footage.</description>
     </item>
     <item>
       <title>Voids</title>
-      <link>http://localhost:1313/art/voids/</link>
+      <link>https://joshuagraves.me/art/voids/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/art/voids/</guid>
+      <guid>https://joshuagraves.me/art/voids/</guid>
       <description>What is home?</description>
     </item>
     <item>
       <title>When It’s Over</title>
-      <link>http://localhost:1313/art/when-its-over-series/</link>
+      <link>https://joshuagraves.me/art/when-its-over-series/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/art/when-its-over-series/</guid>
+      <guid>https://joshuagraves.me/art/when-its-over-series/</guid>
       <description>Series. Experiment with processing.js, Photoshop, and other pixel ruiners.</description>
     </item>
     <item>
       <title>Where Is Home</title>
-      <link>http://localhost:1313/art/where-is-home/</link>
+      <link>https://joshuagraves.me/art/where-is-home/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/art/where-is-home/</guid>
+      <guid>https://joshuagraves.me/art/where-is-home/</guid>
       <description>After a Bloc Party song of the same name.</description>
     </item>
     <item>
       <title>Cult of Done Poster</title>
-      <link>http://localhost:1313/art/cult-of-done-poster/</link>
+      <link>https://joshuagraves.me/art/cult-of-done-poster/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/art/cult-of-done-poster/</guid>
+      <guid>https://joshuagraves.me/art/cult-of-done-poster/</guid>
       <description>Hand-set wood type poster.</description>
     </item>
   </channel>

@@ -6,7 +6,7 @@ summary: "A catalog of artwork and creative endeavors, my personal journal, and 
 ---
 <article class="markdown book-post feature-block">
 <figure>
-  <img src="joshua.webp">
+  <img src="soul.webp">
 </figure>
 </article>
 
@@ -15,7 +15,7 @@ summary: "A catalog of artwork and creative endeavors, my personal journal, and 
 ## Creations
 
 [Visual Art](/art)
-:	Mixed media collages, glitch art and skulls (not real ones!). Lots of darker themes exploring identity, loneliness, memento moris.
+:	Mixed media collages, glitch art and skulls. Lots of darker themes exploring identity, loneliness, memento moris.
 
 [Tinkering](/tinkering)
 :	I like to take things apart and put them back together again. Sometimes I get lucky and something cooler comes out the other end.

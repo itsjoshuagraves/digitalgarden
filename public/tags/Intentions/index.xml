@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>“Intentions” on Joshua Graves</title>
-    <link>http://localhost:1313/tags/Intentions/</link>
+    <link>https://joshuagraves.me/tags/Intentions/</link>
     <description>Recent content in “Intentions” on Joshua Graves</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>2025, Joshua Graves</copyright>
     <lastBuildDate>Fri, 10 Jan 2025 10:03:24 -0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/Intentions/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://joshuagraves.me/tags/Intentions/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>On Intentions</title>
-      <link>http://localhost:1313/journal/intentions/</link>
+      <link>https://joshuagraves.me/journal/intentions/</link>
       <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/journal/intentions/</guid>
+      <guid>https://joshuagraves.me/journal/intentions/</guid>
       <description>How to create intentions that are authentic. Insights from a meditation retreat focusing on setting meaningful intentions for yourself.</description>
     </item>
   </channel>

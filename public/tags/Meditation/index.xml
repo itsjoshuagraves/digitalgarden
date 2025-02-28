@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Meditation on Joshua Graves</title>
-    <link>http://localhost:1313/tags/Meditation/</link>
+    <link>https://joshuagraves.me/tags/Meditation/</link>
     <description>Recent content in Meditation on Joshua Graves</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>2025, Joshua Graves</copyright>
     <lastBuildDate>Thu, 05 Oct 2023 11:34:53 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/Meditation/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://joshuagraves.me/tags/Meditation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Meditation For The Over-Stimulated</title>
-      <link>http://localhost:1313/journal/meditations/</link>
+      <link>https://joshuagraves.me/journal/meditations/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/journal/meditations/</guid>
+      <guid>https://joshuagraves.me/journal/meditations/</guid>
       <description>A short meditation for when things get overwhelming.</description>
     </item>
   </channel>
