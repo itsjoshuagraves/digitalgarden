@@ -33,19 +33,26 @@ p {
  	font-family: $primary;
  	// line-height: 135% !important;
 }
-
-.book-post p:first-child:first-letter {
+h2 {
+		font-size: 2.5rem;
+	}
+.book-post {
+	h1 {
+		font-size: 2.75rem;
+	}
+	
+	p:first-child:first-letter {
   float: left;
   font-family: $display;
-  font-size: 4.5rem;
-  line-height: 4rem;
+  font-size: 5rem;
+  line-height: 5rem;
   padding-top: .25rem;
-  padding-right: .5rem;
-  padding-left: .25rem;
+  padding-right: 1rem;
+  padding-left: .5rem;
+}
 }
 
-
-code {
+code { 
   font-family: $mono;
   font-weight: 400;
 	font-size: 12px;
@@ -103,8 +110,13 @@ a[target="_blank"]{
 
 
 .post-summary {
-	margin-top: 0 !important;
+	margin-top: .25rem !important;
 }
+
+.summary-large {
+	font-size: 1.25rem;
+}
+
 .site-title {
 	line-height: 1;
 	font-family: $display;
@@ -234,7 +246,7 @@ a[target="_blank"]{
 	border: 1px solid var(--color-link);
 	}
 .page-item a{ 
-	text-decoration: none;
+	text-decoration: underline;
 	&:hover{
 	text-decoration: underline;
 	}

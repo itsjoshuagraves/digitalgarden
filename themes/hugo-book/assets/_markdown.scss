@@ -29,7 +29,8 @@
 
     &:hover a.anchor,
     a.anchor:focus {
-      opacity: initial;
+      // opacity: initial;
+      opacity: 0;
     }
   }
 
@@ -54,10 +55,9 @@
   }
 
   a {
-    text-decoration: none;
 
     &:hover {
-      text-decoration: underline;
+      background: rgba(143, 0, 255,.25);
     }
     &:visited {
       color: var(--color-visited-link);
@@ -91,10 +91,8 @@
   blockquote {
     margin: $padding-16 0;
     padding: $padding-8 $padding-16 $padding-8 ($padding-16 - $padding-4); //to keep total left space 16dp
-
     border-inline-start: $padding-4 solid var(--border-color);
     border-radius: $border-radius;
-
     :first-child {
       margin-top: 0;
     }
