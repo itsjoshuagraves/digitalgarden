@@ -1,0 +1,7 @@
+{{ $file := .Get "file" }}
+{{ $content := readFile $file }}
+
+{{/* Remove front matter */}}
+{{ $cleaned := replaceRE `(?s)^---.*?---\n` "" $content }}
+
+{{ $cleaned | markdownify }}

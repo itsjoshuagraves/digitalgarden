@@ -1,6 +1,6 @@
 ---
 date: 2023-07-29
-title: Self-Reliant Tech
+title: Self-Reliance & Tech
 weight: 10
 tags: ["tech"]
 bookToc: true
@@ -30,21 +30,19 @@ I tried using [wiby.me](https://wiby.me/) to make my own search engine. The retr
 It was fun, and I felt really powerful there for a minute, churning through config files and creating databases and writing code myself. Maybe some other time I'll come back to it.
 
 ## Hosting
-I’ve used Nextcloud to make my own platform-agnostic cloud, which was great. I’d like to host things on a raspberry pi and have it be powered by solar. Maybe I start with a local version on an old Mac mini. 
+I’ve used Nextcloud in the past and have recently revived my interest in it. I want my own platform-agnostic cloud. I’d eventually like to host things on a raspberry pi and have it be powered by solar. Maybe I start with a local version on an old Mac mini. 
+
+I wrote a guide on how to set up your own Google Drive/Dropbox/iCloud replacement: [Tech Independence](/journal/tech-independence).
 
 ## Social
-After things really went south on Twitter (see: when Elon took over), I started hosting my own Mastodon instance: [hooray.computer](https://hooray.computer). It's been a really fun ride, and showing me that small social networking is a much better connector with fewer people screaming into various voids.
+After things really went south on Twitter (see: when some new idiot took over), I started hosting my own Mastodon instance: [hooray.computer](https://hooray.computer). It's been a really fun ride, and showing me that small social networking is a much better connector with fewer people screaming into various voids.
 
-It was a difficult learning curve, but the [Digital Ocean Marketplace](https://www.digitalocean.com/community/tutorials/how-to-install-mastodon-with-digitalocean-marketplace-1-click) is a good place to start if you're looking at trying it out yourself. Remember: the setup's the easy part. Upgrades are a different story.
-
-If [Snapcraft](https://snapcraft.io) offered something like this for Mastodon like they do for [NextCloud](https://snapcraft.io/nextcloud), I'd move over in a minute. You lose a little bit of control over your installation when you use things from Snap, but the tradeoffs have been worth it to me.
+It was a difficult learning curve, and ultimately I ended up destroying it before bringing it back a couple years later. 
 
 ## Personal LLM
-I’d also like a personal LLM that would search my knowledge and notes, provide provocative questions, and fulfill what I see as the role of ultimate personal assistant. 
+I’m in search of a personal LLM that helps me be me. Not one that helps me be incredibly productive or something I’m not. But it would search my personal knowledge and notes, provide provocative questions, and fulfill what I see as the role of ultimate extension of my memory.
 
-I've used [Simon Wilson's LLM](https://simonwillison.net/2023/Mar/11/llama/) to install a few local versions of gpt4-all. It's wildly fun. Mostly, all it's good for is helping me debug code, but that in and of itself is fantastic.
-
-I don't care one iota about using it for creativity, it's all programmatic stuff for me. If I'm able to add more data to the training model (which I'm investigating), it'll be great. I've archived a ton of neat websites over the years (nerds: learn `wget` and you will not regret it). 
+I've used [Simon Wilson's LLM](https://simonwillison.net/2023/Mar/11/llama/) to install a few local versions of gpt4-all and Ollama to install other LLMs. It's fun. Mostly, my benefits have come in the form of helping me debug code, but that in and of itself is fantastic because I’m only going to spend time searching on stack overflow. I do need to make sure I’m not building dependence on it and engaging mindfully with it. And I’m definitely not using it to create art.
 
 ## Repair
 You may have already seen my [iPod restorations](/tinkering/ipods), but I want to continue this trend and be able to maintain my own tech when it breaks. Or crack it open if I wanna do something cool.

@@ -2,12 +2,12 @@
 date: 2023-09-05
 title: Sculpture and LACMA
 bookToc: false
+summary: Started in on a clay sculpture. I was inspired by Foundation’s incredible opening credits, and thought it would be fun to sculpt a half human/half bone…thing. So I got some polymer clay, primer, and set to work.
 image: clay.webp
 aliases:
   - /2023-09-05
 ---
 
-## Art
 Started in on a clay sculpture. I was inspired by Foundation’s incredible opening credits, and thought it would be fun to sculpt a half human/half bone…thing. So I got some polymer clay, primer, and set to work. 
 
 Initially I wanted to have it entirely emblazoned with glitter but it really hid the subtle textures I put on the face. So I got some adhesive I could paint on and then applied the glitter. 

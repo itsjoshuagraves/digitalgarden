@@ -15,12 +15,13 @@
   h5,
   h6 {
     // font-weight: normal;
-    line-height: 1;
+    line-height: 1.1;
     margin: 0 0 $padding-8 0 !important;
     // margin-top: 1.5em;
     // margin-bottom: $padding-16;
 
     a.anchor {
+      display: none;
       opacity: 0;
       font-size: 0.75em;
       vertical-align: middle;
@@ -118,6 +119,14 @@
       border-bottom: $padding-1 solid var(--border-color); 
 
       // border: $padding-1 solid var(--gray-200);
+    }
+
+    th {
+      text-align: left;
+    }
+
+    tr, th, td {
+      
     }
 
     tr:nth-child(2n) {

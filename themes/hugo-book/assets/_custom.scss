@@ -1,5 +1,5 @@
 // $mono: "PT Mono", monospace;
-$mono: "Atlas Grotesk Web", sans-serif;
+$mono: "space_mono", sans-serif;
 $primary: "Roslindale Variable", Georgia, serif;
 $display: "Roslindale Variable Display", Georgia, serif;
 $bold: "Atlas Grotesk Web", sans-serif;
@@ -17,7 +17,7 @@ body {
 h1 {
   font-family: $display;
   font-style: normal;
-  font-weight: 100;
+  font-weight: 400;
 	font-size: 2.5rem;
 	color: var(--body-font-color);
 		@media (min-width: 500px) {
@@ -26,7 +26,7 @@ h1 {
 }
 h2, h3, h4, h5, h6 {
 	font-family: $display;
-	font-weight: 800;
+	font-weight: 400;
 	color: var(--body-font-color);
 }
 p {
@@ -41,28 +41,28 @@ h2 {
 		font-size: 2.75rem;
 	}
 	
-	p:first-child:first-letter {
-  float: left;
-  font-family: $display;
-  font-size: 5rem;
-  line-height: 5rem;
-  padding-top: .25rem;
-  padding-right: 1rem;
-  padding-left: .5rem;
-}
+	// p:first-child:first-letter {
+  // float: left;
+  // font-family: $display;
+  // font-size: 5rem;
+  // line-height: 5rem;
+  // padding: .5rem .66rem;
+  // margin-right: 1rem;
+  // background: var(--color-link);
+	// }
 }
 
 code { 
   font-family: $mono;
-  font-weight: 400;
-	font-size: 12px;
-	letter-spacing: .8px;
+  font-weight: 800;
+	font-size: 1rem;
+
 }
 figcaption {
+	font-family: $mono;
 	text-align: center;
 	padding: .25rem;
-	font-size: $font-size-14;
-	font-style: italic;
+	font-size: .75rem;
 	line-height: 133%;
 }
 blockquote {
@@ -70,10 +70,19 @@ blockquote {
 	border: solid 1px var(--color-link) !important;
   margin-bottom: 24px !important;
   box-shadow: -2px 5px 0 0 var(--color-link);
+  font-size: 1.2rem;
+  line-height: 135%;
+  p {
+  	font-family: $mono;
+  	font-style: italic;
+  }
 }
 
 dt {
-	font-family: $primary;
+	font-family: $mono;
+	font-size: 18px;
+	font-weight: 800;
+	margin-bottom: .2rem;
 
 }
 dd {
@@ -85,12 +94,14 @@ a[target="_blank"]{
 	}
 }
 .book-menu {
-	font-family: $bold;
-	font-size: 12px;
+	font-family: $mono;
+	font-size: .8rem;
 	line-height: 135%;
-			color: var(--gray-700);
-
-
+	color: var(--gray-700);
+	strong {
+		font-size: 14px !important;
+		letter-spacing: .4px;
+	}
 }
 
 .book-menu a:hover{
@@ -107,6 +118,9 @@ a[target="_blank"]{
   font-size: 12px;
 }
 
+li strong {
+	font-family: $mono;
+}
 
 
 .post-summary {
@@ -114,7 +128,10 @@ a[target="_blank"]{
 }
 
 .summary-large {
-	font-size: 1.25rem;
+	
+	@media screen and (min-width: 500px) {
+		font-size: 1.25rem;
+}
 }
 
 .site-title {
@@ -139,21 +156,25 @@ a[target="_blank"]{
 	}
 }
 .book-btn {
-	font-family: $bold;
+	font-family: $mono;
 	font-weight: 800;
 	font-size: 1rem !important;
+	color: var(--reverse-text) !important;
+	text-decoration: none !important;
 	padding: .5rem 1rem !important;
 	margin-bottom: 12px;
-	color: var(--reverse-text) !important;
 	background: var(--color-link);
 		&:hover {
+	text-decoration: none !important;
 			background: var(--body-background);
 			color: var(--color-link) !important;
 
 			}
 	&.filled {
+	text-decoration: none !important;
 		background: var(--color-link);
 		&:hover {
+	text-decoration: none !important;
 			background: var(--body-background);
 			color: var(--color-link) !important;
 		}
@@ -179,11 +200,11 @@ a[target="_blank"]{
 		}
 }
 .main-summary {
-	font-size: 1.25rem;
+	font-size: 1.33rem;
 	line-height: 1.3;
 	margin-top: 0;
 	@media (min-width: 500px) {
-			font-size: 1.5rem;
+			font-size: 1.66rem;
 		}
 		a {
 			text-decoration: none;
@@ -204,6 +225,7 @@ a[target="_blank"]{
 		a {
 		border-top: 1px solid var(--gray-700);
 		padding-top: .33rem;
+		text-decoration: none;
 
 		}
 	ul{
@@ -233,8 +255,9 @@ a[target="_blank"]{
 	padding-bottom: .5rem;
 	font-size: 3.6rem !important;
 }
-.post-title, .art-title, article h2 {
-	// margin-bottom: 8px !important;
+.post-title, .art-title, article h2 a {
+	text-decoration: none;
+	font-size: 2rem;
 }
 .journal-title {
 	margin-bottom: 0;
@@ -246,7 +269,7 @@ a[target="_blank"]{
 	border: 1px solid var(--color-link);
 	}
 .page-item a{ 
-	text-decoration: underline;
+	text-decoration: none;
 	&:hover{
 	text-decoration: underline;
 	}
@@ -278,14 +301,13 @@ a[target="_blank"]{
 		padding-left: 0 !important;
 	}
 }
-.post-date {
+.post-date, .book-menu-content strong {
 	margin: 1rem 0 !important;
 	font-family: $mono;
-	font-size: 12px;
      text-transform: uppercase;
-      font-size: 12px;
-      font-weight: 700;
-      letter-spacing: .6px;
+      font-size: 14px;
+      font-weight: 800;
+      letter-spacing: .4px;
  		a{
 			text-decoration: none;
 			&:hover{
@@ -293,6 +315,7 @@ a[target="_blank"]{
 			}
 		}
 }
+
 .meta {
 	padding-left: 0;
 	font-size: .667rem;
@@ -359,4 +382,27 @@ a[target="_blank"]{
 // 	font-family: $bold;
 // 	color: var(--gray-200);
 // }
+
+h2.summary-large{
+	font-size: 1.85rem;
+}
+
+.book-columns .book-btn {
+	width: 100%;
+	text-align: center;
+}
+
+.book-columns > div {
+	margin: 1rem 0 0 0 !important;
+}
+
+.feature-right a{
+	text-decoration: none;
+}
+
+.book-toc, .hidden.clearfix {
+font-family: $mono;
+// font-weight: 800;
+font-size: 12px;
+}
 

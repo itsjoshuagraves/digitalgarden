@@ -6,7 +6,6 @@ image: weird-cia.png
 aliases:
   - /2023-08-21
 ---
-## Tech
 Lots more fun to be had on the LLM front. 
 
 [Tavily](https://tavily.com/) might be helpful in other research. It's really my ideal use case for such a technology. In a similar vein, [GPT Researcher](https://github.com/assafelovic/gpt-researcher) seems like it might also fit the bill for unbiased (I hope) research.

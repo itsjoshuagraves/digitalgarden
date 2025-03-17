@@ -3,7 +3,6 @@ date: 2025-01-20
 title: New Beginnings
 image: joshua-tree.webp
 bookToc: false
-summary: I spent the last year living in Joshua Tree, CA. It was wonderful. The landscape is incredible, the energy invigorating. It was the perfect place to move. Now I’m splitting my time between there and somewhere else. It's a more nomadic life, but I enjoy it.
 
 ---
 

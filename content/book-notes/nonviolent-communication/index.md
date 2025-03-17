@@ -4,11 +4,10 @@ title: Nonviolent Communication, A Language of Life
 tags: [Communication, Empathy, Conflict Resolution]
 bookToc: true
 type: docs
-summary: Explores the principles of compassionate communication and tools for resolving conflict, fostering empathy, and building authentic relationships. By Dr. Marshall Rosenberg.
+summary: On compassionate communication and tools for resolving conflict, fostering empathy, and building authentic relationships. By Dr. Marshall Rosenberg.
 ---
 
-
-Marshall Rosenberg’s *Nonviolent Communication: A Language of Life* offers transformative tools for improving communication, resolving conflicts, and deepening empathy in relationships. The book emphasizes the following key concepts:
+Key concepts:
 
 - **Shifting Old Patterns**: Replacing defensive or aggressive behaviors with compassionate understanding and clarity.
 - **Observation vs. Evaluation**: Learning to separate facts from judgments to improve mutual understanding

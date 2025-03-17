@@ -6,7 +6,7 @@ summary: "About me, the site, and more."
 ---
 {{< columns >}}
 
-## About Me
+## Joshua Graves
 
 [Bio](/bio)
 : About me, personally and professionally.
@@ -23,7 +23,7 @@ summary: "About me, the site, and more."
 
 <--->
 
-## About the Site
+## The Site
 
 [Digital Gardening](/digital-gardening/)
 : A different way of thinking about personal sites on the web.

@@ -13,7 +13,7 @@
       <link>https://joshuagraves.me/log/2025-01-20/</link>
       <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://joshuagraves.me/log/2025-01-20/</guid>
-      <description>I spent the last year living in Joshua Tree, CA. It was wonderful. The landscape is incredible, the energy invigorating. It was the perfect place to move. Now I’m splitting my time between there and somewhere else. It&amp;rsquo;s a more nomadic life, but I enjoy it.</description>
+      <description>&lt;p&gt;I spent the last year living in Joshua Tree, CA. It was wonderful. The landscape is incredible, the energy invigorating. It was the perfect place to move. Now I’m splitting my time between there and somewhere else. It&amp;rsquo;s a more nomadic life, but I very much enjoy it.&lt;/p&gt;&#xA;&lt;p&gt;&lt;figure&gt;&#xA;    &lt;img src=&#34;./kitty.webp&#34; alt=&#34;Dahlia&#34; /&gt;&#xA;&lt;figcaption&gt;Dahlia&lt;/figcaption&gt;&#xA;  &lt;/figure&gt;&lt;/p&gt;&#xA;&lt;p&gt;I adopted a perfect little tuxedo cat who is so very sweet to me. I had heart eyes when I held her for the first time. It’s been over a year since I’ve had pets in my life, and I’m so happy they’re back.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Feeding your demons</title>
@@ -48,7 +48,7 @@
       <link>https://joshuagraves.me/log/2023-10-04/</link>
       <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://joshuagraves.me/log/2023-10-04/</guid>
-      <description>&lt;p&gt;My favorite time of year is here. Hooray for spooky season! I updated the site with spooky Halloween colors, too.&lt;/p&gt;&#xA;&lt;h2 id=&#34;red-mode-on-iphone&#34;&gt;&#xA;  Red mode on iPhone&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#red-mode-on-iphone&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;div class=&#34;book-columns flex flex-wrap&#34;&gt;&#xA;&#xA;  &lt;div class=&#34;flex-even markdown-inner&#34;&gt;&#xA;    &lt;p&gt;I&amp;rsquo;ve been trying to make reading on my phone as easy as I can, and I remember working in the darkroom a lot in college. It was easy to see in there with a red light and didn&amp;rsquo;t hurt my eyes. I thought I&amp;rsquo;d see if iOS had the ability to do this, given that it lets you go greyscale and filters other colors. It does, turns out. This, plus reducing the white point makes evening browsing less stressful on your eyes.&lt;/p&gt;</description>
+      <description>My favorite time of year is here. Hooray for spooky season! I updated the site with spooky Halloween colors, too.</description>
     </item>
     <item>
       <title>Why I redid my site</title>
@@ -62,28 +62,28 @@
       <link>https://joshuagraves.me/log/2023-09-15/</link>
       <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
       <guid>https://joshuagraves.me/log/2023-09-15/</guid>
-      <description>&lt;p&gt;Did some reorganization to take advantage of Hugo&amp;rsquo;s page bundles, which will make updates a little smoother and keep the site tidy.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;d wanted a workflow where I could easily copy/paste from my writing environment directly into Hugo but that proved a little too tricky to set up.&lt;/p&gt;&#xA;&lt;h2 id=&#34;epubs&#34;&gt;&#xA;  ePubs&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#epubs&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Turns out, you can make ebooks out of markdown sites. So I turned &lt;a href=&#34;https://nevermore.rip&#34;&gt;The Nevermore&lt;/a&gt; into an ePub book! It took a lot of work to get how I wanted, but it&amp;rsquo;s easy enough to do with &lt;a href=&#34;https://pandoc.org/epub.html&#34;&gt;Pandoc&lt;/a&gt;. I ended up moving over to a familiar favorite to finish it up, &lt;a href=&#34;https://calibre-ebook.com&#34;&gt;Calibre&lt;/a&gt;. That let me add styling and everything I wanted. The interface isn&amp;rsquo;t as easy for writing code, but has a certain &amp;ldquo;early 2000s&amp;rdquo; charm to it that I love.&lt;/p&gt;</description>
+      <description>Did some reorganization to take advantage of Hugo&amp;rsquo;s page bundles, which will make updates a little smoother and keep the site tidy.</description>
     </item>
     <item>
       <title>The Nevermore and wget</title>
       <link>https://joshuagraves.me/log/2023-09-12/</link>
       <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
       <guid>https://joshuagraves.me/log/2023-09-12/</guid>
-      <description>&lt;p&gt;We had a friend over for an introvert art night, basically we whittled time away working on art projects individually. I&amp;rsquo;d long been considering which collection of Poe&amp;rsquo;s work I should get, but the editions I&amp;rsquo;ve seen are shiny and have terrible line length and typesetting. Yes, I am that kind of person. What good is a book if it&amp;rsquo;s difficult to read?&lt;/p&gt;&#xA;&lt;p&gt;So, having no desire to do physical art, I turned to the world of static site generators. Much like what you see here, I cooked up another and went about collecting Poe&amp;rsquo;s works.&lt;/p&gt;</description>
+      <description>&lt;p&gt;I had a friend over for an introvert art night, basically we whittled time away working on art projects individually. I&amp;rsquo;d long been considering which collection of Poe&amp;rsquo;s work I should get, but the editions I&amp;rsquo;ve seen are shiny and have terrible line length and typesetting. Yes, I am that kind of person. What good is a book if it&amp;rsquo;s difficult to read?&lt;/p&gt;&#xA;&lt;p&gt;So, having no desire to do physical art, I turned to the world of static site generators. Much like what you see here, I cooked up another and went about collecting Poe&amp;rsquo;s works.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Sculpture and LACMA</title>
       <link>https://joshuagraves.me/log/2023-09-05/</link>
       <pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate>
       <guid>https://joshuagraves.me/log/2023-09-05/</guid>
-      <description>&lt;h2 id=&#34;art&#34;&gt;&#xA;  Art&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#art&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Started in on a clay sculpture. I was inspired by Foundation’s incredible opening credits, and thought it would be fun to sculpt a half human/half bone…thing. So I got some polymer clay, primer, and set to work.&lt;/p&gt;&#xA;&lt;p&gt;Initially I wanted to have it entirely emblazoned with glitter but it really hid the subtle textures I put on the face. So I got some adhesive I could paint on and then applied the glitter.&lt;/p&gt;</description>
+      <description>Started in on a clay sculpture. I was inspired by Foundation’s incredible opening credits, and thought it would be fun to sculpt a half human/half bone…thing. So I got some polymer clay, primer, and set to work.</description>
     </item>
     <item>
       <title>Markdown to Word Doc, Writing, Notes on Complexity</title>
       <link>https://joshuagraves.me/log/2023-09-04/</link>
       <pubDate>Mon, 04 Sep 2023 00:00:00 +0000</pubDate>
       <guid>https://joshuagraves.me/log/2023-09-04/</guid>
-      <description>&lt;h2 id=&#34;writing&#34;&gt;&#xA;  Writing&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#writing&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;I’m considering what to do once We Need To Talk is done. I’ll still promote and coach, but what else? Considering:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Writing a couple more horror stories&lt;/li&gt;&#xA;&lt;li&gt;Working on a sculpture project with resin (and skulls, probably)&lt;/li&gt;&#xA;&lt;li&gt;Relaxing and doing nothing, which I seem incapable of doing&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;While in the course of doing some research, I came to a realization about oneself: if another person demands a change to your life or self in order to gain their acceptance, they have already decided to not accept you. No amount of change will do for them—either your change will not be enough or they will invent more things which need changing.&lt;/p&gt;</description>
+      <description>&lt;p&gt;I’m considering what to do once We Need To Talk is done. I’ll still promote and coach, but what else? Considering:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Writing a couple more horror stories&lt;/li&gt;&#xA;&lt;li&gt;Working on a sculpture project with resin (and skulls, probably)&lt;/li&gt;&#xA;&lt;li&gt;Relaxing and doing nothing, which I seem incapable of doing&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;While in the course of doing some research, I came to a realization about oneself: if another person demands a change to your life or self in order to gain their acceptance, they have already decided to not accept you. No amount of change will do for them—either your change will not be enough or they will invent more things which need changing.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Astrolabes, iMac G4s</title>
@@ -97,14 +97,14 @@
       <link>https://joshuagraves.me/log/2023-08-21/</link>
       <pubDate>Mon, 21 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://joshuagraves.me/log/2023-08-21/</guid>
-      <description>&lt;h2 id=&#34;tech&#34;&gt;&#xA;  Tech&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#tech&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Lots more fun to be had on the LLM front.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://tavily.com/&#34;&gt;Tavily&lt;/a&gt; might be helpful in other research. It&amp;rsquo;s really my ideal use case for such a technology. In a similar vein, &lt;a href=&#34;https://github.com/assafelovic/gpt-researcher&#34;&gt;GPT Researcher&lt;/a&gt; seems like it might also fit the bill for unbiased (I hope) research.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/StanGirard/quivr/&#34;&gt;Quivr&lt;/a&gt; seems interesting, too, as it&amp;rsquo;s promising to be a second brain. If it&amp;rsquo;s more useful than Spotlight, I&amp;rsquo;ll be interested.&lt;/p&gt;&#xA;&lt;h2 id=&#34;writing&#34;&gt;&#xA;  Writing&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#writing&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;More tech edits for &lt;a href=&#34;https://joshuagraves.me/we-need-to-talk&#34;&gt;We Need to Talk&lt;/a&gt;. I&amp;rsquo;m getting closer. I got some in-depth feedback from more skilled mediators. It&amp;rsquo;s good to know I&amp;rsquo;m worth my salt as a mediator, and I&amp;rsquo;ve still got room to grow.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Lots more fun to be had on the LLM front.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://tavily.com/&#34;&gt;Tavily&lt;/a&gt; might be helpful in other research. It&amp;rsquo;s really my ideal use case for such a technology. In a similar vein, &lt;a href=&#34;https://github.com/assafelovic/gpt-researcher&#34;&gt;GPT Researcher&lt;/a&gt; seems like it might also fit the bill for unbiased (I hope) research.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/StanGirard/quivr/&#34;&gt;Quivr&lt;/a&gt; seems interesting, too, as it&amp;rsquo;s promising to be a second brain. If it&amp;rsquo;s more useful than Spotlight, I&amp;rsquo;ll be interested.&lt;/p&gt;&#xA;&lt;h2 id=&#34;writing&#34;&gt;&#xA;  Writing&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#writing&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;More tech edits for &lt;a href=&#34;https://joshuagraves.me/we-need-to-talk&#34;&gt;We Need to Talk&lt;/a&gt;. I&amp;rsquo;m getting closer. I got some in-depth feedback from more skilled mediators. It&amp;rsquo;s good to know I&amp;rsquo;m worth my salt as a mediator, and I&amp;rsquo;ve still got room to grow.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Plato&#39;s Cave, Norma Design</title>
       <link>https://joshuagraves.me/log/2023-08-18/</link>
       <pubDate>Wed, 16 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://joshuagraves.me/log/2023-08-18/</guid>
-      <description>&lt;h2 id=&#34;tech&#34;&gt;&#xA;  Tech&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#tech&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Abandoned the search engine project. It was too difficult to diagnose issues with the experience I had. Also the instructions had a lot of assumed knowledge but that’s not impossible to address.&lt;/p&gt;&#xA;&lt;h2 id=&#34;reading&#34;&gt;&#xA;  Reading&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#reading&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Finished Salem’s Lot, and liked it. Most of the book was chatter about small town goings-on and a slow starter. King’s prose is still wonderful, and I highlighted so many beautiful sentences. The book seemed to have some inconsistencies with how vampires worked in the world (they were padlocked inside their resting places?) but that didn’t stop me from enjoying it.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Abandoned the search engine project. It was too difficult to diagnose issues with the experience I had. Also the instructions had a lot of assumed knowledge but that’s not impossible to address.&lt;/p&gt;&#xA;&lt;p&gt;I finished Salem’s Lot, and liked it. Most of the book was chatter about small town goings-on and a slow starter. King’s prose is still wonderful, and I highlighted so many beautiful sentences. The book seemed to have some inconsistencies with how vampires worked in the world (they were padlocked inside their resting places?) but that didn’t stop me from enjoying it.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tech reviews for my book, horror writing</title>

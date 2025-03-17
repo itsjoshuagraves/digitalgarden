@@ -4,6 +4,7 @@ title: Meditation For The Over-Stimulated
 summary: "A short meditation for when things get overwhelming."
 tags: ["Meditation", "Burnout"]
 bookToc: false
+draft: true
 ---
 Remember we have three selves: the emotional, intellectual, and action self.
 

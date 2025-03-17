@@ -3,7 +3,7 @@ date: 2023-07-30
 title: What It Takes to Heal
 bookToc: true
 type: docs
-summary: On how a mix of somatics and therapeutic practices can help heal from personal and generational trauma. By Prentis Hemphill.
+summary: Somatics and therapeutic practices can help heal from personal and generational trauma. By Prentis Hemphill.
 tags: ["Trauma"]
 ---
 Much of this is about somatics and talk therapy, mixed with Prentis’ activist background.

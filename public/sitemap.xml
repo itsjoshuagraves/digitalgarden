@@ -5,14 +5,17 @@
     <loc>https://joshuagraves.me/journal/tech-independence/</loc>
     <lastmod>2025-02-28T11:07:44-08:00</lastmod>
   </url><url>
-    <loc>https://joshuagraves.me/journal/clippings/</loc>
-    <lastmod>2025-01-12T09:42:42-08:00</lastmod>
-  </url><url>
     <loc>https://joshuagraves.me/journal/self-reliant-tech/</loc>
     <lastmod>2023-09-20T12:22:26-07:00</lastmod>
   </url><url>
+    <loc>https://joshuagraves.me/journal/mindfulness/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://joshuagraves.me/tags/</loc>
-    <lastmod>2025-02-28T11:07:44-08:00</lastmod>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://joshuagraves.me/tags/Wisdom/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://joshuagraves.me/tags/tech/</loc>
     <lastmod>2025-02-28T11:07:44-08:00</lastmod>
@@ -245,9 +248,6 @@
     <loc>https://joshuagraves.me/book-notes/what-it-takes-to-heal/</loc>
     <lastmod>2025-01-12T09:42:42-08:00</lastmod>
   </url><url>
-    <loc>https://joshuagraves.me/tags/Wisdom/</loc>
-    <lastmod>2025-01-12T09:42:42-08:00</lastmod>
-  </url><url>
     <loc>https://joshuagraves.me/tags/Accessibility/</loc>
     <lastmod>2023-09-19T19:21:17-07:00</lastmod>
   </url><url>
@@ -306,19 +306,13 @@
     <lastmod>2024-04-02T12:18:43-07:00</lastmod>
   </url><url>
     <loc>https://joshuagraves.me/tags/Burnout/</loc>
-    <lastmod>2023-10-05T11:34:53-07:00</lastmod>
+    <lastmod>2023-09-20T12:22:26-07:00</lastmod>
   </url><url>
     <loc>https://joshuagraves.me/journal/insight-systems/</loc>
     <lastmod>2023-11-22T12:11:34-08:00</lastmod>
   </url><url>
     <loc>https://joshuagraves.me/journal/low-power-mode/</loc>
     <lastmod>2023-09-20T12:22:26-07:00</lastmod>
-  </url><url>
-    <loc>https://joshuagraves.me/tags/Meditation/</loc>
-    <lastmod>2023-10-05T11:34:53-07:00</lastmod>
-  </url><url>
-    <loc>https://joshuagraves.me/journal/meditations/</loc>
-    <lastmod>2023-10-05T11:34:53-07:00</lastmod>
   </url><url>
     <loc>https://joshuagraves.me/tags/Mind/</loc>
     <lastmod>2023-11-22T12:11:34-08:00</lastmod>
@@ -607,8 +601,7 @@
   </url><url>
     <loc>https://joshuagraves.me/categories/</loc>
   </url><url>
-    <loc>https://joshuagraves.me/cosmata/</loc>
-    <lastmod>2023-09-16T12:31:20-07:00</lastmod>
+    <loc>https://joshuagraves.me/projects/cosmata/</loc>
   </url><url>
     <loc>https://joshuagraves.me/philosophy/</loc>
     <lastmod>2023-10-23T14:59:18-07:00</lastmod>
@@ -622,14 +615,13 @@
     <loc>https://joshuagraves.me/tools/guides/</loc>
     <lastmod>2023-09-18T10:35:35-07:00</lastmod>
   </url><url>
-    <loc>https://joshuagraves.me/interstellar/</loc>
-    <lastmod>2023-09-16T12:31:20-07:00</lastmod>
+    <loc>https://joshuagraves.me/projects/interstellar/</loc>
   </url><url>
     <loc>https://joshuagraves.me/bio/</loc>
     <lastmod>2025-02-28T11:07:44-08:00</lastmod>
   </url><url>
     <loc>https://joshuagraves.me/</loc>
-    <lastmod>2025-02-28T11:07:44-08:00</lastmod>
+    <lastmod>2025-03-04T10:07:14-08:00</lastmod>
   </url><url>
     <loc>https://joshuagraves.me/journal/</loc>
     <lastmod>2025-01-12T09:42:42-08:00</lastmod>
@@ -649,8 +641,7 @@
     <loc>https://joshuagraves.me/meta/</loc>
     <lastmod>2025-02-28T11:07:44-08:00</lastmod>
   </url><url>
-    <loc>https://joshuagraves.me/nice-weather/</loc>
-    <lastmod>2025-01-09T19:05:32-08:00</lastmod>
+    <loc>https://joshuagraves.me/projects/nice-weather/</loc>
   </url><url>
     <loc>https://joshuagraves.me/now/</loc>
     <lastmod>2025-02-28T11:07:44-08:00</lastmod>
@@ -667,14 +658,15 @@
     <loc>https://joshuagraves.me/professional/</loc>
     <lastmod>2025-02-28T11:07:44-08:00</lastmod>
   </url><url>
+    <loc>https://joshuagraves.me/projects/</loc>
+  </url><url>
     <loc>https://joshuagraves.me/tinkering/</loc>
     <lastmod>2023-08-16T12:59:27-07:00</lastmod>
   </url><url>
     <loc>https://joshuagraves.me/tools/</loc>
     <lastmod>2023-09-26T17:47:25-07:00</lastmod>
   </url><url>
-    <loc>https://joshuagraves.me/uptownsans/</loc>
-    <lastmod>2023-09-16T12:31:20-07:00</lastmod>
+    <loc>https://joshuagraves.me/projects/uptownsans/</loc>
   </url><url>
     <loc>https://joshuagraves.me/uses/</loc>
     <lastmod>2025-02-28T11:07:44-08:00</lastmod>
@@ -683,7 +675,7 @@
     <lastmod>2024-09-01T07:38:01-07:00</lastmod>
   </url><url>
     <loc>https://joshuagraves.me/we-need-to-talk/</loc>
-    <lastmod>2025-02-28T11:07:44-08:00</lastmod>
+    <lastmod>2025-03-04T10:07:14-08:00</lastmod>
   </url><url>
     <loc>https://joshuagraves.me/work-with-me/</loc>
     <lastmod>2025-02-28T11:07:44-08:00</lastmod>

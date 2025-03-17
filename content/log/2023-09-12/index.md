@@ -7,7 +7,7 @@ aliases:
   - /2023-09-12
 ---
 
-We had a friend over for an introvert art night, basically we whittled time away working on art projects individually. I'd long been considering which collection of Poe's work I should get, but the editions I've seen are shiny and have terrible line length and typesetting. Yes, I am that kind of person. What good is a book if it's difficult to read?
+I had a friend over for an introvert art night, basically we whittled time away working on art projects individually. I'd long been considering which collection of Poe's work I should get, but the editions I've seen are shiny and have terrible line length and typesetting. Yes, I am that kind of person. What good is a book if it's difficult to read?
 
 So, having no desire to do physical art, I turned to the world of static site generators. Much like what you see here, I cooked up another and went about collecting Poe's works. 
 

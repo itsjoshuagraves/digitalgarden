@@ -1,7 +1,6 @@
 ---
 title: Log
-type: log
+type: docs
 bookToc: false
-bookCollapseSection: true
 summary: Infrequent notes about life and what I’m exploring.
 ---

@@ -5,8 +5,6 @@ bookToc: false
 aliases:
   - /2023-09-04
 ---
-
-## Writing
 I’m considering what to do once We Need To Talk is done. I’ll still promote and coach, but what else? Considering:
 - Writing a couple more horror stories
 - Working on a sculpture project with resin (and skulls, probably)

@@ -1,13 +1,12 @@
 ---
 date: 2025-02-15
-title: Tech Independence
+title: Building Your Own Cloud
 weight: 10
 tags: ["tech"]
 bookToc: true
 summary: "How to set up your own iCloud replacement with a cloud CPU that you own."
 
 ---
-
 
 I’ve always enjoyed the DIY life. And this experiment is around creating my own cloud that I own. I’ve used iCloud for years and years, and I wanted to see if I could have a go at it on my own.
 

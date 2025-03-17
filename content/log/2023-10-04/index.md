@@ -2,12 +2,12 @@
 date: 2023-10-04
 title: Let's get spooky!
 bookToc: false
+summary: My favorite time of year is here. Hooray for spooky season! I updated the site with spooky Halloween colors, too.
 image: spooky.png
 aliases:
   - /2023-10-04
 ---
 
-My favorite time of year is here. Hooray for spooky season! I updated the site with spooky Halloween colors, too.
 
 ## Red mode on iPhone
 {{< columns >}}

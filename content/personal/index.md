@@ -31,9 +31,6 @@ summary: "A catalog of artwork and creative endeavors, my personal journal, and 
 [Read & Watch List](/media)
 :	I watch and read a lot. Here’s some of it.
 
-[Log](/log)
-:	Weekly-ish log.
-
 [Book Notes](/book-notes)
 : A collection of highlights from books I’ve read.
 
