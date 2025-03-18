@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design Systems on Joshua Graves</title>
+    <link>http://localhost:1313/categories/Design-Systems/</link>
+    <description>Recent content in Design Systems on Joshua Graves</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>2025, Joshua Graves</copyright>
+    <lastBuildDate>Tue, 18 Mar 2025 12:36:07 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/Design-Systems/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How To Make An Effective Style Guide With Adobe Fireworks</title>
+      <link>http://localhost:1313/professional/tools/articles/effective-style-guide-fireworks/</link>
+      <pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/professional/tools/articles/effective-style-guide-fireworks/</guid>
+      <description>Style guides and Adobe Fireworks. This article is old, but one of my first ever published.</description>
+    </item>
+    <item>
+      <title>iOS Grid System, A Free Extension For Adobe Fireworks</title>
+      <link>http://localhost:1313/professional/tools/articles/ios-grid-system-fireworks/</link>
+      <pubDate>Sun, 05 May 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/professional/tools/articles/ios-grid-system-fireworks/</guid>
+      <description>One of my first ever published articles, extolling my love for grids.</description>
+    </item>
+  </channel>
+</rss>

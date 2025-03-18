@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resources on Joshua Graves</title>
+    <link>http://localhost:1313/categories/Resources/</link>
+    <description>Recent content in Resources on Joshua Graves</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>2025, Joshua Graves</copyright>
+    <lastBuildDate>Tue, 18 Mar 2025 12:14:04 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/Resources/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Designer&#39;s Bookshelf</title>
+      <link>http://localhost:1313/professional/tools/guides/bookshelf/</link>
+      <pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/professional/tools/guides/bookshelf/</guid>
+      <description>Covers visuals, typography, and deeper topics like writing and communicating.</description>
+    </item>
+  </channel>
+</rss>

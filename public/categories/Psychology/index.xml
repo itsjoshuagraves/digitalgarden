@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Psychology on Joshua Graves</title>
+    <link>http://localhost:1313/categories/Psychology/</link>
+    <description>Recent content in Psychology on Joshua Graves</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>2025, Joshua Graves</copyright>
+    <lastBuildDate>Tue, 18 Mar 2025 12:29:44 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/Psychology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How using Cranky Conclusions makes tough conversations easier</title>
+      <link>http://localhost:1313/professional/tools/articles/cranky-conclusions/</link>
+      <pubDate>Tue, 16 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/professional/tools/articles/cranky-conclusions/</guid>
+      <description>Ever needed to tell a teammate something tough but fear they’ll get too defensive? Here’s one way that’s proven to work.</description>
+    </item>
+    <item>
+      <title>The Prime Directive and the limits of assuming positive intent</title>
+      <link>http://localhost:1313/professional/tools/articles/prime-directive/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/professional/tools/articles/prime-directive/</guid>
+      <description>I tackled the notion of assuming positive intent when it comes to conflict. It isn&amp;rsquo;t as good an idea as you might think.</description>
+    </item>
+    <item>
+      <title>How video games taught me to be better at conflict</title>
+      <link>http://localhost:1313/professional/tools/articles/video-games-conflict/</link>
+      <pubDate>Wed, 26 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/professional/tools/articles/video-games-conflict/</guid>
+      <description>An exploration of pattern-based video games and and the correlation to conflict at work.</description>
+    </item>
+  </channel>
+</rss>

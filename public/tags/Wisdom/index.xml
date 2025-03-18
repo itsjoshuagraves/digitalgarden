@@ -2,26 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wisdom on Joshua Graves</title>
-    <link>https://joshuagraves.me/tags/Wisdom/</link>
+    <link>http://localhost:1313/tags/Wisdom/</link>
     <description>Recent content in Wisdom on Joshua Graves</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>2025, Joshua Graves</copyright>
-    <lastBuildDate>Sat, 01 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://joshuagraves.me/tags/Wisdom/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Mindfulness</title>
-      <link>https://joshuagraves.me/journal/mindfulness/</link>
-      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://joshuagraves.me/journal/mindfulness/</guid>
-      <description>Separating mindfulness from the nonsense masquerading as it.</description>
-    </item>
-    <item>
-      <title>Design &amp; Problem Solving</title>
-      <link>https://joshuagraves.me/journal/design/</link>
-      <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://joshuagraves.me/journal/design/</guid>
-      <description>Collection of insights on how to approach problems.</description>
-    </item>
+    <atom:link href="http://localhost:1313/tags/Wisdom/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

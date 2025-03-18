@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Android on Joshua Graves</title>
-    <link>https://joshuagraves.me/tags/Android/</link>
+    <link>http://localhost:1313/tags/Android/</link>
     <description>Recent content in Android on Joshua Graves</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>2025, Joshua Graves</copyright>
-    <lastBuildDate>Sun, 17 Sep 2023 11:30:08 -0700</lastBuildDate>
-    <atom:link href="https://joshuagraves.me/tags/Android/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 18 Mar 2025 12:29:23 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/Android/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>EVgo</title>
-      <link>https://joshuagraves.me/portfolio/evgo/</link>
+      <link>http://localhost:1313/professional/portfolio/evgo/</link>
       <pubDate>Mon, 02 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://joshuagraves.me/portfolio/evgo/</guid>
+      <guid>http://localhost:1313/professional/portfolio/evgo/</guid>
       <description>Designing a cross-platform mobile app and design system for EV charging.</description>
     </item>
     <item>
       <title>Family Dollar</title>
-      <link>https://joshuagraves.me/portfolio/family-dollar/</link>
+      <link>http://localhost:1313/professional/portfolio/family-dollar/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
-      <guid>https://joshuagraves.me/portfolio/family-dollar/</guid>
+      <guid>http://localhost:1313/professional/portfolio/family-dollar/</guid>
       <description>Designing an iOS and Android app help customers save money.</description>
     </item>
     <item>
       <title>Atrium Health</title>
-      <link>https://joshuagraves.me/portfolio/atrium-health/</link>
+      <link>http://localhost:1313/professional/portfolio/atrium-health/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://joshuagraves.me/portfolio/atrium-health/</guid>
+      <guid>http://localhost:1313/professional/portfolio/atrium-health/</guid>
       <description>Designing an iOS and Android app to help patients receive the best care.</description>
     </item>
   </channel>

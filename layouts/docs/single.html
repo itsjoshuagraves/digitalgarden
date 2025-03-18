@@ -1,10 +1,26 @@
 {{ define "main" }}
 
-{{ if and (ne .Kind "section") (in (slice "art" "docs" "portfolio" "photos" "tinkering" "tools" "about" "book-notes") .Section) }}
+<!-- Determine Back Button Link & Name -->
+{{ $backLink := "/" }} <!-- Default fallback to homepage -->
+{{ $backText := "Home" }}
+
+{{ if .Parent }}
+    {{ $backLink = .Parent.RelPermalink }}
+    {{ $backText = .Parent.Title }}
+{{ else if .Section }}
     {{ with .Site.GetPage "section" .Section }}
-        <h5 class="post-date"><a href="{{ .RelPermalink }}">← Back</a></h5>
+        {{ $backLink = .RelPermalink }}
+        {{ $backText = .Title }}
     {{ end }}
 {{ end }}
+
+<!-- Back Button -->
+<h5 class="post-date">
+    <a href="{{ $backLink }}">← {{ $backText }}</a>
+    {{ with .Params.status }}
+        • <span class="post-status">{{ . }}</span>
+    {{ end }}
+</h5>
 
 <hgroup>
     <h1 class="page-title journal-title">
@@ -14,8 +30,56 @@
 </hgroup>
 
 <article class="markdown book-post">
-  {{ partial "docs/post-meta" . }}
-  {{- .Content -}}
+    {{ partial "docs/post-meta" . }}
+
+    <!-- Metadata Section -->
+    <div class="post-metadata">
+        <div class="categories-tags">
+            {{ with .Params.categories }}
+            <ul>
+                <li>
+                    <strong>Topics:</strong> 
+                    {{ range . }}
+                        <a href="{{ "/categories/" | relURL }}{{ . | urlize }}">{{ . }}</a>{{ if not (eq . (index $.Params.categories (sub (len $.Params.categories) 1))) }}, {{ end }}
+                    {{ end }}
+                </li>
+            </ul>
+            {{ end }}
+        </div>
+
+        <div class="planted-tended">
+            <ul>
+                <li>
+    <strong>Planted:</strong> 
+    {{ .Date | time.Format "2006-01-02" }}
+</li>
+<li>
+    <strong>Last Tended:</strong> 
+    {{ $now := time.Now }}
+    {{ $lastTended := .Lastmod }}
+    {{ $duration := $now.Sub $lastTended }}
+    {{ $days := math.Round (div (div $duration.Seconds 60) 1440) }}
+
+    {{ if lt $days 30 }}
+        {{ $days | int }} days ago
+    {{ else if lt $days 365 }}
+        {{ math.Round (div $days 30) | int }} months ago
+    {{ else }}
+        {{ math.Round (div $days 365) | int }} years ago
+    {{ end }}
+</li>
+            </ul>
+        </div>
+    </div>
+
+    <!-- Table of Contents -->
+{{ if and .TableOfContents (ne (len .TableOfContents) 0) }}
+  <details>
+    <summary><strong>Table of Contents</strong></summary>
+    {{ .TableOfContents }}
+  </details>
+{{ end }}
+    {{- .Content -}}
 </article>
 
 <div class="page-nav">
@@ -31,10 +95,11 @@
             <a href="{{ .PrevInSection.RelPermalink }}" class="prev">⇣ {{ .PrevInSection.Title }}</a>
         </li>
         {{ end }}
-        
     </ul>
 </div>
+
 {{ end }}
+
 {{ define "toc" }}
-{{ partial "docs/toc" . }}
+<!-- TOC is now inside the main body, so we remove the sidebar TOC -->
 {{ end }}

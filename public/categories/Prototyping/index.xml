@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prototyping on Joshua Graves</title>
+    <link>http://localhost:1313/categories/Prototyping/</link>
+    <description>Recent content in Prototyping on Joshua Graves</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>2025, Joshua Graves</copyright>
+    <lastBuildDate>Tue, 18 Mar 2025 12:35:17 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/Prototyping/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What I learned making my first VR app</title>
+      <link>http://localhost:1313/professional/tools/articles/first-vr-app/</link>
+      <pubDate>Tue, 08 May 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/professional/tools/articles/first-vr-app/</guid>
+      <description>I got to learn about designing for VR, and boy are the principles different there.</description>
+    </item>
+    <item>
+      <title>Prototyping iOS And Android Apps With Sketch</title>
+      <link>http://localhost:1313/professional/tools/articles/prototyping-ios-and-android-apps-with-sketch/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/professional/tools/articles/prototyping-ios-and-android-apps-with-sketch/</guid>
+      <description>I designed a lot of mobile apps in the 2010s, here&amp;rsquo;s how I did it with Sketch.</description>
+    </item>
+  </channel>
+</rss>

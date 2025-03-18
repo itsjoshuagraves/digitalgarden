@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Journal on Joshua Graves</title>
+    <link>http://localhost:1313/knowledge/journal/</link>
+    <description>Recent content in Journal on Joshua Graves</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>2025, Joshua Graves</copyright>
+    <atom:link href="http://localhost:1313/knowledge/journal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Self-Reliance &amp; Tech</title>
+      <link>http://localhost:1313/knowledge/journal/self-reliant-tech/</link>
+      <pubDate>Sat, 29 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/knowledge/journal/self-reliant-tech/</guid>
+      <description>On craftsmanship, curiosity, and the love of know-how.</description>
+    </item>
+    <item>
+      <title>Code Snippets</title>
+      <link>http://localhost:1313/knowledge/journal/code/</link>
+      <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/knowledge/journal/code/</guid>
+      <description>Little bits of code that help.</description>
+    </item>
+    <item>
+      <title>Mindfulness</title>
+      <link>http://localhost:1313/knowledge/journal/mindfulness/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/knowledge/journal/mindfulness/</guid>
+      <description>Separating mindfulness from the nonsense masquerading as it.</description>
+    </item>
+    <item>
+      <title>Building Your Own Cloud</title>
+      <link>http://localhost:1313/knowledge/journal/tech-independence/</link>
+      <pubDate>Sat, 15 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/knowledge/journal/tech-independence/</guid>
+      <description>How to set up your own iCloud replacement with a cloud CPU that you own.</description>
+    </item>
+    <item>
+      <title>On Intentions</title>
+      <link>http://localhost:1313/knowledge/journal/intentions/</link>
+      <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/knowledge/journal/intentions/</guid>
+      <description>How to create intentions that are authentic. Insights from a meditation retreat focusing on setting meaningful intentions for yourself.</description>
+    </item>
+    <item>
+      <title>Clippings</title>
+      <link>http://localhost:1313/knowledge/journal/clippings/</link>
+      <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/knowledge/journal/clippings/</guid>
+      <description>Quotes and insights from books and other sources on mind, focus, and ethics.</description>
+    </item>
+    <item>
+      <title>Design &amp; Problem Solving</title>
+      <link>http://localhost:1313/knowledge/journal/design/</link>
+      <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/knowledge/journal/design/</guid>
+      <description>Collection of insights on how to approach problems.</description>
+    </item>
+    <item>
+      <title>Evaluation &amp; Clear Thinking</title>
+      <link>http://localhost:1313/knowledge/journal/evaluation/</link>
+      <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/knowledge/journal/evaluation/</guid>
+      <description>Rubric for making decisions, coming to terms with an idea or choice, or seeing through the muck.</description>
+    </item>
+    <item>
+      <title>Insight Systems</title>
+      <link>http://localhost:1313/knowledge/journal/insight-systems/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/knowledge/journal/insight-systems/</guid>
+      <description>Explorations on how tangential thinking can lead to deep insights. Includes information on astrology, tarot, and more.</description>
+    </item>
+    <item>
+      <title>Low Power Mode for Humans</title>
+      <link>http://localhost:1313/knowledge/journal/low-power-mode/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/knowledge/journal/low-power-mode/</guid>
+      <description>Taking inspiration from how devices recharge themselves.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Notifications on Joshua Graves</title>
+    <link>http://localhost:1313/categories/Notifications/</link>
+    <description>Recent content in Notifications on Joshua Graves</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>2025, Joshua Graves</copyright>
+    <lastBuildDate>Tue, 18 Mar 2025 12:33:47 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/Notifications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Push Notifications, the good, the bad, and the wtf could u not</title>
+      <link>http://localhost:1313/professional/tools/articles/push-notifications/</link>
+      <pubDate>Fri, 21 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/professional/tools/articles/push-notifications/</guid>
+      <description>Why you should give people more control over the notifications they receive from you.</description>
+    </item>
+    <item>
+      <title>My real problem with in-app rating modules</title>
+      <link>http://localhost:1313/professional/tools/articles/problem-with-in-app-ratings/</link>
+      <pubDate>Fri, 12 Apr 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/professional/tools/articles/problem-with-in-app-ratings/</guid>
+      <description>Early work on in-app rating modules and how I made them better. This was before Apple launched their own in-app rating system.</description>
+    </item>
+  </channel>
+</rss>

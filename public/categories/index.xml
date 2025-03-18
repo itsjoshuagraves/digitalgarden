@@ -2,11 +2,257 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Joshua Graves</title>
-    <link>https://joshuagraves.me/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on Joshua Graves</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>2025, Joshua Graves</copyright>
-    <atom:link href="https://joshuagraves.me/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 18 Mar 2025 12:14:04 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tech</title>
+      <link>http://localhost:1313/categories/Tech/</link>
+      <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/Tech/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mindfulness</title>
+      <link>http://localhost:1313/categories/Mindfulness/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/Mindfulness/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Thinking</title>
+      <link>http://localhost:1313/categories/Thinking/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/Thinking/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Self-Hosting</title>
+      <link>http://localhost:1313/categories/Self-Hosting/</link>
+      <pubDate>Sat, 15 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/Self-Hosting/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Books</title>
+      <link>http://localhost:1313/categories/Books/</link>
+      <pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/Books/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Communication</title>
+      <link>http://localhost:1313/categories/Communication/</link>
+      <pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/Communication/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Conflict Resolution</title>
+      <link>http://localhost:1313/categories/Conflict-Resolution/</link>
+      <pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/Conflict-Resolution/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Conflict Resolution&#34;</title>
+      <link>http://localhost:1313/categories/Conflict-Resolution/</link>
+      <pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/Conflict-Resolution/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Consulting</title>
+      <link>http://localhost:1313/categories/Consulting/</link>
+      <pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/Consulting/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Design</title>
+      <link>http://localhost:1313/categories/Design/</link>
+      <pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/Design/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Empathy</title>
+      <link>http://localhost:1313/categories/Empathy/</link>
+      <pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/Empathy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Entrepreneurship</title>
+      <link>http://localhost:1313/categories/Entrepreneurship/</link>
+      <pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/Entrepreneurship/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Speaking</title>
+      <link>http://localhost:1313/categories/Speaking/</link>
+      <pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/Speaking/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Training</title>
+      <link>http://localhost:1313/categories/Training/</link>
+      <pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/Training/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Trauma</title>
+      <link>http://localhost:1313/categories/Trauma/</link>
+      <pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/Trauma/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Workplace</title>
+      <link>http://localhost:1313/categories/Workplace/</link>
+      <pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/Workplace/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fun</title>
+      <link>http://localhost:1313/categories/Fun/</link>
+      <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/Fun/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Life</title>
+      <link>http://localhost:1313/categories/Life/</link>
+      <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/Life/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Overview</title>
+      <link>http://localhost:1313/categories/Overview/</link>
+      <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/Overview/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Business</title>
+      <link>http://localhost:1313/categories/Business/</link>
+      <pubDate>Sat, 02 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/Business/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Events</title>
+      <link>http://localhost:1313/categories/Events/</link>
+      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/Events/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Philosophy</title>
+      <link>http://localhost:1313/categories/Philosophy/</link>
+      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/Philosophy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Resources</title>
+      <link>http://localhost:1313/categories/Resources/</link>
+      <pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/Resources/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Experiments</title>
+      <link>http://localhost:1313/categories/Experiments/</link>
+      <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/Experiments/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/categories/Projects/</link>
+      <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/Projects/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tinkering</title>
+      <link>http://localhost:1313/categories/Tinkering/</link>
+      <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/Tinkering/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Facilitation</title>
+      <link>http://localhost:1313/categories/Facilitation/</link>
+      <pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/Facilitation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hiring</title>
+      <link>http://localhost:1313/categories/Hiring/</link>
+      <pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/Hiring/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Interviews</title>
+      <link>http://localhost:1313/categories/Interviews/</link>
+      <pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/Interviews/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Managing</title>
+      <link>http://localhost:1313/categories/Managing/</link>
+      <pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/Managing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Presenting</title>
+      <link>http://localhost:1313/categories/Presenting/</link>
+      <pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/Presenting/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Template</title>
+      <link>http://localhost:1313/categories/Template/</link>
+      <pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/Template/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Creativity</title>
+      <link>http://localhost:1313/categories/Creativity/</link>
+      <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/Creativity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Accessibility</title>
+      <link>http://localhost:1313/categories/Accessibility/</link>
+      <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/Accessibility/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>User Research</title>
+      <link>http://localhost:1313/categories/User-Research/</link>
+      <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/User-Research/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

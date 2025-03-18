@@ -10,13 +10,29 @@
   {{ partial "docs/post-meta" . }}
   {{- .Content -}}
 </article>
-  {{ range sort (where .Paginator.Pages "Params.unlisted" "ne" true) }}
+
+<!-- List Subsections First -->
+{{ range .Sections }}  <!-- This ensures subfolders (subsections) are listed -->
+  <article class="markdown book-post">
+    <h2 class="art-title">
+      <a href="{{ .RelPermalink }}">
+        {{ .Title }} 
+      </a>
+    </h2>
+    <p class="art-summary">
+      {{- .Summary -}}
+    </p>
+  </article>
+{{ end }}
+
+<!-- Now List Regular Pages -->
+{{ range sort (where .Paginator.Pages "Params.unlisted" "ne" true) }}
   <article class="markdown book-post">
     <h2 class="art-title">
       <a href="{{ .RelPermalink }}">
         {{ partial "docs/post-meta" . }}
         {{ partial "docs/title.html" . }}
-        </a>
+      </a>
     </h2>
     <p class="art-summary">
       {{- .Summary -}}
@@ -24,20 +40,17 @@
         <a href="{{ .RelPermalink }}">...</a>
       {{ end }}
     </p>
-{{ if and (not (in (slice "journal" "art") .Section)) (isset .Params "tags") }}
-  <div class="tags">
-    <ul class="tag-list">
-      {{ range .Params.tags }}
-        <li>{{ . }}</li>
-      {{ end }}
-    </ul>
-  </div>
-{{ end }}
-
+    {{ if and (not (in (slice "journal" "art") .Section)) (isset .Params "tags") }}
+    <div class="tags">
+      <ul class="tag-list">
+        {{ range .Params.tags }}
+          <li>{{ . }}</li>
+        {{ end }}
+      </ul>
+    </div>
+    {{ end }}
   </article>
-  {{ end }}
-
-  {{ template "_internal/pagination.html" . }}
 {{ end }}
 
-
+{{ template "_internal/pagination.html" . }}
+{{ end }}

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tech on Joshua Graves</title>
+    <link>http://localhost:1313/categories/Tech/</link>
+    <description>Recent content in Tech on Joshua Graves</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>2025, Joshua Graves</copyright>
+    <lastBuildDate>Tue, 18 Mar 2025 12:29:11 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/Tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Self-Reliance &amp; Tech</title>
+      <link>http://localhost:1313/knowledge/journal/self-reliant-tech/</link>
+      <pubDate>Sat, 29 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/knowledge/journal/self-reliant-tech/</guid>
+      <description>On craftsmanship, curiosity, and the love of know-how.</description>
+    </item>
+    <item>
+      <title>Code Snippets</title>
+      <link>http://localhost:1313/knowledge/journal/code/</link>
+      <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/knowledge/journal/code/</guid>
+      <description>Little bits of code that help.</description>
+    </item>
+    <item>
+      <title>Building Your Own Cloud</title>
+      <link>http://localhost:1313/knowledge/journal/tech-independence/</link>
+      <pubDate>Sat, 15 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/knowledge/journal/tech-independence/</guid>
+      <description>How to set up your own iCloud replacement with a cloud CPU that you own.</description>
+    </item>
+    <item>
+      <title>Bookmarks</title>
+      <link>http://localhost:1313/about/bookmarks/</link>
+      <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/bookmarks/</guid>
+      <description>A list of sites I like or find useful.</description>
+    </item>
+    <item>
+      <title>Uses</title>
+      <link>http://localhost:1313/about/uses/</link>
+      <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/uses/</guid>
+      <description>Things I use on a daily basis.</description>
+    </item>
+  </channel>
+</rss>

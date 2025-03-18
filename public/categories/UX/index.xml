@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UX on Joshua Graves</title>
+    <link>http://localhost:1313/categories/UX/</link>
+    <description>Recent content in UX on Joshua Graves</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>2025, Joshua Graves</copyright>
+    <lastBuildDate>Tue, 18 Mar 2025 12:36:07 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/UX/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>End of Day Ceremonies</title>
+      <link>http://localhost:1313/professional/tools/articles/end-of-day-ceremonies/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/professional/tools/articles/end-of-day-ceremonies/</guid>
+      <description>How to empty your brain at the end of the day so you&amp;rsquo;re able to be present in your non-work life.</description>
+    </item>
+    <item>
+      <title>Black Mirror Brainstorms</title>
+      <link>http://localhost:1313/professional/tools/articles/black-mirror-brainstorms/</link>
+      <pubDate>Mon, 26 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/professional/tools/articles/black-mirror-brainstorms/</guid>
+      <description>I want to have more ethical products. I feel like we all do. Sometimes, though, we don’t consider how this amazing thing we’re working on might have some unintended and negative consequences.</description>
+    </item>
+    <item>
+      <title>Effective Animation</title>
+      <link>http://localhost:1313/professional/tools/articles/effective-animation/</link>
+      <pubDate>Tue, 09 May 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/professional/tools/articles/effective-animation/</guid>
+      <description>Over the years, animation evolved from a nice-to-have concept to a core feature. Now, the best companies use animation to inform, delight, and reward the people using their products. Let’s talk about how animation helps and how to use it in our work.</description>
+    </item>
+    <item>
+      <title>Push Notifications, the good, the bad, and the wtf could u not</title>
+      <link>http://localhost:1313/professional/tools/articles/push-notifications/</link>
+      <pubDate>Fri, 21 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/professional/tools/articles/push-notifications/</guid>
+      <description>Why you should give people more control over the notifications they receive from you.</description>
+    </item>
+    <item>
+      <title>Giving Your Product A Soul</title>
+      <link>http://localhost:1313/professional/tools/articles/giving-your-product-a-soul/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/professional/tools/articles/giving-your-product-a-soul/</guid>
+      <description>I wrote about why it&amp;rsquo;s important that the products we make have a little personality. Not delight, but soul.</description>
+    </item>
+    <item>
+      <title>Prototyping iOS And Android Apps With Sketch</title>
+      <link>http://localhost:1313/professional/tools/articles/prototyping-ios-and-android-apps-with-sketch/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/professional/tools/articles/prototyping-ios-and-android-apps-with-sketch/</guid>
+      <description>I designed a lot of mobile apps in the 2010s, here&amp;rsquo;s how I did it with Sketch.</description>
+    </item>
+    <item>
+      <title>How To Make An Effective Style Guide With Adobe Fireworks</title>
+      <link>http://localhost:1313/professional/tools/articles/effective-style-guide-fireworks/</link>
+      <pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/professional/tools/articles/effective-style-guide-fireworks/</guid>
+      <description>Style guides and Adobe Fireworks. This article is old, but one of my first ever published.</description>
+    </item>
+    <item>
+      <title>iOS Grid System, A Free Extension For Adobe Fireworks</title>
+      <link>http://localhost:1313/professional/tools/articles/ios-grid-system-fireworks/</link>
+      <pubDate>Sun, 05 May 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/professional/tools/articles/ios-grid-system-fireworks/</guid>
+      <description>One of my first ever published articles, extolling my love for grids.</description>
+    </item>
+  </channel>
+</rss>

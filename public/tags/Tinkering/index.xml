@@ -2,40 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tinkering on Joshua Graves</title>
-    <link>https://joshuagraves.me/tags/Tinkering/</link>
+    <link>http://localhost:1313/tags/Tinkering/</link>
     <description>Recent content in Tinkering on Joshua Graves</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>2025, Joshua Graves</copyright>
-    <lastBuildDate>Sat, 16 Sep 2023 12:31:20 -0700</lastBuildDate>
-    <atom:link href="https://joshuagraves.me/tags/Tinkering/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Sparkling Water Kegerator</title>
-      <link>https://joshuagraves.me/tinkering/sparkling-water/</link>
-      <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://joshuagraves.me/tinkering/sparkling-water/</guid>
-      <description>But what if I could have infinite sparkling mineral water?</description>
-    </item>
+    <lastBuildDate>Tue, 18 Mar 2025 11:52:32 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/Tinkering/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>iPod Restorations</title>
-      <link>https://joshuagraves.me/tinkering/ipods/</link>
+      <link>http://localhost:1313/making/tinkering/ipods/</link>
       <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://joshuagraves.me/tinkering/ipods/</guid>
+      <guid>http://localhost:1313/making/tinkering/ipods/</guid>
       <description>I restore old tech, and have a huge love of iPods.</description>
-    </item>
-    <item>
-      <title>Multicade Arcade Restoration</title>
-      <link>https://joshuagraves.me/tinkering/video-game-cabinet/</link>
-      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://joshuagraves.me/tinkering/video-game-cabinet/</guid>
-      <description>Giving some new life to an old arcade cabinet.</description>
-    </item>
-    <item>
-      <title>Watches &amp; Clocks</title>
-      <link>https://joshuagraves.me/tinkering/watch/</link>
-      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://joshuagraves.me/tinkering/watch/</guid>
-      <description>Attempts at watch and clock restoration. Mostly successful.</description>
     </item>
   </channel>
 </rss>

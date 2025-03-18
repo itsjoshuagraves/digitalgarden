@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Work Habits on Joshua Graves</title>
+    <link>http://localhost:1313/categories/Work-Habits/</link>
+    <description>Recent content in Work Habits on Joshua Graves</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>2025, Joshua Graves</copyright>
+    <lastBuildDate>Tue, 18 Mar 2025 12:28:42 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/Work-Habits/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deep Work, Quarantine Edition</title>
+      <link>http://localhost:1313/professional/tools/articles/deep-work-quarrantine/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/professional/tools/articles/deep-work-quarrantine/</guid>
+      <description>Something I deeply believe is that if you’re able to have focused time to work, you’re going to be able to go further, faster, and deeper than those who don’t.</description>
+    </item>
+  </channel>
+</rss>

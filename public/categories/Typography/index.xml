@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Typography on Joshua Graves</title>
+    <link>http://localhost:1313/categories/Typography/</link>
+    <description>Recent content in Typography on Joshua Graves</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>2025, Joshua Graves</copyright>
+    <lastBuildDate>Tue, 18 Mar 2025 12:29:38 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/Typography/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tips for perfect readability with a little help from The Big Lebowski</title>
+      <link>http://localhost:1313/professional/tools/articles/readability/</link>
+      <pubDate>Mon, 20 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/professional/tools/articles/readability/</guid>
+      <description>Written shortly after the release of my first typeface, Uptown Sans. I ended up giving a talk on this at GIANTConf in Charleston, SC.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Professional Sphere on Joshua Graves</title>
+    <link>http://localhost:1313/professional/</link>
+    <description>Recent content in Professional Sphere on Joshua Graves</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>2025, Joshua Graves</copyright>
+    <atom:link href="http://localhost:1313/professional/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>We Need to Talk</title>
+      <link>http://localhost:1313/professional/we-need-to-talk/</link>
+      <pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/professional/we-need-to-talk/</guid>
+      <description>A survival guide for tough conversations, releasing April 15, 2025.</description>
+    </item>
+    <item>
+      <title>Work With Me</title>
+      <link>http://localhost:1313/professional/work-with-me/</link>
+      <pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/professional/work-with-me/</guid>
+      <description>I&amp;rsquo;ve designed software to help Space Force fire lasers into space and earned over 500,000 5-star reviews on apps I&amp;rsquo;ve designed.</description>
+    </item>
+    <item>
+      <title>Workshops &amp; Speaking</title>
+      <link>http://localhost:1313/professional/workshops/</link>
+      <pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/professional/workshops/</guid>
+      <description>I lead half- and full-day workshops designed to help teams master the secret to building exceptional products: embracing healthy conflict and fostering psychological safety.</description>
+    </item>
+    <item>
+      <title>Lost Horse Labs</title>
+      <link>http://localhost:1313/professional/lost-horse/</link>
+      <pubDate>Sat, 02 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/professional/lost-horse/</guid>
+      <description>I founded a digital design agency focused on human-centered design and sustainability.</description>
+    </item>
+    <item>
+      <title>Appearances and Mentions</title>
+      <link>http://localhost:1313/professional/appearances/</link>
+      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/professional/appearances/</guid>
+      <description>Places I’ve spoken at or were mentioned by.</description>
+    </item>
+    <item>
+      <title>Design Philosophy</title>
+      <link>http://localhost:1313/professional/philosophy/</link>
+      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/professional/philosophy/</guid>
+      <description>What underpins everything I do as a designer and leader.</description>
+    </item>
+    <item>
+      <title>Design Process</title>
+      <link>http://localhost:1313/professional/process/</link>
+      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/professional/process/</guid>
+      <description>How I do what I do.</description>
+    </item>
+  </channel>
+</rss>

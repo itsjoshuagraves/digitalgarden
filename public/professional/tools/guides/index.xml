@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guides on Joshua Graves</title>
+    <link>http://localhost:1313/professional/tools/guides/</link>
+    <description>Recent content in Guides on Joshua Graves</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>2025, Joshua Graves</copyright>
+    <atom:link href="http://localhost:1313/professional/tools/guides/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Designer&#39;s Bookshelf</title>
+      <link>http://localhost:1313/professional/tools/guides/bookshelf/</link>
+      <pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/professional/tools/guides/bookshelf/</guid>
+      <description>Covers visuals, typography, and deeper topics like writing and communicating.</description>
+    </item>
+    <item>
+      <title>Hiring Manager Interview</title>
+      <link>http://localhost:1313/professional/tools/guides/hiring-manager-interview/</link>
+      <pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/professional/tools/guides/hiring-manager-interview/</guid>
+      <description>How to conduct a hiring manager interview with a candidate.</description>
+    </item>
+    <item>
+      <title>Interviewer Guidelines</title>
+      <link>http://localhost:1313/professional/tools/guides/good-interviewing/</link>
+      <pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/professional/tools/guides/good-interviewing/</guid>
+      <description>There&amp;rsquo;s an art to interviewing candidates, mostly focused on listening. Here are some guidelines.</description>
+    </item>
+    <item>
+      <title>Manager&#39;s Guide to Your First One-on-One</title>
+      <link>http://localhost:1313/professional/tools/guides/first-one-on-one/</link>
+      <pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/professional/tools/guides/first-one-on-one/</guid>
+      <description>First time meeting someone you&amp;rsquo;re managing? Here&amp;rsquo;s how to set things up for success.</description>
+    </item>
+    <item>
+      <title>On Site Interview Template</title>
+      <link>http://localhost:1313/professional/tools/guides/onsite-template/</link>
+      <pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/professional/tools/guides/onsite-template/</guid>
+      <description>Calling a candidate in for a final round of interviews? Here&amp;rsquo;s how to set expectations.</description>
+    </item>
+    <item>
+      <title>One-on-One Guide</title>
+      <link>http://localhost:1313/professional/tools/guides/one-on-ones/</link>
+      <pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/professional/tools/guides/one-on-ones/</guid>
+      <description>Template for one-on-one interviews</description>
+    </item>
+    <item>
+      <title>Product Designer Pre-screen</title>
+      <link>http://localhost:1313/professional/tools/guides/pre-screen/</link>
+      <pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/professional/tools/guides/pre-screen/</guid>
+      <description>What to look for before you call a candidate in for an interview.</description>
+    </item>
+    <item>
+      <title>Screener Questions</title>
+      <link>http://localhost:1313/professional/tools/guides/screener-questions/</link>
+      <pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/professional/tools/guides/screener-questions/</guid>
+      <description>Initial recruiting screen geared towards fundamental understanding of design processes and collaboration.</description>
+    </item>
+    <item>
+      <title>Workshop Facilitation Kit</title>
+      <link>http://localhost:1313/professional/tools/guides/workshop-toolkit/</link>
+      <pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/professional/tools/guides/workshop-toolkit/</guid>
+      <description>Here&amp;rsquo;s a shopping list if you&amp;rsquo;re doing in-person workshop facilitation with people.</description>
+    </item>
+    <item>
+      <title>Accessibility Audit Guide</title>
+      <link>http://localhost:1313/professional/tools/guides/audit/</link>
+      <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/professional/tools/guides/audit/</guid>
+      <description>What to look for when auditing a site or app for accessibility issues.</description>
+    </item>
+    <item>
+      <title>Crazy 8s</title>
+      <link>http://localhost:1313/professional/tools/guides/crazy-8s/</link>
+      <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/professional/tools/guides/crazy-8s/</guid>
+      <description>An exercise in idea generation.</description>
+    </item>
+    <item>
+      <title>Design Presentations</title>
+      <link>http://localhost:1313/professional/tools/guides/design-presentations/</link>
+      <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/professional/tools/guides/design-presentations/</guid>
+      <description>On presenting design work and soliciting feedback.</description>
+    </item>
+    <item>
+      <title>Ethnographic Interviews</title>
+      <link>http://localhost:1313/professional/tools/guides/ethnographic-interviews/</link>
+      <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/professional/tools/guides/ethnographic-interviews/</guid>
+      <description>Why interviewing people in their environment is crucial. Includes a guide for conducting them.</description>
+    </item>
+    <item>
+      <title>Journey Map</title>
+      <link>http://localhost:1313/professional/tools/guides/journey-maps/</link>
+      <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/professional/tools/guides/journey-maps/</guid>
+      <description>An exercise to understand the person&amp;rsquo;s journey through a service.</description>
+    </item>
+    <item>
+      <title>Quick Start Guide</title>
+      <link>http://localhost:1313/professional/tools/guides/quick-start/</link>
+      <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/professional/tools/guides/quick-start/</guid>
+      <description>A quick checklist to make sure designers have what they need to get going at the start of a project.</description>
+    </item>
+    <item>
+      <title>User Interviews &amp; Tests</title>
+      <link>http://localhost:1313/professional/tools/guides/user-interviews-and-tests/</link>
+      <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/professional/tools/guides/user-interviews-and-tests/</guid>
+      <description>Why we observe users in their environment, the benefits, and a script for getting started.</description>
+    </item>
+    <item>
+      <title>User Recruiting Script</title>
+      <link>http://localhost:1313/professional/tools/guides/user-recruiting-script/</link>
+      <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/professional/tools/guides/user-recruiting-script/</guid>
+      <description>A script that you can send to people you want to interview for your research.</description>
+    </item>
+    <item>
+      <title>User Research Plan</title>
+      <link>http://localhost:1313/professional/tools/guides/user-research-plan/</link>
+      <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/professional/tools/guides/user-research-plan/</guid>
+      <description>A guide for planning your research that will convince your stakeholders that the time investment is worth it.</description>
+    </item>
+  </channel>
+</rss>

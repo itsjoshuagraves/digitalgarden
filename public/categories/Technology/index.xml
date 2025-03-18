@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technology on Joshua Graves</title>
+    <link>http://localhost:1313/categories/Technology/</link>
+    <description>Recent content in Technology on Joshua Graves</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>2025, Joshua Graves</copyright>
+    <lastBuildDate>Tue, 18 Mar 2025 12:29:43 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/Technology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I turned off my push notifications and I’ve never been happier</title>
+      <link>http://localhost:1313/professional/tools/articles/turned-off-push-notifications/</link>
+      <pubDate>Mon, 15 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/professional/tools/articles/turned-off-push-notifications/</guid>
+      <description>One of many things I tried to reclaim my sanity from push notification hell.</description>
+    </item>
+    <item>
+      <title>CBC Interview on Push Notifications</title>
+      <link>http://localhost:1313/professional/tools/articles/cbc-radio-notifications/</link>
+      <pubDate>Fri, 22 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/professional/tools/articles/cbc-radio-notifications/</guid>
+      <description>I was interviewed by CBC to discuss push notificaitons and the stress they cause.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,534 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="How to set up your own iCloud replacement with a cloud CPU that you own.">
+<meta name="color-scheme" content="light dark">
+<meta name="theme-color" content=""><meta property="og:url" content="http://localhost:1313/knowledge/journal/tech-independence/">
+  <meta property="og:site_name" content="Joshua Graves">
+  <meta property="og:title" content="Building Your Own Cloud">
+  <meta property="og:description" content="How to set up your own iCloud replacement with a cloud CPU that you own.">
+  <meta property="og:locale" content="en">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="knowledge">
+    <meta property="article:published_time" content="2025-02-15T00:00:00+00:00">
+    <meta property="article:modified_time" content="2025-03-18T10:51:35-07:00">
+    <meta property="article:tag" content="Nextcloud">
+    <meta property="article:tag" content="Privacy">
+<title>Building Your Own Cloud | Joshua Graves</title>
+<link rel="manifest" href="/manifest.json">
+<link rel="icon" href="/favicon-favicon.png" type="image/x-icon">
+<link rel="apple-touch-icon" sizes="180x180" href="/favicon-apple.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-favicon.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-tiny.png">
+<link rel="stylesheet" href="/book.min.dd1330333133cd8c568e78e124c4994effc7690ff2c58a3a7b1de217fb3fa446.css" integrity="sha256-3RMwMzEzzYxWjnjhJMSZTv/HaQ/yxYo6ex3iF/s/pEY=" crossorigin="anonymous">
+  <script defer src="/flexsearch.min.js"></script>
+  <script defer src="/en.search.min.b74f1d5bedc147698f940d1c048bee45938d88a5c1f22aa9f765e62f6c242fe6.js" integrity="sha256-t08dW&#43;3BR2mPlA0cBIvuRZONiKXB8iqp92XmL2wkL&#43;Y=" crossorigin="anonymous"></script>
+
+  <script defer src="/sw.min.6f6f90fcb8eb1c49ec389838e6b801d0de19430b8e516902f8d75c3c8bd98739.js" integrity="sha256-b2&#43;Q/LjrHEnsOJg45rgB0N4ZQwuOUWkC&#43;NdcPIvZhzk=" crossorigin="anonymous"></script>
+<!--
+Made with Book Theme
+https://github.com/alex-shpak/hugo-book
+-->
+  
+</head>
+
+<body id="Building Your Own Cloud" dir="ltr">
+  <input type="checkbox" class="hidden toggle" id="menu-control" />
+  <input type="checkbox" class="hidden toggle" id="toc-control" />
+  <main class="container flex">
+    <aside class="book-menu">
+      <div class="book-menu-content">
+        
+  <nav>
+<h2 class="book-brand">
+  <a class="flex align-center" href="/">
+  
+    <span class="site-title">Joshua Graves</span>
+  </a>
+</h2>
+
+
+<div class="book-search">
+  <input type="text" id="book-search-input" placeholder="Search" aria-label="Search" maxlength="64" data-hotkeys="s/" />
+  <div class="book-search-spinner hidden"></div>
+  <ul id="book-search-results"></ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+  <ul>
+<li><a href="/about"><strong>ABOUT</strong></a>
+<ul>
+<li><a href="/about/bio">Bio</a></li>
+<li><a href="/about/now">Now</a></li>
+<li><a href="/about/uses">Uses</a></li>
+<li><a href="/about/digital-gardening">Digital Gardening</a></li>
+<li><a href="/about/bookmarks">Bookmarks</a></li>
+</ul>
+</li>
+<li><a href="/hobbies"><strong>HOBBIES</strong></a>
+<ul>
+<li><a href="/hobbies/beer">Beer</a></li>
+<li><a href="/hobbies/media">Media Diary</a></li>
+</ul>
+</li>
+<li><a href="/knowledge/"><strong>KNOWLEDGE</strong></a>
+<ul>
+<li><a href="/knowledge/book-notes">Book Notes</a></li>
+<li><a href="/knowledge/guides">Guides</a></li>
+<li><a href="/knowledge/ideas">Ideas</a></li>
+<li><a href="/knowledge/journal">Journal</a></li>
+</ul>
+</li>
+<li><a href="/making/"><strong>MAKING</strong></a>
+<ul>
+<li><a href="/making/art/">Art</a></li>
+<li><a href="/making/photos/">Photos</a></li>
+<li><a href="/making/tinkering">Tinkering</a></li>
+</ul>
+</li>
+<li><a href="/professional"><strong>PROFESSIONAL</strong></a>
+<ul>
+<li><a href="/professional/appearances">Appearances</a></li>
+<li><a href="/professional/lost-horse">Lost Horse</a></li>
+<li><a href="/professional/philosophy">Philosophy</a></li>
+<li><a href="/professional/portfolio">Portfolio</a></li>
+<li><a href="/professional/process">Process</a></li>
+<li><a href="/professional/tools">Tools</a></li>
+<li><a href="/professional/we-need-to-talk">We Need to Talk</a></li>
+<li><a href="/professional/work-with-me">Work With Me</a></li>
+<li><a href="/professional/workshops">Workshops</a></li>
+</ul>
+</li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+</nav>
+
+
+
+
+  <script>(function(){var e=document.querySelector("aside .book-menu-content");addEventListener("beforeunload",function(){localStorage.setItem("menu.scrollTop",e.scrollTop)}),e.scrollTop=localStorage.getItem("menu.scrollTop")})()</script>
+
+
+ 
+      </div>
+    </aside>
+
+    <div class="book-page">
+      <header class="book-header">
+        
+  <div class="flex align-center justify-between">
+  <label for="menu-control">
+    <img src="/svg/menu.svg" class="book-icon" alt="Menu" />
+  </label>
+
+  
+
+  <label for="toc-control">
+    
+  </label>
+</div>
+
+
+  
+ 
+      </header>
+
+  
+
+      
+
+      
+      
+
+      
+
+
+ 
+
+
+
+    
+    
+
+
+
+<h5 class="post-date">
+    <a href="/knowledge/journal/">← Journal</a>
+    
+        • <span class="post-status">seedling</span>
+    
+</h5>
+
+<hgroup>
+    <h1 class="page-title journal-title">
+        Building Your Own Cloud
+    </h1>
+    <p class="main-summary">How to set up your own iCloud replacement with a cloud CPU that you own.</p>
+</hgroup>
+
+<article class="markdown book-post">
+    
+  
+  
+
+  
+  
+
+
+
+
+
+    
+    <div class="post-metadata">
+        <div class="categories-tags">
+            
+            <ul>
+                <li>
+                    <strong>Topics:</strong> 
+                    
+                        <a href="/categories/Tech">Tech</a>, 
+                    
+                        <a href="/categories/Self-Hosting">Self-Hosting</a>
+                    
+                </li>
+            </ul>
+            
+        </div>
+
+        <div class="planted-tended">
+            <ul>
+                <li>
+    <strong>Planted:</strong> 
+    2025-02-15
+</li>
+<li>
+    <strong>Last Tended:</strong> 
+    
+    
+    
+    
+
+    
+        0 days ago
+    
+</li>
+            </ul>
+        </div>
+    </div>
+
+    
+
+  <details>
+    <summary><strong>Table of Contents</strong></summary>
+    <nav id="TableOfContents">
+  <ul>
+    <li><a href="#before-you-begin">Before You Begin</a></li>
+    <li><a href="#generate-an-ssh-key-before-deploying-the-server">Generate an SSH Key Before Deploying the Server</a></li>
+    <li><a href="#deploy-a-vultr-server--attach-block-storage">Deploy a Vultr Server &amp; Attach Block Storage</a></li>
+    <li><a href="#create-and-attach-block-storage">Create and Attach Block Storage</a></li>
+    <li><a href="#access-your-server-via-ssh">Access Your Server via SSH</a></li>
+    <li><a href="#configure-nextcloud-to-use-block-storage-for-data">Configure Nextcloud to Use Block Storage for Data</a></li>
+    <li><a href="#configure-trusted-domains">Configure Trusted Domains</a></li>
+    <li><a href="#create-a-new-user-with-full-access">Create a New User with Full Access</a></li>
+    <li><a href="#transfer-files-efficiently">Transfer Files Efficiently</a></li>
+    <li><a href="#rescan-files-in-nextcloud">Rescan Files in Nextcloud</a></li>
+    <li><a href="#troubleshooting-permissions-issues">Troubleshooting Permissions Issues</a></li>
+    <li><a href="#afterword">Afterword</a></li>
+  </ul>
+</nav>
+  </details>
+<p>I’ve always enjoyed the DIY life. And this experiment is around creating my own cloud that I own. I’ve used iCloud for years and years, and I wanted to see if I could have a go at it on my own.</p>
+<p>This is inspired by Derek Sivers’ <a href="https://sive.rs/ti">Tech Independence</a> post. I got my start there, but realized I wasn’t comfortable with OpenBSD in the same way I was Ubuntu, and I wanted to do a few other things, so I modified those directions.</p>
+<h2 id="before-you-begin">
+  Before You Begin
+  <a class="anchor" href="#before-you-begin">#</a>
+</h2>
+<p>A few tips for you:</p>
+<ul>
+<li>It’s worth it to set this up and let it run for a few weeks before totally leaving your old cloud platform. You don’t want to risk data loss.</li>
+<li>You should definitely back up your files.</li>
+<li>If you’re new to working in the command line, the app you use is called Terminal if you’re on macOS.</li>
+<li>Any time you see <code>~</code>, it’s a shortcut to your user folder.
+<ul>
+<li>On Mac/Linux, ~ replaces /Users/YourName/.</li>
+<li>On Ubuntu servers, it’s less relevant because you’re managing Nextcloud as root. But if you switch users (joshuagraves), ~ refers to /home/joshuagraves/.</li>
+</ul>
+</li>
+</ul>
+<h2 id="generate-an-ssh-key-before-deploying-the-server">
+  Generate an SSH Key Before Deploying the Server
+  <a class="anchor" href="#generate-an-ssh-key-before-deploying-the-server">#</a>
+</h2>
+<p>To securely connect to your server without passwords, generate an SSH key before creating your server.</p>
+<p>Generate an SSH key on your machine:</p>
+<pre tabindex="0"><code>ssh-keygen -t ed25519 -C &#34;your-email@example.com&#34;
+</code></pre><ul>
+<li>Save it when prompted (default: <code>~/.ssh/id_ed25519</code>).</li>
+<li>No passphrase is required (optional for added security).</li>
+</ul>
+<p>Add the SSH Key to Vultr Before Deploying the Server:</p>
+<ul>
+<li>Go to Vultr Dashboard → Account → SSH Keys.</li>
+<li>Click Add SSH Key.</li>
+<li>Copy and paste the contents of <code>~/.ssh/id_ed25519.pub</code>.</li>
+</ul>
+<h2 id="deploy-a-vultr-server--attach-block-storage">
+  Deploy a Vultr Server &amp; Attach Block Storage
+  <a class="anchor" href="#deploy-a-vultr-server--attach-block-storage">#</a>
+</h2>
+<p>Now, you&rsquo;ll create a new server.</p>
+<ol>
+<li>Go to Vultr → Deploy a New Instance.</li>
+<li>Choose:
+<ul>
+<li>Ubuntu 22.04 LTS</li>
+<li>One-Click Nextcloud (DO NOT use Snap—Snap limits control over Nextcloud, like thumbnail generation).</li>
+<li>Shared CPU Plan (best price-performance balance).</li>
+<li>Enable backups (Vultr charges extra, but it’s worth it—you will screw up at some point).</li>
+<li>Attach your SSH key (so you can log in without a password).</li>
+</ul>
+</li>
+<li>Once deployed, note:
+<ul>
+<li>Public IP Address</li>
+<li>Initial Nextcloud Admin Username &amp; Password (from Vultr panel)</li>
+<li>Root SSH Access (via SSH key)</li>
+</ul>
+</li>
+</ol>
+<h2 id="create-and-attach-block-storage">
+  Create and Attach Block Storage
+  <a class="anchor" href="#create-and-attach-block-storage">#</a>
+</h2>
+<p>The default storage on Vultr instances is small. If you want to store photos, music, or large files, you need block storage.</p>
+<ol>
+<li>Go to Vultr → Block Storage → Add Volume.</li>
+<li>Choose:
+<ul>
+<li>SSD (not NVMe) (NVMe is more expensive and usually unnecessary).</li>
+<li>Go bigger than you think you need (you CANNOT downsize block storage later).</li>
+<li>Attach it to the Nextcloud server you just created.</li>
+<li>Enable backups for block storage (extra cost but crucial for safety).</li>
+</ul>
+</li>
+</ol>
+<h2 id="access-your-server-via-ssh">
+  Access Your Server via SSH
+  <a class="anchor" href="#access-your-server-via-ssh">#</a>
+</h2>
+<p>Use SSH to access your server securely:</p>
+<pre tabindex="0"><code>ssh root@&lt;SERVER_IP&gt;
+</code></pre><p>This connects you using the SSH key you added earlier.</p>
+<p>To mount block storage, you need to attach the block storage so Nextcloud uses it for data.</p>
+<p>Find your block storage by running:</p>
+<pre tabindex="0"><code>lsblk
+</code></pre><p>Look for your disk (mine was 500GB, so it appeared as):</p>
+<pre tabindex="0"><code>vdb    252:16   0  500G  0 disk
+└─vdb1 252:17   0  500G  0 part
+</code></pre><p>Now, you&rsquo;ll format the block storage, but ONLY if it’s new.</p>
+<blockquote class="book-hint warning">
+  <strong>WARNING: This will wipe all data! Skip if it contains files.</strong>
+</blockquote>
+
+<p>Unless you changed something, <code>vdb1</code> is your volume name. Run:</p>
+<pre tabindex="0"><code>sudo mkfs.ext4 /dev/vdb1
+</code></pre><p>Now you&rsquo;ll mount your block storage:</p>
+<pre tabindex="0"><code>sudo mkdir -p /mnt/blockstorage
+sudo mount /dev/vdb1 /mnt/blockstorage
+</code></pre><p>You&rsquo;ll want to make the system load this when it boots up so you don&rsquo;t have to attach it each time. Run:</p>
+<pre tabindex="0"><code>sudo nano /etc/fstab
+</code></pre><p>In the file, add the following line:</p>
+<pre tabindex="0"><code>UUID=$(blkid -s UUID -o value /dev/vdb1) /mnt/blockstorage ext4 defaults,nofail 0 0
+</code></pre><p>Press <code>CTRL + X</code> to save and apply it. Then run:</p>
+<pre tabindex="0"><code>sudo mount -a
+</code></pre><h2 id="configure-nextcloud-to-use-block-storage-for-data">
+  Configure Nextcloud to Use Block Storage for Data
+  <a class="anchor" href="#configure-nextcloud-to-use-block-storage-for-data">#</a>
+</h2>
+<p>Now we’ll point Nextcloud to use this directory. Run:</p>
+<pre tabindex="0"><code>sudo mv /var/www/html/data /mnt/blockstorage/nextcloud-data
+</code></pre><p>You&rsquo;ll create what&rsquo;s called a symlink (sometimes known as symbolic link or alias) to the new data directory by running:</p>
+<pre tabindex="0"><code>sudo ln -s /mnt/blockstorage/nextcloud-data /var/www/html/data
+</code></pre><p>Now that you&rsquo;ve linked it, you want to add it to Nextcloud&rsquo;s config file. Run:</p>
+<pre tabindex="0"><code>sudo nano /var/www/html/config/config.php
+</code></pre><p>In the file, look for <code>datadirectory</code>. Change it to your storage location:</p>
+<pre tabindex="0"><code>&#39;datadirectory&#39; =&gt; &#39;/mnt/blockstorage/nextcloud-data&#39;,
+</code></pre><p>Now that Nextcloud can see block storage, it needs write access. Run this, which grants it and any new files the proper permission.</p>
+<pre tabindex="0"><code>sudo chown -R www-data:www-data /mnt/blockstorage/nextcloud-data
+sudo chmod -R 750 /mnt/blockstorage/nextcloud-data
+sudo chmod g+s /mnt/blockstorage/nextcloud-data
+</code></pre><p>For good measure, restart Nginx &amp; PHP:</p>
+<pre tabindex="0"><code>sudo systemctl restart nginx
+sudo systemctl restart php8.1-fpm
+</code></pre><h2 id="configure-trusted-domains">
+  Configure Trusted Domains
+  <a class="anchor" href="#configure-trusted-domains">#</a>
+</h2>
+<p>This lets you access your nextcloud from your domain. Run this:</p>
+<pre tabindex="0"><code>sudo nano /var/www/html/config/config.php
+</code></pre><p>Look for &rsquo;trusted_domains&rsquo; and modify it like the below example. It&rsquo;s likely that it has <code>0 =&gt; your-server-ip</code>. So go to the next line and add your domain:</p>
+<pre tabindex="0"><code>&#39;trusted_domains&#39; =&gt; array (
+    0 =&gt; &#39;your-server-ip&#39;,
+    1 =&gt; &#39;your-domain.com&#39;,
+),
+</code></pre><p>Secure your server with Let’s Encrypt SSL. It&rsquo;s free and a good security practice. Run:</p>
+<pre><code>sudo apt update &amp;&amp; sudo apt install certbot python3-certbot-nginx -y
+sudo certbot --nginx -d your-domain.com
+</code></pre>
+<p>Make sure to enable auto-renewal, too! You&rsquo;ll make a cronjob, which has your system run a command every so often. Run:</p>
+<pre><code>sudo crontab -e
+</code></pre>
+<p>Add this line to the bottom:</p>
+<pre><code>0 3 * * * certbot renew --quiet
+</code></pre>
+<h2 id="create-a-new-user-with-full-access">
+  Create a New User with Full Access
+  <a class="anchor" href="#create-a-new-user-with-full-access">#</a>
+</h2>
+<p>For security, create a non-root user. Trust me, do it. It&rsquo;s worth it.</p>
+<pre><code>sudo adduser joshuagraves
+sudo usermod -aG sudo joshuagraves
+sudo chown -R joshuagraves:joshuagraves /mnt/blockstorage
+sudo chmod -R 770 /mnt/blockstorage
+sudo chmod g+s /mnt/blockstorage
+</code></pre>
+<h2 id="transfer-files-efficiently">
+  Transfer Files Efficiently
+  <a class="anchor" href="#transfer-files-efficiently">#</a>
+</h2>
+<p>There are a few ways to get files into Nextcloud. One is by the web interface, which is fine. But sometimes it&rsquo;s clunky and slow. If you can learn <code>rsync</code> and <code>wget</code> you&rsquo;ll be in much better shape, as these run faster than the web interface does.</p>
+<p>To use <code>rsync</code>, do this:</p>
+<pre><code>rsync -ahv --progress -e &quot;ssh&quot; ~/Path/To/File joshuagraves@&lt;SERVER_IP&gt;:/mnt/blockstorage/nextcloud-data/YourUserID/files/Documents
+</code></pre>
+<p>The first path is where your file is locally. The second is a command to log in via SSH for the non-root user we created and place it in a specified directory.</p>
+<p>You can also use <code>wget</code> if there are files already accessible online. This doesn&rsquo;t work with iCloud, or any other cloud drive that I&rsquo;ve found. But if you have files on another server you own, this is the ticket:</p>
+<pre><code>cd /mnt/blockstorage/nextcloud-data/YourUserID/files/
+wget &lt;file-url&gt;
+</code></pre>
+<h2 id="rescan-files-in-nextcloud">
+  Rescan Files in Nextcloud
+  <a class="anchor" href="#rescan-files-in-nextcloud">#</a>
+</h2>
+<p>It&rsquo;s likely that you&rsquo;ve uploaded a ton of files. It might&rsquo;ve taken a while. For good measure, tell Nextcloud to detect new files:</p>
+<pre><code>sudo -u www-data php /var/www/html/occ files:scan --all
+</code></pre>
+<p>This can take a while. Mine went 10 minutes.</p>
+<h2 id="troubleshooting-permissions-issues">
+  Troubleshooting Permissions Issues
+  <a class="anchor" href="#troubleshooting-permissions-issues">#</a>
+</h2>
+<p>During setup, I had to update permissions multiple times. If you encounter errors like:</p>
+<ul>
+<li>“Your data directory is invalid.”</li>
+<li>“Target directory doesn’t exist.”</li>
+<li>“Permission denied when uploading files.”</li>
+</ul>
+<p>It means Nextcloud can’t write to these directories or something got wonky. Try running these commands:</p>
+<p>To ensure the correct owner and group:</p>
+<pre tabindex="0"><code>sudo chown -R www-data:www-data /mnt/blockstorage/nextcloud-data
+</code></pre><p>To ensure the correct permissions:</p>
+<pre tabindex="0"><code>	sudo chmod -R 750 /mnt/blockstorage/nextcloud-data
+	sudo chmod g+s /mnt/blockstorage/nextcloud-data
+</code></pre><p>To restart services:</p>
+<pre tabindex="0"><code>sudo systemctl restart nginx
+sudo systemctl restart php8.1-fpm
+</code></pre><p>If you are moving large files manually via rsync or wget, rescan Nextcloud’s file system after fixing permissions:</p>
+<pre><code>sudo -u www-data php /var/www/html/occ files:scan --all
+</code></pre>
+<p>This should resolve most issues with files not appearing, permission errors, or Nextcloud not recognizing new uploads.</p>
+<h2 id="afterword">
+  Afterword
+  <a class="anchor" href="#afterword">#</a>
+</h2>
+<p>Nextcloud is a great self-hosted alternative to iCloud, Google Drive, or Dropbox. There&rsquo;s a healthy ecosystem of free open source apps, like calendar, contacts, and mail to expand its functionality. It&rsquo;s also got a task tracker.</p>
+<p>You’ll want to make sure to read up on how to do maintenance, but for now, go into Nextcloud’s Administration Settings and set your updates to auto.</p>
+<p>Have fun!</p>
+</article>
+
+<div class="page-nav">
+    <h5 class="post-date">More</h5>
+    <ul class="pagination">
+        
+        <li class="page-item">
+            <a href="/knowledge/journal/mindfulness/" class="next">⇡ Mindfulness </a>
+        </li>
+        
+        
+        <li class="page-item">
+            <a href="/knowledge/journal/intentions/" class="prev">⇣ On Intentions</a>
+        </li>
+        
+    </ul>
+</div>
+
+ 
+      
+
+      <footer class="book-footer">
+        
+  <ul class="meta">
+
+
+<ul class="meta">
+
+
+</ul>
+
+
+
+  <script>(function(){function e(e){const t=window.getSelection(),n=document.createRange();n.selectNodeContents(e),t.removeAllRanges(),t.addRange(n)}document.querySelectorAll("pre code").forEach(t=>{t.addEventListener("click",function(){if(window.getSelection().toString())return;e(t.parentElement),navigator.clipboard&&navigator.clipboard.writeText(t.parentElement.textContent)})})})()</script>
+
+
+
+ 
+        
+      </footer>
+
+
+      <label for="menu-control" class="hidden book-menu-overlay"></label>
+    </div>
+
+    
+  </main>
+
+  <script>
+if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+    document.querySelector('meta[name="theme-color"]').setAttribute("content", "#000000");  
+} else {
+    document.querySelector('meta[name="theme-color"]').setAttribute("content", "#FFFCFA");  
+}
+
+</script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+

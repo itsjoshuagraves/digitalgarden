@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Joshua Graves</title>
+    <link>http://localhost:1313/about/</link>
+    <description>Recent content in About on Joshua Graves</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>2025, Joshua Graves</copyright>
+    <atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bookmarks</title>
+      <link>http://localhost:1313/about/bookmarks/</link>
+      <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/bookmarks/</guid>
+      <description>A list of sites I like or find useful.</description>
+    </item>
+    <item>
+      <title>Digital Gardening</title>
+      <link>http://localhost:1313/about/digital-gardening/</link>
+      <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/digital-gardening/</guid>
+      <description>What is a digital garden and why build one?</description>
+    </item>
+    <item>
+      <title>Joshua Graves</title>
+      <link>http://localhost:1313/about/bio/</link>
+      <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/bio/</guid>
+      <description>About me, personally and professionally.</description>
+    </item>
+    <item>
+      <title>Meta</title>
+      <link>http://localhost:1313/about/meta/</link>
+      <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/meta/</guid>
+      <description>Credits and other information about the site.</description>
+    </item>
+    <item>
+      <title>Now</title>
+      <link>http://localhost:1313/about/now/</link>
+      <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/now/</guid>
+      <description>A brief update on what I&amp;rsquo;m focusing on these days.</description>
+    </item>
+    <item>
+      <title>Uses</title>
+      <link>http://localhost:1313/about/uses/</link>
+      <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/uses/</guid>
+      <description>Things I use on a daily basis.</description>
+    </item>
+  </channel>
+</rss>

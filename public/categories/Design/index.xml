@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design on Joshua Graves</title>
+    <link>http://localhost:1313/categories/Design/</link>
+    <description>Recent content in Design on Joshua Graves</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>2025, Joshua Graves</copyright>
+    <lastBuildDate>Tue, 18 Mar 2025 12:29:32 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/Design/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Designing Your Life</title>
+      <link>http://localhost:1313/knowledge/book-notes/designing-your-life/</link>
+      <pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/knowledge/book-notes/designing-your-life/</guid>
+      <description>Using Design Thinking to create a more meaningful life. By Bill Burnett and Dave Evans.</description>
+    </item>
+    <item>
+      <title>The Four Agreements</title>
+      <link>http://localhost:1313/knowledge/book-notes/four-agreements/</link>
+      <pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/knowledge/book-notes/four-agreements/</guid>
+      <description>Four principles for living an authentic life. By Don Miguel Ruiz.</description>
+    </item>
+    <item>
+      <title>Design Philosophy</title>
+      <link>http://localhost:1313/professional/philosophy/</link>
+      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/professional/philosophy/</guid>
+      <description>What underpins everything I do as a designer and leader.</description>
+    </item>
+    <item>
+      <title>Design Process</title>
+      <link>http://localhost:1313/professional/process/</link>
+      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/professional/process/</guid>
+      <description>How I do what I do.</description>
+    </item>
+    <item>
+      <title>Clippings</title>
+      <link>http://localhost:1313/knowledge/journal/clippings/</link>
+      <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/knowledge/journal/clippings/</guid>
+      <description>Quotes and insights from books and other sources on mind, focus, and ethics.</description>
+    </item>
+    <item>
+      <title>Design &amp; Problem Solving</title>
+      <link>http://localhost:1313/knowledge/journal/design/</link>
+      <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/knowledge/journal/design/</guid>
+      <description>Collection of insights on how to approach problems.</description>
+    </item>
+    <item>
+      <title>Evaluation &amp; Clear Thinking</title>
+      <link>http://localhost:1313/knowledge/journal/evaluation/</link>
+      <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/knowledge/journal/evaluation/</guid>
+      <description>Rubric for making decisions, coming to terms with an idea or choice, or seeing through the muck.</description>
+    </item>
+    <item>
+      <title>A Product Designer’s Portfolio</title>
+      <link>http://localhost:1313/professional/tools/articles/portfolio/</link>
+      <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/professional/tools/articles/portfolio/</guid>
+      <description>When I ran design at a consultancy, here&amp;rsquo;s what I looked for in a designer&amp;rsquo;s portfolio.</description>
+    </item>
+    <item>
+      <title>In which a nerd changes almost every part of his life to be better designer</title>
+      <link>http://localhost:1313/professional/tools/articles/better-designer/</link>
+      <pubDate>Fri, 16 May 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/professional/tools/articles/better-designer/</guid>
+      <description>Early writing on becoming a better designer.</description>
+    </item>
+  </channel>
+</rss>

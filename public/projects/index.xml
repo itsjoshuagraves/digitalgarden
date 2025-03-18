@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Joshua Graves</title>
-    <link>https://joshuagraves.me/projects/</link>
+    <link>http://localhost:1313/projects/</link>
     <description>Recent content in Projects on Joshua Graves</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>2025, Joshua Graves</copyright>
-    <atom:link href="https://joshuagraves.me/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cosmata</title>
-      <link>https://joshuagraves.me/projects/cosmata/</link>
+      <link>http://localhost:1313/projects/cosmata/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://joshuagraves.me/projects/cosmata/</guid>
+      <guid>http://localhost:1313/projects/cosmata/</guid>
       <description>Cosmata is geometric sans serif family of 10 fonts suitable for both display and reading use.</description>
     </item>
     <item>
       <title>Interstellar Spray Paint Textures</title>
-      <link>https://joshuagraves.me/projects/interstellar/</link>
+      <link>http://localhost:1313/projects/interstellar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://joshuagraves.me/projects/interstellar/</guid>
+      <guid>http://localhost:1313/projects/interstellar/</guid>
       <description>10 hand-made spray paint textures.</description>
     </item>
     <item>
       <title>Nice Weather</title>
-      <link>https://joshuagraves.me/projects/nice-weather/</link>
+      <link>http://localhost:1313/projects/nice-weather/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://joshuagraves.me/projects/nice-weather/</guid>
+      <guid>http://localhost:1313/projects/nice-weather/</guid>
       <description>My coaching company that focused on developing human-centered leaders.</description>
     </item>
     <item>
       <title>Uptown Sans</title>
-      <link>https://joshuagraves.me/projects/uptownsans/</link>
+      <link>http://localhost:1313/projects/uptownsans/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://joshuagraves.me/projects/uptownsans/</guid>
+      <guid>http://localhost:1313/projects/uptownsans/</guid>
       <description>What if Jim Flora (a record cover designer from the 50s), Saul Bass, and Eric Carle got together for tacos and made a typeface? That’s the vibe of Uptown Sans.</description>
     </item>
   </channel>

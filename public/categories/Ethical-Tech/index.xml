@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ethical Tech on Joshua Graves</title>
+    <link>http://localhost:1313/categories/Ethical-Tech/</link>
+    <description>Recent content in Ethical Tech on Joshua Graves</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>2025, Joshua Graves</copyright>
+    <lastBuildDate>Tue, 18 Mar 2025 12:28:47 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/Ethical-Tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>We Need a Code of Ethics.</title>
+      <link>http://localhost:1313/professional/tools/articles/code-of-ethics/</link>
+      <pubDate>Tue, 23 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/professional/tools/articles/code-of-ethics/</guid>
+      <description>Tech has got to get a code of ethics, ffs.</description>
+    </item>
+    <item>
+      <title>Black Mirror Brainstorms</title>
+      <link>http://localhost:1313/professional/tools/articles/black-mirror-brainstorms/</link>
+      <pubDate>Mon, 26 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/professional/tools/articles/black-mirror-brainstorms/</guid>
+      <description>I want to have more ethical products. I feel like we all do. Sometimes, though, we don’t consider how this amazing thing we’re working on might have some unintended and negative consequences.</description>
+    </item>
+  </channel>
+</rss>

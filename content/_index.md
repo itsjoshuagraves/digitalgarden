@@ -40,7 +40,7 @@ images:
 
 ---
 ## What I'm Working On
-Here are a few of my most recent efforts. For more a more detailed look at what I’m doing during these days, visit my [Now](/now) page.
+Here are a few of my most recent efforts. For more a more detailed look at what I’m doing during these days, visit my [Now](/about/now) page.
 {{< columns >}}
 
 

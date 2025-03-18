@@ -406,3 +406,61 @@ font-family: $mono;
 font-size: 12px;
 }
 
+
+/* Make post-metadata a horizontal flex container */
+.post-metadata {
+    display: flex;
+    justify-content: space-between;
+    align-items: top;
+    flex-wrap: wrap;
+    gap: 2rem;
+    margin-bottom: 1.5rem;
+    background: var(--gray-100);
+    padding: .5rem 1rem;
+    font-family: $mono;
+}
+
+/* Make each section flex within the row */
+.categories-tags, .planted-tended {
+    display: flex;
+    align-items: flex-start;
+    gap: 1.5rem;
+    flex-wrap: wrap;
+    ul {
+    	list-style-type: none;
+    	padding-left: 0;
+    	margin: 0;
+    }
+}
+
+.planted-tended {
+	text-align: right;
+}
+
+/* Responsive Behavior: Stack on Small Screens */
+@media (max-width: 768px) {
+    .post-metadata {
+        flex-direction: column;
+        gap: 1rem;
+    }
+
+    .categories-tags, .planted-tended {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 0.5rem;
+        text-align: left;
+    }
+}
+
+details {
+	font-family: $mono;
+	text-transform: uppercase;
+	margin-bottom: 2rem;
+	ul {
+		list-style-type: none;
+		padding-inline-start: 1rem !important;
+	}
+	a {
+		text-decoration: none;
+	}
+}
